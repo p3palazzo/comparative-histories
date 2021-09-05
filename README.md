@@ -1,6 +1,6 @@
 # Comparative histories of architecture #
 
-## History, architecture, or neither? ##
+## History, architecture, or criticism? ##
 
  comparative-histories (c) 2021 by Pedro P. Palazzo
  
