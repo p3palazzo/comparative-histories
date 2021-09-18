@@ -5,34 +5,37 @@ date: 2021-09-17
 tags:
 ---
 
-The genre of comparative history of architecture flourished from the mid
-nineteenth to the mid twentieth centuries in Europe and the Americas.
-This genre consisted of broad sketches in the 'development of styles',
-understood as consequences of geographic and social conditions. It
-stemmed from the Idealist philosophy of history as a meaningful social
-process developing in a definite direction through time. Canonical works
-such as James Fergusson's, Auguste Choisy's, and above all Banister
-Fletcher's purported to show European architecture alone had the
-superior ability to perform meaningful 'historical change' out of the
-passage of time.
+Comparative histories of architecture arose in the second half of the
+nineteenth century from the Idealist philosophy of history. Canonical
+textbooks claimed European architecture alone had the superior ability
+to perform meaningful 'historical change' out of the passage of time. At
+the same time, comparative history was embedded into the theory and
+practice of architecture, blending seamlessly with professional
+education. The critical historians' refutation of Idealism since the
+twentieth century disputed both the evolutionism and the disciplinary
+bounds of comparative history.
 
-The critical historians' refutation of Idealism since the latter half of
-the twentieth century chipped away at the colonialist assumption of a
-deterministic flow of history, the epitome of which was European
-civilization. Nevertheless, critical writers such as Lefebvre and Tafuri
-remained committed to the philosophical idea that the passage of time
-was the single, transcendental source of meaning in historical
-criticism.
+A major achievement of critical theorists was to dispel the belief in a
+universal standard for assessing different cultures. At the same time,
+architectural history must integrate the irreducible diversity of
+cultures into 'global' surveys. This paradox shows in the shortcomings
+of a couple of otherwise brilliant recent textbooks. One of them evades
+the Idealist narrative by juxtaposing examples in simple chronological
+order; in so doing, however, it reinforces the Western idea that only
+linear time underpins historical meaning---an idea utterly foreign to
+many cultures it portrays, and quite confusing in practice. Another one
+showcases different cultures walled off from one another in discrete
+chapters; it feels like the written form of a colonial ethnographic
+museum.
 
-This idea opens up a blind spot in critical history in two ways. First,
-the historical status of certain forms of criticism, such as vernacular
-studies and building archaeology, is seldom acknowledged or these fields
-
-A post-colonial awareness of this problematic stance has caused a number
-of newer textbooks to present their material as a collection of case
-studies isolated from one another. The abstract intent of a 'global'
-architectural history is therefore held in check by its very
-foundational assumption: that different cultures can only be assessed on
-each one's own terms and therefore cannot be reduced to the transcendent
-meaning Western historiography ascribes to the linear passage of time.
+Given the persistence of these same old Idealist pitfalls, architectural
+history stands to gain from reassessing and questioning more explicitly
+the methods of comparative history and their emphasis on disciplinary
+subject matter---buildings. Which strongly disciplinary approaches, such
+as vernacular studies or building archaeology, have also been sidelined
+by 'non-disciplinary' criticism among historians? Can a survey be
+organized around some other criterion than chronological order or
+culture-epochs, yet remain intelligible and honest to its subject? For
+better or for worse, these questions show how much of the legacy of
+comparative history still bears upon the paradoxes of critical history.
 
