@@ -1,0 +1,33 @@
+from            : markdown+raw_tex
+to              : latex
+cite-method     : citeproc
+fail-if-warnings: false
+filters:
+- citeproc
+metadata:
+  bibliography  : "_bibliography/cv.bib"
+  csl           : "_chicago-cv.csl"
+  suppress-bibliography: true
+pdf-engine      : xelatex
+standalone      : true
+template        : "_lib/default.latex"
+variables:
+  documentclass : scrartcl
+  fontsize      : 11pt
+  fontfamily    : ebgaramond
+  fontfamilyoptions:
+    - osf
+    - p
+  header-includes:
+    - \usepackage{academicons}
+    - \usepackage{multicol}
+    - \setlength{\columnsep}{15pt}
+    - \usepackage[overload]{textcase}
+  include-before:
+    - \let\oldsc\textsc
+    - \renewcommand{\textsc}[1]{\oldsc{\MakeLowercase{#1}}}
+    - \setkomafont{descriptionlabel}{\rmfamily\normalfont}
+    - \RedeclareSectionCommand[font={\rmfamily\normalfont\itshape\Large}]{section}
+    - \RedeclareSectionCommand[font={\rmfamily\normalfont\MakeUppercase}]{subsection}
+    - \RedeclareSectionCommand[font={\rmfamily\normalfont\large\scshape\MakeLowercase}]{paragraph}
+  papersize: a4
