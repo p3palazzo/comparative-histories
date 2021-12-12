@@ -38,14 +38,16 @@ European supremacy, their approaches to 'collecting' buildings and
 societies uphold the colonial *structure* of the universal ethnographic
 museum, curious but exotic to its target audience---the post-Postmodern,
 Western student. I contend it is these books' very partaking in the
-un-disciplinary understanding of 'critical history' that has made them
-fall into this renewed Idealist pitfall. I then confront this assumption
-with the unapologetically disciplinary approach of 'comparative history'
-to inquire whether an alternative view
-
-Which other disciplinary approaches, such
+non-disciplinary understanding of 'critical history' that has made them
+fall into this Idealist pitfall. By confronting their perspectives with
+the unapologetically disciplinary approach of comparative histories, we
+can begin to unpack the ways in which different forms of writing have
+been legitimized in different contexts as 'proper' history or as
+'properly architectural' history. This brings other, more practical
+questions to the surface as well. For example, which
+other disciplinary approaches, such
 as vernacular studies or building archaeology, have also been sidelined
-by 'non-disciplinary' criticism among historians? Can a survey be
+by non-disciplinary criticism among historians? Can a survey be
 organized around some other criterion than chronological order or
 culture-epochs, yet remain intelligible and honest to its subject? For
 better or for worse, these questions show how much of the legacy of
