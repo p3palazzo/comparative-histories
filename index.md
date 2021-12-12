@@ -8,31 +8,42 @@ bibliography: _bibliography.yaml
 
 Comparative histories of architecture arose in the second half of the
 nineteenth century from the Idealist philosophy of history. Canonical
-textbooks claimed European architecture alone had the superior ability
-to perform meaningful 'historical change' out of the passage of time. At
-the same time, comparative history was embedded into the theory and
-practice of architecture, blending seamlessly with professional
-education. The critical historians' refutation of Idealism since the
-twentieth century disputed both the evolutionism and the disciplinary
-bounds of comparative history.
+textbooks such as Fergusson's early *Illustrated Handbook of
+Architecture*, Choisy's *Histoire de l'architecture*, and Fletchers'
+*History of Architecture on the Comparative Method* implied or, in the
+latter case, explicitly claimed European architecture alone had the
+superior ability to perform meaningful 'historical change' out of the
+passage of time. At the same time, comparative history was embedded into
+the theory and practice of architecture, blending seamlessly with
+professional education. The critical historians' refutation of Idealism
+since the twentieth century disputed both the evolutionism and the
+disciplinary bounds of comparative history.
 
 A major achievement of critical theorists was to dispel the belief in a
 universal standard for assessing different cultures. At the same time,
 architectural history must integrate the irreducible diversity of
-cultures into 'global' surveys. This paradox shows in the shortcomings
-of a couple of otherwise brilliant recent textbooks. One of them evades
-the Idealist narrative by juxtaposing examples in simple chronological
-order; in so doing, however, it reinforces the Western idea that only
-linear time underpins historical meaning---an idea utterly foreign to
-many cultures it portrays, and quite confusing in practice. Another one
-showcases different cultures walled off from one another in discrete
-chapters; it feels like the written form of a colonial ethnographic
-museum.
+cultures into 'global' surveys. This paradox shows in the narrative
+choices of a couple of recent, paradigm-shifting textbooks. One of them,
+*A Global History of Architecture* by Francis D. K. Ching, Mark
+Jarzombek, and Vikramāditya Prakāsh, evades the Idealist narrative by
+juxtaposing examples in simple chronological order; in so doing,
+however, it reinforces the Western idea that only linear time underpins
+critical meaning. Another one, *Architecture Since 1400* by Kathleen
+James-Chakraborty, showcases different societies walled off from one
+another in discrete chapters, an ethnographic structure that downplays
+the increasingly global cultural and economic networks.
 
-Given the persistence of these same old Idealist pitfalls, architectural
-history stands to gain from reassessing and questioning more explicitly
-the methods of comparative history and their emphasis on disciplinary
-subject matter---buildings. Which strongly disciplinary approaches, such
+Even as these two books explicitly reject the colonial *argument* for
+European supremacy, their approaches to 'collecting' buildings and
+societies uphold the colonial *structure* of the universal ethnographic
+museum, curious but exotic to its target audience---the post-Postmodern,
+Western student. I contend it is these books' very partaking in the
+un-disciplinary understanding of 'critical history' that has made them
+fall into this renewed Idealist pitfall. I then confront this assumption
+with the unapologetically disciplinary approach of 'comparative history'
+to inquire whether an alternative view
+
+Which other disciplinary approaches, such
 as vernacular studies or building archaeology, have also been sidelined
 by 'non-disciplinary' criticism among historians? Can a survey be
 organized around some other criterion than chronological order or
