@@ -1,0 +1,1051 @@
+---
+references:
+- id: argan:1959tipologia
+  accessed:
+    - year: 2019
+      month: 12
+      day: 17
+  author:
+    - family: Argan
+      given: Giulio Carlo
+  container-title: Bollettino del Centro Internazionale di Studi Andrea Palladio
+  issued:
+    - year: 1959
+  page: 19–22
+  title: Tipologia, simbologia, allegorismo delle forme architettoniche
+  type: article-journal
+  URL: https://www.palladiomuseum.org/annali/1959/4/pdf
+  volume: I
+
+- id: argan:1966tipologia14
+  author:
+    - family: Argan
+      given: Giulio Carlo
+  call-number: 7(03)E69
+  container-title: Enciclopedia universale dell’arte
+  event-place: 'Venezia : Roma'
+  issued:
+    - year: 1966
+  language: Italian
+  page: 1–15
+  publisher: Istituto per la collaborazione culturale
+  publisher-place: 'Venezia : Roma'
+  source: BNCRM
+  title: Tipologia
+  type: chapter
+  volume: '14'
+
+- id: biraghi:2005progetto
+  author:
+    - family: Biraghi
+      given: Marco
+  collection-number: '4'
+  collection-title: Vita delle forme
+  event-place: Milano
+  ISBN: 978-88-8273-057-4
+  issued:
+    - year: 2005
+  language: Italian
+  number-of-pages: '317'
+  publisher: Marinotti
+  publisher-place: Milano
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: 'Progetto di crisi: Manfredo Tafuri e l''architettura contemporanea'
+  title-short: Progetto di crisi
+  type: book
+
+- id: caniggia:1984introduzione
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: NA1118 .M64 1984
+  container-title: 'Moderno non moderno: il luogo e la continuità'
+  edition: '1'
+  editor:
+    - family: Caniggia
+      given: Gianfranco
+    - family: Maffei
+      given: Gian Luigi
+  event-place: Venezia
+  ISBN: 978-88-317-4720-2
+  issued:
+    - year: 1984
+  language: it
+  page: 11-16
+  publisher: Marsilio
+  publisher-place: Venezia
+  source: Library of Congress ISBN
+  title: Introduzione
+  type: chapter
+
+- id: caniggia:1984lettura
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  collection-title: '[1963]'
+  event-place: Roma
+  issued:
+    - year: 1984
+  language: it
+  publisher: Centro Studi di Storia Urbanistica
+  publisher-place: Roma
+  source: Open WorldCat
+  title: 'Lettura di una città: Como'
+  title-short: Como
+  type: book
+
+- id: caniggia:1987progetto
+  author:
+    - family: Caniggia
+      given: Gianfranco
+    - family: Maffei
+      given: Gian Luigi
+  call-number: '72.01'
+  collection-title: Biblioteca di Architettura e Urbanistica
+  event-place: Venezia
+  ISBN: 978-88-317-4722-6
+  issued:
+    - year: 1987
+  language: it
+  number-of-pages: '395'
+  publisher: Marsilio
+  publisher-place: Venezia
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    Il progetto nell'edilizia di base: composizione architettonica e tipologia
+    edilizia: 2
+  title-short: Il progetto nell'edilizia di base
+  type: book
+
+- id: caniggia:1997metodologia
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  container-title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  event-place: Firenze
+  ISBN: 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: it
+  original-date:
+    - year: 1981
+  page: 9–46
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: >-
+    Metodologia del recupero: lo studio della tipologia processuale
+    nell’indagine e nel piano
+  title-short: Metodologia del recupero
+  type: chapter
+
+- id: caniggia:1997ragionamenti
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  event-place: Firenze
+  ISBN: 88-8125-191-4 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: it
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  title-short: Ragionamenti di tipologia
+  type: book
+
+- id: caniggia:2008lettura
+  abstract: >-
+    Questo volume si occupa di codificare il metodo per l'esecuzione di
+    operazioni di lettura delle strutture edilizie che si sono costituite in
+    passato a livello di "coscienza spontanea" in una progressione di grandezze
+    scalari che vanno dall'edificio, all'aggregazione di edifici, all'organismo
+    urbano, al territorio. L'attenzione ai prodotti architettonici del passato è
+    il campo della "tipologia processuale" che è la chiave per l'utilizzazione
+    della storia nell'operare come architetti nel mondo contemporaneo.
+  author:
+    - family: Caniggia
+      given: Gianfranco
+    - family: Maffei
+      given: Gian Luigi
+  edition: '2'
+  event-place: Firenze
+  ISBN: 978-88-6055-182-5
+  issued:
+    - year: 2008
+  language: it
+  number-of-pages: '276'
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Google Books
+  title: Lettura dell'edilizia di base
+  type: book
+
+- id: carpenzano:2019storico
+  call-number: NA2599.8.T34 S76 2019
+  collection-number: '18'
+  collection-title: DiAP print. Teorie
+  edition: '1'
+  editor:
+    - family: Carpenzano
+      given: Orazio
+  event-place: Macerata
+  ISBN: 978-88-229-0225-2
+  issued:
+    - year: 2019
+  language: Italian
+  number-of-pages: '429'
+  publisher: Quodlibet
+  publisher-place: Macerata
+  source: Library of Congress ISBN
+  title: 'Lo storico scellerato: scritti su Manfredo Tafuri'
+  title-short: Lo storico scellerato
+  type: book
+
+- id: cataldi:2002saverio6
+  abstract: >-
+    This paper outlines the development of the Muratorian school of urban
+    morphology and building typology. Starting from Muratori's experience as a
+    talented architect, deeply rooted in the Roman interpretation of Italian
+    rationalism, the authors describe the growth of Muratori's interest in
+    history as a means of recovering a sense of continuity in architectural
+    practice. Adopting a theoretical approach grounded in architecture and urban
+    design, he started working on a critical framework which could explain the
+    creation and transformation of urban form over the centuries. He had many
+    followers. The resurgence of interest in Muratori's work in the 1990s is
+    described.
+  author:
+    - family: Cataldi
+      given: Giancarlo
+    - family: Maffei
+      given: Gian Luigi
+    - family: Vaccaro
+      given: Paolo
+  container-title: Urban Morphology
+  issue: '1'
+  issued:
+    - year: 2002
+  language: en-GB
+  page: 3-14
+  source: Semantic Scholar
+  title: Saverio Muratori and the Italian school of planning typology
+  type: article-journal
+  volume: '6'
+
+- id: cataldi:2013debito
+  author:
+    - family: Cataldi
+      given: Giancarlo
+  call-number: NA1123.M78 S28 2013
+  container-title: >-
+    Saverio Muratori architetto (Modena 1910-Roma 1973): a cento anni dalla
+    nascita: atti del convegno itinerante
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  event-place: Firenze
+  ISBN: 978-88-98262-03-8
+  issued:
+    - year: 2013
+  language: it
+  page: 10-15
+  publisher: Aión
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: 'Saverio Muratori: il debito e l''eredità'
+  title-short: Il debito e l'eredità
+  type: chapter
+
+- id: conzen:2004notes
+  author:
+    - family: Conzen
+      given: Michael P.
+    - family: Whitehand
+      given: Jeremy W.R.
+  call-number: '718.04'
+  container-author:
+    - family: Conzen
+      given: M. R. G
+  container-title: 'Thinking about urban form: papers on urban morphology, 1932-1998'
+  event-place: Oxford; New York
+  ISBN: 3-03910-276-1 978-3-03910-276-1 0-8204-7203-4 978-0-8204-7203-4
+  issued:
+    - year: 2004
+  language: en-GB
+  page: 269–283
+  publisher: Peter Lang
+  publisher-place: Oxford; New York
+  source: Open WorldCat
+  title: >-
+    M. R. G. Conzen’s Notes on ‘Urban Morphology: Its Nature and Development’
+    (1992–1999)
+  type: chapter
+
+- id: costa:2015mertola
+  editor:
+    - family: Costa
+      given: Miguel Reimão
+  event-place: Mértola
+  ISBN: 978-972-9375-49-1
+  issued:
+    - year: 2015
+  language: pt-PT
+  publisher: Campo Arqueológico de Mértola
+  publisher-place: Mértola
+  source: Open WorldCat
+  title: >-
+    Mértola : a arquitetura da vila e do termo = Architecture in the town and
+    its territory
+  title-short: Mértola
+  type: book
+
+- id: durand:1802precis
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9181
+  event-place: Paris
+  issued:
+    - year: 1802
+    - year: 1805
+  language: French
+  number-of-volumes: '2'
+  publisher: l'auteur
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: Précis des leçons d'architecture données à l'École polytechnique
+  type: book
+
+- id: durand:1802precis1
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9181
+  event-place: Paris
+  issued:
+    - year: 1802
+  language: French
+  publisher: l'auteur
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: Précis des leçons d'architecture données à l'École polytechnique
+  type: book
+  volume: '1'
+
+- id: durand:1805precis2
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9181
+  event-place: Paris
+  issued:
+    - year: 1805
+  language: French
+  publisher: l'auteur
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: Précis des leçons d'architecture données à l'École polytechnique
+  type: book
+  volume: '2'
+
+- id: durand:1821partie
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9185
+  event-place: Paris
+  issued:
+    - year: 1821
+  language: French
+  number-of-pages: '36'
+  publisher: l'auteur
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: >-
+    Partie graphique des cours d'architecture faits à l'École royale
+    polytechnique depuis sa réorganisation...
+  title-short: Partie graphique des cours d'architecture
+  type: book
+
+- id: durand:1825precis
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  event-place: Paris
+  issued:
+    - year: 1825
+  language: French
+  publisher: Chez l'auteur
+  publisher-place: Paris
+  source: Gallica
+  title: >-
+    Précis des leçons d'architecture données à l'École polytechnique, par
+    J.-N.-L. Durand,...
+  type: book
+  URL: http://gallica.bnf.fr/ark:/12148/bpt6k5762681g
+
+- id: jaffe:1971stijl
+  call-number: '72.036'
+  editor:
+    - family: Jaffé
+      given: Hans Ludwig C
+  event-place: New York
+  issued:
+    - year: 1971
+  language: English
+  publisher: H. N. Abrams
+  publisher-place: New York
+  source: Open WorldCat
+  title: De Stijl
+  type: book
+
+- id: leach:2006choosing
+  author:
+    - family: Leach
+      given: Andrew
+  event-place: Ghent
+  genre: Ph.D. Thesis
+  ISBN: 90-8578-049-7
+  issued:
+    - year: 2006
+  language: English
+  number-of-pages: '383'
+  publisher: Faculteit Ingenieurswetenschappen, Universiteit Gent
+  publisher-place: Ghent
+  title: >-
+    Choosing history: a study of Manfredo Tafuri’s theorisation of architectural
+    history and architectural history research
+  title-short: Choosing history
+  type: thesis
+
+- id: leach:2007manfredo
+  author:
+    - family: Leach
+      given: Andrew
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - 2007-239405
+  event-place: Ghent
+  ISBN: 978-90-76714-30-1
+  issued:
+    - year: 2007
+  language: English
+  number-of-pages: '323'
+  publisher: A&S Books
+  publisher-place: Ghent
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: 'Manfredo Tafuri: choosing history'
+  title-short: Manfredo Tafuri
+  type: book
+
+- id: lobsinger:2006new59
+  abstract: >-
+    The publication of Aldo Rossi's L'architettura della città in 1966 marked
+    the conclusion of several years of research and writing on architecture and
+    urbanism. Rossi wrote the book as a treatise for a science of urbanism in an
+    attempt to establish the principles and terms for analyzing existing urban
+    conditions. His thesis responded to a polemical debate within Italian
+    architecture of the early 1960s over the future form of the city brought
+    about in part, by unprecedented transformations in the postwar city. In this
+    essay, I chronicle the cultural context of the debate over urbanism in Italy
+    that motivated Rossi to establish objective principles for a new urban
+    theory, distinguishing between "the architecture of the city,'' autonomy,
+    and the concept of la nuova dimensione.
+  accessed:
+    - year: 2020
+      month: 1
+      day: 29
+  archive: JSTOR
+  author:
+    - family: Lobsinger
+      given: Mary Louise
+  container-title: Journal of Architectural Education
+  ISSN: 1046-4883
+  issue: '3'
+  issued:
+    - year: 2006
+  language: en-US
+  page: 28-38
+  source: JSTOR
+  title: 'The New Urban Scale in Italy: On Aldo Rossi''s "L''architettura della città"'
+  title-short: The New Urban Scale in Italy
+  type: article-journal
+  URL: https://www.jstor.org/stable/40480643
+  volume: '59'
+
+- id: moneo:1978typology
+  author:
+    - family: Moneo
+      given: Rafael
+  container-title: Oppositions
+  issued:
+    - year: 1978
+  language: en-US
+  page: 23–45
+  title: On typology
+  type: article-journal
+  volume: '13'
+
+- id: moschini:2013saverio
+  author:
+    - family: Moschini
+      given: Francesco
+  call-number: NA1123.M78 S28 2013
+  container-title: >-
+    Saverio Muratori architetto (Modena 1910-Roma 1973): a cento anni dalla
+    nascita: atti del convegno itinerante
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  event-place: Firenze
+  ISBN: 978-88-98262-03-8
+  issued:
+    - year: 2013
+  language: it
+  page: 172-177
+  publisher: Aión
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: >-
+    Saverio Muratori e Aldo Rossi: le forme dell’architettura e le forme della
+    città
+  title-short: Saverio Muratori e Aldo Rossi
+  type: chapter
+
+- id: muratori:1959studiIX
+  abstract: Quadro generale dalle origini agli sviluppi attuali
+  author:
+    - family: Muratori
+      given: Saverio
+  container-title: Palladio
+  issue: 3–4
+  issued:
+    - year: 1959
+      month: 7
+  language: it
+  page: 97-209
+  title: Studi per una operante storia urbana di Venezia. I
+  title-short: Studi per una operante storia urbana di Venezia
+  type: article-journal
+  volume: <span class="smallcaps">IX</span>
+
+- id: murro:2019storia
+  author:
+    - family: Murro
+      given: Rocco
+  call-number: NA2599.8.T34 S76 2019
+  collection-number: '18'
+  collection-title: DiAP print. Teorie
+  container-title: 'Lo storico scellerato: scritti su Manfredo Tafuri'
+  edition: '1'
+  editor:
+    - family: Carpenzano
+      given: Orazio
+  event-place: Macerata
+  ISBN: 978-88-229-0225-2
+  issued:
+    - year: 2019
+  language: Italian
+  page: 323-334
+  publisher: Quodlibet
+  publisher-place: Macerata
+  source: Library of Congress ISBN
+  title: >-
+    Storia e progetto allo specchio. Il *desengaño* rossiano negli occhi di
+    Manfredo Tafuri
+  title-short: Storia e progetto allo specchio
+  type: chapter
+
+- id: panerai:2012analyse
+  author:
+    - family: Panerai
+      given: Philippe
+  event-place: Marseille
+  ISBN: 978-2-86364-603-8
+  issued:
+    - year: 2012
+  language: fr-FR
+  publisher: Parenthèses
+  publisher-place: Marseille
+  source: Open WorldCat
+  title: Analyse urbaine
+  type: book
+
+- id: papadakis:1990new
+  collection-title: AD
+  editor:
+    - family: Papadakis
+      given: Andreas
+    - family: Watson
+      given: Harriet
+  event-place: London
+  ISBN: 978-1-85490-030-2
+  issued:
+    - year: 1990
+  language: en-GB
+  publisher: Academy Editions
+  publisher-place: London
+  source: Open WorldCat
+  title: 'New classicism: omnibus volume'
+  title-short: New classicism
+  type: book
+
+- id: patetta:1989storia
+  author:
+    - family: Patetta
+      given: Luciano
+  ISBN: 978-88-7005-861-1
+  issued:
+    - year: 1989
+  language: it
+  number-of-pages: '221'
+  publisher: Clup
+  source: Google Books
+  title: 'Storia e tipologia: cinque saggi sull''architettura del passato'
+  title-short: Storia e tipologia
+  type: book
+
+- id: petruccioli:1998exoteric
+  accessed:
+    - year: 2020
+      month: 1
+      day: 15
+  author:
+    - family: Petruccioli
+      given: Attilio
+  collection-title: Procedings of the international symposium ... March 1995
+  container-title: Typological process and design theory
+  editor:
+    - family: Petruccioli
+      given: Attilio
+  event-place: Cambridge, Mass.
+  issued:
+    - year: 1998
+  language: en-US
+  page: 9-16
+  publisher: >-
+    Aga Khan Program for Islamic Architecture at Harvard University :
+    Massachusetts Institute of Technology
+  publisher-place: Cambridge, Mass.
+  source: Open WorldCat
+  title: >-
+    Exoteric, polytheistic, fundamentalist typology: gleanings in the form of an
+    introduction
+  title-short: Exoteric, polytheistic, fundamentalist typology
+  type: chapter
+  URL: https://archnet.org/publications/4240
+
+- id: petruccioli:1998typological
+  accessed:
+    - year: 2020
+      month: 1
+      day: 15
+  collection-title: Procedings of the international symposium ... March 1995
+  editor:
+    - family: Petruccioli
+      given: Attilio
+  event-place: Cambridge, Mass.
+  issued:
+    - year: 1998
+  language: en-US
+  publisher: >-
+    Aga Khan Program for Islamic Architecture at Harvard University :
+    Massachusetts Institute of Technology
+  publisher-place: Cambridge, Mass.
+  source: Open WorldCat
+  title: Typological process and design theory
+  title-short: Typological process and design theory
+  type: book
+  URL: https://archnet.org/publications/4240
+
+- id: pevsner:1989history
+  author:
+    - family: Pevsner
+      given: Nikolaus
+  call-number: >-
+    Tolbiac - Rez de Jardin - Littérature et art - Salle W - Libre accès -
+    2000-239103
+  collection-title: Bollingen series ,  35;  The A. W. Mellon lectures in the fine arts ,  19
+  event-place: Princeton, N.J.
+  ISBN: 978-0-691-01829-4
+  issued:
+    - year: 1989
+  language: en-US
+  number-of-pages: '352'
+  publisher: Princeton University Press
+  publisher-place: Princeton, N.J.
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: A history of building types
+  type: book
+
+- id: pigafetta:1990saverio
+  author:
+    - family: Pigafetta
+      given: Giorgio
+  call-number: NA1123.M78 P54 1990
+  collection-title: Saggi Marsilio
+  edition: '1'
+  event-place: Venezia
+  ISBN: 978-88-317-5323-4
+  issued:
+    - year: 1990
+  language: it
+  number-of-pages: '161'
+  publisher: Marsilio
+  publisher-place: Venezia
+  source: Library of Congress ISBN
+  title: 'Saverio Muratori, architetto: teoria e progetti'
+  title-short: Saverio Muratori, architetto
+  type: book
+
+- id: purini:2013saverio
+  author:
+    - family: Purini
+      given: Franco
+  call-number: NA1123.M78 S28 2013
+  container-title: >-
+    Saverio Muratori architetto (Modena 1910-Roma 1973): a cento anni dalla
+    nascita: atti del convegno itinerante
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  event-place: Firenze
+  ISBN: 978-88-98262-03-8
+  issued:
+    - year: 2013
+  language: it
+  page: 48-51
+  publisher: Aión
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: Saverio Muratori tra unità e molteplicità
+  type: chapter
+  URL: https://re.public.polimi.it/handle/11311/976650
+
+- id: quatremere:1788caractere
+  author:
+    - family: Quatremère de Quincy
+      given: Antoine Chrysosthome
+  collection-editor:
+    - family: Diderot
+      given: Denis
+    - family: Alembert
+      given: Jean le Rond
+      non-dropping-particle: d’
+  collection-title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
+  container-title: Architecture
+  event-place: Paris
+  issued:
+    - year: 1788
+  language: fr-FR
+  page: 477–518
+  publisher: Panckouke
+  publisher-place: Paris
+  title: Caractère
+  type: chapter
+  volume: '1'
+
+- id: quatremere:1825type
+  author:
+    - family: Quatremère de Quincy
+      given: Antoine Chrysosthome
+  collection-editor:
+    - family: Diderot
+      given: Denis
+    - family: Alembert
+      given: Jean le Rond
+      non-dropping-particle: d’
+  collection-title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
+  container-title: Architecture
+  event-place: Paris
+  issued:
+    - year: 1825
+  language: French
+  page: 543-545
+  publisher: Panckouke
+  publisher-place: Paris
+  title: Type
+  type: chapter
+  volume: '3'
+
+- id: rosponi:2004new
+  collection-number: '3'
+  collection-title: Quaderni di A&C international documents
+  editor:
+    - family: Rosponi
+      given: Cristiano
+    - family: Tagliaventi
+      given: Gabriele
+  event-place: Firenze
+  ISBN: 978-88-8125-813-0
+  issued:
+    - year: 2004
+  language: English
+  number-of-pages: '96'
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Towards a new urban renaissance
+  type: book
+
+- id: rossi:2006larchitettura
+  author:
+    - family: Rossi
+      given: Aldo
+  collection-title: '[1966]'
+  edition: '4'
+  event-place: Torino
+  ISBN: 978-88-251-7112-9
+  issued:
+    - year: 2006
+  language: Italian
+  number-of-pages: '235'
+  publisher: CittàStudi
+  publisher-place: Torino
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: L'architettura della città
+  type: book
+
+- id: stoppani:2010lhistoire
+  author:
+    - family: Stoppani
+      given: Teresa
+  call-number: NA2750 .H85 2010
+  container-title: >-
+    The humanities in architectural design: a contemporary and historical
+    perspective
+  editor:
+    - family: Bandyopadhyay
+      given: Soumyen
+  event-place: Milton Park, Abingdon, Oxon ; New York, NY
+  ISBN: 978-0-415-55113-7 978-0-415-55114-4
+  issued:
+    - year: 2010
+  language: en-GB
+  page: 214-225
+  publisher: Routledge
+  publisher-place: Milton Park, Abingdon, Oxon ; New York, NY
+  source: Library of Congress ISBN
+  title: 'L''histoire assassinée: Manfredo Tafuri and the present'
+  type: chapter
+
+- id: strappa:1989tradizione
+  call-number: NA1120 .T73 1989
+  editor:
+    - family: Strappa
+      given: Giuseppe
+  event-place: Roma
+  ISBN: 978-88-7890-011-0
+  issued:
+    - year: 1989
+  language: it
+  number-of-pages: '165'
+  publisher: Kappa
+  publisher-place: Roma
+  source: Library of Congress ISBN
+  title: Tradizione e innovazione nell'architettura di Roma capitale, 1870–1930
+  title-short: Tradizione e innovazione
+  type: book
+
+- id: tafuri:1977storico
+  author:
+    - family: Tafuri
+      given: Manfredo
+  container-title: Casabella
+  issue: '429'
+  issued:
+    - year: 1977
+  language: it
+  page: 11-18
+  source: Google Scholar
+  title: Il “progetto” storico
+  type: article-journal
+
+- id: tafuri:1980sfera
+  author:
+    - family: Tafuri
+      given: Manfredo
+  event-place: Torino
+  issued:
+    - year: 1980
+  language: it
+  publisher: G. Einaudi
+  publisher-place: Torino
+  source: Open WorldCat
+  title: >-
+    La Sfera e il labirinto: avanguardie e architettura da Piranesi agli anni
+    '70
+  title-short: La Sfera e il labirinto
+  type: book
+
+- id: tafuri:1988teorie
+  author:
+    - family: Tafuri
+      given: Manfredo
+  collection-number: '166'
+  collection-title: Biblioteca Universale Laterza
+  edition: '7'
+  event-place: Bari
+  ISBN: 978-88-420-2700-3
+  issued:
+    - year: 1988
+  language: Italian
+  number-of-pages: '355'
+  publisher: Laterza
+  publisher-place: Bari
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Teorie e storia dell'architettura
+  type: book
+
+- id: tagliaventi:2000tecniche
+  author:
+    - family: Tagliaventi
+      given: Gabriele
+  call-number: NA645 .T34 2000
+  collection-number: '36'
+  collection-title: Saggi e documenti di storia dell'architettura
+  event-place: Firenze
+  ISBN: 978-88-8125-452-1
+  issued:
+    - year: 2000
+  language: it
+  number-of-pages: '559'
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: Tecniche e tecnologie dell'architettura fra eclettismo e storicismo
+  type: book
+
+- id: tagliaventi:2006european18
+  abstract: 'Author(s): Tagliaventi, Gabriele'
+  accessed:
+    - year: 2020
+      month: 1
+      day: 2
+  author:
+    - family: Tagliaventi
+      given: Gabriele
+  container-title: Places
+  ISSN: 0731-0455
+  issue: '1'
+  issued:
+    - year: 2006
+      month: 8
+      day: 1
+  language: en-US
+  page: 46–52
+  source: escholarship.org
+  title: >-
+    The European Transect: An Organic way for Architecture to Develop Towns,
+    Cities, and Metropolises
+  title-short: The European Transect
+  type: article-journal
+  URL: https://escholarship.org/uc/item/4xc2j7qw
+  volume: '18'
+
+- id: tagliaventi:2007manuale
+  author:
+    - family: Tagliaventi
+      given: Gabriele
+  event-place: Bologna
+  ISBN: 978-88-555-2909-9
+  issued:
+    - year: 2007
+  language: Italian
+  publisher: Patron
+  publisher-place: Bologna
+  source: Open WorldCat
+  title: Manuale di architettura urbana
+  type: book
+
+- id: teixeira:1996habitacao
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  call-number: '728'
+  collection-title: Textos universitários de ciências sociais e humanas
+  event-place: Lisboa
+  ISBN: 978-972-31-0700-5
+  issued:
+    - year: 1996
+  language: pt-PT
+  number-of-pages: '501'
+  publisher: >-
+    Fundação Calouste Gulbenkian : Junta Nacional de Investigação Científica e
+    Tecnológica
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Habitação popular na cidade oitocentista: as ilhas do Porto'
+  title-short: Habitação popular na cidade oitocentista
+  type: book
+
+- id: teixeira:2018habitacao
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  call-number: 728 (469.121)
+  collection-number: '107'
+  collection-title: Biblioteca das ciências sociais. Sociologia
+  event-place: Porto
+  ISBN: 978-972-36-1681-1
+  issued:
+    - year: 2018
+  language: pt-PT
+  number-of-pages: '397'
+  publisher: Afrontamento
+  publisher-place: Porto
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Habitação popular na cidade oitocentista: as ilhas do Porto'
+  title-short: Habitação popular na cidade oitocentista
+  type: book
+
+- id: van:1971plastic
+  author:
+    - family: Doesburg
+      given: Theo
+      non-dropping-particle: van
+  call-number: '72.036'
+  container-title: De Stijl
+  editor:
+    - family: Jaffé
+      given: Hans Ludwig C
+  event-place: New York
+  issued:
+    - year: 1971
+  language: English
+  page: 185–188
+  publisher: H. N. Abrams
+  publisher-place: New York
+  source: Open WorldCat
+  title: Towards a Plastic Architecture
+  type: chapter
+
+- id: zevi:1974architettura
+  author:
+    - family: Zevi
+      given: Bruno
+  call-number: '72.01'
+  collection-number: '216'
+  collection-title: Piccola Biblioteca Einaudi
+  edition: '2'
+  event-place: Torino
+  issued:
+    - year: 1974
+  language: Italian
+  number-of-pages: '173'
+  publisher: Einaudi
+  publisher-place: Torino
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Architettura e storiografia: le matrici antiche del linguaggio moderno'
+  title-short: Architettura e storiografia
+  type: book
+...
