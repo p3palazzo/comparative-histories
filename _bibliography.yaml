@@ -1,5 +1,83 @@
 ---
 references:
+- id: alofsin:1983history37
+  author:
+    - family: Alofsin
+      given: Anthony
+  container-title: Journal of Architectural Education
+  DOI: 10.2307/1424590
+  ISSN: 0149-2993
+  issue: '1'
+  issued:
+    - year: 1983
+  language: en-US
+  page: 2-7
+  source: JSTOR
+  title: >-
+    Toward a History of Teaching Architectural History: An Introduction to
+    Herbert Langford Warren
+  title-short: Toward a History of Teaching Architectural History
+  type: article-journal
+  URL: http://www.jstor.org/stable/1424590
+  volume: '37'
+
+- id: alonso:2010introducao
+  abstract: >-
+    Este livro é uma introdução à história da arquitetura e do urbanismo
+    ocidental, desde a pré-história até século XXI. Extremamente atual, o texto
+    é ao mesmo tempo enxuto e profundo. Além de apresentar um panorama
+    histórico, o autor critica e analisa a arquitetura e o seu desenvolvimento.
+  author:
+    - family: Alonso Pereira
+      given: José Ramón
+  edition: '1'
+  event-place: Porto Alegre
+  ISBN: 978-85-7780-576-1
+  issued:
+    - year: 2010
+  language: pt-BR
+  publisher: Bookman
+  publisher-place: Porto Alegre
+  source: Amazon
+  title: 'Introdução à história da arquitetura: das origens ao século XXI'
+  title-short: Introdução à história da arquitetura
+  translator:
+    - family: Salvaterra
+      given: Alexandre
+  type: book
+
+- id: anderson:1949function4
+  author:
+    - family: Anderson
+      given: Robert L.
+  container-title: Journal of Architectural Education (1947-1974)
+  DOI: 10.2307/1423974
+  ISSN: 0047-2239
+  issued:
+    - year: 1949
+      month: 12
+  language: en-US
+  page: 30-35
+  source: JSTOR
+  title: The function of history in architectural education
+  type: article-journal
+  URL: http://www.jstor.org/stable/1423974
+  volume: '4'
+
+- id: anderson:1999architectural
+  author:
+    - family: Anderson
+      given: Stanford
+  container-title: Journal of the Society of Architectural Historians
+  issue: '3'
+  issued:
+    - year: 1999
+  language: en-US
+  page: 282–290
+  title: Architectural history in schools of architecture
+  type: article-journal
+  volume: '58'
+
 - id: argan:1959tipologia
   accessed:
     - year: 2019
@@ -35,6 +113,77 @@ references:
   type: chapter
   volume: '14'
 
+- id: barberot:1891histoire1
+  abstract: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours,. Tome 1 / par É. Barberot,... -- 1891 -- livre
+  accessed:
+    - year: 2021
+      month: 1
+      day: 19
+  author:
+    - family: Barberot
+      given: Étienne (1846-19 ) Auteur
+      dropping-particle: du texte
+  event-place: Paris
+  issued:
+    - year: 1891
+  language: fr-FR
+  publisher: Baudry
+  publisher-place: Paris
+  source: gallica.bnf.fr
+  title: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours
+  type: book
+  URL: https://gallica.bnf.fr/ark:/12148/bpt6k6562416x
+  volume: '1'
+
+- id: barberot:1891histoire2
+  abstract: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours,. Tome 2 / par É. Barberot,... -- 1891 -- livre
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Barberot
+      given: Étienne
+  event-place: Paris
+  issued:
+    - year: 1891
+  language: fr-FR
+  publisher: Baudry
+  publisher-place: Paris
+  source: gallica.bnf.fr
+  title: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours
+  type: book
+  URL: http://gallica.bnf.fr/ark:/12148/bpt6k6562417b
+  volume: '2'
+
+- id: baydar:1998postcolonial
+  author:
+    - family: Baydar Nalbantoğlu
+      given: Gülsüm
+  container-title: Assemblage
+  DOI: 10.2307/3171235
+  ISSN: 0889-3012
+  issue: '35'
+  issued:
+    - year: 1998
+  language: en-US
+  page: 7-17
+  source: JSTOR
+  title: >-
+    Toward postcolonial openings: rereading Sir Banister Fletcher's "History of
+    Architecture"
+  title-short: Toward Postcolonial Openings
+  type: article-journal
+  URL: http://www.jstor.org/stable/3171235
+
 - id: biraghi:2005progetto
   author:
     - family: Biraghi
@@ -53,6 +202,46 @@ references:
   title: 'Progetto di crisi: Manfredo Tafuri e l''architettura contemporanea'
   title-short: Progetto di crisi
   type: book
+
+- id: bozdogan:1999architectural
+  abstract: >-
+    In recent years, our inherited architectural culture, which privileges the
+    autonomy of form and the paradigmatic status of the western tradition, has
+    been contested from a range of critical perspectives. In this article I
+    address some of the new challenges that architectural history faces today
+    and contemplate two questions with important implications for teaching
+    survey courses. First, how does one make architectural history less
+    Eurocentric and more cross-cultural without either naturalizing the cultural
+    difference of "others" or essentializing these differences into
+    incommensurable categories? Second, how does one talk about the politics of
+    architecture without reducing architecture to politics?
+  accessed:
+    - year: 2013
+      month: 7
+      day: 11
+  archive: Fichário 02
+  author:
+    - family: Bozdoğan
+      given: Sibel
+  call-number: 72.03:378
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  DOI: 10.2307/1425410
+  ISSN: 1046-4883
+  issue: '4'
+  issued:
+    - year: 1999
+      month: 5
+  language: en-US
+  page: 207–215
+  source: JSTOR
+  title: >-
+    Architectural history in professional education: reflections on postcolonial
+    challenges to the modern survey
+  title-short: Architectural history in professional education
+  type: article-journal
+  URL: http://www.jstor.org/stable/1425410
+  volume: '52'
 
 - id: caniggia:1984introduzione
   author:
@@ -263,6 +452,112 @@ references:
   title-short: Il debito e l'eredità
   type: chapter
 
+- id: ching:2007global
+  abstract: >-
+    "Organized along a global timeline, A Global History of Architecture
+    presents an innovative approach to the study of architectural history.
+    Spanning from 3,500 B.C.E. to the present, this unique guide is written by
+    an all-star team of architectural experts in their fields who emphasize the
+    connections, contrasts, and influences of architectural movements throughout
+    history. The architectural history of the world comes to life through a
+    unified framework for interpreting and understanding architecture,
+    supplemented by drawings from the renowned Frank Ching as well as
+    photographs."--Jacket.
+  author:
+    - family: Ching
+      given: Francis D. K
+    - family: Jarzombek
+      given: Mark
+    - family: Prakash
+      given: Vikramaditya
+  event-place: Hoboken, N.J.
+  ISBN: 978-0-471-26892-5
+  issued:
+    - year: 2007
+  language: en-US
+  publisher: J. Wiley & Sons
+  publisher-place: Hoboken, N.J.
+  source: Open WorldCat
+  title: A global history of architecture
+  type: book
+
+- id: ching:2011global
+  abstract: >-
+    "The award-winning First Edition of A Global History of Architecture was a
+    publishing event that forever changed the way architectural history is
+    viewed and studied. This Second Edition surpasses the first with a lavish
+    new design, illustrated throughout with drawings and photographs in full
+    color, and even more maps and diagrams detailing global interconnections.
+    The signature drawings of Francis D.K. Ching are more informative than ever,
+    updated with scale, annotation, and function added where needed. This
+    revision is sure to remain the most relevant book on the topic"--
+  author:
+    - family: Ching
+      given: Francis D. K.
+    - family: Jarzombek
+      given: Mark
+    - family: Prakash
+      given: Vikramaditya
+  call-number: NA200 .C493 2011
+  edition: 2nd ed
+  event-place: Hoboken, N.J
+  ISBN: 978-0-470-40257-3
+  issued:
+    - year: 2011
+  language: en-US
+  number-of-pages: '848'
+  publisher: Wiley
+  publisher-place: Hoboken, N.J
+  source: Library of Congress ISBN
+  title: A global history of architecture
+  type: book
+
+- id: cimadomo:2014teaching7
+  abstract: >-
+    The changes that the European Higher Education Area (EHEA) framework obliged
+    the School of Architecture of Malaga, University of Malaga. to make to its
+    “History of Architecture” course are discussed in this paper. It was taken
+    up as an opportunity to modify the whole course, introducing creative
+    teaching and “imaginative activities” to put the students at the centre of
+    the learning experience and giving them part control over the course. IT
+    technologies such as Pinterest were used to create a friendly visual
+    learning environment to offer richer learning experiences and positive
+    effects on the students. Time dedicated to the presentation of theoretical
+    content in the course was reduced by half and the program was redefined from
+    the chronology of the previous program to a reading of the use of the
+    classical orders throughout history. This change generated interest,
+    curiosity and a greater understanding of the relationships between different
+    styles which use the same elements. The implementation of several activities
+    such as problem solving exercises, complementary readings and video helped
+    to focus the course on a student-centred learning environment, was valued
+    positively by the students.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 12
+  author:
+    - family: Cimadomo
+      given: Guido
+  container-title: Journal of Learning Design
+  DOI: 10.5204/jld.v7i3.178
+  ISSN: 1832-8342
+  issue: '3'
+  issued:
+    - year: 2014
+      month: 12
+      day: 1
+  language: en-GB
+  number: '3'
+  page: 79-90
+  source: www.jld.edu.au
+  title: >-
+    Teaching history of architecture: moving from a knowledge transfer to a
+    multi-participative methodology based on its tools
+  title-short: Teaching history of architecture
+  type: article-journal
+  URL: 178.html
+  volume: '7'
+
 - id: conzen:2004notes
   author:
     - family: Conzen
@@ -305,6 +600,62 @@ references:
     its territory
   title-short: Mértola
   type: book
+
+- id: creese:1980reflections
+  author:
+    - family: Creese
+      given: Walter
+  container-title: Journal of Architectural Education
+  DOI: 10.2307/1424721
+  ISSN: 0149-2993
+  issue: '1'
+  issued:
+    - year: 1980
+  language: en-US
+  page: 11-14
+  source: JSTOR
+  title: Reflections on how to/how not to teach history
+  type: article-journal
+  URL: http://www.jstor.org/stable/1424721
+  volume: '34'
+
+- id: doucet:2013enseigner3
+  abstract: >-
+    The history of architecture has for long time been rather immune to any sort
+    of internal and external criticism, that would question the ideologies of
+    those writing it, not least in their more or less explicit commitment to
+    design practice. This is the more surprising as not only in history, but in
+    particular in the history of art, such a criticism, that considers the
+    existence of different theories of history, has been established since long.
+    The history of architecture has been written very often by architects or by
+    committed architecture historians, excluding many unsuccessful and
+    problematic aspects of the profession. On the backdrop of this lack of
+    criticism, two architecture (art) historian are discussed here for having
+    more or less consciously integrated into their work reflections on how to
+    write history and thus exposed their theories as part of their writing: Hans
+    Sedlmayr and Manfredo Tafuri. While the two historians could not be more
+    different in their content – being Sedlmayr extremely conservative and
+    Tafuri a progressive Marxist – the comparison of their writings and
+    reflections, shows interesting parallels, not least because of the influence
+    of their education as architects (which was incomplete in the case of
+    Sedlmayr).
+  author:
+    - family: Doucet
+      given: Hervé
+  container-title: Art History Supplement
+  issue: '1'
+  issued:
+    - year: 2013
+      month: 1
+  language: fr-FR
+  page: '73'
+  source: Zotero
+  title: >-
+    Enseigner l’histoire de l’architecture occidentale à des étudiants non
+    spécialistes et non occidentaux : bilan d’une expérience et pistes de
+    réflexion
+  type: article-journal
+  volume: '3'
 
 - id: durand:1802precis
   author:
@@ -395,6 +746,244 @@ references:
   type: book
   URL: http://gallica.bnf.fr/ark:/12148/bpt6k5762681g
 
+- id: fergusson:1855illustrated1
+  abstract: '31'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+  call-number: AKJ-9676
+  edition: '1'
+  event-place: London
+  issued:
+    - year: 1855
+  language: en-GB
+  number-of-pages: '576'
+  publisher: Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The illustrated handbook of architecture : being a concise and popular
+    account of the different styles of architecture prevailing in all ages and
+    countries
+  title-short: The illustrated handbook of architecture
+  type: book
+  URL: http://archive.org/details/illustratedhandb01ferguoft
+  volume: '1'
+
+- id: fergusson:1855illustrated2
+  abstract: '31'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+  call-number: AKJ-9676
+  edition: '1'
+  event-place: London
+  issued:
+    - year: 1855
+  language: en-GB
+  number-of-pages: '552'
+  publisher: Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The illustrated handbook of architecture : being a concise and popular
+    account of the different styles of architecture prevailing in all ages and
+    countries
+  title-short: The illustrated handbook of architecture
+  type: book
+  URL: http://archive.org/details/illustratedhandb02ferguoft
+  volume: '2'
+
+- id: fergusson:1862history
+  abstract: >-
+    "When the 'Handbook of architecture' was first published in two volumes in
+    1855, it was intended that it should have been followed by a third,
+    completing the history of the art from the earliest day to the present time
+    ... the concluding portion of the work is ... now given to the public in
+    such a form that it may either be bound up as a third volume of the
+    'Handbook,' or treated as an entirely separate work complete in
+    itself."--Pref; Issued also as a part of the revised and enlarged edition of
+    the Handbook, published under title: History of architecture in all
+    countries, from the earliest times to the present day
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+  call-number: '9929988620001551'
+  edition: '1'
+  event-place: London
+  issued:
+    - year: 1862
+  language: en-GB
+  number-of-pages: '598'
+  publisher: J. Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    History of the modern styles of architecture: being a sequel to the Handbook
+    of architecture
+  title-short: History of the modern styles of architecture
+  type: book
+  URL: http://archive.org/details/historyofmoderns00ferg
+
+- id: fergusson:1874history2
+  abstract: >-
+    Vol. 1-2. - History of architecture.- Vol. 3. - History of Indian and
+    Eastern architecture.- Vol. 4. - History of modern architecture; 26
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+  call-number: AEO-3820
+  collection-number: Christian Architecture
+  edition: '2'
+  event-place: London
+  issued:
+    - year: 1874
+  language: en-GB
+  number-of-pages: '648'
+  publisher: Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    A history of architecture in all countries from the earliest times to the
+    present day
+  type: book
+  URL: http://archive.org/details/historyofarchite02ferguoft
+  volume: '2'
+
+- id: fergusson:1891history2
+  abstract: Bibliographical footnotes
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+    - family: Kerr
+      given: Robert
+  call-number: b12853707
+  event-place: New York
+  issued:
+    - year: 1891
+  language: en-US
+  number-of-pages: '480'
+  publisher: Dodd, Mead
+  publisher-place: New York
+  source: Internet Archive
+  title: History of the modern styles of architecture
+  type: book
+  URL: http://archive.org/details/historyofmoderns02ferg
+  volume: '2'
+
+- id: fergusson:1893history1
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+    - family: Spiers
+      given: Richard Phené
+  call-number: 720.9 F38h3
+  collection-number: A history of ancient and medieval architecture
+  edition: '3'
+  event-place: London
+  issued:
+    - year: 1893
+  language: en-GB
+  number-of-pages: '674'
+  publisher: Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    A history of architecture in all countries from the earliest times to the
+    present day
+  type: book
+  URL: http://archive.org/details/historyofancient01ferg
+  volume: '1'
+
+- id: fletcher:1905history
+  accessed:
+    - year: 2019
+      month: 1
+      day: 31
+  author:
+    - family: Fletcher
+      given: Banister
+    - family: Fletcher
+      given: Banister F.
+  call-number: b12340145
+  edition: 5. ed.
+  event-place: 'London : New York'
+  issued:
+    - year: 1905
+  language: en-GB
+  number-of-pages: '808'
+  publisher: 'Batsford : Scribner''s sons'
+  publisher-place: 'London : New York'
+  source: Internet Archive
+  title: >-
+    A history of architecture on the comparative method for the student,
+    craftsman, and amateur
+  type: book
+  URL: http://archive.org/details/historyofarchite00flet
+
+- id: fletcher:1961history
+  author:
+    - family: Fletcher
+      given: Banister F.
+  event-place: London
+  issued:
+    - year: 1961
+  language: en-GB
+  publisher: University of London
+  publisher-place: London
+  title: History of architecture on the comparative method
+  type: book
+
+- id: harris:2011thats70
+  accessed:
+    - year: 2021
+      month: 3
+      day: 7
+  author:
+    - family: Harris
+      given: Dianne
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2011.70.2.149
+  ISSN: 0037-9808, 2150-5926
+  issue: '2'
+  issued:
+    - year: 2011
+      month: 6
+      day: 1
+  language: en-US
+  page: 149-152
+  source: DOI.org (Crossref)
+  title: That's not architectural history!
+  type: article-journal
+  URL: >-
+    https://online.ucpress.edu/jsah/article/70/2/149/92245/Thats-Not-Architectural-HistoryOr-Whats-a
+  volume: '70'
+
 - id: jaffe:1971stijl
   call-number: '72.036'
   editor:
@@ -409,6 +998,79 @@ references:
   source: Open WorldCat
   title: De Stijl
   type: book
+
+- id: james-chakraborty:2014architecture
+  abstract: >-
+    " The first global history of architecture to give equal attention to
+    Western and non-Western structures and built landscapes, Architecture since
+    1400 is unprecedented in its range, approach, and insight. From
+    Tenochtitlan's Great Pyramid in Mexico City and the Duomo in Florence to
+    Levittown's suburban tract housing and the Bird's Nest Stadium in Beijing,
+    its coverage includes the world's most celebrated structures and spaces
+    along with many examples of more humble vernacular buildings. Lavishly
+    illustrated with more than 300 photographs, plans, and interiors, this book
+    presents key moments and innovations in architectural modernity around the
+    globe. Deftly integrating architectural and social history, Kathleen
+    James-Chakraborty pays particular attention to the motivations of client and
+    architect in the design and construction of environments both sacred and
+    secular: palaces and places of worship as well as such characteristically
+    modern structures as the skyscraper, the department store, and the cinema.
+    She also focuses on the role of patrons and addresses to an unparalleled
+    degree the impact of women in commissioning, creating, and inhabiting the
+    built environment, with Gertrude Jekyll, Lina Bo Bardi, and Zaha Hadid
+    taking their place beside Brunelleschi, Sinan, and Le Corbusier. Making
+    clear that visionary architecture has never been the exclusive domain of the
+    West and recognizing the diversity of those responsible for commissioning,
+    designing, and constructing buildings, Architecture since 1400 provides a
+    sweeping, cross-cultural history of the built environment over six
+    centuries. "--
+  author:
+    - family: James-Chakraborty
+      given: Kathleen
+  call-number: NA200 .J36 2014
+  event-place: Minneapolis
+  ISBN: 978-0-8166-7396-4 978-0-8166-7397-1
+  issued:
+    - year: 2014
+  language: en-US
+  number-of-pages: '513'
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  source: Library of Congress ISBN
+  title: Architecture since 1400
+  type: book
+  URL: https://www.jstor.org/stable/10.5749/j.ctt9qh39w
+
+- id: keyvanian:2011teaching64
+  abstract: >-
+    An outline of the debate on the relationship between history and design that
+    started in the 1960s prefaces a discussion about the contribution of history
+    courses to the education of architecture students. A milestone of that
+    debate was the rejection of the idea that the study of history can aid in
+    the development of formal languages. Starting from that understanding of the
+    boundary that exists between history and design, the article discusses the
+    reasons that render the study of architectural history necessary.
+  accessed:
+    - year: 2020
+      month: 1
+      day: 29
+  archive: JSTOR
+  author:
+    - family: Keyvanian
+      given: Carla
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  ISSN: 1046-4883
+  issue: '2'
+  issued:
+    - year: 2011
+  language: en-US
+  page: 25-36
+  source: JSTOR
+  title: Teaching history to architects
+  type: article-journal
+  URL: https://www.jstor.org/stable/41318775
+  volume: '64'
 
 - id: leach:2006choosing
   author:
@@ -482,6 +1144,52 @@ references:
   URL: https://www.jstor.org/stable/40480643
   volume: '59'
 
+- id: maass:1969where
+  accessed:
+    - year: 2012
+      month: 12
+      day: 28
+  author:
+    - family: Maass
+      given: John
+  container-title: The Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/988523
+  ISSN: 0037-9808
+  issue: '1'
+  issued:
+    - year: 1969
+      month: 3
+      day: 1
+  language: en-US
+  page: 3–8
+  source: JSTOR
+  title: Where architectural historians fear to tread
+  type: article-journal
+  URL: http://www.jstor.org/stable/988523
+  volume: '28'
+
+- id: moffett:2004world
+  author:
+    - family: Moffett
+      given: Marian
+    - family: Fazio
+      given: Michael W.
+    - family: Wodehouse
+      given: Lawrence
+  call-number: NA200 .M575 2004
+  event-place: Boston
+  ISBN: 978-0-07-141751-8
+  issued:
+    - year: 2004
+  language: en-US
+  number-of-pages: '592'
+  publisher: McGraw-Hill
+  publisher-place: Boston
+  source: Library of Congress ISBN
+  title: A world history of architecture
+  type: book
+
 - id: moneo:1978typology
   author:
     - family: Moneo
@@ -494,6 +1202,29 @@ references:
   title: On typology
   type: article-journal
   volume: '13'
+
+- id: morris:1980teaching
+  accessed:
+    - year: 2016
+      month: 7
+      day: 23
+  author:
+    - family: Morris
+      given: Ellen K.
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  DOI: 10.2307/1424728
+  ISSN: 0149-2993
+  issue: '1'
+  issued:
+    - year: 1980
+  language: en-US
+  page: 27–28
+  source: JSTOR
+  title: Teaching history typologically
+  type: article-journal
+  URL: http://www.jstor.org/stable/1424728
+  volume: '34'
 
 - id: moschini:2013saverio
   author:
@@ -564,6 +1295,37 @@ references:
     Manfredo Tafuri
   title-short: Storia e progetto allo specchio
   type: chapter
+
+- id: norberg-schulz:1999arquitectura
+  accessed:
+    - year: 2020
+      month: 5
+      day: 26
+  author:
+    - family: Norberg-Schulz
+      given: Christian
+  collection-title: GG Reprints
+  edition: '3'
+  event-place: Barcelona
+  ISBN: 978-84-252-1805-7
+  issued:
+    - year: 1999
+  language: es
+  publisher: Gustavo Gili
+  publisher-place: Barcelona
+  source: Internet Archive
+  title: >-
+    Arquitectura occidental: la arquitectura como historia de formas
+    significativas
+  title-short: Arquitectura occidental
+  translator:
+    - family: González Malleville
+      given: Alcira
+    - family: Bonanno
+      given: Antonio
+  type: book
+  URL: >-
+    http://archive.org/details/norbergschulzchristian.arquitecturaoccidental1999_202001
 
 - id: panerai:2012analyse
   author:
@@ -815,6 +1577,26 @@ references:
   title: L'architettura della città
   type: book
 
+- id: seligmann:1980architectural
+  author:
+    - family: Seligmann
+      given: Claus
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  DOI: 10.2307/1424722
+  ISSN: 0149-2993
+  issue: '1'
+  issued:
+    - year: 1980
+  language: en-US
+  page: 14–19
+  source: JSTOR
+  title: 'Architectural history: discipline or routine?'
+  title-short: Architectural history
+  type: article-journal
+  URL: http://www.jstor.org/stable/1424722
+  volume: '34'
+
 - id: stoppani:2010lhistoire
   author:
     - family: Stoppani
@@ -855,6 +1637,28 @@ references:
   title: Tradizione e innovazione nell'architettura di Roma capitale, 1870–1930
   title-short: Tradizione e innovazione
   type: book
+
+- id: swenarton:1987role30
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Swenarton
+      given: Mark
+  container-title: Architectural History
+  DOI: 10.2307/1568520
+  ISSN: 0066-622X
+  issued:
+    - year: 1987
+  language: en-GB
+  page: 201-215
+  publisher: SAHGB Publications Limited
+  source: JSTOR
+  title: The role of history in architectural education
+  type: article-journal
+  URL: https://www.jstor.org/stable/1568520
+  volume: '30'
 
 - id: tafuri:1977storico
   author:
