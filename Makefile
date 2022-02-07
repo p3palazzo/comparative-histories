@@ -16,11 +16,7 @@ vpath default.% .:_lib
 vpath reference.% .:_lib
 
 DEFAULTS := defaults.yaml references.bib
-JEKYLL-VERSION := 4.2.0
-PANDOC-VERSION := 2.14
-JEKYLL/PANDOC := docker run --rm -v "`pwd`:/srv/jekyll" \
-	-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
-	palazzo/jekyll-tufte:$(JEKYLL-VERSION)-$(PANDOC-VERSION)
+PANDOC-VERSION := 2.16.1
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC-VERSION)
 PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
@@ -42,21 +38,12 @@ cv.pdf : cv.md cv.bib _chicago-cv.csl _latex.yaml
 	$(PANDOC/CROSSREF) -d _spec/defaults.yaml -o $@ $<
 	@echo "$< > $@"
 
-.PHONY : _site
-_site : | _csl/chicago-fullnote-bibliography-with-ibid.csl
-	@$(JEKYLL/PANDOC) /bin/bash -c \
-	"chmod 777 /srv/jekyll && jekyll build"
-
 _csl/%.csl : _csl
 	@cd _csl && git checkout master -- $(@F)
 	@echo "Checked out $(@F)."
 
 # Install and cleanup {{{1
 # ===================
-.PHONY : serve
-serve : | _csl/chicago-fullnote-bibliography-with-ibid.csl
-	@$(JEKYLL/PANDOC) jekyll serve
-
 .PHONY : _csl
 _csl :
 	@echo "Fetching CSL styles..."
@@ -67,17 +54,5 @@ _csl :
 
 .PHONY : clean
 clean :
-	-rm -rf _book/* _site _csl
-
-.PHONY : submodule-update
-submodule-update : | _sass _spec assets/css-slides reveal.js _site/reveal.js
-	@echo 'Updating _sass...'
-	@cd _sass && git checkout master && git pull --ff-only
-	@echo 'Updating _spec...'
-	@cd _spec && git checkout master && git pull --ff-only
-	@echo 'Updating assets/css-slides...'
-	@cd assets/css-slides && git checkout master && git pull --ff-only
-	@echo 'Updating reveal.js...'
-	@cd reveal.js && git checkout master && git pull --ff-only
-
+	-rm -rf _book/* _csl
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
