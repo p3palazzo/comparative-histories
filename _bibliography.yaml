@@ -1,0 +1,5283 @@
+---
+references:
+- id: ackerman:1962theory20
+  accessed:
+    - year: 2018
+      month: 12
+      day: 3
+  author:
+    - family: Ackerman
+      given: James S.
+  citation-key: ackerman:1962theory20
+  container-title: The Journal of Aesthetics and Art Criticism
+  DOI: 10.2307/427321
+  ISSN: 0021-8529
+  issue: '3'
+  issued:
+    - year: 1962
+  language: en-US
+  page: 227-237
+  source: JSTOR
+  title: A theory of style
+  type: article-journal
+  URL: https://www.jstor.org/stable/427321
+  volume: '20'
+
+- id: ackerman:2002origins
+  author:
+    - family: Ackerman
+      given: James S.
+  call-number: N7480 .A29 2002
+  citation-key: ackerman:2002origins
+  event-place: Cambridge, Mass.
+  ISBN: 978-0-262-01186-0
+  issued:
+    - year: 2002
+  language: en-US
+  number-of-pages: '328'
+  publisher: MIT Press
+  publisher-place: Cambridge, Mass.
+  source: Library of Congress ISBN
+  title: 'Origins, imitation, conventions: representation in the visual arts'
+  title-short: Origins, imitation, conventions
+  type: book
+
+- id: anderson:1982types
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Anderson
+      given: Stanford
+  citation-key: anderson:1982types
+  container-title: Perspecta
+  container-title-short: Perspecta
+  DOI: 10.2307/1567037
+  ISSN: 0079-0958
+  issued:
+    - year: 1982
+      month: 1
+      day: 1
+  language: en-GB
+  page: 109-117
+  source: JSTOR
+  title: >-
+    Types and conventions in time: toward a history for the duration and change
+    of artifacts
+  title-short: Types and conventions in time
+  type: article-journal
+  URL: http://www.jstor.org/stable/1567037
+  volume: '18'
+
+- id: anderson:1999writing58
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Anderson
+      given: Christy
+  citation-key: anderson:1999writing58
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.2307/991528
+  ISSN: 0037-9808
+  issue: '3'
+  issued:
+    - year: 1999
+  language: English
+  page: 350-355
+  publisher: '[Society of Architectural Historians, University of California Press]'
+  source: JSTOR
+  title: >-
+    Writing the architectural survey: collective authorities and competing
+    approaches
+  title-short: Writing the architectural survey
+  type: article-journal
+  URL: https://www.jstor.org/stable/991528
+  volume: '58'
+
+- id: armstrong:2013leroy
+  abstract: >-
+    This book examines the career and publications of the French architect
+    Julien-David Leroy (1724–1803) and his impact on architectural theory and
+    pedagogy.  Despite not leaving any built work, Leroy is a major
+    international figure of eighteenth-century architectural theory and culture.
+    Considering the place that Leroy occupied in various intellectual circles of
+    the Enlightenment and Revolutionary period, this book examines the sources
+    for his ideas about architectural history and theory and defines his impact
+    on subsequent architectural thought. This book will be of key interest to
+    graduate students and scholars of Enlightenment-era architectural history.
+  author:
+    - family: Armstrong
+      given: Christopher Drew
+  citation-key: armstrong:2013leroy
+  ISBN: 978-1-135-76396-1
+  issued:
+    - year: 2013
+      month: 4
+      day: 15
+  language: en-GB
+  number-of-pages: '316'
+  publisher: Routledge
+  source: Google Books
+  title: Julien-David Leroy and the making of architectural history
+  type: book
+
+- id: armstrong:2017academie
+  author:
+    - family: Armstrong
+      given: Christopher Drew
+  call-number: NA200 .C64 2017
+  citation-key: armstrong:2017academie
+  container-title: The companions to the history of architecture
+  editor:
+    - family: Mallgrave
+      given: Harry Francis
+  event-place: Chichester, West Sussex ; Malden, Mass.
+  ISBN: 978-1-4443-3851-5
+  issued:
+    - year: 2017
+  language: en-US
+  page: 15.1–15.29
+  publisher: 'Wiley : Blackwell'
+  publisher-place: Chichester, West Sussex ; Malden, Mass.
+  source: Library of Congress ISBN
+  title: The Académie Royale d’Architecture (1671–1793)
+  type: chapter
+
+- id: arnold:2002reading
+  author:
+    - family: Arnold
+      given: Dana
+  call-number: NA190 .A76 2002
+  citation-key: arnold:2002reading
+  event-place: London ; New York
+  ISBN: 978-0-415-25049-8 978-0-415-25050-4
+  issued:
+    - year: 2002
+  language: en-US
+  number-of-pages: '229'
+  publisher: Routledge, Taylor & Francis Group
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: Reading architectural history
+  type: book
+
+- id: arnold:2003tracing
+  call-number: NE962.A72 T73 2003
+  citation-key: arnold:2003tracing
+  editor:
+    - family: Arnold
+      given: Dana
+    - family: Bending
+      given: Stephen
+  event-place: Malden, Mass.
+  ISBN: 978-1-4051-0535-4
+  issued:
+    - year: 2003
+  language: English
+  number-of-pages: '149'
+  publisher: Blackwell
+  publisher-place: Malden, Mass.
+  source: Library of Congress ISBN
+  title: 'Tracing architecture: the aesthetics of antiquarianism'
+  title-short: Tracing architecture
+  type: book
+
+- id: arnold:2006rethinking
+  citation-key: arnold:2006rethinking
+  editor:
+    - family: Arnold
+      given: Dana
+    - family: Ergut
+      given: Elvan Altan
+  event-place: London
+  ISBN: 978-0-415-36082-1 978-0-415-36085-2
+  issued:
+    - year: 2006
+  language: English
+  number-of-pages: '251'
+  publisher: Routledge
+  publisher-place: London
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Rethinking architectural historiography
+  type: book
+
+- id: baldensperger:1921litterature1
+  archive: Fichário 01
+  author:
+    - family: Baldensperger
+      given: Fernand
+  call-number: 82.09"19"
+  citation-key: baldensperger:1921litterature1
+  container-title: Revue de Littérature Comparée
+  issued:
+    - year: 1921
+  language: French
+  page: 5–29
+  title: 'Littérature comparée : le mot et la chose'
+  type: article-journal
+  volume: '1'
+
+- id: bann:1987clio23
+  accessed:
+    - year: 2020
+      month: 6
+      day: 29
+  archive: JSTOR
+  author:
+    - family: Bann
+      given: Stephen
+  citation-key: bann:1987clio23
+  container-title: Perspecta
+  DOI: 10.2307/1567105
+  ISSN: 0079-0958
+  issued:
+    - year: 1987
+  language: English
+  page: 24-37
+  publisher: The MIT Press
+  source: JSTOR
+  title: 'Clio in part: on antiquarianism and the historical fragment'
+  title-short: Clio in part
+  type: article-journal
+  URL: https://www.jstor.org/stable/1567105
+  volume: '23'
+
+- id: bann:1990inventions
+  author:
+    - family: Bann
+      given: Stephen
+  call-number: D6 .B26 1990
+  citation-key: bann:1990inventions
+  event-place: 'Manchester, UK ; New York, NY : New York, NY'
+  ISBN: 978-0-7190-3297-4
+  issued:
+    - year: 1990
+  number-of-pages: '246'
+  publisher: >-
+    Manchester University Press ; Distributed exclusively in the USA and Canada
+    by St. Martin's Press
+  publisher-place: 'Manchester, UK ; New York, NY : New York, NY'
+  source: Library of Congress ISBN
+  title: 'The inventions of history: essays on the representation of the past'
+  title-short: The inventions of history
+  type: book
+
+- id: bannister:1942contributions2
+  accessed:
+    - year: 2021
+      month: 3
+      day: 7
+  author:
+    - family: Bannister
+      given: Turpin C.
+  citation-key: bannister:1942contributions2
+  container-title: Journal of the American Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/901232
+  ISSN: 1544-9890
+  issue: '2'
+  issued:
+    - year: 1942
+      month: 4
+      day: 1
+  language: en-US
+  page: 5-13
+  source: DOI.org (Crossref)
+  title: >-
+    The contributions of architectural history to the development of the modern
+    student-architect
+  type: article-journal
+  URL: >-
+    https://online.ucpress.edu/jsah/article/2/2/5/55310/The-Contributions-of-Architectural-History-to-the
+  volume: '2'
+
+- id: barberot:1891histoire1
+  abstract: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours,. Tome 1 / par É. Barberot,... -- 1891 -- livre
+  accessed:
+    - year: 2021
+      month: 1
+      day: 19
+  author:
+    - family: Barberot
+      given: Étienne (1846-19 ) Auteur
+      dropping-particle: du texte
+  citation-key: barberot:1891histoire1
+  event-place: Paris
+  issued:
+    - year: 1891
+  language: fr-FR
+  publisher: Baudry
+  publisher-place: Paris
+  source: gallica.bnf.fr
+  title: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours
+  type: book
+  URL: https://gallica.bnf.fr/ark:/12148/bpt6k6562416x
+  volume: '1'
+
+- id: barberot:1891histoire2
+  abstract: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours,. Tome 2 / par É. Barberot,... -- 1891 -- livre
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Barberot
+      given: Étienne
+  citation-key: barberot:1891histoire2
+  event-place: Paris
+  issued:
+    - year: 1891
+  language: fr-FR
+  publisher: Baudry
+  publisher-place: Paris
+  source: gallica.bnf.fr
+  title: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours
+  type: book
+  URL: http://gallica.bnf.fr/ark:/12148/bpt6k6562417b
+  volume: '2'
+
+- id: baydar:1998postcolonial
+  author:
+    - family: Baydar Nalbantoğlu
+      given: Gülsüm
+  citation-key: baydar:1998postcolonial
+  container-title: Assemblage
+  DOI: 10.2307/3171235
+  ISSN: 0889-3012
+  issue: '35'
+  issued:
+    - year: 1998
+  language: en-US
+  page: 7-17
+  source: JSTOR
+  title: >-
+    Toward postcolonial openings: rereading Sir Banister Fletcher's "History of
+    Architecture"
+  title-short: Toward Postcolonial Openings
+  type: article-journal
+  URL: http://www.jstor.org/stable/3171235
+
+- id: baydar:2004cultural57
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Baydar
+      given: Gülsüm
+  citation-key: baydar:2004cultural57
+  container-title: Journal of Architectural Education
+  DOI: 10.1162/104648804323085446
+  ISSN: 1046-4883, 1531-314X
+  issue: '4'
+  issued:
+    - year: 2004
+      month: 5
+  language: en-US
+  page: 19-27
+  source: Crossref
+  title: The cultural burden of architecture
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/full/10.1162/104648804323085446
+  volume: '57'
+
+- id: bazin:1986histoire
+  author:
+    - family: Bazin
+      given: Germain
+  call-number: N6350 .B38 1986
+  citation-key: bazin:1986histoire
+  event-place: Paris
+  ISBN: 978-2-226-02787-0
+  issued:
+    - year: 1986
+  language: French
+  number-of-pages: '652'
+  publisher: A. Michel
+  publisher-place: Paris
+  source: dedalus.usp.br Library Catalog
+  title: 'Histoire de l''histoire de l''art: de Vasari à nos jours'
+  title-short: Histoire de l'histoire de l'art
+  type: book
+
+- id: beiser:2011german
+  author:
+    - family: Beiser
+      given: Frederick C.
+  call-number: D16.9 .B3895 2011
+  citation-key: beiser:2011german
+  event-place: Oxford ; New York
+  ISBN: 978-0-19-969155-5 978-0-19-870941-1
+  issued:
+    - year: 2011
+  number-of-pages: '600'
+  publisher: Oxford University Press
+  publisher-place: Oxford ; New York
+  source: Library of Congress ISBN
+  title: The German historicist tradition
+  type: book
+
+- id: belloni:2013ricomposizione
+  author:
+    - family: Belloni
+      given: Francesca
+  call-number: NA1123.M78 S28 2013
+  citation-key: belloni:2013ricomposizione
+  container-title: >-
+    Saverio Muratori architetto (Modena 1910-Roma 1973): a cento anni dalla
+    nascita: atti del convegno itinerante
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  event-place: Firenze
+  ISBN: 978-88-98262-03-8
+  issued:
+    - year: 2013
+  language: it
+  page: 48-51
+  publisher: Aión
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: Per una ricomposizione impossibile. Teoria della crisi e storia operante
+  type: chapter
+  URL: https://re.public.polimi.it/handle/11311/976650
+
+- id: binfield:2003architecture13
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Binfield
+      given: Clyde
+  citation-key: binfield:2003architecture13
+  container-title: Transactions of the Royal Historical Society
+  ISSN: 0080-4401
+  issued:
+    - year: 2003
+  language: English
+  page: 189-197
+  publisher: '[Cambridge University Press, Royal Historical Society]'
+  source: JSTOR
+  title: 'Architecture and history: an introduction'
+  title-short: Architecture and history
+  type: article-journal
+  URL: https://www.jstor.org/stable/3679251
+  volume: '13'
+
+- id: blaut:1993colonizers
+  author:
+    - family: Blaut
+      given: James M.
+  call-number: D16.9 .B49 1992
+  citation-key: blaut:1993colonizers
+  event-place: New York
+  ISBN: 978-0-89862-349-9 978-0-89862-348-2
+  issued:
+    - year: 1993
+  language: English
+  number-of-pages: '246'
+  publisher: Guilford
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: >-
+    The colonizer's model of the world: geographical diffusionism and
+    Eurocentric history
+  title-short: The colonizer's model of the world
+  type: book
+
+- id: bloom:1973anxiety
+  author:
+    - family: Bloom
+      given: Harold
+  call-number: '82.09'
+  citation-key: bloom:1973anxiety
+  event-place: 'New York : Oxford'
+  issued:
+    - year: 1973
+  language: English
+  number-of-pages: '157'
+  publisher: Oxford University Press
+  publisher-place: 'New York : Oxford'
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'The anxiety of influence: a theory of poetry'
+  title-short: The anxiety of influence
+  type: book
+
+- id: bock:2017fiction2017
+  accessed:
+    - year: 2019
+      month: 12
+      day: 19
+  author:
+    - family: Böck
+      given: Ingrid
+  citation-key: bock:2017fiction2017
+  container-title: Esempi di Architettura
+  container-title-short: EdA
+  ISSN: '20357982'
+  issue: '2'
+  issued:
+    - year: 2017
+  language: Italian
+  page: '18'
+  title: 'The fiction of reason: Tafuri and the avant-garde'
+  type: article-journal
+  URL: http://esempidiarchitettura.it/sito/eda-2017/
+  volume: '2017'
+
+- id: bozdogan:1986orientalism14
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: Bozdoğan
+      given: Sibel
+  citation-key: bozdogan:1986orientalism14
+  container-title: Social Scientist
+  DOI: 10.2307/3517250
+  ISSN: 0970-0293
+  issue: '7'
+  issued:
+    - year: 1986
+  language: English
+  page: 46-58
+  publisher: Social Scientist
+  source: JSTOR
+  title: Orientalism and architectural culture
+  type: article-journal
+  URL: https://www.jstor.org/stable/3517250
+  volume: '14'
+
+- id: bozdogan:1988journey41
+  abstract: >-
+    From the seventeenth century onwards, the systematic discovery of the lands
+    to the east of Europe gradually established the Orient as the subject matter
+    of representation--of illustrated travel accounts, etchings, engravings,
+    paintings and sketches. This needs to be seen as part of a larger historical
+    episode which has installed representation as the principal construct of
+    knowledge in Western culture. The Orient is thereby objectified into a form
+    of discourse, as Edward Said has brilliantly shown us, as well as into a
+    stereotypical image for consumption and a stylistic category in
+    architecture. Through a critique of Orientalist constructs, this paper
+    intends to draw attention to an alternative way of looking at the Orient:
+    one that does not turn it into an independent, frozen reality outside the
+    self-knowing subject, but instead, enters into its world, engages with it
+    and employs representation as a critical/exploratory vehicle rather than an
+    affirmative/expository one. It is in this sense that the experiential
+    sketches and scribbles of Le Corbusier in his "Journey to the East" offer us
+    some insight the implications of which are highly significant and relevant
+    for the current architectural culture at large.
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: Bozdoğan
+      given: Sibel
+  citation-key: bozdogan:1988journey41
+  container-title: Journal of Architectural Education (1984-)
+  DOI: 10.2307/1425011
+  ISSN: 1046-4883
+  issue: '4'
+  issued:
+    - year: 1988
+  language: English
+  page: 38-45
+  publisher: >-
+    [Taylor & Francis, Ltd., Association of Collegiate Schools of Architecture,
+    Inc.]
+  source: JSTOR
+  title: >-
+    Journey to the east: ways of looking at the Orient and the question of
+    representation
+  title-short: Journey to the east
+  type: article-journal
+  URL: https://www.jstor.org/stable/1425011
+  volume: '41'
+
+- id: bozdogan:1999architectural
+  abstract: >-
+    In recent years, our inherited architectural culture, which privileges the
+    autonomy of form and the paradigmatic status of the western tradition, has
+    been contested from a range of critical perspectives. In this article I
+    address some of the new challenges that architectural history faces today
+    and contemplate two questions with important implications for teaching
+    survey courses. First, how does one make architectural history less
+    Eurocentric and more cross-cultural without either naturalizing the cultural
+    difference of "others" or essentializing these differences into
+    incommensurable categories? Second, how does one talk about the politics of
+    architecture without reducing architecture to politics?
+  accessed:
+    - year: 2013
+      month: 7
+      day: 11
+  archive: Fichário 02
+  author:
+    - family: Bozdoğan
+      given: Sibel
+  call-number: 72.03:378
+  citation-key: bozdogan:1999architectural
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  DOI: 10.2307/1425410
+  ISSN: 1046-4883
+  issue: '4'
+  issued:
+    - year: 1999
+      month: 5
+  language: en-US
+  page: 207–215
+  source: JSTOR
+  title: >-
+    Architectural history in professional education: reflections on postcolonial
+    challenges to the modern survey
+  title-short: Architectural history in professional education
+  type: article-journal
+  URL: http://www.jstor.org/stable/1425410
+  volume: '52'
+
+- id: bressani:1989notes
+  abstract: >-
+    In an effort to expand on the traditional rationalist interpretation of
+    Viollet-le-Duc, this article explores his ideas of progress and history.
+    Viollet's "reason" is described as a dialectical structure which develops in
+    time, unfolding through history. From his description of the origins of
+    architecture to his account of the great periods of mankind, Viollet's
+    philosophy of history presents an ideology of freedom; and through it he
+    attempts to demonstrate humanity's progressive transformation of a nature
+    originally hostile to man into a new world in harmony with him. The
+    historical dialectic follows three distinct stages: Asian civilization
+    (theocraty), Antiquity (aristocraty) and finally Christianity (democraty),
+    which is a synthesis of the previous two. Such trinitarian rule is basic to
+    the dialectical process itself. It underlies not only Viollet's philosophy
+    of history but also his philosophy of nature (theory of crystals). Technique
+    is the realm of human activity which, for Viollet, best speaks of man's
+    dialectical engagement with the world. Viollet's central notion of style
+    defines a technical activity; an object endowed with style must result from
+    the struggle between the real (the world of nature and tradition, the given
+    facts from which human action starts out) and the ideal (the world of human
+    aspirations and progress). Style is an expression of dialectical synthesis.
+    It is in his description of the difference between Greek and Gothic
+    architecture that Viollet's historical dialectic comes through most clearly.
+    Greek architecture, for Viollet, is the first instance of an architecture
+    which seeks to free itself from the enslavement to tradition. The static
+    nature of Greek structural principles, however, still reflects a fatalistic
+    vision of the world. In contrast, Gothic architecture is the birth of a
+    radical spirit of invention which seeks to subjugate totally both nature and
+    tradition. The principle of equilibrium basic to its structural organization
+    is an example of man's cunning play with the forces of nature. It embodies
+    the "Christian rule" which leaves to man his free will and the
+    responsibility for his own works. Christianity is the last stage in the
+    historical dialectic where man becomes "a creature in the image of the
+    Creator."
+  author:
+    - family: Bressani
+      given: Martin
+  citation-key: bressani:1989notes
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.2307/990453
+  ISSN: 0037-9808
+  issue: '4'
+  issued:
+    - year: 1989
+  language: English
+  page: 327-350
+  source: JSTOR
+  title: 'Notes on Viollet-le-Duc''s philosophy of history: dialectics and technology'
+  title-short: Viollet-le-Duc's Philosophy of History
+  type: article-journal
+  URL: http://www.jstor.org/stable/990453
+  volume: '48'
+
+- id: cardoso:1935philosophiaa
+  author:
+    - family: Cardoso
+      given: Vicente Licínio
+  citation-key: cardoso:1935philosophiaa
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1935
+  language: Portuguese
+  publisher: José Olympio
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: 'Philosophia da arte: (synthese positiva e notas á margem)'
+  title-short: Philosophia da arte
+  type: book
+
+- id: carlhian:1980history
+  author:
+    - family: Carlhian
+      given: Jean Paul
+  citation-key: carlhian:1980history
+  container-title: Journal of Architectural Education
+  DOI: 10.2307/1424726
+  ISSN: 0149-2993
+  issue: '1'
+  issued:
+    - year: 1980
+  language: en-US
+  page: '25'
+  source: JSTOR
+  title: History at the Ecole
+  type: article-journal
+  URL: http://www.jstor.org/stable/1424726
+  volume: '34'
+
+- id: carter:1991introduction4
+  accessed:
+    - year: 2019
+      month: 7
+      day: 3
+  author:
+    - family: Carter
+      given: Thomas
+    - family: Herman
+      given: Bernard L.
+  citation-key: carter:1991introduction4
+  container-title: Perspectives in Vernacular Architecture
+  ISSN: 0887-9885
+  issued:
+    - year: 1991
+  language: English
+  page: 1-6
+  source: JSTOR
+  title: 'Introduction: toward a new architectural history'
+  title-short: Introduction
+  type: article-journal
+  URL: https://www.jstor.org/stable/3514216
+  volume: '4'
+
+- id: casciato:2003italian62
+  accessed:
+    - year: 2019
+      month: 12
+      day: 19
+  author:
+    - family: Casciato
+      given: Maristella
+    - family: Fifield
+      given: Barry
+  citation-key: casciato:2003italian62
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/3655086
+  ISSN: 0037-9808
+  issue: '1'
+  issued:
+    - year: 2003
+  language: English
+  page: 92-101
+  source: JSTOR
+  title: 'The Italian mosaic: the architect as historian'
+  title-short: The italian mosaic
+  type: article-journal
+  URL: www.jstor.org/stable/3655086
+  volume: '62'
+
+- id: celik:1988methods41
+  abstract: >-
+    The current academic and popular interest in urban history is accompanied by
+    methodological explorations. Paralleling the recent trends in social
+    history, architectural historians working on urban topics have broadened the
+    subject matter. They now investigate social, economic, political, and
+    cultural issues to explain the built forms of cities, thereby relying on
+    interdisciplinary research. The focus is often on urban transformations with
+    a wide-spread concern to address the issues and problems of today and
+    tomorrow through studying history. While the recent methodological search in
+    urban history is rich and inspirational, it also bears shortcomings.
+    Methodological pluralism can easily lead to a diminution of focus and a
+    general ambiguity, obscuring evaluation standards. The approaches surveyed
+    here display the widening perspectives, but also point to the importance of
+    further theoretical and methodological discussion.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 3
+  archive: JSTOR
+  author:
+    - family: Çelik
+      given: Zeynep
+    - family: Favro
+      given: Diane
+  citation-key: celik:1988methods41
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  DOI: 10.2307/1424886
+  ISSN: 1046-4883
+  issue: '3'
+  issued:
+    - year: 1988
+  language: en
+  page: 4-9
+  source: JSTOR
+  title: Methods of urban history
+  type: article-journal
+  URL: https://www.jstor.org/stable/1424886
+  volume: '41'
+
+- id: ceserani:2013antiquarian
+  author:
+    - family: Ceserani
+      given: Giovanna
+  call-number: D210 .W65 2013
+  citation-key: ceserani:2013antiquarian
+  collection-title: Issues & Debates
+  container-title: 'World antiquarianism: comparative perspectives'
+  editor:
+    - family: Schnapp
+      given: Alain
+    - family: Falkenhausen
+      given: Lothar
+      dropping-particle: von
+    - family: Miller
+      given: Peter N.
+    - family: Murray
+      given: Tim
+  event-place: Los Angeles
+  ISBN: 978-1-60606-148-0
+  issued:
+    - year: 2013
+  language: English
+  page: 317–342
+  publisher: Getty Research Institute
+  publisher-place: Los Angeles
+  source: Library of Congress ISBN
+  title: Antiquarian transformations in eighteenth-century Europe
+  type: chapter
+
+- id: chambers:1759treatise
+  abstract: >-
+    Library's copy lacks 8th and 14th leaves of plates at end of book. Cf.
+    Directions to binder, p. [86]
+  accessed:
+    - year: 2020
+      month: 7
+      day: 19
+  author:
+    - family: Chambers
+      given: William
+  citation-key: chambers:1759treatise
+  event-place: London
+  issued:
+    - year: 1759
+  language: en-GB
+  publisher: Printed for the author by J. Haberkorn
+  publisher-place: London
+  source: archive.org
+  title: >-
+    A treatise on civil architecture : in which the principles of that art are
+    laid down, and illustrated by a great number of plates accurately designed,
+    and elegantly engraved by the best hands
+  title-short: A treatise on civil architecture
+  type: book
+  URL: https://archive.org/details/gri_33125011135288
+
+- id: chevrel:1991litterature
+  author:
+    - family: Chevrel
+      given: Yves
+  citation-key: chevrel:1991litterature
+  event-place: Paris
+  issued:
+    - year: 1991
+  language: French
+  publisher: P.U.F.
+  publisher-place: Paris
+  title: La littérature comparée
+  type: book
+
+- id: ching:2007global
+  abstract: >-
+    "Organized along a global timeline, A Global History of Architecture
+    presents an innovative approach to the study of architectural history.
+    Spanning from 3,500 B.C.E. to the present, this unique guide is written by
+    an all-star team of architectural experts in their fields who emphasize the
+    connections, contrasts, and influences of architectural movements throughout
+    history. The architectural history of the world comes to life through a
+    unified framework for interpreting and understanding architecture,
+    supplemented by drawings from the renowned Frank Ching as well as
+    photographs."--Jacket.
+  author:
+    - family: Ching
+      given: Francis D. K
+    - family: Jarzombek
+      given: Mark
+    - family: Prakash
+      given: Vikramaditya
+  citation-key: ching:2007global
+  event-place: Hoboken, N.J.
+  ISBN: 978-0-471-26892-5
+  issued:
+    - year: 2007
+  language: en-US
+  publisher: J. Wiley & Sons
+  publisher-place: Hoboken, N.J.
+  source: Open WorldCat
+  title: A global history of architecture
+  type: book
+
+- id: ching:2011global
+  abstract: >-
+    "The award-winning First Edition of A Global History of Architecture was a
+    publishing event that forever changed the way architectural history is
+    viewed and studied. This Second Edition surpasses the first with a lavish
+    new design, illustrated throughout with drawings and photographs in full
+    color, and even more maps and diagrams detailing global interconnections.
+    The signature drawings of Francis D.K. Ching are more informative than ever,
+    updated with scale, annotation, and function added where needed. This
+    revision is sure to remain the most relevant book on the topic"--
+  author:
+    - family: Ching
+      given: Francis D. K.
+    - family: Jarzombek
+      given: Mark
+    - family: Prakash
+      given: Vikramaditya
+  call-number: NA200 .C493 2011
+  citation-key: ching:2011global
+  edition: 2nd ed
+  event-place: Hoboken, N.J
+  ISBN: 978-0-470-40257-3
+  issued:
+    - year: 2011
+  language: en-US
+  number-of-pages: '848'
+  publisher: Wiley
+  publisher-place: Hoboken, N.J
+  source: Library of Congress ISBN
+  title: A global history of architecture
+  type: book
+
+- id: chipiez:1876histoire
+  accessed:
+    - year: 2021
+      month: 2
+      day: 15
+  author:
+    - family: Chipiez
+      given: Charles
+  call-number: na 2815 .C5 1876
+  citation-key: chipiez:1876histoire
+  event-place: Paris
+  issued:
+    - year: 1876
+  language: French
+  number-of-pages: '474'
+  publisher: Ve A. Morel & cie.
+  publisher-place: Paris
+  source: Internet Archive
+  title: Histoire critique des origines et de la formation des ordres grecs
+  type: book
+  URL: http://archive.org/details/histoirecritique00chip
+
+- id: choisy:1899histoire
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1899histoire
+  event-place: Paris
+  issued:
+    - year: 1899
+  language: fr-FR
+  number-of-volumes: '2'
+  publisher: Gauthier-Villars
+  publisher-place: Paris
+  title: Histoire de l'architecture
+  type: book
+
+- id: chueca:1981invariantes
+  author:
+    - family: Chueca Goitia
+      given: Fernando
+  call-number: '72'
+  citation-key: chueca:1981invariantes
+  collection-number: '2'
+  collection-title: Dossat Bolsillo
+  event-place: Madrid
+  ISBN: 978-84-237-0462-0
+  issued:
+    - year: 1981
+  language: es
+  number-of-pages: '254'
+  publisher: Dossat
+  publisher-place: Madrid
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    Invariantes castizos de la arquitectura española : Invariantes en la
+    arquitectura hispanoamericana : Manifiesto de la Alhambra
+  type: book
+
+- id: ciardo:1947quattro
+  author:
+    - family: Ciardo
+      given: Manlio
+  call-number: '930.1'
+  citation-key: ciardo:1947quattro
+  collection-number: n. 418
+  collection-title: Biblioteca di cultura moderna
+  event-place: Bari
+  issued:
+    - year: 1947
+  language: Italian
+  number-of-pages: '412'
+  publisher: G. Laterza
+  publisher-place: Bari
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Le quattro epoche dello storicismo: Vico, Kant, Hegel, Croce'
+  title-short: Le quattro epoche dello storicismo
+  type: book
+
+- id: cohen:1987emergence40
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Cohen
+      given: Jean-Louis
+  citation-key: cohen:1987emergence40
+  container-title: Journal of Architectural Education (1984-)
+  DOI: 10.2307/1424918
+  ISSN: 1046-4883
+  issue: '2'
+  issued:
+    - year: 1987
+  language: English
+  page: 10-11
+  publisher: >-
+    [Taylor & Francis, Ltd., Association of Collegiate Schools of Architecture,
+    Inc.]
+  source: JSTOR
+  title: The emergence of architectural research in France
+  type: article-journal
+  URL: https://www.jstor.org/stable/1424918
+  volume: '40'
+
+- id: cohen:1999exhibitionist58
+  accessed:
+    - year: 2019
+      month: 6
+      day: 8
+  author:
+    - family: Cohen
+      given: Jean-Louis
+  citation-key: cohen:1999exhibitionist58
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.2307/991524
+  ISSN: 00379808, 21505926
+  issue: '3'
+  issued:
+    - year: 1999
+      month: 9
+  language: English
+  page: 316-325
+  source: Crossref
+  title: 'Exhibitionist revisionism: exposing architectural history'
+  title-short: Exhibitionist revisionism
+  type: article-journal
+  URL: http://jsah.ucpress.edu/cgi/doi/10.2307/991524
+  volume: '58'
+
+- id: cohen:2008scholarship67
+  accessed:
+    - year: 2020
+      month: 2
+      day: 24
+  author:
+    - family: Cohen
+      given: Jean-Louis
+  citation-key: cohen:2008scholarship67
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2008.67.3.325
+  ISSN: 0037-9808, 2150-5926
+  issue: '3'
+  issued:
+    - year: 2008
+      month: 9
+      day: 1
+  language: English
+  page: 325-329
+  source: DOI.org (Crossref)
+  title: Scholarship or politics? Architectural history and the risks of autonomy
+  title-short: Scholarship or politics?
+  type: article-journal
+  URL: http://jsah.ucpress.edu/cgi/doi/10.1525/jsah.2008.67.3.325
+  volume: '67'
+
+- id: colquhoun:2004historicismo
+  author:
+    - family: Colquhoun
+      given: Alan
+  citation-key: colquhoun:2004historicismo
+  container-title: 'Modernidade e tradição clássica: ensaios sobre arquitetura 1980-1987'
+  event-place: São Paulo
+  issued:
+    - year: 2004
+  language: Portuguese
+  page: 23-37
+  publisher: Cosac & Naify
+  publisher-place: São Paulo
+  title: Três tipos de historicismo
+  type: chapter
+
+- id: colquhoun:2004modernidade
+  author:
+    - family: Colquhoun
+      given: Alan
+  citation-key: colquhoun:2004modernidade
+  event-place: São Paulo
+  ISBN: 978-85-7503-278-7
+  issued:
+    - year: 2004
+  language: Portuguese
+  publisher: Cosac & Naify
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Modernidade e tradição clássica: ensaios sobre arquitetura, 1980-1987'
+  title-short: Modernidade e tradição clássica
+  type: book
+
+- id: coolidge:1943preliminary3
+  accessed:
+    - year: 2019
+      month: 6
+      day: 10
+  author:
+    - family: Coolidge
+      given: John
+  citation-key: coolidge:1943preliminary3
+  container-title: The Journal of the American Society of Architectural Historians
+  container-title-short: Journal of the American Society of Architectural Historians
+  DOI: 10.2307/901222
+  ISSN: '15449890'
+  issue: '3'
+  issued:
+    - year: 1943
+      month: 7
+  language: English
+  page: 3-11
+  source: DOI.org (Crossref)
+  title: Preliminary steps towards "the new history of architecture"
+  type: article-journal
+  URL: http://jsah.ucpress.edu/cgi/doi/10.2307/901222
+  volume: '3'
+
+- id: coomaraswamy:1956christian
+  author:
+    - family: Coomaraswamy
+      given: Ananda K.
+  citation-key: coomaraswamy:1956christian
+  event-place: New York
+  ISBN: 978-0-486-20378-2
+  issued:
+    - year: 1956
+  language: English
+  publisher: Dover
+  publisher-place: New York
+  source: Open WorldCat
+  title: Christian and Oriental philosophy of art
+  type: book
+
+- id: coussin:1849modeles
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Coussin
+      given: J.-A.
+  citation-key: coussin:1849modeles
+  event-place: Paris
+  issued:
+    - year: 1849
+  language: fr-FR
+  publisher: A. Logerot
+  publisher-place: Paris
+  source: Gallica
+  title: Modèles d'architecture depuis l'origine de cet art jusqu'à nos jours...
+  type: book
+  URL: http://gallica.bnf.fr/ark:/12148/bpt6k6208352x
+
+- id: croce:1904estetica
+  author:
+    - family: Croce
+      given: Benedetto
+  citation-key: croce:1904estetica
+  event-place: Napoli
+  issued:
+    - year: 1904
+  language: Italian
+  publisher: Electa
+  publisher-place: Napoli
+  title: >-
+    Estetica come scienza dell'espressione e linguistica generale : teoria e
+    storia
+  title-short: Estetica come scienza dell'espressione e linguistica generale
+  type: book
+
+- id: croce:1920teoria
+  author:
+    - family: Croce
+      given: Benedetto
+  call-number: '930.1'
+  citation-key: croce:1920teoria
+  collection-number: '4'
+  collection-title: Filosofia come scienza dello spirito
+  edition: 2ª. ed. riveduta
+  event-place: Bari
+  issued:
+    - year: 1920
+  language: Italian
+  number-of-pages: '292'
+  publisher: Gius. Laterza & Figli
+  publisher-place: Bari
+  source: webopac.sib.uc.pt Library Catalog
+  title: Teoria e storia della storiografia
+  type: book
+
+- id: croce:1948teoria
+  author:
+    - family: Croce
+      given: Benedetto
+  call-number: '930.23'
+  citation-key: croce:1948teoria
+  collection-number: '4'
+  collection-title: Filosofia dello spirito
+  edition: 6ª ed. riveduta
+  event-place: Bari
+  issued:
+    - year: 1948
+  language: Italian
+  number-of-pages: '332'
+  publisher: Gius. Laterza & Figli
+  publisher-place: Bari
+  source: webopac.sib.uc.pt Library Catalog
+  title: Teoria e storia della storiografia
+  type: book
+
+- id: crook:1984architecture27
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Crook
+      given: J. Mordaunt
+  citation-key: crook:1984architecture27
+  container-title: Architectural History
+  DOI: 10.2307/1568497
+  ISSN: 0066-622X
+  issued:
+    - year: 1984
+  language: English
+  page: 555-578
+  publisher: SAHGB Publications Limited
+  source: JSTOR
+  title: Architecture and history
+  type: article-journal
+  URL: https://www.jstor.org/stable/1568497
+  volume: '27'
+
+- id: cuff:2017historical76
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Cuff
+      given: Dana
+  citation-key: cuff:2017historical76
+  container-title: Journal of the Society of Architectural Historians
+  ISSN: 0037-9808
+  issue: '1'
+  issued:
+    - year: 2017
+  language: English
+  page: 5-9
+  publisher: '[Society of Architectural Historians, University of California Press]'
+  source: JSTOR
+  title: 'Historical license: architectural history in the architectural profession'
+  title-short: Historical license
+  type: article-journal
+  URL: https://www.jstor.org/stable/26418963
+  volume: '76'
+
+- id: delft:1993nature
+  accessed:
+    - year: 2019
+      month: 12
+      day: 29
+  author:
+    - family: Delft
+      given: Louis
+      dropping-particle: van
+  citation-key: delft:1993nature
+  DOI: 10.3917/puf.ricoe.1993.01
+  ISBN: 978-2-13-045239-3
+  issued:
+    - year: 1993
+  language: fr
+  publisher: Presses Universitaires de France
+  source: www.cairn.info
+  title: Nature humaine et caractère a l’âge classique
+  type: book
+  URL: >-
+    https://www.cairn.info/nature-humaine-et-caractere-a-l-age-classique--9782130452393.htm
+
+- id: durand:1802precis
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9181
+  citation-key: durand:1802precis
+  event-place: Paris
+  issued:
+    - year: 1802
+    - year: 1805
+  language: French
+  number-of-volumes: '2'
+  publisher: l'auteur
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: Précis des leçons d'architecture données à l'École polytechnique
+  type: book
+
+- id: durand:1821partie
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - V-9185
+  citation-key: durand:1821partie
+  event-place: Paris
+  issued:
+    - year: 1821
+  language: French
+  number-of-pages: '36'
+  publisher: l'auteur
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: >-
+    Partie graphique des cours d'architecture faits à l'École royale
+    polytechnique depuis sa réorganisation...
+  title-short: Partie graphique des cours d'architecture
+  type: book
+
+- id: durand:1825precis
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  citation-key: durand:1825precis
+  event-place: Paris
+  issued:
+    - year: 1825
+  language: French
+  publisher: Chez l'auteur
+  publisher-place: Paris
+  source: Gallica
+  title: >-
+    Précis des leçons d'architecture données à l'École polytechnique, par
+    J.-N.-L. Durand,...
+  type: book
+  URL: http://gallica.bnf.fr/ark:/12148/bpt6k5762681g
+
+- id: elkins:1988art
+  author:
+    - family: Elkins
+      given: James
+  citation-key: elkins:1988art
+  container-title: Critical Inquiry
+  issue: '2'
+  issued:
+    - year: 1988
+  language: English
+  page: 354–378
+  title: Art history without theory
+  type: article-journal
+  volume: '14'
+
+- id: fergusson:1855illustrated1
+  abstract: '31'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+  call-number: AKJ-9676
+  citation-key: fergusson:1855illustrated1
+  edition: '1'
+  event-place: London
+  issued:
+    - year: 1855
+  language: en-GB
+  number-of-pages: '576'
+  publisher: Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The illustrated handbook of architecture : being a concise and popular
+    account of the different styles of architecture prevailing in all ages and
+    countries
+  title-short: The illustrated handbook of architecture
+  type: book
+  URL: http://archive.org/details/illustratedhandb01ferguoft
+  volume: '1'
+
+- id: fergusson:1855illustrated2
+  abstract: '31'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+  call-number: AKJ-9676
+  citation-key: fergusson:1855illustrated2
+  edition: '1'
+  event-place: London
+  issued:
+    - year: 1855
+  language: en-GB
+  number-of-pages: '552'
+  publisher: Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    The illustrated handbook of architecture : being a concise and popular
+    account of the different styles of architecture prevailing in all ages and
+    countries
+  title-short: The illustrated handbook of architecture
+  type: book
+  URL: http://archive.org/details/illustratedhandb02ferguoft
+  volume: '2'
+
+- id: fergusson:1874history2
+  abstract: >-
+    Vol. 1-2. - History of architecture.- Vol. 3. - History of Indian and
+    Eastern architecture.- Vol. 4. - History of modern architecture; 26
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+  call-number: AEO-3820
+  citation-key: fergusson:1874history2
+  collection-number: Christian Architecture
+  edition: '2'
+  event-place: London
+  issued:
+    - year: 1874
+  language: en-GB
+  number-of-pages: '648'
+  publisher: Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    A history of architecture in all countries from the earliest times to the
+    present day
+  type: book
+  URL: http://archive.org/details/historyofarchite02ferguoft
+  volume: '2'
+
+- id: fergusson:1893history1
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+    - family: Spiers
+      given: Richard Phené
+  call-number: 720.9 F38h3
+  citation-key: fergusson:1893history1
+  collection-number: A history of ancient and medieval architecture
+  edition: '3'
+  event-place: London
+  issued:
+    - year: 1893
+  language: en-GB
+  number-of-pages: '674'
+  publisher: Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    A history of architecture in all countries from the earliest times to the
+    present day
+  type: book
+  URL: http://archive.org/details/historyofancient01ferg
+  volume: '1'
+
+- id: fischer:1725entwurff
+  abstract: >-
+    statement of responsibility: Alles mit grosser Mühe gezeichnet, und auf
+    eigene Unkosten herausgegeben, von der kaiserl. Maj. Oberbauinspectorn,
+    Johann Bernhard Fischers, von Erlachen ; auch kurtzen teutschen und
+    frantzösischen Beschreibungen; Text in French; plate captions in German and
+    French; Engravings signed by J.A. Delsenbach and others; Title page, special
+    half-titles for each section, and dedications are engraved; Dedication dated
+    1721; Text in triple columns, with side-notes; Tail-pieces; initials;
+    Bookplate: Ex libris, the Cooper Union. The gift of Trustees' Fund; Embossed
+    stamp on front free endpaper: Lloyd &amp; Whitney Warren, New York;
+    Partially erased, illegible library stamp at foot of t.p; Old half-binding
+    of red cloth over marbled paper boards; gilt-tooled spine
+  accessed:
+    - year: 2020
+      month: 9
+      day: 6
+  author:
+    - family: Fischer von Erlach
+      given: Johann Bernhard
+    - family: Delsenbach
+      given: Johann Adam
+    - family: Warren
+      given: Lloyd
+    - family: Warren
+      given: Whitney
+    - family: Cooper Union Library
+      given: former owner DSI
+  call-number: '39088008238313'
+  citation-key: fischer:1725entwurff
+  event-place: Leipzig
+  issued:
+    - year: 1725
+  language: German
+  number-of-pages: '248'
+  publisher-place: Leipzig
+  source: Internet Archive
+  title: >-
+    Entwurff einer historischen Architectur : in Abbildung unterschiedener
+    berühmten Gebäude, des Alterthums, und fremder Völcker, umb aus den
+    Geschicht-Büchern, Gedächtnüss-Müntzen, Ruinen, und eingeholten wahrhafften
+    Abrissen, vor Augen zu stellen. In dem ersten Buche. Die von der Zeit
+    vergrabene Bau-Arten der alten Jüden, Egÿptier, Sÿrer, Perser, und Griechen.
+    In dem andren. Alte unbekante römische. In dem dritten. Einige fremde in-
+    und ausser-europäische, als der Araber, und Türcken, etc. auch neue
+    persianische, siamitische, sinesische und japonesische Gebäude. In dem
+    vierten. Einige Gebäude von des Autoris Erfindung und Zeichnung
+  title-short: Entwurff einer historischen Architectur
+  type: book
+  URL: http://archive.org/details/Entwurffeinerhi00Fisc
+
+- id: fisher:2000architectural54
+  abstract: >-
+    Architecture programs should include a curriculum on philosophy of
+    architecture in the analytic philosophical tradition. I describe such a
+    curriculum and distinguish it from both the typical architectural theory
+    curriculum and the typical philosophical aesthetics courses. Without such a
+    curriculum, students likely lack exposure to the philosophical approach to
+    aesthetics that is dominant in American universities.
+  accessed:
+    - year: 2017
+      month: 8
+      day: 4
+  author:
+    - family: Fisher
+      given: Saul
+  citation-key: fisher:2000architectural54
+  container-title: Journal of Architectural Education
+  ISSN: 1046-4883
+  issue: '1'
+  issued:
+    - year: 2000
+  language: English
+  page: 35-44
+  source: JSTOR
+  title: 'Architectural aesthetics in the analytic tradition: a new curriculum'
+  title-short: Architectural aesthetics in the analytic tradition
+  type: article-journal
+  URL: http://www.jstor.org/stable/1425646
+  volume: '54'
+
+- id: fletcher:1905history
+  accessed:
+    - year: 2019
+      month: 1
+      day: 31
+  author:
+    - family: Fletcher
+      given: Banister
+    - family: Fletcher
+      given: Banister F.
+  call-number: b12340145
+  citation-key: fletcher:1905history
+  edition: 5. ed.
+  event-place: 'London : New York'
+  issued:
+    - year: 1905
+  language: en-GB
+  number-of-pages: '808'
+  publisher: 'Batsford : Scribner''s sons'
+  publisher-place: 'London : New York'
+  source: Internet Archive
+  title: >-
+    A history of architecture on the comparative method for the student,
+    craftsman, and amateur
+  type: book
+  URL: http://archive.org/details/historyofarchite00flet
+
+- id: fletcher:1961history
+  author:
+    - family: Fletcher
+      given: Banister F.
+  citation-key: fletcher:1961history
+  event-place: London
+  issued:
+    - year: 1961
+  language: en-GB
+  publisher: University of London
+  publisher-place: London
+  title: History of architecture on the comparative method
+  type: book
+
+- id: forster:1972critical
+  author:
+    - family: Forster
+      given: Kurt W.
+  citation-key: forster:1972critical
+  container-title: New Literary History
+  issue: 3, Literary and Art History
+  issued:
+    - year: 1972
+  language: English
+  page: 459-470
+  title: Critical history of art, or transfiguration of values?
+  type: article-journal
+  volume: '3'
+
+- id: fowler:1972periodization
+  author:
+    - family: Fowler
+      given: Alastair
+  citation-key: fowler:1972periodization
+  container-title: New Literary History
+  issue: 3, Literary and Art History
+  issued:
+    - year: 1972
+  language: English
+  page: 487-509
+  title: Periodization and interart analogies
+  type: article-journal
+  volume: '3'
+
+- id: frankl:1914entwicklungsphasen
+  accessed:
+    - year: 2017
+      month: 11
+      day: 22
+  author:
+    - family: Frankl
+      given: Paul
+  call-number: SRLF_UCLA:LAGE-1334174
+  citation-key: frankl:1914entwicklungsphasen
+  event-place: Leipzig, Berlin
+  issued:
+    - year: 1914
+  language: de-DE
+  number-of-pages: '224'
+  publisher: B. G. Teubner
+  publisher-place: Leipzig, Berlin
+  source: Internet Archive
+  title: Die Entwicklungsphasen der neueren Baukunst
+  type: book
+  URL: http://archive.org/details/entwicklungsphas05fran
+
+- id: frankl:1968principles
+  author:
+    - family: Frankl
+      given: Paul
+  citation-key: frankl:1968principles
+  event-place: Cambridge, Mass.
+  ISBN: 0-262-56013-5
+  issued:
+    - year: 1968
+  language: en-US
+  publisher: <span class="smallcaps">MIT</span> Press
+  publisher-place: Cambridge, Mass.
+  source: Open WorldCat
+  title: >-
+    Principles of architectural history: the four phases of architectural style,
+    1420-1900
+  title-short: Principles of architectural history
+  type: book
+
+- id: fusco:1981storia
+  author:
+    - family: De Fusco
+      given: Renato
+  citation-key: fusco:1981storia
+  event-place: Napoli
+  issued:
+    - year: 1981
+  language: Italian
+  publisher: Edizioni scientifiche italiane
+  publisher-place: Napoli
+  source: Open WorldCat
+  title: 'Storia e struttura: teoria della storiografia architettonica'
+  title-short: Storia e struttura
+  type: book
+
+- id: giedion:1961space
+  author:
+    - family: Giedion
+      given: Sigfried
+  citation-key: giedion:1961space
+  edition: '4'
+  event-place: Cambridge, Mass.
+  issued:
+    - year: 1961
+      month: 1
+      day: 1
+  language: English
+  number-of-pages: '768'
+  publisher: Harvard University Press
+  publisher-place: Cambridge, Mass.
+  source: Amazon
+  title: 'Space, time and architecture: the growth of a new tradition'
+  title-short: Space, time and architecture
+  type: book
+
+- id: gombrich:1971plea
+  author:
+    - family: Gombrich
+      given: Ernst H.
+  citation-key: gombrich:1971plea
+  container-title: American Art Journal
+  issue: '1'
+  issued:
+    - year: 1971
+  language: English
+  page: 83–87
+  title: A plea for pluralism
+  type: article-journal
+  volume: '3'
+
+- id: gould:2014antiquarianism53
+  accessed:
+    - year: 2019
+      month: 7
+      day: 30
+  author:
+    - family: Gould
+      given: Rebecca
+  citation-key: gould:2014antiquarianism53
+  container-title: History and Theory
+  DOI: 10.1111/hith.10706
+  ISSN: '00182656'
+  issue: '2'
+  issued:
+    - year: 2014
+      month: 5
+  language: English
+  page: 212-233
+  source: Crossref
+  title: 'Antiquarianism as genealogy: Arnaldo Momigliano’s method'
+  title-short: ANTIQUARIANISM AS GENEALOGY
+  type: article-journal
+  URL: http://doi.wiley.com/10.1111/hith.10706
+  volume: '53'
+
+- id: grew:1980case85
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Grew
+      given: Raymond
+  citation-key: grew:1980case85
+  container-title: The American Historical Review
+  DOI: 10.2307/1868871
+  ISSN: 0002-8762
+  issue: '4'
+  issued:
+    - year: 1980
+  language: English
+  page: 763-778
+  publisher: '[Oxford University Press, American Historical Association]'
+  source: JSTOR
+  title: The case for comparing histories
+  type: article-journal
+  URL: https://www.jstor.org/stable/1868871
+  volume: '85'
+
+- id: gurel:2006canon59
+  abstract: >-
+    Architectural history books play a significant role in conveying the
+    culture, norms, and values of the architectural discipline to newcomers. In
+    recent years, numerous publications have spotlighted the importance of women
+    and African Americans as critics, creators, and consumers of the built
+    environment. Yet, to what extent is this recent discourse on gender and
+    racial issues included in architectural history texts? And how gender or
+    racially inclusive are they? Are twenty-first-century architectural
+    educators presenting newly uncovered architectural histories from the
+    nineteenth and twentieth centuries? Building upon prior research, this
+    article seeks to address these issues by examining history texts currently
+    assigned at fourteen leading architectural schools accredited by the
+    National Architectural Accrediting Board. In textbooks with multiple
+    editions, we compared relevant information in both earlier and later
+    versions. Our analysis of these history texts revealed that contributions of
+    women remain only marginally represented in the grand narrative of
+    architecture. And for the most part, African Americans are omitted
+    altogether. We challenge authors to reassess the next generation of
+    architectural history texts and suggest ways to do so.
+  author:
+    - family: Gürel
+      given: Meltem Ö.
+    - family: Anthony
+      given: Kathryn H.
+  citation-key: gurel:2006canon59
+  container-title: Journal of Architectural Education (1984-)
+  DOI: 10.2307/40480647
+  ISSN: 1046-4883
+  issue: '3'
+  issued:
+    - year: 2006
+  language: English
+  page: 66-76
+  source: JSTOR
+  title: 'The canon and the void: gender, race, and architectural history texts'
+  title-short: The canon and the void
+  type: article-journal
+  URL: http://www.jstor.org/stable/40480647
+  volume: '59'
+
+- id: haas:1977diffusion79
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: Haas
+      given: Jonathan
+  citation-key: haas:1977diffusion79
+  container-title: American Anthropologist
+  ISSN: 0002-7294
+  issue: '3'
+  issued:
+    - year: 1977
+  language: en-US
+  page: 649-652
+  publisher: '[American Anthropological Association, Wiley]'
+  source: JSTOR
+  title: On diffusion, diffusionism, and cultural materialism
+  type: article-journal
+  URL: https://www.jstor.org/stable/675401
+  volume: '79'
+
+- id: harbison:2009travels
+  author:
+    - family: Harbison
+      given: Robert
+  call-number: NA200 .H45 2009
+  citation-key: harbison:2009travels
+  event-place: London
+  ISBN: 978-1-86189-435-9
+  issued:
+    - year: 2009
+  language: en
+  number-of-pages: '287'
+  publisher: Reaktion Books
+  publisher-place: London
+  source: Library of Congress ISBN
+  title: Travels in the history of architecture
+  type: book
+
+- id: harris:2011thats70
+  accessed:
+    - year: 2021
+      month: 3
+      day: 7
+  author:
+    - family: Harris
+      given: Dianne
+  citation-key: harris:2011thats70
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2011.70.2.149
+  ISSN: 0037-9808, 2150-5926
+  issue: '2'
+  issued:
+    - year: 2011
+      month: 6
+      day: 1
+  language: en-US
+  page: 149-152
+  source: DOI.org (Crossref)
+  title: That's not architectural history!
+  type: article-journal
+  URL: >-
+    https://online.ucpress.edu/jsah/article/70/2/149/92245/Thats-Not-Architectural-HistoryOr-Whats-a
+  volume: '70'
+
+- id: hart:1982reinterpreting
+  author:
+    - family: Hart
+      given: Joan
+  citation-key: hart:1982reinterpreting
+  container-title: Art Journal
+  issue: 4, The Crisis in the Discipline
+  issued:
+    - year: 1982
+  language: en-US
+  page: 292-300
+  title: 'Reinterpreting Wölfflin: neo-Kantianism and hermeneutics'
+  type: article-journal
+  volume: '42'
+
+- id: hatzfeld:1947literary6
+  accessed:
+    - year: 2019
+      month: 12
+      day: 28
+  archive: JSTOR
+  author:
+    - family: Hatzfeld
+      given: Helmut A.
+  citation-key: hatzfeld:1947literary6
+  container-title: The Journal of Aesthetics and Art Criticism
+  DOI: 10.2307/426172
+  ISSN: 0021-8529
+  issue: '1'
+  issued:
+    - year: 1947
+  language: English
+  page: 1-21
+  source: JSTOR
+  title: Literary criticism through art and art criticism through literature
+  type: article-journal
+  URL: https://www.jstor.org/stable/426172
+  volume: '6'
+
+- id: hauser:1999social2
+  author:
+    - family: Hauser
+      given: Arnold
+  citation-key: hauser:1999social2
+  collection-number: Renaissance, Mannerism and Baroque
+  edition: '3'
+  event-place: London New York
+  ISBN: >-
+    978-0-415-19946-9 978-0-415-19945-2 978-0-415-19947-6 978-0-415-19948-3
+    978-0-415-21386-8
+  issued:
+    - year: 1999
+  language: English
+  number-of-pages: '4'
+  publisher: Routledge
+  publisher-place: London New York
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: The social history of art
+  type: book
+  volume: '2'
+
+- id: hegel:1986aesthetik
+  author:
+    - family: Hegel
+      given: Georg Wilhelm Friedrich
+  citation-key: hegel:1986aesthetik
+  event-place: Frankfurt am Main
+  issued:
+    - year: 1986
+  language: German
+  number-of-volumes: '3'
+  publisher: Suhrkamp
+  publisher-place: Frankfurt am Main
+  title: Vorlesungen über die Ästhetik
+  type: book
+
+- id: hernandez:1969jnl12
+  accessed:
+    - year: 2020
+      month: 5
+      day: 10
+  author:
+    - family: Hernandez
+      given: Antonio
+  citation-key: hernandez:1969jnl12
+  container-title: Perspecta
+  container-title-short: Perspecta
+  DOI: 10.2307/1566963
+  ISSN: '00790958'
+  issued:
+    - year: 1969
+  language: en-US
+  page: '153'
+  source: DOI.org (Crossref)
+  title: >-
+    J.N.L. Durand's architectural theory: a study in the history of rational
+    building design
+  title-short: J.n.l. durand's architectural theory
+  type: article-journal
+  URL: https://www.jstor.org/stable/1566963?origin=crossref
+  volume: '12'
+
+- id: herrmann:1984gottfried
+  author:
+    - family: Herrmann
+      given: Wolfgang
+  call-number: NA1088.S48 H47 1984
+  citation-key: herrmann:1984gottfried
+  event-place: Cambridge, Mass.
+  ISBN: 978-0-262-08144-3
+  issued:
+    - year: 1984
+  language: English
+  number-of-pages: '320'
+  publisher: MIT Press
+  publisher-place: Cambridge, Mass.
+  source: Library of Congress ISBN
+  title: 'Gottfried Semper: in search of architecture'
+  title-short: Gottfried Semper
+  type: book
+
+- id: heynen:2002teaching61
+  accessed:
+    - year: 2021
+      month: 4
+      day: 17
+  author:
+    - family: Heynen
+      given: Hilde
+    - family: Jonge
+      given: Krista
+      non-dropping-particle: de
+  citation-key: heynen:2002teaching61
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/991787
+  ISSN: 00379808, 21505926
+  issue: '3'
+  issued:
+    - year: 2002
+      month: 9
+  language: en-US
+  page: 335-345
+  source: DOI.org (Crossref)
+  title: >-
+    The teaching of architectural history and theory in belgium and the
+    netherlands
+  type: article-journal
+  URL: http://jsah.ucpress.edu/cgi/doi/10.2307/991787
+  volume: '61'
+
+- id: hill:1980marc85
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: Hill
+      given: Alette Olin
+    - family: Boyd H. Hill
+      given: Jr.
+  citation-key: hill:1980marc85
+  container-title: The American Historical Review
+  DOI: 10.2307/1868876
+  ISSN: 0002-8762
+  issue: '4'
+  issued:
+    - year: 1980
+  language: English
+  page: 854-857
+  publisher: '[Oxford University Press, American Historical Association]'
+  source: JSTOR
+  title: '[marc bloch and comparative history]: reply'
+  title-short: '[marc bloch and comparative history]'
+  type: article-journal
+  URL: https://www.jstor.org/stable/1868876
+  volume: '85'
+
+- id: hobsbawm:1983invention
+  author:
+    - family: Hobsbawm
+      given: Eirc J
+    - family: Ranger
+      given: Terence O
+  call-number: '930.85'
+  citation-key: hobsbawm:1983invention
+  event-place: Cambridge [Cambridgeshire]; New York
+  ISBN: 978-0-521-24645-3 978-0-521-43773-8 978-0-521-26985-8
+  issued:
+    - year: 1983
+  language: English
+  publisher: Cambridge University Press
+  publisher-place: Cambridge [Cambridgeshire]; New York
+  source: Open WorldCat
+  title: The Invention of tradition
+  type: book
+
+- id: holsinger:2002medieval77
+  accessed:
+    - year: 2019
+      month: 9
+      day: 9
+  archive: JSTOR
+  author:
+    - family: Holsinger
+      given: Bruce W.
+  citation-key: holsinger:2002medieval77
+  container-title: Speculum
+  DOI: 10.2307/3301217
+  ISSN: 0038-7134
+  issue: '4'
+  issued:
+    - year: 2002
+  language: English
+  page: 1195-1227
+  source: JSTOR
+  title: Medieval Studies, Postcolonial Studies, and the Genealogies of Critique
+  type: article-journal
+  URL: https://www.jstor.org/stable/3301217
+  volume: '77'
+
+- id: hooke:1927diffusionism29
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: Hooke
+      given: S. H.
+  citation-key: hooke:1927diffusionism29
+  container-title: American Anthropologist
+  ISSN: 0002-7294
+  issue: '4'
+  issued:
+    - year: 1927
+  language: en-US
+  page: 615-624
+  publisher: '[American Anthropological Association, Wiley]'
+  source: JSTOR
+  title: Diffusionism with a difference
+  type: article-journal
+  URL: https://www.jstor.org/stable/661228
+  volume: '29'
+
+- id: howard:2008religion
+  author:
+    - family: Howard
+      given: Thomas A
+  citation-key: howard:2008religion
+  event-place: Cambridge
+  ISBN: 978-0-521-65022-9 978-0-521-02633-8
+  issued:
+    - year: 2008
+  language: English
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Open WorldCat
+  title: >-
+    Religion and the rise of historicism: W.M.L. de Wette, Jacob Burckhardt, and
+    the theological origins of nineteenth-century historical consciousness
+  title-short: Religion and the rise of historicism
+  type: book
+
+- id: howarth:1957thoughts12
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Howarth
+      given: Thomas
+  citation-key: howarth:1957thoughts12
+  container-title: Journal of Architectural Education
+  DOI: 10.2307/1424268
+  ISSN: 0047-2239
+  issue: '2'
+  issued:
+    - year: 1957
+  language: en-US
+  page: 12-14
+  publisher: >-
+    [Taylor & Francis, Ltd., Association of Collegiate Schools of Architecture,
+    Inc.]
+  source: JSTOR
+  title: Some thoughts on teaching history
+  type: article-journal
+  URL: https://www.jstor.org/stable/1424268
+  volume: '12'
+
+- id: hubbard:1980history
+  author:
+    - family: Hubbard
+      given: William Q.
+  citation-key: hubbard:1980history
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  DOI: 10.2307/1424724
+  ISSN: 0149-2993
+  issue: '1'
+  issued:
+    - year: 1980
+  language: en-US
+  page: 22-22
+  source: JSTOR
+  title: History synchrony
+  type: article-journal
+  URL: http://www.jstor.org/stable/1424724
+  volume: '34'
+
+- id: hvattum:2004gottfried
+  abstract: >-
+    Using key texts by Gottfried Semper, Mari Hvattum offers a reinterpretation
+    of historicism. Hvattum focuses on Semper's two major concerns: an
+    understanding of the ontological significance of art and architecture, and
+    the rendering of art and architecture as the objects of scientific
+    investigation and prediction.
+  accessed:
+    - year: 2018
+      month: 7
+      day: 22
+  author:
+    - family: Hvattum
+      given: Mari
+  citation-key: hvattum:2004gottfried
+  event-place: Cambridge, UK; New York
+  ISBN: >-
+    9780511162718 9780511165115 9780511164316 9780521821636 9780511184390
+    9780511166242 9780511497711 9781280437649 9786610437641
+  issued:
+    - year: 2004
+  language: English
+  publisher: Cambridge University Press
+  publisher-place: Cambridge, UK; New York
+  source: Open WorldCat
+  title: Gottfried Semper and the problem of historicism
+  type: book
+  URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=255178
+
+- id: impe:2015puise
+  abstract: >-
+    The Belgian architectural world of the 19th century has been considered a
+    fascinating though little studied crossroads of influences. The same could
+    be said of the architectural historiography of Belgium, which only
+    established its independence from its powerful neighbours in 1830. Two of
+    its canonical architectural historical publications, the Histoire de
+    l’architecture en Belgique by A.G.B. Schayes (1808–59) and the Histoire de
+    l’influence italienne sur l’architecture dans les Pays-Bas by Auguste Schoy
+    (1838–85), represent two different ways of dealing with textual and visual
+    material. This emerges from a precise analysis of context, authorial voice,
+    use of sources and illustration media and relation to repertories of images
+    such as private print collections. Typical of Schayes’s voice are the
+    sparsely expressed personal appreciations and the many references to
+    archives, literature and in situ observations, as if to prove every
+    statement in word or image. Meanwhile, he rarely refers to his authoritative
+    position as ‘national archéologue’ (as curator of the first national
+    collection of antiquités), nor to his collection of prints and engravings.
+    Schoy, on the contrary, does not shy from emitting personal opinions and
+    boasting about his precious collection, his broad knowledge of rare
+    manuscripts and collections and his in situ explorations of buildings. The
+    fact that Schoy’s text did not make it into the accepted references in
+    twentieth-century architectural histories in Belgium, whereas Schayes’s did,
+    reveals much about how the discipline was formed and which methodological
+    selections were made during its formative period.
+  accessed:
+    - year: 2018
+      month: 2
+      day: 5
+  author:
+    - family: Impe
+      given: Ellen Van
+  citation-key: impe:2015puise
+  container-title: Architectural Histories
+  DOI: 10.5334/ah.cy
+  ISSN: 2050-5833
+  issue: '1'
+  issued:
+    - year: 2015
+      month: 12
+      day: 24
+  language: English
+  source: journal.eahn.org
+  title: >-
+    ‘Puisé aux meilleures sources’: textual and visual strategies of
+    mid‐19th‐century architectural historiography in Belgium
+  title-short: ‘Puisé aux meilleures sources’
+  type: article-journal
+  URL: http://journal.eahn.org/articles/10.5334/ah.cy/
+  volume: '3'
+
+- id: jarzombek:1991crisis44
+  abstract: >-
+    I outline the discursive logic of the two principal ways architectural
+    theory has been conceived: historiographic critique and interdisciplinary
+    historiography. Post-Renaissance theory-making fell into a pattern I call
+    historiographic critique, which centered around the humanist imperative to
+    link historical knowledge, social criticism, and architectural practice. In
+    the 19th century, historiographic critique became increasingly incapable of
+    creating viable conceptions of the past and was replaced by
+    interdisciplinary historiography. The advantages and disadvantages of
+    interdisciplinary historiography can already be seen in the work of Mies van
+    der Rohe. He abolished narrow historicism in favor of consciously created
+    dependencies between philosophy, history, and architectural theory drawn out
+    over various times, cultures, languages, and academic disciplines.
+    Unfortunately, the paradoxes inherent in the discursive logic of
+    interdisciplinary historiography left it open to manipulations by
+    intellectual formalists, in whose hands theory came to be treated as a
+    discourse separate from its own historicity
+  author:
+    - family: Jarzombek
+      given: Mark
+  citation-key: jarzombek:1991crisis44
+  container-title: Journal of Architectural Education
+  issue: '3'
+  issued:
+    - year: 1991
+  language: en-US
+  page: 150-155
+  title: The crisis of interdisciplinary historiography
+  type: article-journal
+  volume: '44'
+
+- id: jarzombek:1999disciplinary58
+  accessed:
+    - year: 2018
+      month: 7
+      day: 14
+  author:
+    - family: Jarzombek
+      given: Mark
+  citation-key: jarzombek:1999disciplinary58
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.2307/991543
+  ISSN: 0037-9808
+  issue: '3'
+  issued:
+    - year: 1999
+  language: en-US
+  page: 488–493
+  source: JSTOR
+  title: The disciplinary dislocations of (architectural) history
+  type: article-journal
+  URL: http://www.jstor.org/stable/991543
+  volume: '58'
+
+- id: jarzombek:1999prolegomena52
+  abstract: >-
+    Over the last decades we have witnessed the increased intellectualization of
+    architecture. What was first a largely autodidactic interest in Heidegger,
+    Bachelard, and Joyce, is now the topic of textbooks, anthologies, seminar
+    papers, with the committed student having to be familiar with the likes of
+    Merleau-Ponty, Foucault, Barthes, Jameson, Gramsci, Derrida, Lacan, and now
+    Deleuze. Though the architectural "take" on these philosophers is often
+    inconsistent and spurious, the enterprise as a whole has to be understood
+    within a system that is now almost a century old. Whether it was Le
+    Corbusier's readings of Friedrich Nietzsche or Eric Mendelsohn's of Martin
+    Buber, architects often turned to other disciplines, including psychology,
+    Gestalt psychology in particular, to help position themselves within the
+    intellectual determinants of modernity. The "history of theory" is thus more
+    than just a specialized problem of the avant-garde. It is equivalent with
+    the history of modernity. And yet, despite the importance of these exchanges
+    (and despite theory's increasing self-academizations), it is still difficult
+    for us to easily assess and historicize them.
+  accessed:
+    - year: 2019
+      month: 7
+      day: 3
+  archive: JSTOR
+  author:
+    - family: Jarzombek
+      given: Mark
+  citation-key: jarzombek:1999prolegomena52
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  ISSN: 1046-4883
+  issue: '4'
+  issued:
+    - year: 1999
+  language: en-US
+  page: 197-206
+  source: JSTOR
+  title: A prolegomena to critical historiography
+  type: article-journal
+  URL: https://www.jstor.org/stable/1425409
+  volume: '52'
+
+- id: jarzombek:2015architecture
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Jarzombek
+      given: Mark
+  citation-key: jarzombek:2015architecture
+  container-title: Grey Room
+  ISSN: 1526-3819
+  issue: '61'
+  issued:
+    - year: 2015
+  language: English
+  page: 111-122
+  publisher: >-
+    [Grey Room, Inc. and the Massachusetts Institute of Technology, The MIT
+    Press]
+  source: JSTOR
+  title: 'Architecture: the global imaginary in an antiglobal world'
+  title-short: Architecture
+  type: article-journal
+  URL: https://www.jstor.org/stable/43832296
+
+- id: jauss:1988tradition46
+  accessed:
+    - year: 2019
+      month: 7
+      day: 29
+  author:
+    - family: Jauss
+      given: Hans Robert
+  citation-key: jauss:1988tradition46
+  container-title: The Journal of Aesthetics and Art Criticism
+  DOI: 10.2307/431108
+  ISSN: '00218529'
+  issue: '3'
+  issued:
+    - year: 1988
+      month: 4
+  language: English
+  page: 375–388
+  source: Crossref
+  title: Tradition, innovation, and aesthetic experience
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.2307/431108?origin=crossref
+  volume: '46'
+
+- id: junod:2002dans23
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Junod
+      given: Philippe
+  citation-key: junod:2002dans23
+  container-title: Artibus et Historiae
+  DOI: 10.2307/1483689
+  ISSN: '03919064'
+  issue: '45'
+  issued:
+    - year: 2002
+  language: fr
+  page: '205'
+  source: Crossref
+  title: Dans l'oeil du rétroviseur. Pour une histoire relativiste
+  title-short: Dans l'oeil du rétroviseur
+  type: article-journal
+  URL: https://www.jstor.org/stable/1483689?origin=crossref
+  volume: '23'
+
+- id: kaufmann:1951hegel
+  author:
+    - family: Kaufmann
+      given: Walter A.
+  citation-key: kaufmann:1951hegel
+  container-title: The Philosophical Review
+  issue: '4'
+  issued:
+    - year: 1951
+  language: English
+  page: 459-486
+  title: The Hegel myth and its method
+  type: article-journal
+  volume: '60'
+
+- id: kaufmann:2001antiquarianism62
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Kaufmann
+      given: Thomas DaCosta
+  citation-key: kaufmann:2001antiquarianism62
+  container-title: Journal of the History of Ideas
+  DOI: 10.2307/3654154
+  ISSN: 0022-5037
+  issue: '3'
+  issued:
+    - year: 2001
+  language: en
+  page: 523-541
+  publisher: University of Pennsylvania Press
+  source: JSTOR
+  title: >-
+    Antiquarianism, the history of objects, and the history of art before
+    Winckelmann
+  type: article-journal
+  URL: https://www.jstor.org/stable/3654154
+  volume: '62'
+
+- id: keyvanian:1992manfredo
+  abstract: >-
+    The essay is an analysis Tafuri's theory on historiography;. it traces his
+    methodological sources: the theories, and their mode of reception, that have
+    directly influenced his thought. The period examined starts with Theories
+    and History of Architecture, first published in 1968 and ends with "The
+    Historical 'Project"', the introductory essay of The Sphere and the
+    Labyrinth, published in 1980 The first chapter outlines the intertwining of
+    the two neo-idealist and Marxist components of Tafuri's thought, combined
+    with the early familiarity with the writings of the Nouvelle Critique.
+    Subsequently, it identifies the points that, in Theories and History,
+    represent Tafuri's original contribution to architectural history: the
+    identification of architecture as ideology and the consequent demystifying
+    role that the historian must play; consequently, the formulation of the
+    specific notions that will serve as the instruments for this task of the
+    historian; the identity of history and criticism; the complete separation of
+    the design process from the 'reading' process (Le. history writing) of a
+    building; the logical consequence of this: the 'futility' of history and
+    theory in design; and, finally, the obsoleteness of the mode of criticism
+    termed "operative criticism". The second chapter tackles the problem posed
+    by the contradictory coexistence, in Tafuri's later writings, of Marxist and
+    neo-avant-garde positions. It analyzes in detail what neo-avant-garde ideas
+    were, what they implied and what theoretical and methodological purposes
+    they served. The analysis centers on the strong impact of Foucault's
+    theories on Tafuri, and his equally strong criticism of them. Most
+    importantly, however, it outlines the profound impact of Walter Benjamin's
+    notion of history, particularly as exposed in "The Theses on the Philosophy
+    of History", on Tafuri. In the last chapter, are drawn some partial
+    conclusions on the epistemological implications of Tafuri's theory.
+  accessed:
+    - year: 2020
+      month: 3
+      day: 31
+  author:
+    - family: Keyvanian
+      given: Carla L. (Carla Lucia)
+  citation-key: keyvanian:1992manfredo
+  genre: Thesis
+  issued:
+    - year: 1992
+  language: English
+  publisher: Massachusetts Institute of Technology
+  source: dspace.mit.edu
+  title: >-
+    Manfredo Tafuri's notion of history and its methodological sources : from
+    Walter Benjamin to Roland Barthes
+  title-short: Manfredo Tafuri's notion of history
+  type: thesis
+  URL: https://dspace.mit.edu/handle/1721.1/13110
+
+- id: kimball:1918history
+  abstract: |-
+    Book Source: Digital Library of India Item 2015.234141
+
+    dc.contributor.author: Fiske Kimball
+    dc.date.accessioned: 2015-07-10T19:01:28Z
+    dc.date.available: 2015-07-10T19:01:28Z
+    dc.date.digitalpublicationdate: 2006-03-03
+    dc.date.citation: 1918
+    dc.identifier.barcode: 99999990131447
+    dc.identifier.origpath: /rawdataupload1/upload/0130/109
+    dc.identifier.copyno: 1
+    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/234141
+    dc.description.scanningcentre: C-DAC, Noida
+    dc.description.main: 1
+    dc.description.tagged: 0
+    dc.description.totalpages: 642
+    dc.format.mimetype: application/pdf
+    dc.language.iso: English
+    dc.publisher.digitalrepublisher: Digital Library Of India
+    dc.publisher: Harper And Row London
+    dc.rights: Not Available
+    dc.source.library: Central Library,  University Delhi
+    dc.subject.classification: Biography History
+    dc.subject.classification: Geography
+    dc.subject.keywords: Architecture
+    dc.subject.keywords: History
+    dc.subject.keywords: Preclassical
+    dc.title: A History Of Architecture
+    dc.type: Print-Paper
+    dc.type: Book
+  accessed:
+    - year: 2019
+      month: 1
+      day: 31
+  author:
+    - family: Kimball
+      given: Fiske
+  citation-key: kimball:1918history
+  issued:
+    - year: 1918
+  language: English
+  source: Internet Archive
+  title: A history of architecture
+  type: book
+  URL: http://archive.org/details/in.ernet.dli.2015.234141
+
+- id: kisacky:2001history60
+  abstract: >-
+    In eighteenth-century France, the influential architect and historian
+    Julien-David Leroy studied ancient monuments through two different
+    methods-what he called the "historical" and the "architectural." These two
+    approaches had distinctly different intended audiences, methods, and goals.
+    His historical method was a traditional humanistic approach to the ancient
+    monuments that studied a building's architecture in relation to its specific
+    historic context. His architectural method, consistent with scientific
+    practice, considered the relations among numerous similar monuments as a
+    means of revealing underlying universal laws. In the eighteenth century,
+    history and science both promised enlightenment, but the exact shape of that
+    new knowledge and its implications for the present varied tremendously.
+    Through a comparative analysis of his two methods, and of their development,
+    interaction, and significance, this paper assesses the exact shape of
+    Leroy's dualistic thought, and its implications for architectural practice,
+    history and theory.
+  accessed:
+    - year: 2019
+      month: 6
+      day: 10
+  author:
+    - family: Kisacky
+      given: Jeanne
+  citation-key: kisacky:2001history60
+  container-title: Journal of the Society of Architectural Historians
+  DOI: 10.2307/991756
+  ISSN: 0037-9808
+  issue: '3'
+  issued:
+    - year: 2001
+  language: en-US
+  page: 260-289
+  source: JSTOR
+  title: >-
+    History and science: Julien-David Leroy's "dualistic method of architectural
+    history"
+  title-short: History and science
+  type: article-journal
+  URL: https://www.jstor.org/stable/991756
+  volume: '60'
+
+- id: klein:2018quoi
+  call-number: NA2543.H55 A25 2018
+  citation-key: klein:2018quoi
+  editor:
+    - family: Klein
+      given: Richard
+  event-place: Paris
+  ISBN: 978-2-7056-9574-3
+  issued:
+    - year: 2018
+  language: French
+  number-of-pages: '185'
+  publisher: Hermann
+  publisher-place: Paris
+  source: Library of Congress ISBN
+  title: À quoi sert l'histoire de l'architecture aujourd'hui?
+  type: book
+
+- id: kothe:2002fundamentosa
+  author:
+    - family: Kothe
+      given: Flávio R
+  citation-key: kothe:2002fundamentosa
+  event-place: Brasília
+  ISBN: 85-230-0651-6 978-85-230-0651-8
+  issued:
+    - year: 2002
+  language: Portuguese
+  publisher: Editora UnB
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Fundamentos da teoria literária
+  type: book
+
+- id: krukowski:1986hegel44
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Krukowski
+      given: Lucian
+  citation-key: krukowski:1986hegel44
+  container-title: The Journal of Aesthetics and Art Criticism
+  DOI: 10.2307/429738
+  ISSN: '00218529'
+  issue: '3'
+  issued:
+    - year: 1986
+      season: 1
+  language: English
+  page: '279'
+  source: Crossref
+  title: Hegel, "progress," and the avant-garde
+  type: article-journal
+  URL: https://www.jstor.org/stable/429738?origin=crossref
+  volume: '44'
+
+- id: lalo:1953structural11
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  archive: JSTOR
+  author:
+    - family: Lalo
+      given: Charles
+  citation-key: lalo:1953structural11
+  container-title: The Journal of Aesthetics and Art Criticism
+  DOI: 10.2307/426454
+  ISSN: 0021-8529
+  issue: '4'
+  issued:
+    - year: 1953
+  language: English
+  page: 307-323
+  source: JSTOR
+  title: A structural classification of the fine arts
+  type: article-journal
+  URL: https://www.jstor.org/stable/426454
+  volume: '11'
+
+- id: lara:2020american5
+  accessed:
+    - year: 2022
+      month: 1
+      day: 30
+  author:
+    - family: Lara
+      given: Fernando Luiz
+  citation-key: lara:2020american5
+  container-title: The Plan Journal
+  container-title-short: TPJ
+  DOI: 10.15274/tpj.2020.05.01.5
+  ISSN: '26117487'
+  issue: '1'
+  issued:
+    - year: 2020
+  language: en-US
+  source: DOI.org (Crossref)
+  title: >-
+    American mirror: the occupation of the ‘New World’ and the rise of
+    architecture as we know it
+  title-short: American mirror
+  type: article-journal
+  URL: >-
+    http://www.theplanjournal.com/article/american-mirror-occupation-%E2%80%98new-world%E2%80%99-and-rise-architecture-we-know-it
+  volume: '5'
+
+- id: leach:2006choosing
+  author:
+    - family: Leach
+      given: Andrew
+  citation-key: leach:2006choosing
+  event-place: Ghent
+  genre: Ph.D. Thesis
+  ISBN: 90-8578-049-7
+  issued:
+    - year: 2006
+  language: English
+  number-of-pages: '383'
+  publisher: Faculteit Ingenieurswetenschappen, Universiteit Gent
+  publisher-place: Ghent
+  title: >-
+    Choosing history: a study of Manfredo Tafuri’s theorisation of architectural
+    history and architectural history research
+  title-short: Choosing history
+  type: thesis
+
+- id: leach:2010what
+  author:
+    - family: Leach
+      given: Andrew
+  citation-key: leach:2010what
+  collection-title: Whar is history?
+  event-place: Cambridge
+  ISBN: 978-0-7456-4456-1 978-0-7456-4457-8
+  issued:
+    - year: 2010
+  language: English
+  number-of-pages: '167'
+  publisher: Polity
+  publisher-place: Cambridge
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: What is architectural history?
+  type: book
+
+- id: leal:2006estudos
+  author:
+    - family: Leal
+      given: João
+  call-number: GN17.3.P8 L43 2006
+  citation-key: leal:2006estudos
+  collection-number: '1'
+  collection-title: Primitivos & modernos
+  container-title: 'Antropologia em Portugal: mestres, percursos, transições'
+  event-place: Lisboa
+  ISBN: 978-972-24-1424-1
+  issued:
+    - year: 2006
+  language: Portuguese
+  page: 63-78
+  publisher: 'Horizonte : Distribuição, HT'
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: '*Estudos de etnografia comparativa* de Leite de Vasconcelos'
+  type: chapter
+
+- id: lefebvre:1953contribution
+  author:
+    - family: Lefebvre
+      given: Henri
+  call-number: '111.85'
+  citation-key: lefebvre:1953contribution
+  collection-title: Problèmes
+  event-place: Paris
+  issued:
+    - year: 1953
+  language: French
+  number-of-pages: '159'
+  publisher: Édtions Sociales
+  publisher-place: Paris
+  source: webopac.sib.uc.pt Library Catalog
+  title: Contribution à l'esthétique
+  type: book
+
+- id: lefebvre:2001contribution
+  author:
+    - family: Lefebvre
+      given: Henri
+    - family: Hess
+      given: Remi
+  call-number: '111.85'
+  citation-key: lefebvre:2001contribution
+  collection-title: Anthropos
+  edition: 2ª. éd
+  event-place: Paris
+  issued:
+    - year: 2001
+  language: French
+  number-of-pages: '135'
+  publisher: Económica
+  publisher-place: Paris
+  source: webopac.sib.uc.pt Library Catalog
+  title: Contribution à l'esthétique; précédé de H. Lefebvre et l'activité créatrice
+  type: book
+
+- id: legrand:1842essai
+  accessed:
+    - year: 2019
+      month: 2
+      day: 25
+  author:
+    - family: Legrand
+      given: Jacques Guillaume
+  citation-key: legrand:1842essai
+  event-place: Liège
+  issued:
+    - year: 1842
+  language: fr-BE
+  publisher: Avanzo
+  publisher-place: Liège
+  title: >-
+    Essai sur l'histoire générale de l'architecture : pour servir de texte
+    explicatif au Recueil et parallèle des édifices de tout genre anciens et
+    modernes
+  title-short: Essai sur l'histoire générale de l'architecture
+  type: book
+  URL: >-
+    https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10059299_00007.html
+
+- id: maass:1969where
+  accessed:
+    - year: 2012
+      month: 12
+      day: 28
+  author:
+    - family: Maass
+      given: John
+  citation-key: maass:1969where
+  container-title: The Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/988523
+  ISSN: 0037-9808
+  issue: '1'
+  issued:
+    - year: 1969
+      month: 3
+      day: 1
+  language: en-US
+  page: 3–8
+  source: JSTOR
+  title: Where architectural historians fear to tread
+  type: article-journal
+  URL: http://www.jstor.org/stable/988523
+  volume: '28'
+
+- id: mack:1994modernist52
+  accessed:
+    - year: 2019
+      month: 6
+      day: 23
+  author:
+    - family: Mack
+      given: Roxie Davis
+  citation-key: mack:1994modernist52
+  container-title: The Journal of Aesthetics and Art Criticism
+  DOI: 10.2307/431432
+  ISSN: '00218529'
+  issue: '3'
+  issued:
+    - year: 1994
+      season: 2
+  language: English
+  page: '341'
+  source: Crossref
+  title: 'Modernist art criticism: hegemony and decline'
+  title-short: Modernist art criticism
+  type: article-journal
+  URL: https://www.jstor.org/stable/431432?origin=crossref
+  volume: '52'
+
+- id: mambriani:2018storiografia
+  abstract: >-
+    Dettaglio Corso Docente | dal 1 novembre 2019 Corso di Laurea in
+    Architettura e Città Sostenibili ARCHITETTURA
+  accessed:
+    - year: 2020
+      month: 1
+      day: 20
+  author:
+    - family: Mambriani
+      given: Carlo
+  citation-key: mambriani:2018storiografia
+  container-title: Università di Parma
+  issued:
+    - year: 2018
+  language: Italian
+  title: Storiografia dell'architettura
+  type: webpage
+  URL: https://cdlm-arch.unipr.it/it/degreecourse/details/164156
+
+- id: maravall:1966antiguos
+  author:
+    - family: Maravall
+      given: José Antonio
+  call-number: '930.1'
+  citation-key: maravall:1966antiguos
+  event-place: Madrid
+  issued:
+    - year: 1966
+  language: Spanish
+  number-of-pages: '628'
+  publisher: Sociedad de Estudios y Publicaciones
+  publisher-place: Madrid
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    Antiguos y modernos: la idea de progreso en el desarrollo inicial de una
+    sociedad
+  title-short: Antiguos y modernos
+  type: book
+
+- id: mathews:1995what54
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Mathews
+      given: Patricia
+  citation-key: mathews:1995what54
+  container-title: Art Journal
+  DOI: 10.2307/777585
+  ISSN: '00043249'
+  issue: '3'
+  issued:
+    - year: 1995
+      season: 3
+  language: English
+  page: '51'
+  source: Crossref
+  title: What matters in art history
+  type: article-journal
+  URL: https://www.jstor.org/stable/777585?origin=crossref
+  volume: '54'
+
+- id: meeks:1942new2
+  accessed:
+    - year: 2019
+      month: 5
+      day: 15
+  author:
+    - family: Meeks
+      given: Carroll L. V.
+  citation-key: meeks:1942new2
+  container-title: Journal of the American Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/901197
+  ISSN: 1544-9890, 2326-6775
+  issue: '1'
+  issued:
+    - year: 1942
+      month: 1
+      day: 1
+  language: en-US
+  page: 3-7
+  source: jsah.ucpress.edu
+  title: The new history of architecture
+  type: article-journal
+  URL: https://jsah.ucpress.edu/content/2/1/3
+  volume: '2'
+
+- id: meeks:1942teacher
+  accessed:
+    - year: 2017
+      month: 4
+      day: 15
+  author:
+    - family: Meeks
+      given: Carroll L. V.
+  citation-key: meeks:1942teacher
+  container-title: Journal of the American Society of Architectural Historians
+  DOI: 10.2307/901234
+  ISSN: 1544-9890
+  issue: '2'
+  issued:
+    - year: 1942
+  language: English
+  page: 14–23
+  source: JSTOR
+  title: >-
+    The teacher of architectural history in the professional school: his
+    training and technique
+  title-short: The teacher of architectural history in the professional school
+  type: article-journal
+  URL: http://www.jstor.org/stable/901234
+  volume: '2'
+
+- id: merriman:1973parallel31
+  accessed:
+    - year: 2019
+      month: 8
+      day: 1
+  author:
+    - family: Merriman
+      given: James D.
+  citation-key: merriman:1973parallel31
+  container-title: The Journal of Aesthetics and Art Criticism
+  DOI: 10.2307/429161
+  ISSN: '00218529'
+  issue: '3'
+  issued:
+    - year: 1973
+      season: 1
+  language: English
+  page: '309'
+  source: Crossref
+  title: 'The parallel of the arts: some misgivings and a faint affirmation'
+  title-short: The parallel of the arts
+  type: article-journal
+  URL: https://www.jstor.org/stable/429161?origin=crossref
+  volume: '31'
+
+- id: miller:2012peiresc
+  author:
+    - family: Miller
+      given: Peter N.
+  call-number: DC121.8.P4 M56 2012
+  citation-key: miller:2012peiresc
+  collection-number: CS998
+  collection-title: Variorum collected studies series
+  event-place: Farnham, Surrey, England ; Burlington, VT
+  ISBN: 978-1-4094-3298-2
+  issued:
+    - year: 2012
+  language: English
+  publisher: Ashgate Pub. Limited
+  publisher-place: Farnham, Surrey, England ; Burlington, VT
+  source: Library of Congress ISBN
+  title: >-
+    Peiresc's Orient: antiquarianism as cultural history in the seventeenth
+    century
+  title-short: Peiresc's Orient
+  type: book
+
+- id: monnier:1990histoire
+  author:
+    - family: Monnier
+      given: Gérard
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 8-LJ1-510
+  citation-key: monnier:1990histoire
+  collection-title: Histoire des arts
+  event-place: Paris
+  ISBN: 978-2-904057-47-2
+  issued:
+    - year: 1990
+  language: French
+  number-of-pages: '483'
+  publisher: Ph. Sers
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: 'Histoire critique de l''architecture en France :  1918-1950'
+  title-short: Histoire critique de l'architecture en France
+  type: book
+
+- id: monnier:2010histoire
+  author:
+    - family: Monnier
+      given: Gérard
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - 2010-196260
+  citation-key: monnier:2010histoire
+  collection-number: n° 18
+  collection-title: Que sais-je ?
+  edition: 6e éd. mise à jour
+  event-place: Paris
+  ISBN: 978-2-13-058268-7
+  issued:
+    - year: 2010
+  language: French
+  number-of-pages: '127'
+  number-of-volumes: '1'
+  publisher: Presses universitaires de France
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: Histoire de l'architecture
+  type: book
+
+- id: morris:1980teaching
+  accessed:
+    - year: 2016
+      month: 7
+      day: 23
+  author:
+    - family: Morris
+      given: Ellen K.
+  citation-key: morris:1980teaching
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  DOI: 10.2307/1424728
+  ISSN: 0149-2993
+  issue: '1'
+  issued:
+    - year: 1980
+  language: en-US
+  page: 27–28
+  source: JSTOR
+  title: Teaching history typologically
+  type: article-journal
+  URL: http://www.jstor.org/stable/1424728
+  volume: '34'
+
+- id: mueller:1935art13
+  accessed:
+    - year: 2019
+      month: 8
+      day: 1
+  author:
+    - family: Mueller
+      given: J. H.
+  citation-key: mueller:1935art13
+  container-title: Social Forces
+  DOI: 10.2307/2570399
+  ISSN: 0037-7732, 1534-7605
+  issue: '3'
+  issued:
+    - year: 1935
+      month: 3
+      day: 1
+  language: English
+  page: 367-375
+  source: Crossref
+  title: Is art the product of its age?
+  type: article-journal
+  URL: https://academic.oup.com/sf/article-lookup/doi/10.2307/2570399
+  volume: '13'
+
+- id: muratori:1978metodologia
+  author:
+    - family: Muratori
+      given: Saverio
+  citation-key: muratori:1978metodologia
+  event-place: Roma
+  issued:
+    - year: 1978
+  language: it
+  publisher: Centro studi di storia urbanistica
+  publisher-place: Roma
+  source: Open WorldCat
+  title: >-
+    Metodologia del sistema realtà-autocoscienza: dalle ultime lezioni :
+    1972-1973
+  title-short: Metodologia del sistema realtà-autocoscienza
+  type: book
+
+- id: naginski:2001riegl
+  accessed:
+    - year: 2017
+      month: 8
+      day: 4
+  author:
+    - family: Naginski
+      given: Erika
+  citation-key: naginski:2001riegl
+  container-title: 'RES: Anthropology and Aesthetics'
+  ISSN: 0277-1322
+  issue: '40'
+  issued:
+    - year: 2001
+  language: English
+  page: 135-152
+  source: JSTOR
+  title: Riegl, archaeology, and the periodization of culture
+  type: article-journal
+  URL: http://www.jstor.org/stable/20167543
+
+- id: normand:1852nouveau
+  author:
+    - family: Normand
+      given: Charles Pierre Joseph
+  citation-key: normand:1852nouveau
+  event-place: Paris
+  issued:
+    - year: 1852
+  language: French
+  publisher: Normand
+  publisher-place: Paris
+  source: Open WorldCat
+  title: >-
+    Nouveau parallèle des ordres d'architecture des Grecs, des Romains et des
+    auteurs modernes
+  type: book
+
+- id: obrien:1968doctrinaire33
+  abstract: >-
+    Some anthropologists have suggested prehistoric Old and New world contacts.
+    Meggers, Evans, and Estrada are the most recent advocates, and their
+    hypothesis of a landfall by Japanese fishermen on the coast of Ecuador seems
+    to have been the causa belli of the attack by John Rowe on "doctrinaire
+    diffusionism." In a response to Rowe, Jett and Carter (1966) suggest his
+    level of absolute proof is the best, but not the only, proof. Rowe's
+    absolute proof is best because it can be rigorously and objectively tested.
+    But if this level of proof is not met, then the acceptance of such evidence
+    becomes an "act of faith." The hypotheses of transoceanic contacts can not
+    be evaluated adequately for or against until this level of proof is
+    achieved. Until such time, the acceptance of such theories will remain "acts
+    of faith."
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: O'Brien
+      given: Patricia J.
+  citation-key: obrien:1968doctrinaire33
+  container-title: American Antiquity
+  DOI: 10.2307/278711
+  ISSN: 0002-7316
+  issue: '3'
+  issued:
+    - year: 1968
+  language: en-US
+  page: 386-388
+  publisher: Society for American Archaeology
+  source: JSTOR
+  title: Doctrinaire diffusionism and acts of faith
+  type: article-journal
+  URL: https://www.jstor.org/stable/278711
+  volume: '33'
+
+- id: oliveira:2013antiquarismo
+  author:
+    - family: Oliveira
+      given: António
+      dropping-particle: de
+  citation-key: oliveira:2013antiquarismo
+  event-place: Coimbra
+  ISBN: 978-989-703-078-9
+  issued:
+    - year: 2013
+  language: Portuguese
+  publisher: Palimage ; Centro de História da Sociedade e da Cultura
+  publisher-place: Coimbra
+  source: Open WorldCat
+  title: >-
+    Antiquarismo e história: para a história da historiografia (séculos
+    XVII-XXI)
+  title-short: Antiquarismo e história
+  type: book
+
+- id: pacht:1963art105
+  author:
+    - family: Pächt
+      given: Otto
+  citation-key: pacht:1963art105
+  container-title: The Burlington Magazine
+  issue: '722'
+  issued:
+    - year: 1963
+  language: English
+  page: 188-193
+  source: Zotero
+  title: 'Art historians and art critics - vi: Alois Riegl'
+  type: article-journal
+  URL: http://www.jstor.org/stable/874034
+  volume: '105'
+
+- id: parisot:2005
+  archive: Fichário 01
+  call-number: '82.09'
+  citation-key: parisot:2005
+  collection-number: '6'
+  collection-title: Narratologie
+  editor:
+    - family: Parisot
+      given: Fabrice
+  event-place: Paris
+  issued:
+    - year: 2005
+  language: French
+  publisher: L’Harmattan
+  publisher-place: Paris
+  source: Université de Paris-Saint-Denis
+  title: Littérature et représentations artistiques
+  type: book
+
+- id: payne:1999architectural58a
+  accessed:
+    - year: 2019
+      month: 1
+      day: 3
+  author:
+    - family: Payne
+      given: Alina A.
+  citation-key: payne:1999architectural58a
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/991521
+  ISSN: 0037-9808
+  issue: '3'
+  issued:
+    - year: 1999
+  language: en-US
+  page: 292-299
+  source: JSTOR
+  title: 'Architectural history and the history of art: a suspended dialogue'
+  title-short: Architectural history and the history of art
+  type: article-journal
+  URL: https://www.jstor.org/stable/991521
+  volume: '58'
+
+- id: peleggi:2021case1
+  abstract: >-
+    The launch, at the time of a global pandemic that has dramatically altered
+    the way academics teach and do research, of a new peer-reviewed, open-access
+    history journal is twice welcome&mdash;for it manifests the continuing
+    ability of the discipline of history to make sense of the time and world in
+    which we live as well as its endurance in increasingly science-oriented
+    academia [...]
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: Peleggi
+      given: Maurizio
+  citation-key: peleggi:2021case1
+  container-title: Histories
+  DOI: 10.3390/histories1010004
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 3
+  language: English
+  number: '1'
+  page: 10-11
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: A case for comparative history
+  type: article-journal
+  URL: https://www.mdpi.com/2409-9252/1/1/4
+  volume: '1'
+
+- id: pevsner:1989history
+  author:
+    - family: Pevsner
+      given: Nikolaus
+  call-number: >-
+    Tolbiac - Rez de Jardin - Littérature et art - Salle W - Libre accès -
+    2000-239103
+  citation-key: pevsner:1989history
+  collection-title: Bollingen series ,  35;  The A. W. Mellon lectures in the fine arts ,  19
+  event-place: Princeton, N.J.
+  ISBN: 978-0-691-01829-4
+  issued:
+    - year: 1989
+  language: en-US
+  number-of-pages: '352'
+  publisher: Princeton University Press
+  publisher-place: Princeton, N.J.
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: A history of building types
+  type: book
+
+- id: pfnor:1866
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Pfnor
+      given: Rodolphe
+  citation-key: pfnor:1866
+  event-place: Paris
+  issued:
+    - year: 1866
+    - year: 1868
+  language: French
+  publisher: E. Devienne
+  publisher-place: Paris
+  source: Gallica
+  title: >-
+    Ornementation usuelle de toutes les époques dans les arts industriels et en
+    architecture, par Rodolphe Pfnor,.... 2e année. 1867-1868
+  type: book
+  URL: http://gallica.bnf.fr/ark:/12148/bpt6k58445089
+
+- id: piedmont:1986operative40
+  abstract: >-
+    Part of the fallout from the Modern Movement is our perception of our time,
+    ourselves, as somehow set apart from history. Our apparently
+    anti-historicist heritage, and the perceived failure of its utopia, has cast
+    in doubt our relationship with the past and our ability to produce a
+    meaningful present and future. In the realms of criticism and design, there
+    seems to be an artificial distinction between "then" and "now," leaving us
+    in a distended present. Our concern is the meeting point of history and
+    design in the activities of operative criticism. Operative criticism,
+    described by Manfredo Tafuri in Theories and History of Architecture,
+    assumes a subjective reading of history, distorting the past to re-make it
+    for the present. Operative criticism accepts the inevitable fact that the
+    present always conditions the perceptions of the past.
+  accessed:
+    - year: 2020
+      month: 1
+      day: 29
+  archive: JSTOR
+  author:
+    - family: Piedmont
+      given: Susan Carty
+  citation-key: piedmont:1986operative40
+  container-title: Journal of Architectural Education (1984-)
+  DOI: 10.2307/1424842
+  ISSN: 1046-4883
+  issue: '1'
+  issued:
+    - year: 1986
+  language: English
+  page: 8-13
+  source: JSTOR
+  title: Operative criticism
+  type: article-journal
+  URL: https://www.jstor.org/stable/1424842
+  volume: '40'
+
+- id: pinon:2006teoria
+  author:
+    - family: Piñón
+      given: Helio
+  call-number: MLCM 2007/40331 (N)
+  citation-key: pinon:2006teoria
+  collection-number: '24'
+  collection-title: Col·lecció d'Arquitectura
+  edition: 1. ed
+  event-place: Barcelona
+  ISBN: 978-84-8301-847-7
+  issued:
+    - year: 2006
+  language: es
+  number-of-pages: '221'
+  publisher: Universitat Politècnica de Catalunya
+  publisher-place: Barcelona
+  source: Library of Congress ISBN
+  title: Teoría del proyecto
+  type: book
+
+- id: podro:1982critical
+  author:
+    - family: Podro
+      given: Michael
+  citation-key: podro:1982critical
+  event-place: New Haven
+  ISBN: 978-0-300-02862-1
+  issued:
+    - year: 1982
+  language: en-US
+  publisher: Yale University Press
+  publisher-place: New Haven
+  source: Open WorldCat
+  title: The critical historians of art
+  type: book
+
+- id: pyla:1999historicizing
+  abstract: >-
+    This paper is concerned with the practical problem of shaping a "History of
+    Architecture" in a way that expands the dominant canon while acknowledging
+    the complex and difficult realities of articulating difference. Through a
+    critical analysis of Spiro Kostof's "A History of Architecture" and an
+    exposition of the shortcomings of Kostof's attempts to discuss "alternative"
+    histories, this paper investigates how architectural history textbooks could
+    play an important role in initiating a broader, critical teaching of
+    history.
+  accessed:
+    - year: 2013
+      month: 7
+      day: 11
+  archive: Fichário 02
+  author:
+    - family: Pyla
+      given: Panayiota
+  call-number: 72.03:378
+  citation-key: pyla:1999historicizing
+  container-title: Journal of Architectural Education (1984-)
+  container-title-short: Journal of Architectural Education (1984-)
+  DOI: 10.2307/1425411
+  ISSN: 1046-4883
+  issue: '4'
+  issued:
+    - year: 1999
+      month: 5
+  language: English
+  page: 216–225
+  source: JSTOR
+  title: 'Historicizing pedagogy: a critique of Kostof''s "A history of architecture"'
+  title-short: Historicizing pedagogy
+  type: article-journal
+  URL: http://www.jstor.org/stable/1425411
+  volume: '52'
+
+- id: quatremere:1788caractere
+  author:
+    - family: Quatremère de Quincy
+      given: Antoine Chrysosthome
+  citation-key: quatremere:1788caractere
+  collection-editor:
+    - family: Diderot
+      given: Denis
+    - family: Alembert
+      given: Jean le Rond
+      non-dropping-particle: d’
+  collection-title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
+  container-title: Architecture
+  event-place: Paris
+  issued:
+    - year: 1788
+  language: fr-FR
+  page: 477–518
+  publisher: Panckouke
+  publisher-place: Paris
+  title: Caractère
+  type: chapter
+  volume: '1'
+
+- id: rabbat:2018hidden77
+  abstract: >-
+    It is difficult to overstate the tremendous impact of Edward Said's
+    Orientalism on the various fields of the humanities in Western academia.1
+    Said's wide-ranging, profound, and multidisciplinary critique of the ways in
+    which the triumphant culture of our times, the Western one from the
+    Enlightenment to the present, has encountered, codified, and represented the
+    culture of its most immediate other, the Islamic Orient, opened the door for
+    all repressed cultures to question their received representation and to
+    deconstruct the discourse that produced it over time.2 This has led to the
+    revolution in the humanities that we identify today as postcolonial
+    criticism, a revolution that was a long time coming, but Orientalism, and
+    the charismatic personality of its author, provided the catalyst around
+    which its diverse strands finally coalesced.3Even today, forty years after
+    the book's publication, and despite sustained denunciation from detractors
+    on the right and left alike, Said's fundamental critique of the political
+    and ideological frames of knowledge in general, and knowledge about Islam in
+    particular, still reverberates across academia worldwide. Entire domains of
+    inquiry into the cultural production of both the colonizing and colonized
+    worlds, as well as all marginalized minority groups and their sometimes
+    amiable but mostly confrontational interaction, have found their ways into
+    curricula and university programs in the West and in the postcolonial
+    world.4 They have all benefited from the trail blazed by Said's Orientalism
+    and his subsequent elaborations on the intersection between empire (as both
+    locus of power and representation) and culture and the role of intellectuals
+    in our extremely divided yet thoroughly interconnected world.5 In fact, as
+    Anne Wagner, the prominent historian of nineteenth-century art, told me
+    thirty years ago, scholars in the humanities cannot avoid the “post-Saidian”
+    epistemological milieu in which they have to labor regardless of their
+    specific fields of study or their views of Said's criticism.Architectural
+    history—and architectural practice to a lesser extent—has felt the impact of
+    Said's Orientalism as well, even though Said himself, a relentless literary
+    and political critic who was also an accomplished pianist and a classical
+    music and opera reviewer, had very little to say about architecture.
+    Occasionally, he would mention a particular building in passing as a
+    backdrop to his narrative in one of the essays or journalistic reviews that
+    he regularly published in the Egyptian Al-Ahram Weekly newspaper. But he
+    otherwise never turned his sharp eyes and scathing wit directly to
+    architecture, even though he was aware and appreciative of art and
+    architectural criticism. He did, however, engage in extended debates over
+    theoretical and historiographical issues that pertained to art and
+    architecture, as I witnessed in 1985 when a group of graduate students of
+    which I was a part organized a conference at MIT on the postmodern condition
+    and invited Said and Fredric Jameson, along with several leading art and
+    architectural theorists and critics, for two days of exhilarating
+    intellectual one-upmanship.Unsurprisingly, the clearest influence that
+    Said's Orientalism has had within architectural history is on the so-called
+    non-Western subfields (a category that reeks of imperialist superiority),
+    especially the study of Islamic architecture and modern architecture outside
+    the West.6 But it has also affected the study of global architecture, a
+    label and an approach that owe much to the rigorous criticism and expansive
+    perspective that Said and other like-minded historians and critics enabled.7
+    Before Said, architectural history subscribed too uncritically to the
+    canonical view of architecture as a culturally stratified domain, with the
+    architecture of the West, from its presumed classical origins to its
+    glorious culmination in modern times, constituting the historical core of
+    the field, while other architectural traditions, if acknowledged at all,
+    were relegated to marginal places in its ordered hierarchy.8 This was best
+    exemplified by the famous “Tree of Architecture” of the two Banister
+    Fletchers (father and son), which appeared as frontispiece in all seventeen
+    editions of their influential book A History of Architecture on the
+    Comparative Method for the Student, Craftsman, and Amateur, published
+    between 1896 and 1954. This unabashed yet fanciful Eurocentric diagram
+    reserved the living trunk and the upper, healthy branches of the tree to an
+    uninterrupted succession of Western styles from ancient Greece to modern
+    America (dubbed historical styles) and demoted the architecture of all other
+    cultures (labeled nonhistorical styles) to dead-end branches functioning
+    primarily as stylistic curiosities.9Things slowly began to change in 1985
+    with the publication of Spiro Kostof's A History of Architecture, one of the
+    earliest works to respond to Said's criticism, albeit indirectly and without
+    ever mentioning Orientalism.10 The influence, moreover, is apparent in the
+    structure of the book rather than in its narrative or arguments, which
+    remained wedded to the center/periphery model of analysis. Kostof not only
+    included periods and examples of non-Western architectural traditions, a
+    practice going back to James Fergusson and Banister Fletcher, but also, for
+    the first time in an English-language architectural survey, presented a
+    select few of these in comparative pairings with their chronological
+    equivalents in the Western historical sequence. He did this exclusively
+    between the two sides of the Mediterranean: the Christian and the Islamic,
+    with Cairo and Florence paired together in the late Middle Ages and Istanbul
+    and Venice in the Renaissance.11 But as architectural historian Panayiota
+    Pyla has noted, Kostof's pairings were neither historically nor culturally
+    symmetrical. In both examples, he could not shed his reliance on Western
+    architecture as the “yardstick” against which the architecture of the
+    Islamic other is measured, nor could he contextualize the Islamic examples
+    in their own settings (his favorite phenomenological term) as he so
+    impeccably did for the Western ones.12The centrality of Western architecture
+    in Kostof's understanding of architectural history was even more pronounced
+    in his short sections on those architectural traditions—such as those of
+    India, China, and Nepal—that did not interact with the West before the
+    colonial period. There, his review differed little from his predecessors’
+    except in the important distinction of his using a phenomenological language
+    that overtly romanticized and somewhat dehistoricized architecture, as
+    opposed to the formalist and stylistic language of his precursors, which was
+    used to enforce a hierarchical structure of architectural traditions.13
+    Thus, it is possible that Kostof's atypical treatment of Islamic
+    architecture as the privileged counterpart to premodern Western architecture
+    was not the result of a conscious critical rethinking of architectural
+    history's biased formation. It may in fact have been related to his
+    familiarity with the Ottoman tradition owing to his having been raised in
+    Istanbul. But it also could have been a subconscious reaction to Said's
+    pointed criticism of the West's long-held derogatory attitudes toward
+    anything Islamic, of which Kostof must have been aware and which had been
+    intensifying in the time in which he and Said were writing—as they are again
+    today.The methodological corrective in surveying global architecture
+    guardedly explored by Kostof went through several stages of inconclusive
+    refinement in the subsequent three decades, with new editions and revisions
+    of the standard surveys in the field as well as new surveys of what began to
+    be named “world architecture.” Thus, for instance, Fletcher's seventeenth
+    edition of 1961 had replaced the binary division of historical and
+    nonhistorical styles of earlier editions with another dyad that, although
+    less overtly offensive, still endowed only Western architecture with
+    historical evolution (“Ancient Architecture and Western Succession”) while
+    gathering all non-Western traditions under the über-geographical and loaded
+    label “East,” regardless of their actual location on the world map vis-à-vis
+    Europe.14 The nineteenth edition of 1987 (notice the date), however, finally
+    softened the hard-edged dual opposition by breaking the content into seven
+    sections, arranged chronologically, mixing geographic pairing (Europe and
+    the Mediterranean to the Renaissance, Islam, and early Russia) with
+    chronological periodization (colonial and postcolonial periods outside
+    Europe, twentieth century) in a clear attempt to transcend the exclusionary
+    Western succession of earlier editions and to historicize other hitherto
+    neglected traditions.15The twentieth, or centennial, edition of 1996, edited
+    by the noted architectural historian and commentator Dan Cruickshank, with
+    almost twenty consultant editors and contributors, further revamped the
+    structure and tone of the book in ways that hinted at a direct reaction to
+    the kind of criticism initiated by Said's Orientalism, although that book
+    remained unacknowledged in the bibliography.16 This was most evident in a
+    new section of six chapters covering the architecture of Islam from its
+    pre-Islamic roots in Hellenistic and Persian architecture through the
+    Gunpowder Empires of the Mughals, Safavids, and Ottomans. The last chapter
+    in this section, however, strangely reverted to two idiomatic conceptions
+    about Islamic architecture: the one resurrecting the quality of
+    timelessness, focusing on vernacular architecture; the other imbued with
+    fantasy and otherworldliness as it projects Islamic garden traditions
+    through the prism of a paradisiacal vision that is supposed to have animated
+    all garden design over fourteen centuries in diverse ecologies from the
+    desert to the rain forest.17 These two tropes had long been espoused by many
+    Orientalist historians as essential components of the canned definition of
+    Islamic architecture as both artisanally oriented and spiritually
+    motivated.18 The reiteration of these notions in this section ignored the
+    many recent critical works on both subjects that challenged their validity
+    or representativeness and questioned the motivations of those who insisted
+    on using them. It also unveiled the residual stratum in some of the new
+    writing in this authoritative book, one unable to disentangle itself from
+    the Eurocentric roots of its dichotomous structure and its concomitant
+    differential projections of historical versus changeless styles.A break from
+    the historical, even chronological, Eurocentrism of the survey mode was
+    needed if the field was to become truly global. This kind of approach was
+    finally undertaken by Francis Ching, Mark Jarzombek, and Vikramaditya
+    Prakash in their A Global History of Architecture (first edition 2006 and
+    now in its third edition).19 As the insertion of the refurbished term global
+    in the title implies, the book tries to transcend the Western bias of
+    earlier world architectural surveys by using an inclusive global
+    perspective. This is buttressed by a neutral chronological periodization and
+    a vast time span to tell the history of world architecture from as far back
+    as archaeological records allow. The authors clearly seek to avoid the
+    shortcomings of their predecessors, devising a new approach that treats all
+    architectural traditions equally by framing them in a comparative
+    chronological structure that depends solely on numerical time frames. And
+    notwithstanding the huge imbalance inherent in the quality and quantity of
+    architectural data available for the various cultures and time frames
+    covered, the authors try hard to treat all places and periods with the same
+    level of analysis without constantly referring to a model or a core index in
+    the form of Western architectural succession.20Here too, however, we can
+    surmise the influence of Said's critique, which may have been due more to
+    the authors’ general agreement with the postcolonial understanding of
+    historiography than to their conscious reading of his books. They do not
+    mention Said or his work, or even the term Orientalism, at all in their
+    text, but their dismissal of the usual European cultural frame of reference
+    and their total dependence on a chronological one betray a tacit recognition
+    of the inevitable pitfalls of any culturally self-centered perspective in
+    the study of other cultures. Posthumously, Said's criticism of Eurocentric
+    nonchalance has been vindicated, even if only tacitly and without direct
+    reference. Leveling the playing field in assessing the architectural
+    achievements of all historical cultures, however, seems to have been the
+    authors’ goal for A Global History of Architecture, a goal that has been
+    reinforced by Jarzombek's pursuit of the deepest, and implicitly most
+    common, roots of human acts of building in his Architecture of First
+    Societies: A Global Perspective (2013), the sequel to his jointly authored
+    global history book.21If Said's influence is at best hidden or implied in
+    global architectural surveys published after the intellectual splash that
+    Orientalism caused, it is more explicit, sometimes begrudgingly so, in
+    recent studies of Islamic architecture.22 Translated into the major Islamic
+    languages shortly after its initial publication in English, Said's book
+    quickly became a best seller of sorts, providing students of Islamic
+    cultural production with the critical lever they had long needed in their
+    painful, and often unsuccessful, efforts to be admitted into their specific
+    humanities fields as full participants rather than as area studies
+    specialists. Historians of Islamic architecture faced the same challenge.23
+    Their own domain had been seen at best as a self-contained area of study
+    that was religiously and culturally essentialist or environmentally
+    deterministic, and at worst as derivative, passé, ornamentalist,
+    ahistorical, and lacking in tectonic rationality.24 These dismissive notions
+    reflected the enduring influence of two manifestly interdependent scholarly
+    traditions: authoritative Eurocentric art and architectural historiography
+    on one hand, and on the other, the study of Islam in the West that we came
+    to call “Orientalism,” with its various peregrinations in the nineteenth and
+    twentieth centuries. Such negative views were not applied only to Islamic
+    art and architecture. Until at least the 1970s, the same kind of disdainful
+    attitudes framed the scope and methods of the study of all non-Western
+    artistic and architectural subdisciplines and assigned them their prescribed
+    slots in the chronologically, geographically, and ideologically historical
+    and artistic Eurocentric hierarchy.25Said insisted on the discursive
+    heritage of representation of all things Islamic, a heritage that was
+    enthralled with and in the service of imperialism during the colonial
+    period, which ranged variably between the sixteenth and the twentieth
+    centuries. Indeed, the first students of Islamic architecture were all
+    Europeans who, from as early as the 1820s, traveled to the “Orient” in the
+    wake of the first European military interventions in search of adventure,
+    employment, and the thrill of fantasy associated with those mysterious
+    lands. Like other Orientalists in various fields of inquiry, they became
+    engaged in a vast enterprise of collecting, processing, and interpreting
+    bits of information on all aspects of history, culture, and society in the
+    “Orient.” They visited “Oriental” cities and sites—primarily in Spain,
+    western Turkey, the Holy Land, Egypt, and India—where they measured and
+    recorded buildings and ruins and illustrated them. They then produced
+    impressive catalogues of singular monuments, series of buildings, and
+    architectural and ornamental details that introduced to Europe a rich
+    Islamic architectural heritage that was previously almost totally
+    unknown.26These trailblazers were followed by several generations of
+    architects, draftsmen, and archaeologists who expanded the scope of this
+    surveying and classification in time and space. The architects and draftsmen
+    went after the little-known monuments in hitherto unexplored regions that
+    were slowly opening up to Western influence and dominance. They covered
+    Anatolia, Persia, India, Morocco, and Arabia, and eventually penetrated the
+    faraway reaches of the Islamic world in places such as Central Asia and
+    sub-Saharan Africa.27 By the middle of the twentieth century, the terrain
+    had been mostly mapped out. With the nagging exception of Southeast Asia,
+    most major buildings in the Islamic world had been measured, recorded, and
+    classified into types and styles following a rather rigid dynastic
+    periodization that is still more or less with us today.Despite their erudite
+    and prodigious output, these Western students of Islamic architecture were
+    neither equipped to convey nor interested in communicating the substantial
+    intracultural variety and purposeful continuity within Islamic architecture
+    or its conscious intercultural interactions, past and present.28 Instead,
+    they set the stage for a self-contained architectural discourse, charting
+    the history of Islamic architecture as an endogenous and seemingly insular
+    tradition that began with the building of the Mosque of the Prophet in
+    Medina around 620 CE and inexplicably fizzled out with the dawn of the
+    colonial age.29 Their end dates varied between the Taj Mahal in Agra, India
+    (1632–48) and the Blue Mosque (Sultan Ahmet Mosque) in Istanbul (1609–16)
+    (Figures 1 and 2). But these historians never crossed into the nineteenth
+    and twentieth centuries. That is, their history avoided confronting the
+    problem of Islamic architecture's encounter with modernity and its
+    theoretical and historiographic implications.The practice of disciplinary
+    cultural demarcation, which depended more on ideological postures than on
+    historical facts or scholarly reflections, survived far longer than did its
+    biased and compromised source, the bluntly Eurocentric civilizational
+    stratification of the triumphant colonial age.30 It promoted, and even
+    demanded, comprehensive studies of architecture confined within clearly
+    proscribed and exclusive time, space, and culture. It even affected the
+    writing of many postindependence architectural historians in the sometimes
+    incongruously formed nations of the colonized world. In their zeal to purge
+    their emerging national identities from any potentially damning colonial or
+    foreign influence, these scholars adopted the culturally separate line of
+    development that the model promulgated, so as to reconstruct a “pure” and
+    “authentic” cultural and architectural heritage.31 As succinctly noted by
+    Frantz Fanon many years ago, and rearticulated by Edward Said in Orientalism
+    and his later Culture and Imperialism (1993), the nationalists’ heartfelt
+    resistance to a hegemonic intellectual construct did not prevent them from
+    falling into the trap of its conceptual and interpretive biases. They ended
+    up constructing and categorizing the history of “their” architecture, and of
+    “their” culture in general, from an exclusive and ultimately narrowly
+    defined national, religious, or cultural perspective.32 The examples of this
+    inclination are numerous, but the most glaring and unmistakably affected
+    histories can be seen in the various surveys of Central Asian architecture
+    written during the Soviet period, which emphasized ethnic particularity over
+    cultural identity, and in the studies of Iranian and Turkish architecture
+    produced until very recently in Iran and Turkey, which sought in the distant
+    past cultural roots that defined each nation independent of its extensive
+    Islamic identity.33The study of Islamic architecture underwent a certain
+    renaissance in the past few decades, owing in no small measure to the “Said
+    effect.” This coincided with and provided intellectual prestige and
+    rhetorical ammunition to two instrumental and ultimately interrelated
+    phenomena, one architectural and the other, unsurprisingly, financial. The
+    first was the onset of the age of postmodernism in architecture in the 1970s
+    and 1980s, with its renewed if lighthearted approach to history as
+    inspiration and its not-so-masked stress on identity politics as a formally
+    expressive architectural tool.34 Both orientations resonated with the
+    mounting pressure in the Islamic world for culturally and historically
+    inspired architecture, a direction that started to express itself around the
+    same time and for reasons that stemmed primarily from disappointment with
+    the often half-baked, top-down, and ultimately miscarried modernist
+    experiments conducted throughout the 1950s and 1960s in the newly
+    independent countries.35 Thus, the 1980s became the decade of readily
+    identifiable, Islamicized postmodern architecture that fulfilled a real
+    hunger for cultural (and religious, which would eventually supplant the
+    cultural with the rise of Islamism) self-expression.36 There were the
+    posttraditionalists who, like the celebrated Egyptian visionary architect
+    Hassan Fathy (1900–1989) before them, looked for inspiration in vernacular
+    architecture (Figure 3).37 There were also the free, and often arbitrary,
+    mélanges of diverse historical forms and patterns from a wide range of
+    Islamic styles, which borrowed from postmodern architecture its idioms and
+    validation (Figure 4).38 This trend culminated in grand structures by large
+    international firms, which reinterpreted visual symbols and historical
+    motifs and used them mostly as surface articulation or footprint patterns in
+    otherwise ultrasleek, contemporary designs.39 A small publishing industry
+    thrived on the growing demand for easily accessible, nonscholarly primers on
+    Islamic architecture, producing numerous books on Islamic typologies,
+    patterns, and monumental landmarks, several of which were reissues of famous
+    nineteenth-century European graphic compendia.40The second phenomenon to
+    propel the new interest in Islamic architecture was the forceful entry of
+    new, mostly Arab Islamic wealth into the international scene following the
+    sharp rise in oil prices in the mid-1970s. Premier Western cultural
+    institutions, already experienced in cultivating patronage, managed to
+    become the privileged recipients of generous sponsorship from wealthy Muslim
+    rulers and business tycoons, who were becoming increasingly eager to counter
+    the Western heritage of negativity toward Islam by presenting a civilized
+    and artistically sophisticated image of Islamic cultures in academia,
+    museums, and media. As a consequence, Islamic art collections were expanded
+    and housed in newly designed sections in top Western museums, even as new
+    museums for Islamic art opened in the Islamic world.41 New academic chairs
+    for the study of Islamic art and architecture were endowed in the 1980s and
+    1990s at several top-tier American and European universities, almost
+    quadrupling the number of positions devoted to the field. And although this
+    drive started slightly before Said's Orientalism was published, the ideas
+    and language that his book conveyed soon permeated not only the narratives
+    developed around the revived interest in Islamic art and architecture but
+    also the critical stance that a new generation of postcolonial scholars took
+    against the perceived opportunism, naïveté, and even hypocrisy of that same
+    drive.The first effort to package Islam as a rich culture and
+    artistic/architectural tradition was the World of Islam Festival, an
+    unprecedented megacultural event whose origins date to 1973. This event
+    aimed to do no less than “present one civilization—in all its depth and
+    variety—to another.”42 A trust that gathered governments and leading British
+    and international educational and cultural institutions sponsored the
+    festival, which opened in 1976 and included exhibitions, lectures, symposia,
+    books, films, and musical and theatrical performances. One of the
+    exhibitions at the Hayward Gallery in London creatively displayed the
+    “architecture of Islam” by projecting images of hundreds of buildings and
+    their details in a specially constructed cube-shaped theater. This
+    architecture was further explored in several festival-related publications
+    produced over the next decade that covered subjects ranging from the
+    “Islamic city” to the minutest details of architectural decoration.43 Mixing
+    the inherited romanticism of the Orientalist tradition with new and
+    wide-ranging sympathetic scholarship, the World of Islam Festival's
+    publications represented a middle ground between the colonial scholarship of
+    curiosity and acquisition, tinged with the sense of superiority of
+    yesteryear, and the veritable revolution in thinking that came after Said's
+    Orientalism, even if that work's influence remained unacknowledged in
+    several cases.A parallel development to the World of Islam Festival was the
+    founding of the Aga Khan Award for Architecture in 1977, followed almost
+    immediately by the establishment of the Aga Khan Program for Islamic
+    Architecture (AKPIA) at Harvard University and the Massachusetts Institute
+    of Technology in 1978. Operating independently of one another but having
+    similar aspirations, the two programs had a direct impact on the
+    appreciation and study of Islamic architecture. Through an elaborate process
+    of selection, evaluation, and publication of hundreds of nominated projects
+    from around the Islamic world and beyond over the past forty years, the Aga
+    Khan Award has succeeded in turning a relatively neglected domain of
+    practice into an unavoidably acknowledged contributor to the maturity and
+    diversity of contemporary architecture. Coming on the scene both at the tail
+    end of the postmodern moment and at the time of an intensifying turn toward
+    Islamism, the award initially focused on historical continuity, vernacular
+    revival, and critical regionalism.44 Over time, however, its direction has
+    been adjusted to respond to mounting environmental, social, and global
+    challenges to architecture and development. Incorporating various
+    technologically and environmentally driven, adaptive reuse, and conservation
+    concerns within its core historicist and regionalist criteria, the Aga Khan
+    Award has enlarged its purview in a rather conciliatory manner to encompass
+    contemporary design, social housing, community improvement, historic
+    preservation, and landscape design.The Aga Khan Program for Islamic
+    Architecture, on the other hand, is an academic initiative dedicated to
+    teaching and researching Islamic art and architecture, urbanism, landscape,
+    and conservation. Given the program's mission of promoting and increasing
+    the teaching of Islamic architecture, the decision to locate AKPIA in the
+    architecture departments of two of the most prestigious institutions of
+    architectural education in the world was a novel and intellectually
+    challenging one.45 The program's implicit aim was to bridge the pedagogical
+    gap between the discipline of architecture and Islamic architecture, which
+    was a clear manifestation of the binary structure of architectural knowledge
+    rooted in the legacy of Orientalism.46That Edward Said's Orientalism still
+    figures heavily in the academic offerings at AKPIA and other graduate
+    programs devoted to the study of Islamic art and architecture is not only a
+    manifestation of the book's enduring intellectual relevance and critical
+    rigor. Alas, it is also a sign of the canonical rigidity and cultural
+    complicity of architectural history's dominant discourse, which still treats
+    architectural experiences outside its own traditional geopolitical and
+    historical domain with suspicion or contempt, especially when these other
+    experiences are motivated by a sense of resistance to that same discourse
+    and its exclusivity.47 For their part, Islamic architectural scholars of the
+    last two generations have rejected the notions of uniformity, introversion,
+    and cultural and religious determinism that long dominated their field and
+    have extended their domain of inquiry into hitherto neglected periods,
+    areas, and points of contact with other cultures.48 The cumulative effect of
+    these inquiries has been to set Islamic architecture well on its way to
+    finally devising its own historical and methodological contours, which, when
+    academic Orientalism is truly overcome, will undoubtedly enrich the broader
+    field of architectural history and finally bring Islamic architecture into
+    its fold.49
+  accessed:
+    - year: 2021
+      month: 9
+      day: 5
+  author:
+    - family: Rabbat
+      given: Nasser
+  citation-key: rabbat:2018hidden77
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2018.77.4.388
+  ISSN: 0037-9808
+  issue: '4'
+  issued:
+    - year: 2018
+      month: 12
+      day: 1
+  language: en
+  page: 388-396
+  publisher: University of California Press
+  source: online.ucpress.edu
+  title: 'The hidden hand: Edward Said''s *Orientalism* and architectural history'
+  title-short: The hidden hand
+  type: article-journal
+  URL: >-
+    https://online.ucpress.edu/jsah/article/77/4/388/60312/The-Hidden-Hand-Edward-Said-s-Orientalism-and
+  volume: '77'
+
+- id: riegl:1893stilfragen
+  abstract: >-
+    Book Source: Digital Library of India Item 2015.70527dc.contributor.author:
+    Riegl, Alois
+
+    dc.date.accessioned: 2015-06-30T02:08:45Z
+
+    dc.date.available: 2015-06-30T02:08:45Z
+
+    dc.date.copyrightexpirydate: 0000-00-00
+
+    dc.date.digitalpublicationdate: 0000-00-00
+
+    dc.date.citation: 1893
+
+    dc.identifier.barcode: 99999990009130
+
+    dc.identifier.origpath: /data6/upload/0143/289
+
+    dc.identifier.copyno: 1
+
+    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/70527
+
+    dc.description.scanningcentre: IGNCA, Delhi
+
+    dc.description.main: 1
+
+    dc.description.tagged: 0
+
+    dc.description.totalpages: 377
+
+    dc.format.mimetype: application/pdf
+
+    dc.language.iso: English
+
+    dc.publisher: Verlag Von Georg Siemens
+
+    dc.rights: Out_of_copyright
+
+    dc.source.library: Central Archaeological Library,  Asi
+
+    dc.subject.classification: Decorative Arts
+
+    dc.subject.classification: Arts
+
+    dc.subject.classification: Furniture
+
+    dc.title: Stilfragen (grundlegungen Zu Einer Geschichte Der Ornamentik)
+  accessed:
+    - year: 2017
+      month: 6
+      day: 20
+  author:
+    - family: Riegl
+      given: Alois
+  citation-key: riegl:1893stilfragen
+  event-place: Berlin
+  issued:
+    - year: 1893
+  language: de-DE
+  publisher: Siemens
+  publisher-place: Berlin
+  source: Internet Archive
+  title: 'Stilfragen: Grundlegungen zu einer Geschichte der Ornamentik'
+  title-short: Stilfragen
+  type: book
+  URL: http://archive.org/details/in.ernet.dli.2015.70527
+
+- id: riegl:1992questions
+  author:
+    - family: Riegl
+      given: Alois
+  citation-key: riegl:1992questions
+  event-place: Paris
+  issued:
+    - year: 1992
+  language: fr-FR
+  publisher: Hazan
+  publisher-place: Paris
+  title: "Questions de style\_: fondements d’une histoire de l’ornementation"
+  type: book
+
+- id: rouvillois:1996linvention
+  author:
+    - family: Rouvillois
+      given: Frédéric
+  call-number: HM101 .R66 1996
+  citation-key: rouvillois:1996linvention
+  collection-title: Collection Philosophie, épistémologie
+  event-place: Paris
+  ISBN: 978-2-84174-059-8
+  issued:
+    - year: 1996
+  number-of-pages: '487'
+  publisher: Editions Kimé
+  publisher-place: Paris
+  source: Library of Congress ISBN
+  title: 'L''invention du progrès: aux origines de la pensée totalitaire, 1680-1730'
+  title-short: L'invention du progrès
+  type: book
+
+- id: rowe:1966diffusionism31
+  abstract: >-
+    Doctrinaire diffusionism is a menace to the development of sound
+    archaeological theory based on comparative studies; it distracts
+    archaeologists from such studies and seeks to destroy the basis of
+    comparison. Diffusionist arguments are defective in principle, however. The
+    bias in the selection of data for these arguments can be illustrated by
+    listing cultural similarities between ancient Peru and the ancient
+    Mediterranean.
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Rowe
+      given: John Howland
+  citation-key: rowe:1966diffusionism31
+  container-title: American Antiquity
+  DOI: 10.2307/2694735
+  ISSN: 0002-7316
+  issue: '3'
+  issued:
+    - year: 1966
+  language: en-US
+  page: 334-337
+  publisher: Society for American Archaeology
+  source: JSTOR
+  title: Diffusionism and archaeology
+  type: article-journal
+  URL: https://www.jstor.org/stable/2694735
+  volume: '31'
+
+- id: rubies:2009texts
+  accessed:
+    - year: 2019
+      month: 8
+      day: 1
+  author:
+    - family: Rubiés
+      given: Joan-Pau
+  citation-key: rubies:2009texts
+  container-title: 'European Visions: American Voices'
+  editor:
+    - family: Sloan
+      given: Kim
+  event-place: London
+  ISBN: 978-0-86159-172-5
+  issued:
+    - year: 2009
+  language: English
+  page: 120-130
+  publisher: British Museum
+  publisher-place: London
+  source: eprints.lse.ac.uk
+  title: >-
+    Texts, images and the perception of ‘savages’ in Early Modern Europe: what
+    we can learn from White and Harriot
+  title-short: Texts, images and the perception of ‘savages’ in Early Modern Europe
+  type: chapter
+  URL: http://www.britishmuseum.org/research/research_publications/
+
+- id: rykwert:1954siegfried
+  accessed:
+    - year: 2013
+      month: 3
+      day: 2
+  author:
+    - family: Rykwert
+      given: Joseph
+  citation-key: rykwert:1954siegfried
+  container-title: The Burlington Magazine
+  container-title-short: The Burlington Magazine
+  DOI: 10.2307/871369
+  ISSN: 0007-6287
+  issue: '613'
+  issued:
+    - year: 1954
+      month: 4
+      day: 1
+  language: English
+  page: 123-124
+  source: JSTOR
+  title: Siegfried Giedion and the notion of style
+  type: article-journal
+  URL: http://www.jstor.org/stable/871369
+  volume: '96'
+
+- id: schmiechen:1988victorians93
+  accessed:
+    - year: 2019
+      month: 12
+      day: 17
+  author:
+    - family: Schmiechen
+      given: James A.
+  citation-key: schmiechen:1988victorians93
+  container-title: The American Historical Review
+  DOI: 10.2307/1859920
+  ISSN: 0002-8762
+  issue: '2'
+  issued:
+    - year: 1988
+  language: en-US
+  page: 287-316
+  source: JSTOR
+  title: The Victorians, the historians, and the idea of Modernism
+  type: article-journal
+  URL: www.jstor.org/stable/1859920
+  volume: '93'
+
+- id: schnapp:2013world
+  call-number: D210 .W65 2013
+  citation-key: schnapp:2013world
+  collection-title: Issues & Debates
+  editor:
+    - family: Schnapp
+      given: Alain
+    - family: Falkenhausen
+      given: Lothar
+      dropping-particle: von
+    - family: Miller
+      given: Peter N.
+    - family: Murray
+      given: Tim
+  event-place: Los Angeles
+  ISBN: 978-1-60606-148-0
+  issued:
+    - year: 2013
+  language: English
+  number-of-pages: '455'
+  publisher: Getty Research Institute
+  publisher-place: Los Angeles
+  source: Library of Congress ISBN
+  title: 'World antiquarianism: comparative perspectives'
+  title-short: World antiquarianism
+  type: book
+
+- id: scruton:2009beauty
+  author:
+    - family: Scruton
+      given: Roger
+  call-number: B1649.S2473 B43 2009
+  citation-key: scruton:2009beauty
+  event-place: New York
+  ISBN: 978-0-19-955952-7
+  issued:
+    - year: 2009
+  language: English
+  number-of-pages: '223'
+  publisher: Oxford ; Oxford University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: Beauty
+  type: book
+
+- id: seligmann:1980architectural
+  author:
+    - family: Seligmann
+      given: Claus
+  citation-key: seligmann:1980architectural
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  DOI: 10.2307/1424722
+  ISSN: 0149-2993
+  issue: '1'
+  issued:
+    - year: 1980
+  language: en-US
+  page: 14–19
+  source: JSTOR
+  title: 'Architectural history: discipline or routine?'
+  title-short: Architectural history
+  type: article-journal
+  URL: http://www.jstor.org/stable/1424722
+  volume: '34'
+
+- id: semper:1851vier
+  abstract: >-
+    Book digitized by Google from the library of Oxford University and uploaded
+    to the Internet Archive by user tpb.
+  accessed:
+    - year: 2021
+      month: 2
+      day: 8
+  author:
+    - family: Semper
+      given: Gottfried
+  citation-key: semper:1851vier
+  issued:
+    - year: 1851
+  language: German
+  number-of-pages: '126'
+  publisher: F. Vieweg
+  source: Internet Archive
+  title: Die vier Elemente der Baukunst
+  type: book
+  URL: http://archive.org/details/dievierelemente00sempgoog
+
+- id: semper:1860stil
+  abstract: >-
+    Each volume has also special t.p; Vol. 2 has imprint: München : Friedrich
+    Bruckmann's Verlag, 1863; Includes bibliographical references
+  accessed:
+    - year: 2021
+      month: 2
+      day: 8
+  author:
+    - family: Semper
+      given: Gottfried
+  call-number: '85776'
+  citation-key: semper:1860stil
+  event-place: Frankfurt am Main
+  issued:
+    - year: 1860
+  language: German
+  number-of-pages: '626'
+  publisher: Verlag für Kunst und Wissenschaft
+  publisher-place: Frankfurt am Main
+  source: Internet Archive
+  title: >-
+    Der Stil in den technischen und tektonischen Künsten, oder, Praktische
+    Aesthetik : ein Handbuch für Techniker, Künstler und Kunstfreunde
+  title-short: >-
+    Der Stil in den technischen und tektonischen Künsten, oder, Praktische
+    Aesthetik
+  type: book
+  URL: http://archive.org/details/gri_stilindentec02semp
+
+- id: semper:2004style
+  author:
+    - family: Semper
+      given: Gottfried
+  call-number: NA2500 .S46213 2004
+  citation-key: semper:2004style
+  collection-title: Texts & documents
+  event-place: Los Angeles
+  ISBN: 978-0-89236-597-5
+  issued:
+    - year: 2004
+  language: en-US
+  number-of-pages: '980'
+  publisher: Getty Research Institute
+  publisher-place: Los Angeles
+  source: Library of Congress ISBN
+  title: Style in the technical and tectonic arts, or, Practical aesthetics
+  translator:
+    - family: Mallgrave
+      given: Harry Francis
+    - family: Robinson
+      given: Michael
+  type: book
+
+- id: smith:1978dome
+  author:
+    - family: Smith
+      given: E. B.
+  citation-key: smith:1978dome
+  collection-number: '25'
+  collection-title: Princeton-monographs in art and archaeology
+  event-place: Princeton, N. J
+  ISBN: 978-0-691-00304-7
+  issued:
+    - year: 1978
+  language: English
+  number-of-pages: '227'
+  publisher: Princeton Univ. Pr
+  publisher-place: Princeton, N. J
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: 'The dome: a study in the history of ideas'
+  title-short: The dome
+  type: book
+
+- id: stoppani:2010lhistoire
+  author:
+    - family: Stoppani
+      given: Teresa
+  call-number: NA2750 .H85 2010
+  citation-key: stoppani:2010lhistoire
+  container-title: >-
+    The humanities in architectural design: a contemporary and historical
+    perspective
+  editor:
+    - family: Bandyopadhyay
+      given: Soumyen
+  event-place: Milton Park, Abingdon, Oxon ; New York, NY
+  ISBN: 978-0-415-55113-7 978-0-415-55114-4
+  issued:
+    - year: 2010
+  language: en-GB
+  page: 214-225
+  publisher: Routledge
+  publisher-place: Milton Park, Abingdon, Oxon ; New York, NY
+  source: Library of Congress ISBN
+  title: 'L''histoire assassinée: Manfredo Tafuri and the present'
+  type: chapter
+
+- id: tafuri:1968teorie
+  author:
+    - family: Tafuri
+      given: Manfredo
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - 8-Z-16660 (649)
+  citation-key: tafuri:1968teorie
+  collection-number: '649'
+  collection-title: Biblioteca di cultura moderna
+  event-place: Bari
+  issued:
+    - year: 1968
+  language: Italian
+  number-of-pages: '362'
+  publisher: Laterza
+  publisher-place: Bari
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: Teorie e storia dell'architettura
+  type: book
+
+- id: tafuri:1977progetto
+  author:
+    - family: Tafuri
+      given: Manfredo
+  citation-key: tafuri:1977progetto
+  event-place: Roma
+  issued:
+    - year: 1977
+  language: Italian
+  publisher: Laterza
+  publisher-place: Roma
+  title: 'Progetto e utopia: architettura e sviluppo capitalistico'
+  type: book
+
+- id: tafuri:1977storico
+  author:
+    - family: Tafuri
+      given: Manfredo
+  citation-key: tafuri:1977storico
+  container-title: Casabella
+  issue: '429'
+  issued:
+    - year: 1977
+  language: it
+  page: 11-18
+  source: Google Scholar
+  title: Il “progetto” storico
+  type: article-journal
+
+- id: tafuri:1980sfera
+  author:
+    - family: Tafuri
+      given: Manfredo
+  citation-key: tafuri:1980sfera
+  event-place: Torino
+  issued:
+    - year: 1980
+  language: it
+  publisher: G. Einaudi
+  publisher-place: Torino
+  source: Open WorldCat
+  title: >-
+    La Sfera e il labirinto: avanguardie e architettura da Piranesi agli anni
+    '70
+  title-short: La Sfera e il labirinto
+  type: book
+
+- id: tafuri:1988teorie
+  author:
+    - family: Tafuri
+      given: Manfredo
+  citation-key: tafuri:1988teorie
+  collection-number: '166'
+  collection-title: Biblioteca Universale Laterza
+  edition: '7'
+  event-place: Bari
+  ISBN: 978-88-420-2700-3
+  issued:
+    - year: 1988
+  language: Italian
+  number-of-pages: '355'
+  publisher: Laterza
+  publisher-place: Bari
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Teorie e storia dell'architettura
+  type: book
+
+- id: taine:1865philosophie
+  abstract: >-
+    "Paris. - Imprimerie de E. Martinet, rue Mignon, 2."--Half-title verso & p.
+    175; Inscribed [by the author?] on half-title verso to Edouard Manet: "Envoi
+    de M. Theodore Duret"; Bdg.: half brown morocco; Mrs. Charles W. Engelhard
+    and children in memory of Charles W. Engelhard;; From the library of Edouard
+    Manet
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Taine
+      given: Hippolyte
+  call-number: '9928008590001551'
+  citation-key: taine:1865philosophie
+  event-place: Paris
+  issued:
+    - year: 1865
+  language: French
+  number-of-pages: '190'
+  publisher: Germer Bailliere
+  publisher-place: Paris
+  source: Internet Archive
+  title: 'Philosophie de l''art : leçons professées a l''Ecole des beaux-arts'
+  title-short: Philosophie de l'art
+  type: book
+  URL: http://archive.org/details/philosophiedelar00tain_0
+
+- id: taine:1867lideal
+  abstract: '1'
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Taine
+      given: Hippolyte
+  call-number: DFK3971
+  citation-key: taine:1867lideal
+  collection-title: Leçons professées à l'école des Beaux-Arts
+  event-place: Paris
+  issued:
+    - year: 1867
+  language: French
+  number-of-pages: '202'
+  publisher: G. Baillière
+  publisher-place: Paris
+  source: Internet Archive
+  title: De l'idéal dans l'art
+  type: book
+  URL: http://archive.org/details/delidaldanslart00tain
+
+- id: talenti:2000lhistoire
+  abstract: >-
+    " De quoi n'a-t-on pas écrit l'histoire ? Il en reste une cependant qui est
+    encore à faire, et qui ne serait pas la moins intéressante. Je parle de
+    l'histoire des histoires " (César Daly, 1849). Si, depuis les années 1970,
+    de nombreux auteurs se sont penchés sur l'historiographie politique,
+    artistique ou scientifique, l'histoire de l'histoire de l'architecture a
+    fait l'objet de peu d'études. Les raisons en sont multiples :
+    l'éparpillement des sources, la crise de l'architecture elle-même, les
+    clivages qui peuvent exister entre architectes et historiens de l'art. Sans
+    doute la " muséalisation " de l'architecture, la définition du patrimoine et
+    la pédagogie, sont aujourd'hui des questions incontournables. Examiner les
+    origines de l'historiographie de l'architecture - qui a connu récemment une
+    émergence remarquable - est une priorité pour nourrir ce débat. La matière
+    est riche. Depuis les publications des antiquaires du XVIIIe siècle, la
+    connaissance des monuments ne cesse de progresser. L'exemple des
+    naturalistes, des grands fondateurs de l'histoire politique et des
+    archéologues suscitent la volonté de concevoir une autre histoire de
+    l'architecture, plus scientifique. En France, les années 1863 à 1914
+    s'avèrent une véritable période charnière caractérisée par d'innombrables
+    histoires, essais, études globales et partielles, par une évolution continue
+    des moyens de représentation de l'architecture, par la multiplication des
+    établissements d'enseignement et des approches pédagogiques. Parmi les
+    grands acteurs de cette période figurent Viollet-le-Duc, Ramée, Dartein,
+    Baudot, ou Ruprich-Robert. A l'issue de leurs travaux analysés ici
+    méthodiquement dans leur contexte, le visage de l'histoire de l'architecture
+    est entièrement transformé. Elle a trouvé sa propre définition, elle a
+    affiné ses moyens de représentation et dispose désormais d'outils
+    méthodologiques efficaces.
+  author:
+    - family: Talenti
+      given: Simona
+  citation-key: talenti:2000lhistoire
+  event-place: Paris
+  ISBN: 978-2-7084-0585-1
+  issued:
+    - year: 2000
+  language: French
+  number-of-pages: '300'
+  publisher: Picard
+  publisher-place: Paris
+  source: Google Books
+  title: >-
+    L’histoire de l'architecture en France: émergence d'une discipline
+    (1863–1914)
+  title-short: L'histoire de l'architecture en France
+  type: book
+
+- id: talon-hugon:2005
+  archive: Fichário 01
+  author:
+    - family: Talon-Hugon
+      given: Carole
+  call-number: 82.09:75.01
+  citation-key: talon-hugon:2005
+  collection-number: '6'
+  collection-title: Narratologie
+  container-title: Littérature et représentations artistiques
+  editor:
+    - family: Parisot
+      given: Fabrice
+  event-place: Paris
+  issued:
+    - year: 2005
+  language: French
+  page: 35–45
+  publisher: L’Harmattan
+  publisher-place: Paris
+  source: Université de Paris-Saint-Denis
+  title: Dire la peinture
+  type: chapter
+
+- id: tatarkiewicz:1970did31
+  accessed:
+    - year: 2019
+      month: 7
+      day: 29
+  author:
+    - family: Tatarkiewicz
+      given: Wladyslaw
+  citation-key: tatarkiewicz:1970did31
+  container-title: Philosophy and Phenomenological Research
+  DOI: 10.2307/2105979
+  ISSN: '00318205'
+  issue: '1'
+  issued:
+    - year: 1970
+      month: 9
+  language: English
+  page: '47'
+  source: Crossref
+  title: Did aesthetics progress?
+  type: article-journal
+  URL: https://www.jstor.org/stable/2105979?origin=crossref
+  volume: '31'
+
+- id: tatarkiewicz:1972great31
+  accessed:
+    - year: 2019
+      month: 7
+      day: 29
+  author:
+    - family: Tatarkiewicz
+      given: Wladyslaw
+  citation-key: tatarkiewicz:1972great31
+  container-title: The Journal of Aesthetics and Art Criticism
+  DOI: 10.2307/429278
+  ISSN: '00218529'
+  issue: '2'
+  issued:
+    - year: 1972
+      season: 4
+  language: en-US
+  page: '165'
+  source: Crossref
+  title: The great theory of beauty and its decline
+  type: article-journal
+  URL: https://www.jstor.org/stable/429278?origin=crossref
+  volume: '31'
+
+- id: therrien:1998histoire
+  abstract: >-
+    S'il existe, depuis l'Antiquité, de très nombreux écrits sur l'histoire de
+    l'art, son enseignement est beaucoup plus récent : la première chaire, en
+    France, fut créée à la Sorbonne en 1899. Cet ouvrage montre comment on est
+    passé du cours public d'archéologie, à la Bibliothèque nationale à la fin du
+    XVIIIe siècle, au cours d'histoire de l'art, dans les facultés des lettres
+    des universités de province au début du XXe siècle, en passant par l'Ecole
+    des chartes, l'Ecole des Beaux-Arts, le Collège de France et l'Ecole du
+    Louvre... Genèse d'une discipline et d'une recherche, c'est aussi
+    l'évolution des mentalités universitaires que nous suivons ici. Du cabinet à
+    l'université, de l'érudition archéologique au diplôme universitaire, cette
+    enquête historique montre les enjeux et les conflits qui marquent les débuts
+    de cet enseignement spécifique.
+  author:
+    - family: Therrien
+      given: Lyne
+  citation-key: therrien:1998histoire
+  event-place: Paris
+  ISBN: 978-2-7355-0371-1
+  issued:
+    - year: 1998
+      month: 1
+      day: 1
+  language: fr
+  number-of-pages: '623'
+  publisher: Éditions du <span class="smallcaps">C.T.H.S.</span>
+  publisher-place: Paris
+  source: Google Books
+  title: 'L''histoire de l''art en France: genèse d''une discipline universitaire'
+  title-short: L'histoire de l'art en France
+  type: book
+
+- id: thibault:2010geometrie
+  abstract: >-
+    "À une époque où l'esthétique française affine son statut de discipline
+    scientifique, les architectes convoquent à leur tour un ensemble aux
+    frontières mouvantes, articulant physiologie sensorielle, psychologie ou
+    sociologie, et perméable à des courants plus ésotériques. Jusqu'où ces
+    savoirs guident-ils le projet d'une rationalisation des états affectifs
+    engendrés par l'environnement bâti ? Comment s'ajustent-ils aux débats
+    doctrinaux qui traversent le champ architectural? De César Daly à André
+    Lurçat, cet ouvrage propose d'explorer ces tentatives visant à fonder une
+    science de l'esthétique architecturale. De l'éclectisme stylistique au
+    purisme géométrique, l'hypothèse d'un vocabulaire émotif de l'architecture
+    se décline à partir de modélisations variées des processus de perception,
+    d'associationnisme, des théories de l'empathie ou des conceptions
+    mécanistes. Se construisent autant de méthodes d'analyse formelle, qui
+    tendent à réduire l'architecture à des composantes géométriques. L'ouvrage
+    révèle des continuités inattendues, entre culture beaux-arts et mouvement
+    moderne; il met également en évidence les porosités des théories
+    architecturales aux imaginaires scientifiques de leur temps."--P. [4] of
+    cover.
+  author:
+    - family: Thibault
+      given: Estelle
+  citation-key: thibault:2010geometrie
+  event-place: Bruxelles
+  ISBN: 978-2-8047-0045-4
+  issued:
+    - year: 2010
+  language: fr-FR
+  number-of-pages: '274'
+  publisher: Mardaga
+  publisher-place: Bruxelles
+  source: Google Books
+  title: >-
+    La géométrie des émotions: les esthétiques scientifiques de l'architecture
+    en France, 1860-1950
+  title-short: La géométrie des émotions
+  type: book
+
+- id: trachtenberg:1988observations70
+  accessed:
+    - year: 2021
+      month: 6
+      day: 10
+  author:
+    - family: Trachtenberg
+      given: Marvin
+  citation-key: trachtenberg:1988observations70
+  container-title: The Art Bulletin
+  DOI: 10.2307/3051117
+  ISSN: 0004-3079
+  issue: '2'
+  issued:
+    - year: 1988
+  language: en-GB
+  page: 208-241
+  publisher: '[Taylor & Francis, Ltd., College Art Association]'
+  source: JSTOR
+  title: Some observations on recent architectural history
+  type: article-journal
+  URL: https://www.jstor.org/stable/3051117
+  volume: '70'
+
+- id: unamuno:1902torno
+  author:
+    - family: Unamuno
+      given: Miguel
+      dropping-particle: de
+  call-number: '316.7'
+  citation-key: unamuno:1902torno
+  collection-number: '4'
+  collection-title: Biblioteca moderna de ciencias sociales
+  event-place: 'Madrid : Barcelona'
+  issued:
+    - year: 1902
+  language: Spanish
+  number-of-pages: '212'
+  publisher: Fernando Fé ; Antonio López
+  publisher-place: 'Madrid : Barcelona'
+  source: webopac.sib.uc.pt Library Catalog
+  title: En torno al casticismo
+  type: book
+
+- id: vega:2019modern
+  abstract: >-
+    A finales del siglo XX se produjo un cambio en la manera de escribir la
+    historia de la arquitectura. A partir de 1999, aparece un cierto impulso
+    para entender la arquitectura desde un punto de vista global, a la luz de la
+    teoría postcolonial. Sibel Bozdoğan hace la siguiente proposición: escribir
+    una ‘historia entrelazada/entretejida,’ que demuestre que el canon
+    occidental y la producción cultural de las sociedades aparte de Europe y los
+    Estados Unidos no son independientes, ni que ésta última fuera a sustituir a
+    aquella. La bibliografía resultante no ha sabido mostrar las sutiles
+    instancias de intercambios entre culturas y de valores universales
+    compartidos, olvidándose de revisar el concepto de universalismo. Este
+    trabajo de investigación propone una revisión crítica de las historias
+    globales de la arquitectura publicadas entre 1999 y 2014, así como de los
+    debates académicos más recientes para entender qué queda por hacer hoy.
+    Aunque puede ser que ‘global,’ como categoría haya perdido su capacidad
+    crítica para comprender el presente, la historiografía de lo global en
+    arquitectura aún tiene que escribirse.AbstractThe writing of architectural
+    history shifted with the turn of the century. By 1999, there is an urge to
+    understand architecture from a global perspective, under the lens of
+    postcolonial theories. Sibel Bozdoğan set the task: to write an ‘intertwined
+    history,’ which shows that the western canon and the cultural production of
+    societies outside of Europe and North America are not separate and
+    independent, nor is the latter to replace the former. Subsequent literature
+    failed to look into subtle instances of cross-cultural exchanges and
+    universally shared values, thus neglecting to revise the notion of
+    universalism. This paper analyses the resulting literature on global
+    architecture published between 1999 and 2014, and more recent scholarly
+    discussions to understand what remains for historians to do today. Though it
+    may be that ‘global’ has lost its criticality as category to comprehend the
+    present, the historiography of global architecture is yet to be written.
+  accessed:
+    - year: 2021
+      month: 6
+      day: 7
+  author:
+    - family: De la Vega de León
+      given: Macarena
+  citation-key: vega:2019modern
+  container-title: Cuaderno de Notas
+  container-title-short: Cuad. notas
+  DOI: 10.20868/cn.2019.4259
+  ISSN: 1138-1590
+  issue: '20'
+  issued:
+    - year: 2019
+      month: 7
+      day: 31
+  language: English
+  page: '43'
+  source: DOI.org (Crossref)
+  title: 'Modern to contemporary: a historiography of global in architecture'
+  title-short: Modern to contemporary
+  type: article-journal
+  URL: http://polired.upm.es/index.php/cuadernodenotas/article/view/4259
+
+- id: vidler:1998idea
+  author:
+    - family: Vidler
+      given: Anthony
+  call-number: NA680 .O69 1998
+  citation-key: vidler:1998idea
+  container-title: >-
+    Oppositions reader: selected readings from a journal for ideas and criticism
+    in architecture, 1973-1984
+  editor:
+    - family: Hays
+      given: K. Michael
+  event-place: Princeton, N.J.
+  ISBN: 978-1-56898-152-9 978-1-56898-153-6
+  issued:
+    - year: 1998
+  language: en-US
+  page: 437-460
+  publisher: Princeton Architectural Press
+  publisher-place: Princeton, N.J.
+  source: Library of Congress ISBN
+  title: 'The Idea of Type: The Transformation of the Academic Ideal, 1750–1830 [1977]'
+  type: chapter
+
+- id: vidler:2000diagrams
+  accessed:
+    - year: 2019
+      month: 5
+      day: 16
+  author:
+    - family: Vidler
+      given: Anthony
+  citation-key: vidler:2000diagrams
+  container-title: Representations
+  DOI: 10.2307/2902906
+  ISSN: 0734-6018
+  issue: '72'
+  issued:
+    - year: 2000
+  language: English
+  page: 1-20
+  source: JSTOR
+  title: 'Diagrams of Diagrams: Architectural Abstraction and Modern Representation'
+  title-short: Diagrams of Diagrams
+  type: article-journal
+  URL: https://www.jstor.org/stable/2902906
+
+- id: vidler:2018theories
+  abstract: >-
+    “History, Theory, and Criticism,” the title of many courses and even
+    departments in academic schools of architecture, attests to the easy way in
+    which these subjects are, however undefined, seen as basic elements of an
+    architectural education. The presumed general humanistic aim of these, often
+    separate courses would no doubt be the introduction of potential architects
+    to history, to ways of thinking inherent to the past and present of their
+    practice, and the interpretation of that practice in the past and present.
+    Such courses have been in existence since the initial division of the
+    subject “architecture” in professional schools—from Jacques-François
+    Blondel’s categorization of the field in the 1750s to the AIA and RIBA
+    protocols of the present. And while theoretical incursions from outside have
+    always had their place in authorizing architectural thought, those of the
+    1960s and 1970s were especially—and deliberately—unsettling. While now
+    happily incorporated in “theory” courses, the resonance and implications of
+    these theories for contemporary research have yet to be fully assessed.
+    Their historicization is not only inevitable, but also necessary, as they
+    are incorporated in the “toolkit” that Manfredo Tafuri saw as required for
+    critical historical work.
+  accessed:
+    - year: 2018
+      month: 11
+      day: 15
+  author:
+    - family: Vidler
+      given: Anthony
+  citation-key: vidler:2018theories
+  container-title: e-flux
+  issued:
+    - year: 2018
+      month: 11
+      day: 7
+  language: English
+  title: Theories in and of history
+  type: post-weblog
+  URL: >-
+    https://www.e-flux.com/architecture/history-theory/225183/theories-in-and-of-history/
+
+- id: virk:2003comparative
+  author:
+    - family: Virk
+      given: Tomo
+  citation-key: virk:2003comparative
+  container-title: Comparative Literature and Culture
+  issued:
+    - year: 2003
+  language: English
+  title: Comparative literature versus comparative cultural studies
+  type: article-journal
+  volume: '5.4'
+
+- id: walker:1980note19
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Walker
+      given: Lawrence D.
+  citation-key: walker:1980note19
+  container-title: History and Theory
+  DOI: 10.2307/2504796
+  ISSN: 0018-2656
+  issue: '2'
+  issued:
+    - year: 1980
+  language: English
+  page: 154-164
+  publisher: '[Wesleyan University, Wiley]'
+  source: JSTOR
+  title: A note on historical linguistics and Marc Bloch's comparative method
+  type: article-journal
+  URL: https://www.jstor.org/stable/2504796
+  volume: '19'
+
+- id: wang:2018comparison
+  abstract: >-
+    [EN] Quanzhou in south-eastern China was built in the Sui Dynasty, having
+    more than 1,000 years of history. Its urban development led to the triple
+    walls in a different period of time. Its unique landscape of multiple walls
+    is a one of the Chinese ancient city patterns. However, the massive
+    stone-built city wall pattern like Newcastle also has more than 1000, years
+    of history in western cities .City walls maintain the preeminence as the
+    city’s most powerful fixation line. The expansion of the wall in Quanzhou
+    shows how the time-space changes, while Newcastle' s fringe belt is
+    relatively stable, which forms a different urban form. This article mainly
+    compares the following aspects: (1) The development of Quanzhou fringe belt;
+    (2) Differences of fringe belts between the multiple walls city and the sole
+    wall city; (3) Differences of land use in intramural zone between two
+    cities. This paper analyzes the differences of fringe belts caused by city
+    walls between Quanzhou, (China) and Newcastle, (England), and their
+    influence on the urban form between the East and the West.
+  accessed:
+    - year: 2021
+      month: 6
+      day: 14
+  author:
+    - family: Wang
+      given: Di
+    - family: Zheng
+      given: Jianyi
+  citation-key: wang:2018comparison
+  container-title: 24th ISUF International Conference. Book of Papers
+  DOI: 10.4995/ISUF2017.2017.5061
+  event: 24th ISUF International Conference. Book of Papers
+  ISBN: 978-84-9048-574-3
+  issued:
+    - year: 2018
+      month: 4
+      day: 20
+  language: English
+  page: 167-175
+  publisher: Editorial Universitat Politècnica de València
+  source: riunet.upv.es
+  title: >-
+    Comparison of urban form based on different city walls between Quanzhou and
+    Newcastle upon Tyne
+  type: paper-conference
+  URL: https://riunet.upv.es/handle/10251/114335
+
+- id: watkin:1977morality
+  author:
+    - family: Watkin
+      given: David
+  citation-key: watkin:1977morality
+  event-place: Oxford
+  ISBN: 978-0-19-817350-2
+  issued:
+    - year: 1977
+  language: en-GB
+  publisher: Clarendon
+  publisher-place: Oxford
+  source: Open WorldCat
+  title: >-
+    Morality and architecture: the development of a theme in architectural
+    history and theory from the Gothic revival to the modern movement
+  title-short: Morality and architecture
+  type: book
+
+- id: watkin:1980rise
+  author:
+    - family: Watkin
+      given: David
+  citation-key: watkin:1980rise
+  event-place: London; Westfield, N.J.
+  ISBN: >-
+    0-85139-545-7 978-0-85139-545-6 0-89860-040-5 978-0-89860-040-7
+    0-226-87486-9 978-0-226-87486-9
+  issued:
+    - year: 1980
+  language: en
+  publisher: 'Architectural Press : Eastview Editions'
+  publisher-place: London; Westfield, N.J.
+  source: Open WorldCat
+  title: The rise of architectural history
+  type: book
+
+- id: wellek:1953benedetto5
+  accessed:
+    - year: 2019
+      month: 8
+      day: 1
+  author:
+    - family: Wellek
+      given: René
+  citation-key: wellek:1953benedetto5
+  container-title: Comparative Literature
+  DOI: 10.2307/1768693
+  ISSN: '00104124'
+  issue: '1'
+  issued:
+    - year: 1953
+      season: 4
+  language: en
+  page: '75'
+  source: Crossref
+  title: 'Benedetto Croce: literary critic and historian'
+  title-short: Benedetto croce
+  type: article-journal
+  URL: https://www.jstor.org/stable/1768693?origin=crossref
+  volume: '5'
+
+- id: wellek:1963crisis
+  archive: Fichário 01
+  author:
+    - family: Wellek
+      given: René
+  call-number: 82.09"19"
+  citation-key: wellek:1963crisis
+  container-title: Concepts of Criticism
+  editor:
+    - family: Nichols, Stephen G.
+      given: Jr.
+  event-place: New Haven, Conn.
+  issued:
+    - year: 1963
+  language: English
+  page: 282–295
+  publisher: Yale University Press
+  publisher-place: New Haven, Conn.
+  title: The crisis of comparative literature
+  type: chapter
+
+- id: whyte:2006how45
+  abstract: >-
+    Despite growing interest from historians in the built environment, the use
+    of architecture as evidence remains remarkably under-theorized. Where this
+    issue has been discussed, the interpretation of buildings has often been
+    likened to the process of reading, in which architecture can be understood
+    by analogy to language: either as a code capable of use in communicating the
+    architect's intentions or more literally as a spoken or written language in
+    its own right. After a historiographical survey, this essay, by contrast,
+    proposes that the appropriate metaphor is one of translation. More
+    particularly, it draws on the work of Mikhail Bakhtin to suggest that
+    architecture-and the interpretation of architecture-comprises a series of
+    transpositions. As a building is planned, built, inhabited, and interpreted,
+    so its meaning changes. The underlying logic of each medium shapes the way
+    in which its message is created and understood. This suggests that the
+    proper role of the historian is to trace these transpositions. Buildings,
+    then, can be used as a historical source, but only if the historian takes
+    account of the particular problems that they present. In short, architecture
+    should not be studied for its meaning, but for its meanings. As historians
+    we are always translating architecture: not reading its message, but
+    exploring its multiple transpositions.
+  accessed:
+    - year: 2021
+      month: 9
+      day: 4
+  author:
+    - family: Whyte
+      given: William
+  citation-key: whyte:2006how45
+  container-title: History and Theory
+  ISSN: 0018-2656
+  issue: '2'
+  issued:
+    - year: 2006
+  language: English
+  page: 153-177
+  publisher: '[Wesleyan University, Wiley]'
+  source: JSTOR
+  title: >-
+    How do buildings mean? Some issues of interpretation in the history of
+    architecture
+  title-short: How do buildings mean?
+  type: article-journal
+  URL: https://www.jstor.org/stable/3874104
+  volume: '45'
+
+- id: wigley:2000architectural94
+  accessed:
+    - year: 2019
+      month: 8
+      day: 1
+  author:
+    - family: Wigley
+      given: Mark
+  citation-key: wigley:2000architectural94
+  container-title: October
+  DOI: 10.2307/779215
+  ISSN: '01622870'
+  issued:
+    - year: 2000
+      season: 3
+  language: English
+  page: '31'
+  source: Crossref
+  title: The architectural cult of synchronization
+  type: article-journal
+  URL: https://www.jstor.org/stable/779215?origin=crossref
+  volume: '94'
+
+- id: woelfflin:1948kunstgeschichtliche
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  citation-key: woelfflin:1948kunstgeschichtliche
+  edition: '10'
+  event-place: Basel
+  issued:
+    - year: 1948
+  language: de-CH
+  publisher: Benno Schwabe
+  publisher-place: Basel
+  title: >-
+    Kunstgeschichtliche Grundbegriffe: das Problem der Stilentwicklung in der
+    neueren Kunst
+  type: book
+
+- id: wolfflin:1888renaissance
+  abstract: >-
+    Includes bibliographical notes; Library's c. 1 and c. 2 are shelved with the
+    Wölfflin Collection
+  accessed:
+    - year: 2020
+      month: 9
+      day: 6
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  call-number: '9928868980001551'
+  citation-key: wolfflin:1888renaissance
+  event-place: München
+  issued:
+    - year: 1888
+  language: German
+  number-of-pages: '155'
+  publisher: T. Ackermann
+  publisher-place: München
+  source: Internet Archive
+  title: >-
+    Renaissance und Barock : eine Untersuchung über Wesen und Entstehung des
+    Barockstils in Italien
+  title-short: Renaissance und Barock
+  type: book
+  URL: http://archive.org/details/gri_33125006523688
+
+- id: wolfflin:1949gedanken
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  citation-key: wolfflin:1949gedanken
+  event-place: Basel
+  issued:
+    - year: 1949
+  language: de-CH
+  publisher: Benno Schwabe
+  publisher-place: Basel
+  title: Gedanken zur Kunstgeschichte
+  type: book
+
+- id: wolfflin:1949italien
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  citation-key: wolfflin:1949italien
+  container-title: Gedanken zur Kunstgeschichte
+  event-place: Basel
+  issued:
+    - year: 1949
+  language: de-CH
+  page: 119–126
+  publisher: Benno Schwabe
+  publisher-place: Basel
+  title: Italien und das deutsche Formgefühl
+  type: chapter
+
+- id: younes:2004empire79
+  accessed:
+    - year: 2021
+      month: 5
+      day: 29
+  author:
+    - family: Younés
+      given: Samir
+  citation-key: younes:2004empire79
+  container-title: Philosophy
+  ISSN: 0031-8191
+  issue: '310'
+  issued:
+    - year: 2004
+  language: English
+  page: 533-551
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: 'The empire of masks: pluralism and monism in politics and architecture'
+  title-short: The empire of masks
+  type: article-journal
+  URL: https://www.jstor.org/stable/3751873
+  volume: '79'
+
+- id: zevi:1974architettura
+  author:
+    - family: Zevi
+      given: Bruno
+  call-number: '72.01'
+  citation-key: zevi:1974architettura
+  collection-number: '216'
+  collection-title: Piccola Biblioteca Einaudi
+  edition: '2'
+  event-place: Torino
+  issued:
+    - year: 1974
+  language: Italian
+  number-of-pages: '173'
+  publisher: Einaudi
+  publisher-place: Torino
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Architettura e storiografia: le matrici antiche del linguaggio moderno'
+  title-short: Architettura e storiografia
+  type: book
+...

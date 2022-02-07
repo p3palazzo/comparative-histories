@@ -1,0 +1,1824 @@
+---
+references:
+- id: almeida:2021papel
+  author:
+    - family: Almeida
+      given: Sarah da Silva
+  citation-key: almeida:2021papel
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2021
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: >-
+    O papel da arquitetura na narrativa cinematográfica: um estudo sobre os
+    filmes de Hayao Miyazaki
+  title-short: Um estudo sobre os filmes de Hayao Miyazaki
+  type: thesis
+
+- id: araujo:2022reconhecimento
+  author:
+    - family: Araujo
+      given: Evillyn Biazatti
+      dropping-particle: de
+  citation-key: araujo:2022reconhecimento
+  event-place: Brasilia
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2022
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasilia
+  title: Reconhecimento e preservação da arquitetura oficial do estado novo em Cuiabá
+  type: thesis
+
+- id: bercott:2019historia
+  author:
+    - family: Berçott
+      given: Angelina Nardelli Quaglia
+  citation-key: bercott:2019historia
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2019
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: História urbanística do lago Paranoá
+  type: thesis
+
+- id: constanti:2019patrimonializacao
+  author:
+    - family: Constanti
+      given: Andressa Pinheiro
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: constanti:2019patrimonializacao
+  container-title: Anais
+  event: <span class="smallcaps">XVIII</span> Enanpur
+  event-place: Natal
+  ISBN: 1984-8781
+  issued:
+    - year: 2019
+  language: pt-BR
+  publisher-place: Natal
+  title: >-
+    Patrimonialização das intervenções modernas em conjuntos históricos: a
+    Ladeira da Misericórdia de Lina Bo Bardi em Salvador
+  title-short: Patrimonialização das intervenções modernas em conjuntos históricos
+  type: paper-conference
+  URL: http://anpur.org.br/xviiienanpur/anaisadmin/capapdf.php?reqid=553
+
+- id: constanti:2020preservacao
+  author:
+    - family: Constanti
+      given: Andressa Pinheiro
+  citation-key: constanti:2020preservacao
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2020
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: >-
+    Preservação e inserção da arquitetura moderna em sítios do patrimônio
+    cultural: A ladeira da misericórdia de Lina Bo Bardi em Salvador
+  title-short: A ladeira da misericórdia de Lina Bo Bardi em Salvador
+  type: thesis
+
+- id: derntl:2014brasilia
+  author:
+    - family: Derntl
+      given: Maria Fernanda
+    - family: Palazzo
+      given: Pedro P.
+  call-number: HT384.B62 B733 2014
+  citation-key: derntl:2014brasilia
+  container-title: 'Brasília 50+50: cidade, história e projeto'
+  editor:
+    - family: Saboia
+      given: Luciana
+    - family: Derntl
+      given: Maria Fernanda
+  event-place: Brasília
+  ISBN: 978-85-230-1102-4
+  issued:
+    - year: 2014
+  language: pt-BR
+  publisher: 'FAU-UnB : Editora UnB'
+  publisher-place: Brasília
+  source: Library of Congress ISBN
+  title: Brasília, outros 50
+  type: chapter
+
+- id: farias:2018experiencia
+  author:
+    - family: Farias
+      given: Sylvio Carneiro
+      dropping-particle: de
+  citation-key: farias:2018experiencia
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2018
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: A experiência do Programa Monumenta em Cachoeira
+  type: thesis
+
+- id: farias:2022politicas
+  author:
+    - family: Farias
+      given: Sylvio Carneiro
+      dropping-particle: de
+  citation-key: farias:2022politicas
+  event-place: Brasília
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
+  issued:
+    - year: 2022
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: >-
+    Políticas públicas de preservação cultural: o caso do centro histórico de
+    Santos
+  title-short: O centro histórico de Santos
+  type: thesis
+
+- id: ficher:2005paradigmas3
+  author:
+    - family: Ficher
+      given: Sylvia
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: ficher:2005paradigmas3
+  container-title: >-
+    Cadernos <span class="smallcaps">PPG/AU</span> (Universidade Federal da
+    Bahia)
+  issued:
+    - year: 2005
+  language: pt-BR
+  title: Os paradigmas urbanísticos de Brasília
+  type: article-journal
+  volume: '3'
+
+- id: ficher:2010modern
+  accessed:
+    - year: 2017
+      month: 2
+      day: 1
+  author:
+    - family: Ficher
+      given: Sylvia
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: ficher:2010modern
+  container-title: Docomomo Journal
+  issue: '43'
+  issued:
+    - year: 2010
+  language: en-US
+  source: Google Scholar
+  title: 'Modern and traditional: Brasilia''s paradigms'
+  title-short: Modern and traditional
+  type: article-journal
+  URL: https://www.docomomo.com/pdfs/events/docomomo_news/124410_DJ43WEB.pdf
+
+- id: ficher:2019mello
+  accessed:
+    - year: 2020
+      month: 4
+      day: 21
+  author:
+    - family: Ficher
+      given: Sylvia
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: ficher:2019mello
+  container-title: Oxford Art Online
+  DOI: 10.1093/gao/9781884446054.article.T056690
+  event-place: Oxford
+  ISBN: 978-1-884446-05-4
+  issued:
+    - year: 2019
+  language: en-US
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: DOI.org (Crossref)
+  title: Mello, Heitor de
+  type: chapter
+  URL: >-
+    http://www.oxfordartonline.com/groveart/documentID/oao-9781884446054-e-7000056690
+
+- id: ficher:2021limiaridade
+  citation-key: ficher:2021limiaridade
+  editor:
+    - family: Ficher
+      given: Sylvia
+    - family: Trevisan
+      given: Ricardo
+    - family: Palazzo
+      given: Pedro P.
+    - family: Pescatori
+      given: Carolina
+  event-place: Rio de Janeiro
+  issued:
+    - year: 2021
+  language: pt-BR
+  publisher: Associação Nacional de Pesquisa e Pós-graduação em Arquitetura e Urbanismo
+  publisher-place: Rio de Janeiro
+  title: 'Limiaridade: processos e práticas em arquitetura e urbanismo'
+  title-short: Limiaridade
+  type: book
+  URL: http://enanparq2020.com.br/anais-2/
+
+- id: hermida:2018projecto
+  citation-key: hermida:2018projecto
+  editor:
+    - family: Hermida
+      given: Alejandro García
+  event-place: Lisboa
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: pt-PT
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: >-
+    Um projecto de futuro para a Beirã (Marvão) baseado na arquitectura e
+    urbanismo de tradição alentejana
+  title-short: Um projecto de futuro para a Beirã
+  type: book
+  URL: >-
+    https://www.premiorafaelmanzano.com/wp-content/uploads/2018/12/Livro_FSH_Marvao-1.pdf
+
+- id: iphan:2012planaltina
+  author:
+    - literal: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2012planaltina
+  event-place: Brasília
+  issued:
+    - year: 2012
+  language: pt-BR
+  publisher: Superintendência do Iphan no Distrito Federal
+  publisher-place: Brasília
+  source: Ábaco Arquitetura & Design Ambiental
+  title: Inventário do Setor Tradicional de Planaltina
+  title-short: Inventário de Planaltina
+  type: book
+
+- id: iphan:2017catetinho
+  author:
+    - literal: Instituto do Patrimônio Histórico e Artistico Nacional
+  citation-key: iphan:2017catetinho
+  event-place: Brasília
+  issued:
+    - year: 2017
+  language: pt-BR
+  number-of-volumes: '3'
+  publisher: Superintendência do Iphan no Distrito Federal
+  publisher-place: Brasília
+  title: Inventário do Catetinho
+  type: book
+
+- id: lima:2018narrativas
+  author:
+    - family: Lima
+      given: Anabel Sousa
+  citation-key: lima:2018narrativas
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2018
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: Narrativas do urbano nas Cidades Invisíveis de Italo Calvino
+  type: thesis
+
+- id: mennucci:2018catetinho2
+  accessed:
+    - year: 2019
+      month: 1
+      day: 21
+  author:
+    - family: Mennucci
+      given: Marina Martins
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: mennucci:2018catetinho2
+  container-title: Building knowledge, constructing histories
+  editor:
+    - family: Wouters
+      given: Ine
+    - family: Voorde
+      given: Stephanie Van
+      dropping-particle: de
+    - family: Bertels
+      given: Inge
+    - family: Espion
+      given: Bernard
+    - family: Jonge
+      given: Krista
+      dropping-particle: de
+    - family: Zastavni
+      given: Denis
+  event-place: Leiden
+  ISBN: 978-0-429-44675-7
+  issued:
+    - year: 2018
+  language: en-GB
+  page: 927–934
+  publisher: '<span class="smallcaps">CRC</span> : Balkema'
+  publisher-place: Leiden
+  source: Open WorldCat
+  title: 'Catetinho: The first presidential house in Brasilia, Brazil'
+  title-short: Catetinho
+  type: chapter
+  volume: '2'
+
+- id: mennucci:2021catetinho15
+  abstract: >-
+    Entre os monumentos da arquitetura modernista brasileira, o Catetinho,
+    construído em 1956 próximo ao canteiro de obras de Brasília, é singular.
+    Única obra existente de Oscar Niemeyer em madeira, que foi destinada a
+    servir de gabinete provisório ao Presidente da República durante a
+    construção da nova capital. Este trabalho discute o estado atual de
+    conservação do Catetinho, como suas técnicas de projeto e construção
+    impactam a sabedoria convencional na preservação de edifícios modernistas e
+    de madeira, e estratégias recomendadas para proteger a integridade do
+    material e a inteligibilidade de seu projeto original. A pesquisa aponta
+    que, embora o sistema estrutural apressadamente detalhado seja em si um
+    fator de risco para a durabilidade do Catetinho, os esforços de conservação
+    podem ser auxiliados por uma visão clara de quais materiais e técnicas
+    existentes são essenciais para a identidade do edifício.
+  accessed:
+    - year: 2021
+      month: 12
+      day: 27
+  author:
+    - family: Mennucci
+      given: Marina Martins
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: mennucci:2021catetinho15
+  container-title: Labor e Engenho
+  container-title-short: Labor e Eng.
+  DOI: 10.20396/labore.v15i00.8665935
+  ISSN: 2176-8846
+  issued:
+    - year: 2021
+      month: 12
+      day: 16
+  language: pt-BR
+  page: e021017
+  source: DOI.org (Crossref)
+  title: 'Catetinho: patrimonialização e arquitetura efêmera'
+  title-short: Catetinho
+  type: article-journal
+  URL: https://periodicos.sbu.unicamp.br/ojs/index.php/labore/article/view/8665935
+  volume: '15'
+
+- id: nascimento:2023ecletismo
+  author:
+    - family: Nascimento
+      given: Gledson Rodrigues
+      dropping-particle: do
+  citation-key: nascimento:2023ecletismo
+  event-place: Brasília
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
+  issued:
+    - year: 2023
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: >-
+    Ecletismo erudito e persistências vernaculares na arquitetura doméstica do
+    estado de Goiás, séculos <span class="smallcaps">XIX–XX</span>
+  type: thesis
+
+- id: oliveira:2022lugares
+  author:
+    - family: Oliveira
+      given: Irina Alencar
+      dropping-particle: de
+  citation-key: oliveira:2022lugares
+  event-place: Brasília
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
+  issued:
+    - year: 2022
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: Lugares de memória e apropriações coletivas na cidade de Goiás
+  type: thesis
+
+- id: palazzo:2006licoes7
+  accessed:
+    - year: 2020
+      month: 7
+      day: 3
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2006licoes7
+  container-title: Arquitextos
+  issue: '76.07'
+  issued:
+    - year: 2006
+      month: 9
+  language: pt-BR
+  title: Lições da mal-amada arquitetura acadêmica
+  type: article-journal
+  URL: https://www.vitruvius.com.br/revistas/read/arquitextos/07.076/323
+  volume: '7'
+
+- id: palazzo:2010belo
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2010belo
+  event-place: Brasília
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
+  issued:
+    - year: 2010
+  language: pt-BR
+  number-of-pages: '313'
+  publisher: Facudade de Arquitetura e Urbanismo, Universidade de Brasília
+  publisher-place: Brasília
+  title: "«\_Belo e majestoso\_»: Louvre, fachada oriental"
+  title-short: « Belo e majestoso »
+  type: thesis
+  URL: https://repositorio.unb.br/handle/10482/7670
+
+- id: palazzo:2011hibridizacao
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2011hibridizacao
+  event: V Simpósio Internacional de História–Culturas e Identidades
+  event-place: Goiânia
+  issued:
+    - year: 2011
+  language: pt-BR
+  publisher: Universidade Federal de Goiás
+  publisher-place: Goiânia
+  title: >-
+    Hibridização tipológica na arquitetura vernácula: o Casarão Azul de
+    Planaltina <span class="smallcaps">(DF)</span>
+  title-short: Casarão Azul de Planaltina
+  type: paper-conference
+
+- id: palazzo:2011louvre
+  accessed:
+    - year: 2017
+      month: 2
+      day: 1
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2011louvre
+  event-place: São Paulo
+  issued:
+    - year: 2011
+  language: pt-BR
+  publisher: Universidade de São Paulo
+  publisher-place: São Paulo
+  source: Google Scholar
+  title: O louvre de Luís XIV na historiografia da arte francesa, 1924–1964
+  type: paper-conference
+
+- id: palazzo:2012architecture5
+  accessed:
+    - year: 2017
+      month: 2
+      day: 1
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2012architecture5
+  container-title: 'Ikon: Journal of Iconographic Studies'
+  DOI: 10.1484/J.IKON.5.100665
+  ISSN: 1846-8551, 2507-041X
+  issued:
+    - year: 2012
+      month: 1
+  language: en-GB
+  page: 235-246
+  source: CrossRef
+  title: >-
+    Architecture as portrait: exoticism and the royal character of the Louvre,
+    1380–1681
+  title-short: Architecture as Portrait
+  type: article-journal
+  URL: http://www.brepolsonline.net/doi/10.1484/J.IKON.5.100665
+  volume: '5'
+
+- id: palazzo:2012capital239
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Saboia
+      given: Luciana
+  citation-key: palazzo:2012capital239
+  collection-title: 'Modernism Unbound: Myths, Practices, and Policies'
+  container-title: <span class="smallcaps">IASTE</span> Working Paper Series
+  issue: '1'
+  issued:
+    - year: 2012
+  language: en-US
+  page: 23-38
+  title: 'Capital in a void: modernist myths of Brasilia'
+  title-short: Capital in a void
+  type: article-journal
+  URL: http://iaste.berkeley.edu/working-papers-series-2012/
+  volume: '239'
+
+- id: palazzo:2012patrimonio
+  abstract: >-
+    A prática de preservação patrimonial no Brasil representa um recorte parcial
+    da teoria patrimonial tal como esta foi constituída nas convenções
+    internacionais e nas práticas européias e norte-americanas, com forte ênfase
+    numa teleologia histórica. Partindo desses precedentes, estudaram-se os
+    marcos teóricos que têm informado a preservação do patrimônio material
+    imóvel, com conseqüências para as identidades profissionais que se
+    constituem em torno da prática de preservação e do patrimônio preservado. As
+    cartas patrimoniais, bem como as boas práticas da preservação do patrimônio,
+    devem ser mais amplamente discutidas no que se refere a diferentes graus de
+    deterioração de sítios urbanos e ao conceito de autenticidade histórica.
+    Questiona-se uma interpretação abusiva da Carta de Veneza, contrapondo-se a
+    esta as disposições de outras cartas patrimoniais mais recentes.
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2012patrimonio
+  container-title: 'Patrimônio Cultural: Práticas e Perspectivas de Preservação no Brasil'
+  editor:
+    - family: Chuva
+      given: Márcia Regina Romeiro
+    - family: Nogueira
+      given: Antônio Gilberto Ramos
+  event-place: Rio de Janeiro
+  ISBN: 978-85-7478-424-3
+  issued:
+    - year: 2012
+  language: pt-BR
+  page: 191–202
+  publisher: Mauad
+  publisher-place: Rio de Janeiro
+  title: >-
+    Patrimônio edificado e ideologia modernista: problemas de intervenção em
+    sítios históricos degradados
+  title-short: Patrimônio edificado e ideologia modernista
+  type: chapter
+
+- id: palazzo:2013citta65
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Trevisan
+      given: Ricardo
+  citation-key: palazzo:2013citta65
+  container-title: Urbanistica
+  ISSN: 0042-1022
+  issue: 150–151
+  issued:
+    - year: 2013
+      month: 1
+  language: it
+  page: 142–144
+  title: >-
+    Città satelliti e Brasilia metropolitana = Satellite cities and the
+    metropolitan Brasilia
+  title-short: Città satelliti
+  type: article-journal
+  volume: '65'
+
+- id: palazzo:2013fragmento10
+  abstract: >-
+    Este artigo analisa as formas de representação de cidades em duas
+    ilustrações produzidas por volta de 1600: a gravura de Macau, por Theodor de
+    Bry, e a vista de Quioto, atribuída a Iwasa Katsumochi Matabei. Investiga-se
+    a relação entre formas de representação fragmentária e global em ambas as
+    imagens. A gravura europeia da cidade retrata o espaço urbano como um todo,
+    enquanto a pintura japonesa representa uma série de fragmentos separados por
+    nuvens douradas. Entretanto, a imagem global da figura europeia é
+    fragmentada pela multiplicidade de perspectivas concomitantes, ao passo que
+    o biombo japonês tem uma ordem global subjacente gerada pela projeção
+    cavaleira. Em ambos os casos, há interação entre olhares fragmentados e uma
+    visão de conjunto que se relacionam de modos variados. PALAVRAS-CHAVE:
+    Cidade oriental. Fragmento. Funaki. Iconografia. Iwasa Katsumochi Matabei.
+    Theodor de Bry.
+  accessed:
+    - year: 2017
+      month: 2
+      day: 1
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2013fragmento10
+  container-title: Oculum Ensaios
+  DOI: 10.24220/2318-0919v10n1a1928
+  ISSN: 2318-0919
+  issue: '1'
+  issued:
+    - year: 2013
+      month: 7
+      day: 16
+  language: pt-BR
+  source: periodicos.puc-campinas.edu.br
+  title: 'Fragmento e todo: duas imagens urbanas entre oriente e ocidente, c. 1600'
+  title-short: Fragmento e todo
+  type: article-journal
+  URL: >-
+    http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/view/1928
+  volume: '10'
+
+- id: palazzo:2013repertorios
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Peixoto
+      given: Elane Ribeiro
+  citation-key: palazzo:2013repertorios
+  container-title: 'Arquitetura moderna e internacional: conexões brutalistas'
+  event: X Seminário Docomomo Brasil
+  event-place: Curitiba
+  issued:
+    - year: 2013
+      month: 9
+  language: pt-BR
+  publisher: Pontifícia Universidade Católica do Paraná
+  publisher-place: Curitiba
+  title: Repertórios da arquitetura recente em Brasília
+  type: paper-conference
+
+- id: palazzo:2013sistema
+  abstract: >-
+    O georreferenciamento de características morfológicas pode auxiliar não
+    apenas na visualização de conjuntos arquitetônicos já protegidos, mas também
+    no processo decisório de delimitação de áreas de interesse. No âmbito do
+    Inventário do conjunto
+  accessed:
+    - year: 2016
+      month: 2
+      day: 7
+  archive_location: >-
+    https://www.academia.edu/21639810/Sistema_De_Informa%C3%A7%C3%B5es_Geogr%C3%A1ficas_como_Ferramenta_de_An%C3%A1lise_em_Patrim%C3%B4nio_Hist%C3%B3rico_Invent%C3%A1rio_de_Planaltina
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Laterza
+      given: Ana
+  citation-key: palazzo:2013sistema
+  event: Arquimemória 4
+  event-place: Salvador
+  issued:
+    - year: 2013
+  language: pt-BR
+  publisher: <span class="smallcaps">FAUFBA</span>
+  publisher-place: Salvador
+  title: >-
+    Sistema de Informações Geográficas como ferramenta de análise em patrimônio
+    histórico: inventário de Planaltina
+  title-short: SIG como Ferramenta de Análise em Patrimônio Histórico
+  type: paper-conference
+
+- id: palazzo:2014cem
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2014cem
+  container-title: 'Arquitetura, estética e cidade: questões da modernidade'
+  editor:
+    - family: Peixoto
+      given: Elane Ribeiro
+    - family: Derntl
+      given: Maria Fernanda
+  event-place: Brasília
+  ISBN: 978-85-60762-17-0
+  issued:
+    - year: 2014
+  language: pt-BR
+  page: 85–96
+  publisher: Editora UnB
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Cem anos de ecletismos na arquitetura residencial paulistana
+  type: chapter
+
+- id: palazzo:2014louvre
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  call-number: D13 .C638 2014
+  citation-key: palazzo:2014louvre
+  container-title: >-
+    A construção da narrativa histórica: séculos <span
+    class="smallcaps">XIX</span> e <span class="smallcaps">XX</span>
+  editor:
+    - family: Nemi
+      given: Ana Lúcia Lana
+    - family: Almeida
+      given: Néri de Barros
+    - family: Pinheiro
+      given: Rossana Alves Baptista
+  event-place: 'Campinas : São Paulo'
+  ISBN: 978-85-268-1070-9
+  issued:
+    - year: 2014
+  language: pt-BR
+  page: 143–156
+  publisher: Editora Unicamp ; Editora <span class="smallcaps">FAP</span>–Unifesp
+  publisher-place: 'Campinas : São Paulo'
+  source: Library of Congress ISBN
+  title: >-
+    O Louvre de Luís XIV na historiografia da arte francesa, 1924–1964: o
+    classicismo seiscentista visto pelo prisma do neoclassicismo e do modernismo
+  title-short: O Louvre de Luís XIV na historiografia da arte francesa
+  type: chapter
+
+- id: palazzo:2014urbanisation2
+  abstract: >-
+    This paper examines the patterns of urbanization in Planaltina, one of a
+    number of towns founded during the economic slump in central Brazil in the
+    nineteenth century. Laid out on a rough grid sometime after 1811, this town
+    belies several key
+  accessed:
+    - year: 2015
+      month: 9
+      day: 8
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2014urbanisation2
+  container-title: Our common future in urban morphology
+  editor:
+    - family: Oliveira
+      given: Vítor
+    - family: Pinho
+      given: Paulo
+    - family: Batista
+      given: Luísa Mendes
+    - family: Patatas
+      given: Tiago
+  event: International Seminar on Urban Form
+  event-place: Porto
+  ISBN: 978-972-99101-6-6
+  issued:
+    - year: 2014
+  language: en-GB
+  page: 504–515
+  publisher: <span class="smallcaps">FEUP</span>
+  publisher-place: Porto
+  title: >-
+    Urbanisation in the Brazilian hinterland's ‘forgotten century’: growth
+    patterns in Planaltina
+  title-short: Growth patterns in Planaltina
+  type: paper-conference
+  URL: http://isuf2014.fe.up.pt/
+  volume: '2'
+
+- id: palazzo:2014urbanizacao
+  accessed:
+    - year: 2016
+      month: 1
+      day: 25
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2014urbanizacao
+  editor:
+    - family: Peixoto
+      given: Elane Ribeiro
+    - family: Derntl
+      given: Maria Fernanda
+    - family: Palazzo
+      given: Pedro Paulo
+    - family: Trevisan
+      given: Ricardo
+  event: >-
+    <span class="smallcaps">XIII</span> Seminário de História da Cidade e do
+    Urbanismo
+  event-place: Brasília
+  issued:
+    - year: 2014
+  language: pt-BR
+  publisher: Universidade de Brasília
+  publisher-place: Brasília
+  title: >-
+    Urbanização em Goiás no século <span class="smallcaps">XIX</span>: o Caso de
+    Planaltina
+  title-short: Urbanização em Goiás no século <span class="smallcaps">XIX</span>
+  type: paper-conference
+  URL: https://shcu2014.com.br/território/001.html
+
+- id: palazzo:2015planaltina6
+  abstract: |-
+    Planaltina é o único núcleo urbano do Distrito Federal
+    preexistente à construção de Brasília. Como tal, foi tanto objeto
+    de descrições e estudos quanto berço de autores que, nos séculos
+    XX e XXI, têm retratado a cidade segundo seus conhecimentos,
+    preocupações e interesses. Neste artigo, os relatos produzidos em e
+    sobre Planaltina são estudados não pelo seu conteúdo factual, mas
+    como testemunhos desses interesses. Os textos são classificados neste
+    artigo de acordo com os ciclos históricos abordados, sendo estes as
+    narrativas inaugurais celebrando as origens do povoamento local,
+    a consolidação do núcleo urbano e sua modernização, e os desafios
+    socioculturais provocados pelo crescimento da capital federal. Percebese,
+    nesse acervo de relatos, frequente reprodução de anedotas míticas
+    sobre as origens da cidade e o papel de certas famílias, assim como
+    discursos buscando afirmar a legitimidade de seus emissores perante
+    a oposição ou a omissão personificadas pela narrativa dominante em
+    torno da cidade de Brasília e de seu governo.
+  accessed:
+    - year: 2018
+      month: 6
+      day: 11
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2015planaltina6
+  container-title: Historiæ
+  container-title-short: Historiæ
+  ISSN: 2238-5541
+  issue: '2'
+  issued:
+    - year: 2015
+  language: pt-BR
+  page: 360–382
+  source: periodicos.furg.br
+  title: >-
+    Planaltina e suas narrativas: cultura, memória e patrimônio em publicações
+    locais desde o século <span class="smallcaps">XX</span>
+  title-short: Planaltina e suas narrativas
+  type: article-journal
+  URL: https://periodicos.furg.br/hist/article/view/5600
+  volume: '6'
+
+- id: palazzo:2016competition
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2016competition
+  event: >-
+    International Seminar Design, Structure, Architecture, Université catholique
+    de Louvain–Universidade de Brasília
+  event-place: Centro de Planejamento Oscar Niemeyer, Brasília
+  genre: Lecture
+  issued:
+    - year: 2016
+      month: 11
+      day: 29
+  language: en-US
+  publisher-place: Centro de Planejamento Oscar Niemeyer, Brasília
+  title: Competition drawings and designs for the Louvre, 1664–1668
+  type: speech
+
+- id: palazzo:2017cidade5
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2017cidade5
+  collection-title: A cidade construída e a cidade sonhada
+  container-title: A língua que habitamos
+  event: >-
+    IV Seminário Internacional da Academia de Escolas de Arquitetura e Urbanismo
+    de Língua Portuguesa
+  event-place: 'Belo Horizonte : Inhotim'
+  ISBN: 978-1-5470-2453-7
+  issued:
+    - year: 2017
+  language: pt-BR
+  publisher: >-
+    <span class="smallcaps">AEAULP</span> :  Escola de Arquitetura da
+    Universidade Federal de Minas Gerais
+  publisher-place: 'Belo Horizonte : Inhotim'
+  title: >-
+    A cidade na arte e a arte na cidade: vistas urbanas no Brasil do século
+    <span class="smallcaps">XIX</span>
+  title-short: A cidade na arte e a arte na cidade
+  type: paper-conference
+  volume: '5'
+
+- id: palazzo:2017cidades
+  accessed:
+    - year: 2018
+      month: 6
+      day: 11
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2017cidades
+  container-title: 'Morfologia urbana: território, paisagem e planejamento'
+  editor:
+    - family: Mendonça
+      given: Eneida Maria Souza
+    - family: Esteves Junior
+      given: Milton
+    - family: Oliveira Júnior
+      given: Edilson Cavalcante
+      dropping-particle: de
+    - family: Pegoretti
+      given: Michela Sagrillo
+  event: 6.^a^ Conferência da Rede Lusófona de Morfologia Urbana
+  event-place: Vitória
+  ISBN: 978-85-545-8007-0
+  issued:
+    - year: 2017
+  language: pt-BR
+  page: 642–651
+  publisher: <span class="smallcaps">UFES</span>
+  publisher-place: Vitória
+  title: As cidades do Planalto Central, do ouro à ferrovia
+  type: paper-conference
+  URL: http://pnum2017.wixsite.com/pnum2017
+
+- id: palazzo:2017missing
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Moura
+      given: Ana Amélia de Paula
+  citation-key: palazzo:2017missing
+  container-title: Whose Tradition? Discourses on the Built Environment
+  editor:
+    - family: AlSayyad
+      given: Nezar
+    - family: Gillem
+      given: Mark
+    - family: Moffat
+      given: David
+  event-place: 'London : New York'
+  ISBN: 978-1-138-19207-2
+  issued:
+    - year: 2017
+      month: 6
+      day: 21
+  language: en-US
+  page: 168–187
+  publisher: Routledge
+  publisher-place: 'London : New York'
+  source: Amazon
+  title: >-
+    The missing “Brazilianness” of nineteenth-century Brazilian art and
+    architecture
+  type: chapter
+
+- id: palazzo:2017patrimonializacao
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2017patrimonializacao
+  editor:
+    - family: Andrade, Junior
+      given: Nivaldo Vieira
+      dropping-particle: de
+  event: >-
+    Encontro Internacional Arquimemória 5 sobre preservação do patrimônio
+    edificado
+  event-place: Salvador
+  issued:
+    - year: 2017
+  language: pt-BR
+  page: E1 069
+  publisher: Universidade Federal da Bahia
+  publisher-place: Salvador
+  title: >-
+    Patrimonialização e exemplaridade da arquitetura religiosa: paralelos entre
+    o Renascimento e o Neocolonial no Brasil
+  title-short: Patrimonialização e exemplaridade da arquitetura religiosa
+  type: paper-conference
+
+- id: palazzo:2017precedents
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2017precedents
+  event: 'Palaces: Spatial Expressions of Political Power'
+  event-place: Alexandre de Gusmão Foundation, Brazilian Ministry of Foreign Affairs
+  genre: Lecture
+  issued:
+    - year: 2017
+      month: 10
+      day: 20
+  language: en-US
+  publisher-place: Alexandre de Gusmão Foundation, Brazilian Ministry of Foreign Affairs
+  title: >-
+    Precedents and composition in palatial architecture in the second half of
+    the nineteenth century
+  title-short: Precedents and composition
+  type: speech
+
+- id: palazzo:2018accouplement2
+  accessed:
+    - year: 2019
+      month: 1
+      day: 21
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018accouplement2
+  container-title: Building knowledge, constructing histories
+  editor:
+    - family: Wouters
+      given: Ine
+    - family: Voorde
+      given: Stephanie Van
+      dropping-particle: de
+    - family: Bertels
+      given: Inge
+    - family: Espion
+      given: Bernard
+    - family: Jonge
+      given: Krista
+      dropping-particle: de
+    - family: Zastavni
+      given: Denis
+  event-place: Leiden
+  ISBN: 978-0-429-44675-7
+  issued:
+    - year: 2018
+  language: en-GB
+  page: 1029–1036
+  publisher: '<span class="smallcaps">CRC</span> : Balkema'
+  publisher-place: Leiden
+  source: Open WorldCat
+  title: '*Accouplement:* Vicissitudes of an architectural motif in classical France'
+  title-short: Accouplement
+  type: chapter
+  volume: '2'
+
+- id: palazzo:2018gis-assisted10
+  accessed:
+    - year: 2021
+      month: 3
+      day: 10
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018gis-assisted10
+  container-title: Preservation Education Research
+  issued:
+    - year: 2018
+  language: en-US
+  page: 47–70
+  title: >-
+    <span class="smallcaps">GIS</span>-assisted identification of historic
+    districts: a conceptual model case study in Planaltina, Brazil
+  title-short: GIS-Assisted Identification of Historic Districts
+  type: article-journal
+  URL: http://www.ncpe.us/publications/volume-10-2018/
+  volume: '10'
+
+- id: palazzo:2018gis3
+  accessed:
+    - year: 2018
+      month: 6
+      day: 11
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Laterza
+      given: Ana
+  citation-key: palazzo:2018gis3
+  container-title: 'Putting Tradition into Practice: Heritage, Place and Design'
+  DOI: 10.1007/978-3-319-57937-5_126
+  editor:
+    - family: Amoruso
+      given: Giuseppe
+  event-place: Cham
+  ISBN: 978-3-319-57936-8 978-3-319-57937-5
+  issued:
+    - year: 2018
+  language: en-GB
+  page: 1218–1227
+  publisher: Springer
+  publisher-place: Cham
+  source: Crossref
+  title: >-
+    <span class="smallcaps">GIS</span> Model for Morpho-Typology in Historic
+    Preservation and Contextual Design
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-319-57937-5_126
+  volume: '3'
+
+- id: palazzo:2018je
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018je
+  event: >-
+    Colóquio L'historiographie de l'architecture à l'épreuve des transferts
+    culturels
+  event-place: 'Strasbourg: École Nationale Supérieure d''Architecture de Strasbourg'
+  genre: Conferência
+  issued:
+    - year: 2018
+      month: 2
+      day: 3
+  language: fr-FR
+  publisher-place: 'Strasbourg: École Nationale Supérieure d''Architecture de Strasbourg'
+  title: >-
+    Je ne vis rien qui fût notre image : le nationalisme romantique en Europe et
+    la critique des styles d’architecture au Brésil, 1880-1945
+  title-short: Je ne vis rien qui fût notre image
+  type: speech
+
+- id: palazzo:2018je-en
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018je-en
+  event: >-
+    Journée d'études L'historiographie de l'architecture à l'épreuve des
+    transferts culturels
+  event-place: 'Strasbourg: École Nationale Supérieure d''Architecture de Strasbourg'
+  genre: Lecture
+  issued:
+    - year: 2018
+      month: 2
+      day: 3
+  language: fr-FR
+  publisher-place: 'Strasbourg: École Nationale Supérieure d''Architecture de Strasbourg'
+  title: >-
+    Je ne vis rien qui fût notre image : le nationalisme romantique en Europe et
+    la critique des styles d’architecture au Brésil, 1880-1945
+  title-short: Je ne vis rien qui fût notre image
+  type: speech
+
+- id: palazzo:2018paradigmes
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018paradigmes
+  event: Journée d'études Imaginer l'avenir des villes en béton armé
+  event-place: >-
+    Le Havre: Hôtel de Ville, Université Le Havre Normandie, Centre de Recherche
+    Interdisciplinaire Habitat Bâtiment Béton
+  genre: Conférence
+  issued:
+    - year: 2018
+      month: 7
+      day: 5
+  language: fr-FR
+  publisher-place: >-
+    Le Havre: Hôtel de Ville, Université Le Havre Normandie, Centre de Recherche
+    Interdisciplinaire Habitat Bâtiment Béton
+  title: Paradigmes et transferts de l'architecture moderne
+  type: speech
+
+- id: palazzo:2018tipologia
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018tipologia
+  container-title: >-
+    Um projecto de futuro para a Beirã (Marvão) baseado na arquitectura e
+    urbanismo de tradição alentejana = A project for the future of Beirã
+    (Marvão) based on the traditional architecture and urbanism of the Alentejo
+    region
+  editor:
+    - family: Hermida
+      given: Alejandro García
+  event-place: Lisboa
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: pt-PT
+  page: 91–97
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: >-
+    Tipologia da edificação na arquitectura vernácula da Beirã = Building
+    typology in the vernacular architecture of Beirã
+  title-short: Tipologia da edificação
+  type: chapter
+  URL: >-
+    https://www.premiorafaelmanzano.com/wp-content/uploads/2018/12/Livro_FSH_Marvao-1.pdf
+
+- id: palazzo:2018tipologia-en
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018tipologia-en
+  container-title: >-
+    A project for the future of Beirã (Marvão) based on the traditional
+    architecture and urbanism of the Alentejo region
+  editor:
+    - family: Hermida
+      given: Alejandro García
+  event-place: Lisboa
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: en-US
+  page: 91–97
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: Building typology in the vernacular architecture of Beirã
+  type: chapter
+  URL: >-
+    https://www.premiorafaelmanzano.com/wp-content/uploads/2018/12/Livro_FSH_Marvao-1.pdf
+
+- id: palazzo:2018tipologia-pt
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018tipologia-pt
+  container-title: >-
+    Um projecto de futuro para a Beirã (Marvão) baseado na arquitectura e
+    urbanismo de tradição alentejana
+  editor:
+    - family: Hermida
+      given: Alejandro García
+  event-place: Lisboa
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: pt-BR
+  page: 91–97
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: Tipologia da edificação na arquitectura vernácula da Beirã
+  title-short: Tipologia da edificação
+  type: chapter
+  URL: >-
+    https://www.premiorafaelmanzano.com/wp-content/uploads/2018/12/Livro_FSH_Marvao-1.pdf
+
+- id: palazzo:2019imagem
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2019imagem
+  event: 'Alhambras: arquiteturas neoárabes em latinoamérica'
+  event-place: Museu do Centro Cultural Banco do Brasil, Brasília
+  genre: Moderação de mesa-redonda
+  issued:
+    - year: 2019
+      month: 5
+      day: 14
+  language: pt-BR
+  publisher-place: Museu do Centro Cultural Banco do Brasil, Brasília
+  title: Imagem da arquitetura árabe no Brasil
+  type: speech
+
+- id: palazzo:2019imagem-en
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2019imagem-en
+  event: 'Alhambras: arquiteturas neoárabes em latinoamérica'
+  event-place: Museu do Centro Cultural Banco do Brasil, Brasília
+  genre: Roundtable mediation
+  issued:
+    - year: 2019
+      month: 5
+      day: 14
+  language: pt-BR
+  publisher-place: Museu do Centro Cultural Banco do Brasil, Brasília
+  title: Imagem da arquitetura árabe no Brasil
+  type: speech
+
+- id: palazzo:2019saberes
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2019saberes
+  event: <span class="smallcaps">IV</span> Oficina Paisagens de Influência Portuguesa
+  event-place: 'Coimbra: Centro de Estudos Sociais'
+  genre: Seminário
+  issued:
+    - year: 2019
+      month: 12
+      day: 11
+  language: pt-PT
+  publisher-place: 'Coimbra: Centro de Estudos Sociais'
+  title: >-
+    Saberes partilhados no urbanismo do Brasil no século <span
+    class="smallcaps">XIX</span>
+  title-short: Saberes partilhados
+  type: speech
+
+- id: palazzo:2019saberes-en
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2019saberes-en
+  event: <span class="smallcaps">IV</span> Oficina Paisagens de Influência Portuguesa
+  event-place: 'Coimbra: Centro de Estudos Sociais'
+  genre: Lecture
+  issued:
+    - year: 2019
+      month: 12
+      day: 11
+  language: pt-PT
+  publisher-place: 'Coimbra: Centro de Estudos Sociais'
+  title: >-
+    Saberes partilhados no urbanismo do Brasil no século <span
+    class="smallcaps">XIX</span>
+  title-short: Saberes partilhados
+  type: speech
+
+- id: palazzo:2020funcao
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2020funcao
+  container-author:
+    - family: Guimarães
+      given: Maíra Oliveira
+  container-title: O Museu de Arte de Brasília
+  event-place: Brasília
+  ISBN: 978-85-00-13970-9
+  issued:
+    - year: 2020
+  language: pt-br
+  page: 118-120
+  publisher: >-
+    Fundo de Apoio à Cultura, Secretaria de Cultura e Economia Criativa do
+    Distrito Federal
+  publisher-place: Brasília
+  title: A função do museu na cidade modernista
+  type: chapter
+
+- id: palazzo:2020literary32
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2020literary32
+  container-title: Traditional Dwellings and Settlements Review
+  container-title-short: TDSR
+  issue: '1'
+  issued:
+    - year: 2020
+      season: 3
+  language: en-US
+  page: 25-36
+  title: Literary history and architectural traditionalism in Portugal and Brazil
+  type: article-journal
+  volume: '32'
+
+- id: palazzo:2020relacoes
+  abstract: "Resumo\n\t\t\t\t\tAs superquadras que caracterizam a malha urbana de Brasília são definidas por Lucio Costa, a posteriori, como a “escala residencial” da cidade: um jogo de palavras que obscurece o entendimento de como se estrutura o tecido residencial da capital. Visando a perceber com maior clareza as relações de escala — no sentido convencional, isto é, geométrico, da palavra — na superquadra, abordam-se inicialmente as contradições inerentes à abstração espacial e discursiva no modernismo. Em seguida, analisam-se as relações de escala na área residencial de Brasília em três níveis sucessivos: as articulações de escala da unidade de vizinhança, os elementos de composição espacial na superquadra, e o papel dos edifícios na concretização das escalas e espacialidades peculiares ao urbanismo desta cidade. A cada passo, observa-se como as categorias interpretativas avançadas por diversos estudiosos de Brasília e da arquitetura moderna se articulam, nos seus esclarecimentos e contradições, com a abstração e ambiguidade espacial da superquadra. O conjunto assim indissociável de espaços e discursos sustenta o paradigma do habitar moderno, ao preço, porém, de se erigir um sistema de mistificações conceituais."
+  accessed:
+    - year: 2020
+      month: 3
+      day: 17
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Solórzano
+      given: Gabriel Ernesto Moura
+  citation-key: palazzo:2020relacoes
+  container-title: 'Paranoá: cadernos de arquitetura e urbanismo'
+  container-title-short: Paranoá
+  DOI: 10.18830/issn.1679-0944.n25.2020.8
+  ISSN: 1679-0944
+  issue: '25'
+  issued:
+    - year: 2020
+      month: 3
+      day: 14
+  language: pt-BR
+  page: 107-128
+  source: periodicos.unb.br
+  title: 'Relações de escala na superquadra de Brasília: paradigma ou mistificação?'
+  title-short: Relações de escala na superquadra de Brasília
+  type: article-journal
+  URL: https://periodicos.unb.br/index.php/paranoa/article/view/29209
+
+- id: palazzo:2020teoria
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2020teoria
+  event: Seminário do Centro de Estudos Sociais da Universidade de Coimbra
+  event-place: >-
+    Coimbra: Departamento de Arquitetura da Universidade de Coimbra : Centro de
+    Estudos Sociais
+  genre: Conferência
+  issued:
+    - year: 2020
+      month: 9
+      day: 17
+  language: pt-PT
+  publisher-place: >-
+    Coimbra: Departamento de Arquitetura da Universidade de Coimbra : Centro de
+    Estudos Sociais
+  title: >-
+    Teoria da arquitetura como género literário no século <span
+    class="smallcaps">XIX</span>
+  type: speech
+  URL: >-
+    https://saladeimprensa.ces.uc.pt/index.php?col=canalces&id=31244%23.X4A4LdBKiUk
+
+- id: palazzo:2020teoria-en
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2020teoria-en
+  event: Seminário do Centro de Estudos Sociais da Universidade de Coimbra
+  event-place: >-
+    Coimbra: Departamento de Arquitetura da Universidade de Coimbra : Centro de
+    Estudos Sociais
+  genre: Lecture
+  issued:
+    - year: 2020
+      month: 9
+      day: 17
+  language: pt-PT
+  publisher-place: >-
+    Coimbra: Departamento de Arquitetura da Universidade de Coimbra : Centro de
+    Estudos Sociais
+  title: >-
+    Teoria da arquitetura como género literário no século <span
+    class="smallcaps">XIX</span>
+  type: speech
+  URL: >-
+    https://saladeimprensa.ces.uc.pt/index.php?col=canalces&id=31244%23.X4A4LdBKiUk
+
+- id: palazzo:2021casa
+  abstract: >-
+    Anais do Seminário Arquitetura Vernácula/Popular (978-65-5941-479-6) - A
+    Casa Corrente De 40 Palmos Da Era Liberal
+  accessed:
+    - year: 2022
+      month: 1
+      day: 23
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021casa
+  container-title: Anais…
+  DOI: 10.29327/153996.2-4
+  event: Seminário Arquitetura Vernácula/Popular
+  event-place: Salvador
+  ISBN: 978-65-5941-479-6
+  issued:
+    - year: 2021
+  language: pt-BR
+  publisher: >-
+    Programa de Pós-Graduação em Arquitetura e Urbanismo da <span
+    class="smallcaps">UFBA</span>
+  publisher-place: Salvador
+  title: 'A casa corrente de 40 palmos (± 2): um tipo português da idade liberal'
+  title-short: A casa corrente de 40 palmos
+  type: paper-conference
+  URL: >-
+    https//www.even3.com.br/anais/arqvernapop/387842-A-CASA-CORRENTE-DE-40-PALMOS-DA-ERA-LIBERAL
+
+- id: palazzo:2021death
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021death
+  container-title: Conference Proceedings
+  editor:
+    - family: Anderson
+      given: Richard
+  event: <span class="smallcaps">EAHN</span> 6^th^ International Meeting
+  event-place: Edinburgh
+  ISBN: 978-1-912669-38-7
+  issued:
+    - year: 2021
+  language: en-GB
+  page: 33-40
+  publisher: European Architectural History Network
+  publisher-place: Edinburgh
+  title: >-
+    The death and life of ‘operative’ history: dialogues between the
+    historiography and theory of architecture and urbanism in contemporary Italy
+  title-short: The death and life of ‘operative’ history
+  type: paper-conference
+  URL: >-
+    https://eahn2021.eca.ed.ac.uk/wp-content/uploads/2021/06/EAHN_Proceedings_2021_FINAL_Web.pdf
+
+- id: palazzo:2021modernidade
+  abstract: >-
+    O objetivo do trabalho é articular a respeito da supressão da produção
+    arquitetônica do interior do Brasil dos anos 30 e 40, em sua maioria
+    ecléticas, nas discussões de proteção patrimonial e historiografia
+    brasileira. Para isso serão utilizados edifícios construídos nesse período
+    em Cuiabá como objeto de estudo. Embora essas construções sejam do mesmo
+    período, apresentam características distintas entre si, ora mais aderente à
+    linhas clássicas e tradicionais, ora livre de ornamentos e com aparência
+    mais “moderna”, no sentido de nova e nem sempre modernista. Essa indefinição
+    e a escassez de trabalhos e pesquisas sobre esses edifícios, além do fator
+    localização longe dos grandes centros do país— onde concentra-se a maior
+    parte das pesquisas sobre história e teoria da arquitetura do Brasil—,
+    resulta em certa invisibilização de produções importantes para a
+    historiografia gerando anacronismos dessas realizações em relação a produção
+    do movimento moderno, além de acarretar perdas documentais e monumentais
+    devido à falta de reconhecimento e proteção desses projetos.
+  accessed:
+    - year: 2021
+      month: 12
+      day: 28
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Araujo
+      given: Evillyn Biazatti
+      dropping-particle: de
+  citation-key: palazzo:2021modernidade
+  container-title: Mouseion
+  DOI: 10.18316/mouseion.v0i40.9319
+  ISSN: 1981-7207
+  issue: '40'
+  issued:
+    - year: 2021
+      month: 12
+      day: 22
+  language: pt-BR
+  number: '40'
+  page: 1-17
+  source: revistas.unilasalle.edu.br
+  title: Modernidade tradicionalista na arquitetura cívica de Cuiabá na era Vargas
+  type: article-journal
+  URL: https://revistas.unilasalle.edu.br/index.php/Mouseion/article/view/9319
+
+- id: palazzo:2021parcellaire
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021parcellaire
+  event: École d'été d'Architecture Traditionnelle de Belgique
+  event-place: 'Bruxelles: La Table Ronde de l''Architecture'
+  genre: Conférence
+  issued:
+    - year: 2021
+      month: 8
+      day: 7
+  language: fr-BE
+  publisher-place: 'Bruxelles: La Table Ronde de l''Architecture'
+  title: Le parcellaire comme support de l’architecture traditionnelle
+  type: speech
+  URL: https://www.latablerondearchitecture.com/copie-de-eeatb-août-2021
+
+- id: palazzo:2021programa
+  abstract: >-
+    El desarrollo sostenible, la conservación del patrimonio y la práctica
+    corriente de la construcción han divergido en sus métodos. Para solucionar
+    esta disparidad, antes mismo que cambiar estructuras productivas, hay que
+    educar a los arquitectos para mirar de modo integrado a estos tres aspectos.
+    Para eso hace falta una nueva enseñanza universitaria de arquitectura, que
+    privilegie los materiales naturales y locales, así como una mirada artesana
+    hacia la construcción. Con eso se podrá superar la actual parcialidad de los
+    arquitectos y de la industria por materiales de alto impacto ambiental en
+    beneficio de prácticas ancladas en sus regiones. Planteo un programa de
+    estudios capaz de realizar este propósito mediante el aprendizaje de las
+    tradiciones vernáculas, con su enfoque holístico del desempeño ambiental y
+    del respeto a las preexistencias.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 13
+  author:
+    - family: Palazzo
+      given: Pedro Paulo
+  citation-key: palazzo:2021programa
+  container-title: revista PH
+  container-title-short: revistaph
+  DOI: 10.33349/2021.104.4983
+  ISSN: 2340-7565
+  issue: '104'
+  issued:
+    - year: 2021
+      month: 7
+      day: 13
+  language: es-ES
+  page: 429-431
+  source: DOI.org (Crossref)
+  title: >-
+    Programa de estudios para una arquitectura sostenible y sensible al
+    patrimonio
+  type: article-journal
+  URL: http://www.iaph.es/revistaph/index.php/revistaph/article/view/4983
+
+- id: palazzo:2021vernacular
+  abstract: >-
+    Traditional towns in Portugal and Brazil have evolved a finely tuned
+    coordination between, on the one hand, modular dimensions for street widths
+    and lot sizes, and on the other, a typology of room shapes and layouts
+    within houses. Despite being well documented in urban history, this
+    coordination was in the last century often interpreted as contingent, a
+    result of the limited material means of pre-industrial societies. But the
+    continued application and gradual adaptation of these urban and
+    architectural patterns through periods of industrialization and economic
+    development suggests that they respond both to enduring housing requirements
+    and to piecemeal urban growth. This article surveys the persistence of urban
+    and architectural patterns up to the early 20th century, showing their
+    resilience in addressing modern housing and urbanization requirements.
+  accessed:
+    - year: 2021
+      month: 11
+      day: 10
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021vernacular
+  container-title: Journal of Traditional Building, Architecture and Urbanism
+  ISSN: 2660-583X
+  issue: '2'
+  issued:
+    - year: 2021
+      month: 11
+      day: 10
+  language: en-US
+  page: 359-370
+  source: traditionalarchitecturejournal.com
+  title: 'Vernacular patterns in Portugal and Brazil: evolution and adaptations'
+  title-short: Vernacular patterns in Portugal and Brazil
+  type: article-journal
+  URL: https://traditionalarchitecturejournal.com/index.php/home/article/view/524
+
+- id: palazzo:upcomingje
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:upcomingje
+  container-title: L'historiographie de l'architecture à l'épreuve des transferts culturels
+  editor:
+    - family: Cardoso
+      given: Marianna Gomes Pimentel
+    - family: Jannière
+      given: Hélène
+  issued:
+    - literal: upcoming
+  language: fr-FR
+  title: >-
+    Je ne vis rien qui fût notre image : le nationalisme romantique en Europe et
+    la critique des styles d’architecture au Brésil, 1880-1945
+  title-short: Je ne vis rien qui fût notre image
+  type: chapter
+
+- id: peixoto:2014tempos
+  citation-key: peixoto:2014tempos
+  editor:
+    - family: Peixoto
+      given: Elane Ribeiro
+    - family: Derntl
+      given: Maria Fernanda
+    - family: Palazzo
+      given: Pedro P.
+    - family: Trevisan
+      given: Ricardo
+  event-place: Brasília
+  ISBN: 978-85-60762-18-7
+  issued:
+    - year: 2014
+  language: pt-BR
+  publisher: Editora UnB
+  publisher-place: Brasília
+  title: Tempos e escalas da cidade e do urbanismo
+  title-short: Tempos e escalas
+  type: book
+
+- id: pereira:2020arquitetura
+  author:
+    - family: Pereira
+      given: Octávio Scapin Costa
+  citation-key: pereira:2020arquitetura
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2020
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: >-
+    Arquitetura e Psicanálise: Atravessamentos teóricos a partir da década de
+    1960
+  title-short: Arquitetura e psicanálise
+  type: thesis
+
+- id: pimentel:2018urbanizacao
+  author:
+    - family: Pimentel Lopes
+      given: Camila de Queiroz
+  citation-key: pimentel:2018urbanizacao
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2018
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: >-
+    Urbanização no norte de Goiás no século <span
+    class="smallcaps">XVIII</span>: Morfologia urbana de Natividade
+  title-short: Morfologia urbana de Natividade
+  type: thesis
+
+- id: saboia:2014brasilia
+  call-number: HT384.B62 B733 2014
+  citation-key: saboia:2014brasilia
+  editor:
+    - family: Saboia
+      given: Luciana
+    - family: Derntl
+      given: Maria Fernanda
+  event-place: Brasília
+  ISBN: 978-85-230-1102-4
+  issued:
+    - year: 2014
+  language: pt-BR
+  number-of-pages: '179'
+  publisher: Editora UnB
+  publisher-place: Brasília
+  source: Library of Congress ISBN
+  title: 'Brasília 50+50: cidade, história e projeto'
+  title-short: Brasília 50+50
+  type: book
+
+- id: sambricio:2014projetos
+  author:
+    - family: Sambricio
+      given: Carlos
+  citation-key: sambricio:2014projetos
+  container-title: 'Tempos e escalas da cidade e do urbanismo: quatro palestras'
+  editor:
+    - family: Peixoto
+      given: Elane Ribeiro
+    - family: Derntl
+      given: Maria Fernanda
+    - family: Palazzo
+      given: Pedro P.
+    - family: Trevisan
+      given: Ricardo
+  event-place: Brasília
+  ISBN: 978-85-60762-18-7
+  issued:
+    - year: 2014
+  language: pt-BR
+  page: 29–59
+  publisher: Faculdade de Arquitetura e Urbanismo da Universidade de Brasília
+  publisher-place: Brasília
+  title: >-
+    Projetos espaciais na América espanhola no último terço do século <span
+    class="smallcaps">XVIII</span>: economia, política e ordenação territorial
+  translator:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Peixoto
+      given: Elane Ribeiro
+  type: chapter
+
+- id: silveira:2022arquitetura
+  author:
+    - family: Silveira
+      given: Luis Henrique Colen
+  citation-key: silveira:2022arquitetura
+  event-place: Brasilia
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2022
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasilia
+  title: >-
+    Arquitetura do final do século <span class="smallcaps">XIX</span> e início
+    do <span class="smallcaps">XX</span> no oeste de Minas Gerais
+  type: thesis
+
+- id: solorzano:2019relacoes
+  author:
+    - family: Solórzano
+      given: Gabriel Ernesto Moura
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: solorzano:2019relacoes
+  container-title: Anais
+  event: <span class="smallcaps">XVIII</span> Enanpur
+  event-place: Natal
+  ISBN: 1984-8781
+  issued:
+    - year: 2019
+  language: pt-BR
+  publisher-place: Natal
+  title: 'Relações de escala na superquadra de Brasília: paradigma ou mistificação?'
+  title-short: Relações de escala na superquadra de Brasília
+  type: paper-conference
+  URL: http://anpur.org.br/xviiienanpur/anaisadmin/capapdf.php?reqid=972
+
+- id: solorzano:2020superquadra
+  author:
+    - family: Solórzano
+      given: Gabriel Ernesto Moura
+  citation-key: solorzano:2020superquadra
+  event-place: Brasília
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2020
+  language: pt-BR
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  title: 'Superquadra de Brasília: projeto, arranjo, percepção'
+  title-short: Superquadra de Brasília
+  type: thesis
+...
