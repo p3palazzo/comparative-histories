@@ -401,6 +401,81 @@ references:
   URL: http://gallica.bnf.fr/ark:/12148/bpt6k6562417b
   volume: '2'
 
+- id: barberot:1912traite
+  abstract: >-
+    Traité des constructions civiles... 4e édition, revue et augmentée. Par E.
+    Barberot,... -- 1912 -- livre
+  accessed:
+    - year: 2021
+      month: 1
+      day: 19
+  author:
+    - family: Barberot
+      given: Étienne
+  citation-key: barberot:1912traite
+  edition: '4'
+  event-place: 'Paris : Liège'
+  issued:
+    - year: 1912
+  language: fr
+  publisher: Béranger
+  publisher-place: 'Paris : Liège'
+  source: gallica.bnf.fr
+  title: Traité des constructions civiles
+  type: book
+  URL: https://gallica.bnf.fr/ark:/12148/bpt6k3239915
+
+- id: batie:1997incorporation6
+  abstract: >-
+    Current teaching methods for architectural history seldom embrace building
+    technology as an essential component of study. Accepting the premise that
+    architectural history is a fundamental component to the overall
+    architectural learning environment, it is argued that the study of
+    construction history will further enhance student knowledge. This hypothesis
+    created an opportunity to investigate how the study of construction history
+    could be incorporated to strengthen present teaching methods. Strategies for
+    teaching architectural history were analyzed with the determination that an
+    incorporation of educational instructional design applications using
+    object-oriented programming and hypermedia provided the optimal solution.
+    This evaluation led to the development of the HISTCON interactive,
+    multimedia educational computer program. Used initially to teach 19th
+    Century iron and steel construction history, the composition of the program
+    provides the mechanism to test the significance of construction history in
+    the study of architectural history. Future development of the program will
+    provide a method to illustrate construction history throughout the history
+    of architecture. The study of architectural history, using a construction
+    oriented methodology, is shown to be positively correlated to increased
+    understanding of architectural components relevant to architectural history
+    and building construction.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 11
+  author:
+    - family: Batie
+      given: David L.
+  citation-key: batie:1997incorporation6
+  collection-title: 'Design computation: reasoning and collaboration'
+  container-title: Automation in Construction
+  container-title-short: Automation in Construction
+  DOI: 10.1016/S0926-5805(97)00046-0
+  ISSN: 0926-5805
+  issue: '4'
+  issued:
+    - year: 1997
+      month: 8
+      day: 1
+  language: en
+  page: 275-285
+  source: ScienceDirect
+  title: >-
+    The incorporation of construction history in architectural history: the
+    <span class="smallcaps">HISTCON</span> interactive computer program
+  title-short: The incorporation of construction history in architectural history
+  type: article-journal
+  URL: http://www.sciencedirect.com/science/article/pii/S0926580597000460
+  volume: '6'
+
 - id: baydar:1998postcolonial
   author:
     - family: Baydar Nalbantoğlu
@@ -507,6 +582,43 @@ references:
   title: Per una ricomposizione impossibile. Teoria della crisi e storia operante
   type: chapter
   URL: https://re.public.polimi.it/handle/11311/976650
+
+- id: benvenuto:1991statics
+  author:
+    - family: Benvenuto
+      given: Edoardo
+  citation-key: benvenuto:1991statics
+  collection-number: '1'
+  collection-title: An introduction to the history of structural mechanics
+  event-place: New York
+  ISBN: 978-1-4612-7745-3
+  issued:
+    - year: 1991
+  language: en
+  publisher: Springer
+  publisher-place: New York
+  source: Open WorldCat
+  title: Statics and resistance of solids
+  type: book
+
+- id: benvenuto:1991vaulted
+  author:
+    - family: Benvenuto
+      given: Edoardo
+  citation-key: benvenuto:1991vaulted
+  collection-number: '2'
+  collection-title: An introduction to the history of structural mechanics
+  event-place: New York
+  ISBN: 978-1-4612-7751-4 978-3-540-97187-0 978-0-387-97187-2
+  issued:
+    - year: 1991
+  language: en
+  number-of-pages: '309'
+  publisher: Springer
+  publisher-place: New York
+  source: K10plus ISBN
+  title: Vaulted structures and elastic systems
+  type: book
 
 - id: binfield:2003architecture13
   accessed:
@@ -857,6 +969,26 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/1424726
   volume: '34'
+
+- id: carpenter:1997learning
+  author:
+    - family: Carpenter
+      given: William J.
+    - family: Hoffman
+      given: Dan
+  call-number: 37::72
+  citation-key: carpenter:1997learning
+  event-place: New York
+  issued:
+    - year: 1997
+  language: en
+  number-of-pages: '180'
+  publisher: Van Nostrand Reinhold
+  publisher-place: New York
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Learning by building: design and construction in architectural education'
+  title-short: Learning by building
+  type: book
 
 - id: carter:1991introduction4
   accessed:
@@ -1586,6 +1718,26 @@ references:
   URL: >-
     https://www.cairn.info/nature-humaine-et-caractere-a-l-age-classique--9782130452393.htm
 
+- id: deplazes:2005constructing
+  call-number: TA403.6 .C659 2005
+  citation-key: deplazes:2005constructing
+  edition: 2^nd^ ed.
+  editor:
+    - family: Deplazes
+      given: Andrea
+  event-place: Basel ; Boston
+  ISBN: 978-3-7643-7190-6 978-3-7643-7189-0
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: '508'
+  publisher: Birkhäuser
+  publisher-place: Basel ; Boston
+  source: Library of Congress ISBN
+  title: 'Constructing architecture: materials, processes, structures, a handbook'
+  title-short: Constructing architecture
+  type: book
+
 - id: durand:1802precis
   author:
     - family: Durand
@@ -2091,6 +2243,23 @@ references:
   source: Open WorldCat
   title: 'Storia e struttura: teoria della storiografia architettonica'
   title-short: Storia e struttura
+  type: book
+
+- id: gargiani:2008colonne
+  citation-key: gargiani:2008colonne
+  editor:
+    - family: Gargiani
+      given: Roberto
+  event-place: Lausanne
+  ISBN: 978-2-88074-714-5
+  issued:
+    - year: 2008
+  language: fr-CH
+  publisher: Presses polytechniques et universitaires romandes
+  publisher-place: Lausanne
+  source: Open WorldCat
+  title: 'La colonne : nouvelle histoire de la construction'
+  title-short: La colonne
   type: book
 
 - id: giedion:1961space
@@ -4412,6 +4581,30 @@ references:
     https://online.ucpress.edu/jsah/article/77/4/388/60312/The-Hidden-Hand-Edward-Said-s-Orientalism-and
   volume: '77'
 
+- id: reveyron:2002lapport
+  accessed:
+    - year: 2021
+      month: 1
+      day: 25
+  author:
+    - family: Reveyron
+      given: Nicolas
+  citation-key: reveyron:2002lapport
+  container-title: In Situ
+  container-title-short: insitu
+  DOI: 10.4000/insitu.1200
+  ISSN: 1630-7305
+  issue: '2'
+  issued:
+    - year: 2002
+      month: 6
+      day: 1
+  language: fr
+  source: DOI.org (Crossref)
+  title: L'apport de l'archéologie du bâti dans la monographie d'architecture
+  type: article-journal
+  URL: http://journals.openedition.org/insitu/1200
+
 - id: riegl:1893stilfragen
   abstract: >-
     Book Source: Digital Library of India Item 2015.70527dc.contributor.author:
@@ -5165,6 +5358,35 @@ references:
   URL: https://www.jstor.org/stable/3051117
   volume: '70'
 
+- id: turner:1986construction
+  abstract: >-
+    136 pages : 25 cm; Includes bibliographical references (pages 127-130) and
+    index; 1. The component technologies of buildings -- 2. Component costs in
+    the present age -- 3. The historical evolution of component costs -- 4.
+    Trends in component costs -- 5. The correlation between component costs and
+    architectural design
+  accessed:
+    - year: 2021
+      month: 5
+      day: 10
+  author:
+    - family: Turner
+      given: R. Gregory
+  citation-key: turner:1986construction
+  event-place: New York
+  ISBN: 978-0-442-28309-4
+  issued:
+    - year: 1986
+  language: en
+  number-of-pages: '146'
+  publisher: Van Nostrand Reinhold
+  publisher-place: New York
+  source: Internet Archive
+  title: 'Construction economics and building design : a historical approach'
+  title-short: Construction economics and building design
+  type: book
+  URL: http://archive.org/details/constructionecon0000turn
+
 - id: unamuno:1902torno
   author:
     - family: Unamuno
@@ -5679,5 +5901,25 @@ references:
   source: webopac.sib.uc.pt Library Catalog
   title: 'Architettura e storiografia: le matrici antiche del linguaggio moderno'
   title-short: Architettura e storiografia
+  type: book
+
+- id: zwerger:2012wood
+  author:
+    - family: Zwerger
+      given: Klaus
+  call-number: TH2301 .Z9413 2012
+  citation-key: zwerger:2012wood
+  edition: Second, revised and enlarged edition
+  event-place: Basel
+  ISBN: 978-3-0346-0685-1
+  issued:
+    - year: 2012
+  language: English
+  number-of-pages: '319'
+  publisher: Birkhäuser
+  publisher-place: Basel
+  source: Library of Congress ISBN
+  title: 'Wood and wood joints: building traditions of Europe, Japan and China'
+  title-short: Wood and wood joints
   type: book
 ...
