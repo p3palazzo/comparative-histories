@@ -42,6 +42,58 @@ references:
   title-short: Origins, imitation, conventions
   type: book
 
+- id: akcan:2015global4
+  abstract: >-
+    This article comparatively discusses the 14th International Architecture
+    Biennale of Venice, directed by Rem Koolhaas, and the pilot exhibit and
+    architectural design of Louvre Abu Dhabi undertaken by Jean Nouvel, in the
+    context of recent big art events and world museums. Curatorial,
+    historiographical, and installation strategies in these venues are
+    differentiated in order to think through the question of displaying a global
+    history of architecture. I make a distinction between the curatorial
+    practices carried out in the Fundamentals and Absorbing Modernity sections
+    of Venice's Central and National Pavilions as curator-as-author and
+    curators-as-chorus, which I map onto recent historiographical and museum
+    design practices, including the Louvre Abu Dhabi, to discuss the
+    geopolitical implications of its installation strategies. I also argue that
+    six methodological perspectives for displaying architectural history emerge
+    from the curator-chorus of Absorbing Modernity, which can be identified as
+    survey, nationalist history, case study, thematic history, archive metaphor,
+    and deferment, all of which contribute to and raise questions about the
+    ongoing project towards a global architectural history. After suggesting a
+    difference between “world” and “global” history of architecture, I call for
+    a more geopolitically conscious and cosmopolitan global history of
+    architecture, by exposing the intactive bonds between the history of
+    modernism and of colonization, as well as the continuing legacy of
+    geopolitical and economic inequalities that operate in such venues.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 7
+  author:
+    - family: Akcan
+      given: Esra
+  citation-key: akcan:2015global4
+  container-title: ARTMargins
+  container-title-short: ARTMargins
+  DOI: 10.1162/ARTM_r_00105
+  ISSN: 2162-2574
+  issue: '1'
+  issued:
+    - year: 2015
+      month: 2
+      day: 1
+  language: en
+  page: 79-101
+  source: Silverchair
+  title: >-
+    Is a global history of architecture displayable? A historiographical
+    perspective on the 14^th^ Venice architecture biennale and Louvre Abu Dhabi
+  title-short: Is a global history of architecture displayable?
+  type: article-journal
+  URL: https://doi.org/10.1162/ARTM_r_00105
+  volume: '4'
+
 - id: anderson:1982types
   accessed:
     - year: 2015
@@ -80,12 +132,13 @@ references:
       given: Christy
   citation-key: anderson:1999writing58
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/991528
   ISSN: 0037-9808
   issue: '3'
   issued:
     - year: 1999
-  language: English
+  language: en
   page: 350-355
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -176,7 +229,7 @@ references:
   ISBN: 978-1-4051-0535-4
   issued:
     - year: 2003
-  language: English
+  language: en
   number-of-pages: '149'
   publisher: Blackwell
   publisher-place: Malden, Mass.
@@ -196,7 +249,7 @@ references:
   ISBN: 978-0-415-36082-1 978-0-415-36085-2
   issued:
     - year: 2006
-  language: English
+  language: en
   number-of-pages: '251'
   publisher: Routledge
   publisher-place: London
@@ -214,7 +267,7 @@ references:
   container-title: Revue de Littérature Comparée
   issued:
     - year: 1921
-  language: French
+  language: fr
   page: 5–29
   title: 'Littérature comparée : le mot et la chose'
   type: article-journal
@@ -235,7 +288,7 @@ references:
   ISSN: 0079-0958
   issued:
     - year: 1987
-  language: English
+  language: en
   page: 24-37
   publisher: The MIT Press
   source: JSTOR
@@ -255,6 +308,7 @@ references:
   ISBN: 978-0-7190-3297-4
   issued:
     - year: 1990
+  language: en
   number-of-pages: '246'
   publisher: >-
     Manchester University Press ; Distributed exclusively in the USA and Canada
@@ -402,7 +456,7 @@ references:
   ISBN: 978-2-226-02787-0
   issued:
     - year: 1986
-  language: French
+  language: fr
   number-of-pages: '652'
   publisher: A. Michel
   publisher-place: Paris
@@ -421,6 +475,7 @@ references:
   ISBN: 978-0-19-969155-5 978-0-19-870941-1
   issued:
     - year: 2011
+  language: en
   number-of-pages: '600'
   publisher: Oxford University Press
   publisher-place: Oxford ; New York
@@ -466,7 +521,7 @@ references:
   ISSN: 0080-4401
   issued:
     - year: 2003
-  language: English
+  language: en
   page: 189-197
   publisher: '[Cambridge University Press, Royal Historical Society]'
   source: JSTOR
@@ -486,7 +541,7 @@ references:
   ISBN: 978-0-89862-349-9 978-0-89862-348-2
   issued:
     - year: 1993
-  language: English
+  language: en
   number-of-pages: '246'
   publisher: Guilford
   publisher-place: New York
@@ -506,7 +561,7 @@ references:
   event-place: 'New York : Oxford'
   issued:
     - year: 1973
-  language: English
+  language: en
   number-of-pages: '157'
   publisher: Oxford University Press
   publisher-place: 'New York : Oxford'
@@ -530,7 +585,7 @@ references:
   issue: '2'
   issued:
     - year: 2017
-  language: Italian
+  language: it
   page: '18'
   title: 'The fiction of reason: Tafuri and the avant-garde'
   type: article-journal
@@ -552,7 +607,7 @@ references:
   issue: '7'
   issued:
     - year: 1986
-  language: English
+  language: en
   page: 46-58
   publisher: Social Scientist
   source: JSTOR
@@ -594,7 +649,7 @@ references:
   issue: '4'
   issued:
     - year: 1988
-  language: English
+  language: en
   page: 38-45
   publisher: >-
     [Taylor & Francis, Ltd., Association of Collegiate Schools of Architecture,
@@ -693,7 +748,7 @@ references:
   issue: '4'
   issued:
     - year: 1989
-  language: English
+  language: en
   page: 327-350
   source: JSTOR
   title: 'Notes on Viollet-le-Duc''s philosophy of history: dialectics and technology'
@@ -701,6 +756,72 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/990453
   volume: '48'
+
+- id: burgess:1910history1
+  abstract: 26 29
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Burgess
+      given: James
+    - family: Spiers
+      given: Richard Phené
+  call-number: AAK-2013
+  citation-key: burgess:1910history1
+  collection-editor:
+    - family: Fergusson
+      given: James
+  collection-number: '3'
+  collection-title: >-
+    A history of architecture in all countries from the earliest times to the
+    present day
+  event-place: London
+  issued:
+    - year: 1910
+  language: en-GB
+  number-of-pages: '526'
+  publisher: J. Murray
+  publisher-place: London
+  source: Internet Archive
+  title: History of Indian and Eastern architecture
+  type: book
+  URL: http://archive.org/details/historyofindiane01ferguoft
+  volume: '1'
+
+- id: burgess:1910history2
+  abstract: 26 29
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Burgess
+      given: James
+    - family: Spiers
+      given: Richard Phené
+  call-number: AAK-2013
+  citation-key: burgess:1910history2
+  collection-editor:
+    - family: Fergusson
+      given: James
+  collection-number: '3'
+  collection-title: >-
+    A history of architecture in all countries from the earliest times to the
+    present day
+  event-place: London
+  issued:
+    - year: 1910
+  language: en-GB
+  number-of-pages: '648'
+  publisher: J. Murray
+  publisher-place: London
+  source: Internet Archive
+  title: History of Indian and Eastern architecture
+  type: book
+  URL: http://archive.org/details/historyofindiane02ferguoft
+  volume: '2'
 
 - id: cardoso:1935philosophiaa
   author:
@@ -710,7 +831,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1935
-  language: Portuguese
+  language: pt-BR
   publisher: José Olympio
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -752,7 +873,7 @@ references:
   ISSN: 0887-9885
   issued:
     - year: 1991
-  language: English
+  language: en
   page: 1-6
   source: JSTOR
   title: 'Introduction: toward a new architectural history'
@@ -779,7 +900,7 @@ references:
   issue: '1'
   issued:
     - year: 2003
-  language: English
+  language: en
   page: 92-101
   source: JSTOR
   title: 'The Italian mosaic: the architect as historian'
@@ -851,7 +972,7 @@ references:
   ISBN: 978-1-60606-148-0
   issued:
     - year: 2013
-  language: English
+  language: en
   page: 317–342
   publisher: Getty Research Institute
   publisher-place: Los Angeles
@@ -894,8 +1015,8 @@ references:
   event-place: Paris
   issued:
     - year: 1991
-  language: French
-  publisher: P.U.F.
+  language: fr
+  publisher: <span class="smallcaps">P.U.F.</span>
   publisher-place: Paris
   title: La littérature comparée
   type: book
@@ -975,7 +1096,7 @@ references:
   event-place: Paris
   issued:
     - year: 1876
-  language: French
+  language: fr
   number-of-pages: '474'
   publisher: Ve A. Morel & cie.
   publisher-place: Paris
@@ -983,6 +1104,70 @@ references:
   title: Histoire critique des origines et de la formation des ordres grecs
   type: book
   URL: http://archive.org/details/histoirecritique00chip
+
+- id: choisy:1873art1
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1873art1
+  event-place: Paris
+  issued:
+    - year: 1873
+  language: fr
+  publisher: Ducher
+  publisher-place: Paris
+  source: Open WorldCat
+  title: L'Art de bâtir chez les Romains
+  type: book
+  volume: '1'
+
+- id: choisy:1873art2
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1873art2
+  event-place: Paris
+  issued:
+    - year: 1873
+  language: fr
+  publisher: Ducher
+  publisher-place: Paris
+  source: Open WorldCat
+  title: L'Art de bâtir chez les Romains
+  type: book
+  volume: '2'
+
+- id: choisy:1883art1
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1883art1
+  event-place: Paris
+  issued:
+    - year: 1883
+  language: fr
+  publisher: Sté Anonyme de Publications Périodiques
+  publisher-place: Paris
+  source: Open WorldCat
+  title: L'art de bâtir chez les Byzantins
+  type: book
+  volume: '1'
+
+- id: choisy:1883art2
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1883art2
+  event-place: Paris
+  issued:
+    - year: 1883
+  language: fr
+  publisher: Sté Anonyme de Publications Périodiques
+  publisher-place: Paris
+  source: Open WorldCat
+  title: L'art de bâtir chez les Byzantins
+  type: book
+  volume: '2'
 
 - id: choisy:1899histoire
   author:
@@ -995,6 +1180,66 @@ references:
   language: fr-FR
   number-of-volumes: '2'
   publisher: Gauthier-Villars
+  publisher-place: Paris
+  title: Histoire de l'architecture
+  type: book
+
+- id: choisy:1899histoire1
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1899histoire1
+  event-place: Paris
+  issued:
+    - year: 1899
+  language: fr-FR
+  publisher: Gauthier-Villars
+  publisher-place: Paris
+  title: Histoire de l'architecture
+  type: book
+  URL: https://archive.org/details/bnf-bpt6k6417116t/
+  volume: '1'
+
+- id: choisy:1899histoire2
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1899histoire2
+  event-place: Paris
+  issued:
+    - year: 1899
+  language: fr-FR
+  publisher: Gauthier-Villars
+  publisher-place: Paris
+  title: Histoire de l'architecture
+  type: book
+  URL: https://gallica.bnf.fr/ark:/12148/bpt6k6584016q
+  volume: '2'
+
+- id: choisy:1964histoire
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1964histoire
+  event-place: Paris
+  issued:
+    - year: 1964
+  language: fr
+  publisher: Vincent, Fréal & cie.
+  publisher-place: Paris
+  title: Histoire de l'architecture
+  type: book
+
+- id: choisy:1996histoire
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1996histoire
+  event-place: Paris
+  issued:
+    - year: 1996
+  language: fr
+  publisher: Bibliothèque de l'image
   publisher-place: Paris
   title: Histoire de l'architecture
   type: book
@@ -1032,7 +1277,7 @@ references:
   event-place: Bari
   issued:
     - year: 1947
-  language: Italian
+  language: it
   number-of-pages: '412'
   publisher: G. Laterza
   publisher-place: Bari
@@ -1056,7 +1301,7 @@ references:
   issue: '2'
   issued:
     - year: 1987
-  language: English
+  language: en
   page: 10-11
   publisher: >-
     [Taylor & Francis, Ltd., Association of Collegiate Schools of Architecture,
@@ -1077,13 +1322,14 @@ references:
       given: Jean-Louis
   citation-key: cohen:1999exhibitionist58
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/991524
   ISSN: 00379808, 21505926
   issue: '3'
   issued:
     - year: 1999
       month: 9
-  language: English
+  language: en
   page: 316-325
   source: Crossref
   title: 'Exhibitionist revisionism: exposing architectural history'
@@ -1110,7 +1356,7 @@ references:
     - year: 2008
       month: 9
       day: 1
-  language: English
+  language: en
   page: 325-329
   source: DOI.org (Crossref)
   title: Scholarship or politics? Architectural history and the risks of autonomy
@@ -1128,7 +1374,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2004
-  language: Portuguese
+  language: pt-BR
   page: 23-37
   publisher: Cosac & Naify
   publisher-place: São Paulo
@@ -1144,7 +1390,7 @@ references:
   ISBN: 978-85-7503-278-7
   issued:
     - year: 2004
-  language: Portuguese
+  language: pt-BR
   publisher: Cosac & Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1162,14 +1408,14 @@ references:
       given: John
   citation-key: coolidge:1943preliminary3
   container-title: The Journal of the American Society of Architectural Historians
-  container-title-short: Journal of the American Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/901222
   ISSN: '15449890'
   issue: '3'
   issued:
     - year: 1943
       month: 7
-  language: English
+  language: en
   page: 3-11
   source: DOI.org (Crossref)
   title: Preliminary steps towards "the new history of architecture"
@@ -1186,7 +1432,7 @@ references:
   ISBN: 978-0-486-20378-2
   issued:
     - year: 1956
-  language: English
+  language: en
   publisher: Dover
   publisher-place: New York
   source: Open WorldCat
@@ -1221,7 +1467,7 @@ references:
   event-place: Napoli
   issued:
     - year: 1904
-  language: Italian
+  language: it
   publisher: Electa
   publisher-place: Napoli
   title: >-
@@ -1242,7 +1488,7 @@ references:
   event-place: Bari
   issued:
     - year: 1920
-  language: Italian
+  language: it
   number-of-pages: '292'
   publisher: Gius. Laterza & Figli
   publisher-place: Bari
@@ -1262,7 +1508,7 @@ references:
   event-place: Bari
   issued:
     - year: 1948
-  language: Italian
+  language: it
   number-of-pages: '332'
   publisher: Gius. Laterza & Figli
   publisher-place: Bari
@@ -1284,7 +1530,7 @@ references:
   ISSN: 0066-622X
   issued:
     - year: 1984
-  language: English
+  language: en
   page: 555-578
   publisher: SAHGB Publications Limited
   source: JSTOR
@@ -1303,11 +1549,12 @@ references:
       given: Dana
   citation-key: cuff:2017historical76
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   ISSN: 0037-9808
   issue: '1'
   issued:
     - year: 2017
-  language: English
+  language: en
   page: 5-9
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -1349,7 +1596,7 @@ references:
   issued:
     - year: 1802
     - year: 1805
-  language: French
+  language: fr
   number-of-volumes: '2'
   publisher: l'auteur
   publisher-place: Paris
@@ -1366,7 +1613,7 @@ references:
   event-place: Paris
   issued:
     - year: 1821
-  language: French
+  language: fr
   number-of-pages: '36'
   publisher: l'auteur
   publisher-place: Paris
@@ -1389,7 +1636,7 @@ references:
   event-place: Paris
   issued:
     - year: 1825
-  language: French
+  language: fr
   publisher: Chez l'auteur
   publisher-place: Paris
   source: Gallica
@@ -1408,11 +1655,54 @@ references:
   issue: '2'
   issued:
     - year: 1988
-  language: English
+  language: en
   page: 354–378
   title: Art history without theory
   type: article-journal
   volume: '14'
+
+- id: etlin:1987corbusier69
+  abstract: >-
+    This essay explores Le Corbusier's debt to the nineteenth-century tradition
+    of French Hellenism in the formulation of his vision for a new architecture,
+    as reflected both in his polemical treatise, Vers une architecture (1923),
+    and in his avant-garde Parisian villas of the 1920's. Two of Le Corbusier's
+    principal interests - the architectural promenade, informed by the example
+    of the Athenian Acropolis, and the Parthenon, appreciated as an aesthetic
+    icon - derive from this tradition, which he received through the writings of
+    Viollet-le-Duc and Auguste Choisy. These two theorists, moreover, are shown
+    to have promoted ideas that belie their popular characterization today as
+    "structural rationalists." Finally, it is suggested that the historical
+    periods usually associated with what is known as the Modern Movement, seen
+    as beginning toward either 1890 or 1920, are, rather, phases within a longer
+    historical cycle, which originated with the Romantic revolution toward the
+    1820's, when it became imperative to create a modern architecture expressive
+    of contemporary culture.
+  accessed:
+    - year: 2021
+      month: 1
+      day: 17
+  author:
+    - family: Etlin
+      given: Richard A.
+  citation-key: etlin:1987corbusier69
+  container-title: The Art Bulletin
+  DOI: 10.2307/3051022
+  ISSN: 0004-3079
+  issue: '2'
+  issued:
+    - year: 1987
+  language: en
+  page: 264-278
+  publisher: '[Taylor & Francis, Ltd., College Art Association]'
+  source: JSTOR
+  title: >-
+    Le Corbusier, Choisy, and French Hellenism: the search for a new
+    architecture
+  title-short: Le corbusier, Choisy, and French Hellenism
+  type: article-journal
+  URL: https://www.jstor.org/stable/3051022
+  volume: '69'
 
 - id: fergusson:1855illustrated1
   abstract: '31'
@@ -1472,6 +1762,42 @@ references:
   URL: http://archive.org/details/illustratedhandb02ferguoft
   volume: '2'
 
+- id: fergusson:1862history
+  abstract: >-
+    "When the 'Handbook of architecture' was first published in two volumes in
+    1855, it was intended that it should have been followed by a third,
+    completing the history of the art from the earliest day to the present time
+    ... the concluding portion of the work is ... now given to the public in
+    such a form that it may either be bound up as a third volume of the
+    'Handbook,' or treated as an entirely separate work complete in
+    itself."--Pref; Issued also as a part of the revised and enlarged edition of
+    the Handbook, published under title: History of architecture in all
+    countries, from the earliest times to the present day
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+  call-number: '9929988620001551'
+  citation-key: fergusson:1862history
+  edition: '1'
+  event-place: London
+  issued:
+    - year: 1862
+  language: en-GB
+  number-of-pages: '598'
+  publisher: J. Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    History of the modern styles of architecture: being a sequel to the Handbook
+    of architecture
+  title-short: History of the modern styles of architecture
+  type: book
+  URL: http://archive.org/details/historyofmoderns00ferg
+
 - id: fergusson:1874history2
   abstract: >-
     Vol. 1-2. - History of architecture.- Vol. 3. - History of Indian and
@@ -1500,6 +1826,32 @@ references:
     present day
   type: book
   URL: http://archive.org/details/historyofarchite02ferguoft
+  volume: '2'
+
+- id: fergusson:1891history2
+  abstract: Bibliographical footnotes
+  accessed:
+    - year: 2019
+      month: 10
+      day: 1
+  author:
+    - family: Fergusson
+      given: James
+    - family: Kerr
+      given: Robert
+  call-number: b12853707
+  citation-key: fergusson:1891history2
+  event-place: New York
+  issued:
+    - year: 1891
+  language: en-US
+  number-of-pages: '480'
+  publisher: Dodd, Mead
+  publisher-place: New York
+  source: Internet Archive
+  title: History of the modern styles of architecture
+  type: book
+  URL: http://archive.org/details/historyofmoderns02ferg
   volume: '2'
 
 - id: fergusson:1893history1
@@ -1564,7 +1916,7 @@ references:
   event-place: Leipzig
   issued:
     - year: 1725
-  language: German
+  language: de
   number-of-pages: '248'
   publisher-place: Leipzig
   source: Internet Archive
@@ -1599,11 +1951,12 @@ references:
       given: Saul
   citation-key: fisher:2000architectural54
   container-title: Journal of Architectural Education
+  container-title-short: JAE
   ISSN: 1046-4883
   issue: '1'
   issued:
     - year: 2000
-  language: English
+  language: en
   page: 35-44
   source: JSTOR
   title: 'Architectural aesthetics in the analytic tradition: a new curriculum'
@@ -1662,7 +2015,7 @@ references:
   issue: 3, Literary and Art History
   issued:
     - year: 1972
-  language: English
+  language: en
   page: 459-470
   title: Critical history of art, or transfiguration of values?
   type: article-journal
@@ -1677,7 +2030,7 @@ references:
   issue: 3, Literary and Art History
   issued:
     - year: 1972
-  language: English
+  language: en
   page: 487-509
   title: Periodization and interart analogies
   type: article-journal
@@ -1732,7 +2085,7 @@ references:
   event-place: Napoli
   issued:
     - year: 1981
-  language: Italian
+  language: it
   publisher: Edizioni scientifiche italiane
   publisher-place: Napoli
   source: Open WorldCat
@@ -1751,7 +2104,7 @@ references:
     - year: 1961
       month: 1
       day: 1
-  language: English
+  language: en
   number-of-pages: '768'
   publisher: Harvard University Press
   publisher-place: Cambridge, Mass.
@@ -1769,7 +2122,7 @@ references:
   issue: '1'
   issued:
     - year: 1971
-  language: English
+  language: en
   page: 83–87
   title: A plea for pluralism
   type: article-journal
@@ -1791,11 +2144,11 @@ references:
   issued:
     - year: 2014
       month: 5
-  language: English
+  language: en
   page: 212-233
   source: Crossref
   title: 'Antiquarianism as genealogy: Arnaldo Momigliano’s method'
-  title-short: ANTIQUARIANISM AS GENEALOGY
+  title-short: Antiquarianism as genealogy
   type: article-journal
   URL: http://doi.wiley.com/10.1111/hith.10706
   volume: '53'
@@ -1815,7 +2168,7 @@ references:
   issue: '4'
   issued:
     - year: 1980
-  language: English
+  language: en
   page: 763-778
   publisher: '[Oxford University Press, American Historical Association]'
   source: JSTOR
@@ -1856,7 +2209,7 @@ references:
   issue: '3'
   issued:
     - year: 2006
-  language: English
+  language: en
   page: 66-76
   source: JSTOR
   title: 'The canon and the void: gender, race, and architectural history texts'
@@ -1964,7 +2317,7 @@ references:
   issue: '1'
   issued:
     - year: 1947
-  language: English
+  language: en
   page: 1-21
   source: JSTOR
   title: Literary criticism through art and art criticism through literature
@@ -1985,7 +2338,7 @@ references:
     978-0-415-21386-8
   issued:
     - year: 1999
-  language: English
+  language: en
   number-of-pages: '4'
   publisher: Routledge
   publisher-place: London New York
@@ -2002,7 +2355,7 @@ references:
   event-place: Frankfurt am Main
   issued:
     - year: 1986
-  language: German
+  language: de
   number-of-volumes: '3'
   publisher: Suhrkamp
   publisher-place: Frankfurt am Main
@@ -2045,7 +2398,7 @@ references:
   ISBN: 978-0-262-08144-3
   issued:
     - year: 1984
-  language: English
+  language: en
   number-of-pages: '320'
   publisher: MIT Press
   publisher-place: Cambridge, Mass.
@@ -2101,7 +2454,7 @@ references:
   issue: '4'
   issued:
     - year: 1980
-  language: English
+  language: en
   page: 854-857
   publisher: '[Oxford University Press, American Historical Association]'
   source: JSTOR
@@ -2114,16 +2467,16 @@ references:
 - id: hobsbawm:1983invention
   author:
     - family: Hobsbawm
-      given: Eirc J
+      given: Eric J.
     - family: Ranger
-      given: Terence O
+      given: Terence O.
   call-number: '930.85'
   citation-key: hobsbawm:1983invention
   event-place: Cambridge [Cambridgeshire]; New York
   ISBN: 978-0-521-24645-3 978-0-521-43773-8 978-0-521-26985-8
   issued:
     - year: 1983
-  language: English
+  language: en
   publisher: Cambridge University Press
   publisher-place: Cambridge [Cambridgeshire]; New York
   source: Open WorldCat
@@ -2146,7 +2499,7 @@ references:
   issue: '4'
   issued:
     - year: 2002
-  language: English
+  language: en
   page: 1195-1227
   source: JSTOR
   title: Medieval Studies, Postcolonial Studies, and the Genealogies of Critique
@@ -2186,7 +2539,7 @@ references:
   ISBN: 978-0-521-65022-9 978-0-521-02633-8
   issued:
     - year: 2008
-  language: English
+  language: en
   publisher: Cambridge University Press
   publisher-place: Cambridge
   source: Open WorldCat
@@ -2263,7 +2616,7 @@ references:
     9780511166242 9780511497711 9781280437649 9786610437641
   issued:
     - year: 2004
-  language: English
+  language: en
   publisher: Cambridge University Press
   publisher-place: Cambridge, UK; New York
   source: Open WorldCat
@@ -2312,15 +2665,58 @@ references:
     - year: 2015
       month: 12
       day: 24
-  language: English
+  language: en
   source: journal.eahn.org
   title: >-
     ‘Puisé aux meilleures sources’: textual and visual strategies of
-    mid‐19th‐century architectural historiography in Belgium
+    mid‐19^th^‐century architectural historiography in Belgium
   title-short: ‘Puisé aux meilleures sources’
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.cy/
   volume: '3'
+
+- id: james-chakraborty:2014architecture
+  abstract: >-
+    " The first global history of architecture to give equal attention to
+    Western and non-Western structures and built landscapes, Architecture since
+    1400 is unprecedented in its range, approach, and insight. From
+    Tenochtitlan's Great Pyramid in Mexico City and the Duomo in Florence to
+    Levittown's suburban tract housing and the Bird's Nest Stadium in Beijing,
+    its coverage includes the world's most celebrated structures and spaces
+    along with many examples of more humble vernacular buildings. Lavishly
+    illustrated with more than 300 photographs, plans, and interiors, this book
+    presents key moments and innovations in architectural modernity around the
+    globe. Deftly integrating architectural and social history, Kathleen
+    James-Chakraborty pays particular attention to the motivations of client and
+    architect in the design and construction of environments both sacred and
+    secular: palaces and places of worship as well as such characteristically
+    modern structures as the skyscraper, the department store, and the cinema.
+    She also focuses on the role of patrons and addresses to an unparalleled
+    degree the impact of women in commissioning, creating, and inhabiting the
+    built environment, with Gertrude Jekyll, Lina Bo Bardi, and Zaha Hadid
+    taking their place beside Brunelleschi, Sinan, and Le Corbusier. Making
+    clear that visionary architecture has never been the exclusive domain of the
+    West and recognizing the diversity of those responsible for commissioning,
+    designing, and constructing buildings, Architecture since 1400 provides a
+    sweeping, cross-cultural history of the built environment over six
+    centuries. "--
+  author:
+    - family: James-Chakraborty
+      given: Kathleen
+  call-number: NA200 .J36 2014
+  citation-key: james-chakraborty:2014architecture
+  event-place: Minneapolis
+  ISBN: 978-0-8166-7396-4 978-0-8166-7397-1
+  issued:
+    - year: 2014
+  language: en-US
+  number-of-pages: '513'
+  publisher: University of Minnesota Press
+  publisher-place: Minneapolis
+  source: Library of Congress ISBN
+  title: Architecture since 1400
+  type: book
+  URL: https://www.jstor.org/stable/10.5749/j.ctt9qh39w
 
 - id: jarzombek:1991crisis44
   abstract: >-
@@ -2432,7 +2828,7 @@ references:
   issue: '61'
   issued:
     - year: 2015
-  language: English
+  language: en
   page: 111-122
   publisher: >-
     [Grey Room, Inc. and the Massachusetts Institute of Technology, The MIT
@@ -2459,7 +2855,7 @@ references:
   issued:
     - year: 1988
       month: 4
-  language: English
+  language: en
   page: 375–388
   source: Crossref
   title: Tradition, innovation, and aesthetic experience
@@ -2500,7 +2896,7 @@ references:
   issue: '4'
   issued:
     - year: 1951
-  language: English
+  language: en
   page: 459-486
   title: The Hegel myth and its method
   type: article-journal
@@ -2572,7 +2968,7 @@ references:
   genre: Thesis
   issued:
     - year: 1992
-  language: English
+  language: en
   publisher: Massachusetts Institute of Technology
   source: dspace.mit.edu
   title: >-
@@ -2623,7 +3019,7 @@ references:
   citation-key: kimball:1918history
   issued:
     - year: 1918
-  language: English
+  language: en
   source: Internet Archive
   title: A history of architecture
   type: book
@@ -2681,7 +3077,7 @@ references:
   ISBN: 978-2-7056-9574-3
   issued:
     - year: 2018
-  language: French
+  language: fr
   number-of-pages: '185'
   publisher: Hermann
   publisher-place: Paris
@@ -2698,7 +3094,7 @@ references:
   ISBN: 85-230-0651-6 978-85-230-0651-8
   issued:
     - year: 2002
-  language: Portuguese
+  language: pt-BR
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -2721,7 +3117,7 @@ references:
   issued:
     - year: 1986
       season: 1
-  language: English
+  language: en
   page: '279'
   source: Crossref
   title: Hegel, "progress," and the avant-garde
@@ -2745,7 +3141,7 @@ references:
   issue: '4'
   issued:
     - year: 1953
-  language: English
+  language: en
   page: 307-323
   source: JSTOR
   title: A structural classification of the fine arts
@@ -2790,7 +3186,7 @@ references:
   ISBN: 90-8578-049-7
   issued:
     - year: 2006
-  language: English
+  language: en
   number-of-pages: '383'
   publisher: Faculteit Ingenieurswetenschappen, Universiteit Gent
   publisher-place: Ghent
@@ -2810,7 +3206,7 @@ references:
   ISBN: 978-0-7456-4456-1 978-0-7456-4457-8
   issued:
     - year: 2010
-  language: English
+  language: en
   number-of-pages: '167'
   publisher: Polity
   publisher-place: Cambridge
@@ -2831,9 +3227,9 @@ references:
   ISBN: 978-972-24-1424-1
   issued:
     - year: 2006
-  language: Portuguese
+  language: pt
   page: 63-78
-  publisher: 'Horizonte : Distribuição, HT'
+  publisher: 'Horizonte : Distribuição, <span class="smallcaps">HT</span>'
   publisher-place: Lisboa
   source: Library of Congress ISBN
   title: '*Estudos de etnografia comparativa* de Leite de Vasconcelos'
@@ -2849,7 +3245,7 @@ references:
   event-place: Paris
   issued:
     - year: 1953
-  language: French
+  language: fr
   number-of-pages: '159'
   publisher: Édtions Sociales
   publisher-place: Paris
@@ -2870,7 +3266,7 @@ references:
   event-place: Paris
   issued:
     - year: 2001
-  language: French
+  language: fr
   number-of-pages: '135'
   publisher: Económica
   publisher-place: Paris
@@ -2944,7 +3340,7 @@ references:
   issued:
     - year: 1994
       season: 2
-  language: English
+  language: en
   page: '341'
   source: Crossref
   title: 'Modernist art criticism: hegemony and decline'
@@ -2968,7 +3364,7 @@ references:
   container-title: Università di Parma
   issued:
     - year: 2018
-  language: Italian
+  language: it
   title: Storiografia dell'architettura
   type: webpage
   URL: https://cdlm-arch.unipr.it/it/degreecourse/details/164156
@@ -2982,7 +3378,7 @@ references:
   event-place: Madrid
   issued:
     - year: 1966
-  language: Spanish
+  language: es
   number-of-pages: '628'
   publisher: Sociedad de Estudios y Publicaciones
   publisher-place: Madrid
@@ -3009,7 +3405,7 @@ references:
   issued:
     - year: 1995
       season: 3
-  language: English
+  language: en
   page: '51'
   source: Crossref
   title: What matters in art history
@@ -3058,7 +3454,7 @@ references:
   issue: '2'
   issued:
     - year: 1942
-  language: English
+  language: en
   page: 14–23
   source: JSTOR
   title: >-
@@ -3085,7 +3481,7 @@ references:
   issued:
     - year: 1973
       season: 1
-  language: English
+  language: en
   page: '309'
   source: Crossref
   title: 'The parallel of the arts: some misgivings and a faint affirmation'
@@ -3102,13 +3498,13 @@ references:
   citation-key: miller:2012peiresc
   collection-number: CS998
   collection-title: Variorum collected studies series
-  event-place: Farnham, Surrey, England ; Burlington, VT
+  event-place: Farnham, Surrey, England ; Burlington, Ver.
   ISBN: 978-1-4094-3298-2
   issued:
     - year: 2012
-  language: English
-  publisher: Ashgate Pub. Limited
-  publisher-place: Farnham, Surrey, England ; Burlington, VT
+  language: en
+  publisher: Ashgate
+  publisher-place: Farnham, Surrey, England ; Burlington, Ver.
   source: Library of Congress ISBN
   title: >-
     Peiresc's Orient: antiquarianism as cultural history in the seventeenth
@@ -3129,7 +3525,7 @@ references:
   ISBN: 978-2-904057-47-2
   issued:
     - year: 1990
-  language: French
+  language: fr
   number-of-pages: '483'
   publisher: Ph. Sers
   publisher-place: Paris
@@ -3151,7 +3547,7 @@ references:
   ISBN: 978-2-13-058268-7
   issued:
     - year: 2010
-  language: French
+  language: fr
   number-of-pages: '127'
   number-of-volumes: '1'
   publisher: Presses universitaires de France
@@ -3201,7 +3597,7 @@ references:
     - year: 1935
       month: 3
       day: 1
-  language: English
+  language: en
   page: 367-375
   source: Crossref
   title: Is art the product of its age?
@@ -3236,12 +3632,13 @@ references:
     - family: Naginski
       given: Erika
   citation-key: naginski:2001riegl
-  container-title: 'RES: Anthropology and Aesthetics'
+  container-title: '<span class="smallcaps">RES</span>: Anthropology and Aesthetics'
+  container-title-short: RES
   ISSN: 0277-1322
   issue: '40'
   issued:
     - year: 2001
-  language: English
+  language: en
   page: 135-152
   source: JSTOR
   title: Riegl, archaeology, and the periodization of culture
@@ -3256,7 +3653,7 @@ references:
   event-place: Paris
   issued:
     - year: 1852
-  language: French
+  language: fr
   publisher: Normand
   publisher-place: Paris
   source: Open WorldCat
@@ -3312,13 +3709,13 @@ references:
   ISBN: 978-989-703-078-9
   issued:
     - year: 2013
-  language: Portuguese
+  language: pt
   publisher: Palimage ; Centro de História da Sociedade e da Cultura
   publisher-place: Coimbra
   source: Open WorldCat
   title: >-
-    Antiquarismo e história: para a história da historiografia (séculos
-    XVII-XXI)
+    Antiquarismo e história: para a história da historiografia (séculos <span
+    class="smallcaps">XVII–XXI</span>)
   title-short: Antiquarismo e história
   type: book
 
@@ -3331,10 +3728,12 @@ references:
   issue: '722'
   issued:
     - year: 1963
-  language: English
+  language: en
   page: 188-193
   source: Zotero
-  title: 'Art historians and art critics - vi: Alois Riegl'
+  title: >-
+    Art historians and art critics - <span class="smallcaps">VI</span>: Alois
+    Riegl
   type: article-journal
   URL: http://www.jstor.org/stable/874034
   volume: '105'
@@ -3351,7 +3750,7 @@ references:
   event-place: Paris
   issued:
     - year: 2005
-  language: French
+  language: fr
   publisher: L’Harmattan
   publisher-place: Paris
   source: Université de Paris-Saint-Denis
@@ -3405,7 +3804,7 @@ references:
   issued:
     - year: 2021
       month: 3
-  language: English
+  language: en
   number: '1'
   page: 10-11
   publisher: Multidisciplinary Digital Publishing Institute
@@ -3449,7 +3848,7 @@ references:
   issued:
     - year: 1866
     - year: 1868
-  language: French
+  language: fr
   publisher: E. Devienne
   publisher-place: Paris
   source: Gallica
@@ -3488,7 +3887,7 @@ references:
   issue: '1'
   issued:
     - year: 1986
-  language: English
+  language: en
   page: 8-13
   source: JSTOR
   title: Operative criticism
@@ -3553,15 +3952,15 @@ references:
       given: Panayiota
   call-number: 72.03:378
   citation-key: pyla:1999historicizing
-  container-title: Journal of Architectural Education (1984-)
-  container-title-short: Journal of Architectural Education (1984-)
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
   DOI: 10.2307/1425411
   ISSN: 1046-4883
   issue: '4'
   issued:
     - year: 1999
       month: 5
-  language: English
+  language: en
   page: 216–225
   source: JSTOR
   title: 'Historicizing pedagogy: a critique of Kostof''s "A history of architecture"'
@@ -4106,6 +4505,7 @@ references:
   ISBN: 978-2-84174-059-8
   issued:
     - year: 1996
+  language: fr
   number-of-pages: '487'
   publisher: Editions Kimé
   publisher-place: Paris
@@ -4163,7 +4563,7 @@ references:
   ISBN: 978-0-86159-172-5
   issued:
     - year: 2009
-  language: English
+  language: en
   page: 120-130
   publisher: British Museum
   publisher-place: London
@@ -4193,7 +4593,7 @@ references:
     - year: 1954
       month: 4
       day: 1
-  language: English
+  language: en
   page: 123-124
   source: JSTOR
   title: Siegfried Giedion and the notion of style
@@ -4242,7 +4642,7 @@ references:
   ISBN: 978-1-60606-148-0
   issued:
     - year: 2013
-  language: English
+  language: en
   number-of-pages: '455'
   publisher: Getty Research Institute
   publisher-place: Los Angeles
@@ -4261,7 +4661,7 @@ references:
   ISBN: 978-0-19-955952-7
   issued:
     - year: 2009
-  language: English
+  language: en
   number-of-pages: '223'
   publisher: Oxford ; Oxford University Press
   publisher-place: New York
@@ -4304,7 +4704,7 @@ references:
   citation-key: semper:1851vier
   issued:
     - year: 1851
-  language: German
+  language: de
   number-of-pages: '126'
   publisher: F. Vieweg
   source: Internet Archive
@@ -4328,7 +4728,7 @@ references:
   event-place: Frankfurt am Main
   issued:
     - year: 1860
-  language: German
+  language: de
   number-of-pages: '626'
   publisher: Verlag für Kunst und Wissenschaft
   publisher-place: Frankfurt am Main
@@ -4373,14 +4773,14 @@ references:
   citation-key: smith:1978dome
   collection-number: '25'
   collection-title: Princeton-monographs in art and archaeology
-  event-place: Princeton, N. J
+  event-place: Princeton, N.J.
   ISBN: 978-0-691-00304-7
   issued:
     - year: 1978
-  language: English
+  language: en
   number-of-pages: '227'
-  publisher: Princeton Univ. Pr
-  publisher-place: Princeton, N. J
+  publisher: Princeton University Press
+  publisher-place: Princeton, N.J.
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: 'The dome: a study in the history of ideas'
   title-short: The dome
@@ -4437,7 +4837,7 @@ references:
   event-place: Roma
   issued:
     - year: 1977
-  language: Italian
+  language: it
   publisher: Laterza
   publisher-place: Roma
   title: 'Progetto e utopia: architettura e sviluppo capitalistico'
@@ -4488,7 +4888,7 @@ references:
   ISBN: 978-88-420-2700-3
   issued:
     - year: 1988
-  language: Italian
+  language: it
   number-of-pages: '355'
   publisher: Laterza
   publisher-place: Bari
@@ -4515,7 +4915,7 @@ references:
   event-place: Paris
   issued:
     - year: 1865
-  language: French
+  language: fr
   number-of-pages: '190'
   publisher: Germer Bailliere
   publisher-place: Paris
@@ -4540,7 +4940,7 @@ references:
   event-place: Paris
   issued:
     - year: 1867
-  language: French
+  language: fr
   number-of-pages: '202'
   publisher: G. Baillière
   publisher-place: Paris
@@ -4586,7 +4986,7 @@ references:
   ISBN: 978-2-7084-0585-1
   issued:
     - year: 2000
-  language: French
+  language: fr
   number-of-pages: '300'
   publisher: Picard
   publisher-place: Paris
@@ -4613,7 +5013,7 @@ references:
   event-place: Paris
   issued:
     - year: 2005
-  language: French
+  language: fr
   page: 35–45
   publisher: L’Harmattan
   publisher-place: Paris
@@ -4637,7 +5037,7 @@ references:
   issued:
     - year: 1970
       month: 9
-  language: English
+  language: en
   page: '47'
   source: Crossref
   title: Did aesthetics progress?
@@ -4777,7 +5177,7 @@ references:
   event-place: 'Madrid : Barcelona'
   issued:
     - year: 1902
-  language: Spanish
+  language: es
   number-of-pages: '212'
   publisher: Fernando Fé ; Antonio López
   publisher-place: 'Madrid : Barcelona'
@@ -4833,7 +5233,7 @@ references:
     - year: 2019
       month: 7
       day: 31
-  language: English
+  language: en
   page: '43'
   source: DOI.org (Crossref)
   title: 'Modern to contemporary: a historiography of global in architecture'
@@ -4880,7 +5280,7 @@ references:
   issue: '72'
   issued:
     - year: 2000
-  language: English
+  language: en
   page: 1-20
   source: JSTOR
   title: 'Diagrams of Diagrams: Architectural Abstraction and Modern Representation'
@@ -4921,7 +5321,7 @@ references:
     - year: 2018
       month: 11
       day: 7
-  language: English
+  language: en
   title: Theories in and of history
   type: post-weblog
   URL: >-
@@ -4935,7 +5335,7 @@ references:
   container-title: Comparative Literature and Culture
   issued:
     - year: 2003
-  language: English
+  language: en
   title: Comparative literature versus comparative cultural studies
   type: article-journal
   volume: '5.4'
@@ -4955,7 +5355,7 @@ references:
   issue: '2'
   issued:
     - year: 1980
-  language: English
+  language: en
   page: 154-164
   publisher: '[Wesleyan University, Wiley]'
   source: JSTOR
@@ -4999,7 +5399,7 @@ references:
     - year: 2018
       month: 4
       day: 20
-  language: English
+  language: en
   page: 167-175
   publisher: Editorial Universitat Politècnica de València
   source: riunet.upv.es
@@ -5085,7 +5485,7 @@ references:
   event-place: New Haven, Conn.
   issued:
     - year: 1963
-  language: English
+  language: en
   page: 282–295
   publisher: Yale University Press
   publisher-place: New Haven, Conn.
@@ -5126,7 +5526,7 @@ references:
   issue: '2'
   issued:
     - year: 2006
-  language: English
+  language: en
   page: 153-177
   publisher: '[Wesleyan University, Wiley]'
   source: JSTOR
@@ -5153,7 +5553,7 @@ references:
   issued:
     - year: 2000
       season: 3
-  language: English
+  language: en
   page: '31'
   source: Crossref
   title: The architectural cult of synchronization
@@ -5194,7 +5594,7 @@ references:
   event-place: München
   issued:
     - year: 1888
-  language: German
+  language: de
   number-of-pages: '155'
   publisher: T. Ackermann
   publisher-place: München
@@ -5250,7 +5650,7 @@ references:
   issue: '310'
   issued:
     - year: 2004
-  language: English
+  language: en
   page: 533-551
   publisher: Cambridge University Press
   source: JSTOR
@@ -5272,7 +5672,7 @@ references:
   event-place: Torino
   issued:
     - year: 1974
-  language: Italian
+  language: it
   number-of-pages: '173'
   publisher: Einaudi
   publisher-place: Torino
