@@ -24,8 +24,7 @@ PANDOC/LATEX := docker run --rm -v "`pwd`:/data" \
 
 # Targets and recipes {{{1
 # ===================
-%.pdf : %.md _bibliography.yaml _latex.yaml \
-	| _csl/chicago-fullnote-bibliography-with-ibid.csl
+%.pdf : %.md _bibliography.yaml _latex.yaml
 	$(PANDOC/LATEX) -d _latex.yaml -o $@ $<
 	@echo "$< > $@"
 
@@ -41,18 +40,4 @@ cv.pdf : cv.md cv.bib _chicago-cv.csl _latex.yaml
 _csl/%.csl : _csl
 	@cd _csl && git checkout master -- $(@F)
 	@echo "Checked out $(@F)."
-
-# Install and cleanup {{{1
-# ===================
-.PHONY : _csl
-_csl :
-	@echo "Fetching CSL styles..."
-	@test -e $@ || \
-		git clone --depth=1 --filter=blob:none --no-checkout \
-		https://github.com/citation-style-language/styles.git \
-		$@
-
-.PHONY : clean
-clean :
-	-rm -rf _book/* _csl
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
