@@ -704,6 +704,30 @@ references:
   URL: http://esempidiarchitettura.it/sito/eda-2017/
   volume: '2017'
 
+- id: borden:2014forty
+  author:
+    - family: Borden
+      given: Iain
+    - family: Fraser
+      given: Murray
+    - family: Penner
+      given: Barbara
+  call-number: '720.1'
+  citation-key: borden:2014forty
+  event-place: Chichester
+  ISBN: 978-1-118-82261-6
+  issued:
+    - year: 2014
+  language: en
+  publisher: Wiley
+  publisher-place: Chichester
+  source: BnF ISBN
+  title: >-
+    Forty ways to think about architecture: architectural history and theory
+    today
+  title-short: Forty ways to think about architecture
+  type: book
+
 - id: bozdogan:1986orientalism14
   accessed:
     - year: 2021
@@ -934,6 +958,32 @@ references:
   type: book
   URL: http://archive.org/details/historyofindiane02ferguoft
   volume: '2'
+
+- id: cacciari:1993architecture
+  author:
+    - family: Cacciari
+      given: Massimo
+  call-number: NA680 .C24 1993
+  citation-key: cacciari:1993architecture
+  collection-editor:
+    - family: Rakatansky
+      given: Mark
+  collection-title: Theoretical perspectives in architectural history and criticism
+  event-place: New Haven
+  ISBN: 978-0-300-05215-2
+  issued:
+    - year: 1993
+  language: en-US
+  number-of-pages: '248'
+  publisher: Yale University Press
+  publisher-place: New Haven
+  source: Library of Congress ISBN
+  title: 'Architecture and nihilism: on the philosophy of modern architecture'
+  title-short: Architecture and nihilism
+  translator:
+    - family: Sartarelli
+      given: Stephen
+  type: book
 
 - id: cardoso:1935philosophiaa
   author:
@@ -1202,7 +1252,7 @@ references:
       given: Vikramaditya
   call-number: NA200 .C493 2011
   citation-key: ching:2011global
-  edition: 2nd ed
+  edition: '2'
   event-place: Hoboken, N.J
   ISBN: 978-0-470-40257-3
   issued:
@@ -2470,6 +2520,26 @@ references:
   type: article-journal
   volume: '42'
 
+- id: hartoonian:2018time
+  author:
+    - family: Hartoonian
+      given: Gevork
+  call-number: NA190 .H38 2018
+  citation-key: hartoonian:2018time
+  collection-title: Routledge research in architectural history
+  event-place: London ; New York
+  ISBN: 978-1-138-28351-0
+  issued:
+    - year: 2018
+  language: en
+  number-of-pages: '197'
+  publisher: Routledge
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: 'Time, history and architecture: essays on critical historiography'
+  title-short: Time, history and architecture
+  type: book
+
 - id: hatzfeld:1947literary6
   accessed:
     - year: 2019
@@ -2843,6 +2913,25 @@ references:
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.cy/
   volume: '3'
+
+- id: ingersoll:2018world
+  author:
+    - family: Ingersoll
+      given: Richard
+  call-number: NA200
+  citation-key: ingersoll:2018world
+  edition: '2'
+  event-place: New York
+  ISBN: 978-0-19-064647-9
+  issued:
+    - year: 2018
+  language: en
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: 'World architecture: a cross-cultural history'
+  title-short: World architecture
+  type: book
 
 - id: james-chakraborty:2014architecture
   abstract: >-
@@ -3345,6 +3434,28 @@ references:
     http://www.theplanjournal.com/article/american-mirror-occupation-%E2%80%98new-world%E2%80%99-and-rise-architecture-we-know-it
   volume: '5'
 
+- id: leach:2005rethinking
+  accessed:
+    - year: 2018
+      month: 5
+      day: 7
+  author:
+    - family: Leach
+      given: Neil
+  citation-key: leach:2005rethinking
+  event-place: New York
+  ISBN: 978-0-203-97525-1
+  issued:
+    - year: 2005
+  language: en-US
+  publisher: 'Routledge : Taylor & Francis'
+  publisher-place: New York
+  source: Open WorldCat
+  title: 'Rethinking architecture: a reader in cultural theory'
+  title-short: Rethinking architecture
+  type: book
+  URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=254441
+
 - id: leach:2006choosing
   author:
     - family: Leach
@@ -3679,6 +3790,28 @@ references:
     Peiresc's Orient: antiquarianism as cultural history in the seventeenth
     century
   title-short: Peiresc's Orient
+  type: book
+
+- id: moffett:2004world
+  author:
+    - family: Moffett
+      given: Marian
+    - family: Fazio
+      given: Michael W.
+    - family: Wodehouse
+      given: Lawrence
+  call-number: NA200 .M575 2004
+  citation-key: moffett:2004world
+  event-place: Boston
+  ISBN: 978-0-07-141751-8
+  issued:
+    - year: 2004
+  language: en-US
+  number-of-pages: '592'
+  publisher: McGraw-Hill
+  publisher-place: Boston
+  source: Library of Congress ISBN
+  title: A world history of architecture
   type: book
 
 - id: monnier:1990histoire
@@ -4687,6 +4820,42 @@ references:
   title: "Questions de style\_: fondements d’une histoire de l’ornementation"
   type: book
 
+- id: roth:1993understanding
+  abstract: >-
+    Includes bibliographical references and index; "Commoditie" : how does the
+    building function? -- "Firmeness" : how does the building stand up? --
+    "Delight" : space in architecture -- "Delight" : seeing architecture --
+    "Delight" : architectural acoustics, shape, and sound -- The architect :
+    from high priest to professional -- Architecture as part of the environment
+    -- Architecture, memory, and economics -- The invention of architecture :
+    from caves to cities -- Egyptian architecture -- Greek architecture -- Roman
+    architecture -- Early Christian and Byzantine architecture -- Early medieval
+    architecture -- Gothic architecture -- Renaissance and Mannerist
+    architecture -- Baroque and Rococo architecture -- Architecture in the Age
+    of Enlightenment, 1720-1800 -- Architecture in the nineteenth century --
+    Early-twentieth-century architecture : the perfection of utility --
+    Late-twentieth-century architecture : a question of meaning
+  accessed:
+    - year: 2017
+      month: 6
+      day: 20
+  author:
+    - family: Roth
+      given: Leland M.
+  citation-key: roth:1993understanding
+  event-place: New York
+  issued:
+    - year: 1993
+  language: en-US
+  number-of-pages: '588'
+  publisher: Icon
+  publisher-place: New York
+  source: Internet Archive
+  title: 'Understanding architecture : its elements, history, and meaning'
+  title-short: Understanding architecture
+  type: book
+  URL: http://archive.org/details/understandingarc00roth
+
 - id: rouvillois:1996linvention
   author:
     - family: Rouvillois
@@ -5064,9 +5233,9 @@ references:
   publisher-place: Torino
   source: Open WorldCat
   title: >-
-    La Sfera e il labirinto: avanguardie e architettura da Piranesi agli anni
+    La sfera e il labirinto: avanguardie e architettura da Piranesi agli anni
     '70
-  title-short: La Sfera e il labirinto
+  title-short: La sfera e il labirinto
   type: book
 
 - id: tafuri:1988teorie
@@ -5914,7 +6083,7 @@ references:
   ISBN: 978-3-0346-0685-1
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '319'
   publisher: Birkhäuser
   publisher-place: Basel
