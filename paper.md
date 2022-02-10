@@ -5,6 +5,7 @@ date: 2022-02-15
 lang: en-US
 bibliography: _bibliography.yaml
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl
+suppress-bibliography: true
 abstract: >
   <= 300 words
 keywords:
@@ -29,7 +30,7 @@ comparative method. Then, I look at other disciplinary methods used in
 the study of past architecture and their relation to historical
 critique.
 
-# Rise and fall of comparative history #
+# Purposes of comparative history #
 
 Comparative histories of architecture were developed in Europe during
 the second half of the 19^th^ century at the intersection of two
@@ -102,9 +103,12 @@ architecture as a whole. The professional expertise of the architect was
 described historically in surveys of architectural decision-making
 visible through canonical buildings, while at the same time being
 defined by the 19^th^-century architect's knowledge and use of such
-precedents.
+precedents. By means of historical classifications, writes Baydar
+Gülsum, "the boundary between the inner and outer worlds of architecture
+is carefully maintained for the purposes of disciplinary regulation and
+control." [@baydar:1998postcolonial, 8]
 
-But the expertise of architects was not limited to the choice of visual
+The expertise of architects was not limited to the choice of visual
 precedents: with industrial and managerial development came increasingly
 specific functional requirements [@tzonis:1972non-oppressive], and these
 were at the core of what differentiated the Beaux-Arts architect from
@@ -152,8 +156,8 @@ sources (my italics):
 > Most romanesque barrel vaults have their intrados broken up at regular
 > intervals by ribs ... *these ribs were strengthening to
 > brace thin vaults. But it was chiefly during construction of these
-> vaults that such ribs were useful ...* [@choisy:1899architecture2,
-> 150, my translation]
+> vaults that such ribs were useful ...* [@choisy:1899histoire2, 150, my
+> translation]
 
 In each case, the description of a motif (roman text) is followed by a
 rationale for its existence, in the form of a problem this motif solved
@@ -167,12 +171,52 @@ Mediterranean Islamic tradition within the historical development of
 Western architecture, whereas Fletcher consigned it to the
 "non-historical styles."
 
-# Critical history and its discontents #
+Comparative historians made self-conscious choices in how to approach
+their subject matter. Their outlook on history was avowedly disciplinary
+and internalist: the broader natural and social context was invoked to
+coalesce on how architects responded to them by means of specific design
+decisions. Moreover, they emphasized the transfer and transformation of
+professional practice as evidenced by the evolution of compositional and
+decorative devices. In this sense, then, comparative histories of
+architecture were not so much *history* as they were *architecture*:
+that their examples happened to have been built in the past was
+incidental.
 
-Since the mid-20^th^ century, critical theorists and historians such as
-Benjamin and Tafuri discredited the Idealist philosophy of history.
+# Critical history and the textbook #
 
-A major achievement of critical theorists was to dispel the belief in a
+Comparative histories of architecture fit the purpose they were
+conceived for in the context of professional education and practice in
+19^th^-century Europe. However, they were predicated on a questionable
+assumption: that the way builders throughout history addressed problems
+of construction could be likened to the modern, self-conscious design
+process of the Western architect. Critical historians from the late
+19^th^ to the mid-20^th^ century attacked this assumption decades before
+the comparative histories' colonialist underpinnings would even come
+under scrutiny. This tension was already latent by the turn of the
+century, as evidenced both in the Europeans' unease at the temporality
+of their own architecture [@wigley:2000architectural94] and in the
+uneasy disciplinary delimitation of this discipline
+[@baydar:1998postcolonial].
+
+The consolidation of critical history was accompanied by a faltering of
+interest in the architectural history textbook, at least in Great
+Britain and the United States. The last running edition of Choisy's
+*Histoire de l'architecture* dates from 1964, at a time when it was
+still the authoritative textbook at the École des Beaux-Arts
+[@choisy:1964histoire; a facsimilar edition was issued by Le Moniteur
+for the first edition's hundredth anniversary in 1996]. Banister
+Fletcher's book was last issued in the form sanctioned by its original
+authors in 1961. "The new ideal was that history ought to be an agent of
+disjunction where the emphasis was on analysis rather than on synthesis"
+[@hoekstra:2014modernity2].
+
+Still, the humanistic ideal of architecture education in the United
+States continued to demand some sort of universal, no-nonsense textbook.
+This need, coupled with postmodernism's renewed interest in the past as
+precedent, may have spurred the publication of Spiro Kostof's as well as
+Marvin Trachtenberg and Isabelle Hyman's textbooks in 1985.
+
+A major contribution of critical history was to dispel the belief in a
 universal standard for assessing different cultures. At the same time,
 architectural history must integrate the irreducible diversity of
 cultures into 'global' surveys. This paradox shows in the narrative
@@ -206,14 +250,10 @@ culture-epochs, yet remain intelligible and honest to its subject? For
 better or for worse, these questions show how much of the legacy of
 comparative history still bears upon the paradoxes of critical history.
 
-# Critical history and the textbook #
-
-Colonial aspect of comparative history did not come up until long after
-the genre was discredited by critical history: beating a dead horse, or
-is it? Actually, comparative history lived on.
-
 Favored circle: Mark Jarzombek was Ph.D committee chair for students
-Vikram Prakāsh, Panayiota Pyla, and Zeynep Çelik Alexander
+Vikram Prakāsh, Panayiota Pyla, and Zeynep Çelik Alexander.
+
+Gülru Necipoglu and Alina Payne at Harvard.
 
 # The place of disciplinary studies in architectural history #
 

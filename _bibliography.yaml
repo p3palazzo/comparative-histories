@@ -567,6 +567,7 @@ references:
       given: Gülsüm
   citation-key: baydar:2004cultural57
   container-title: Journal of Architectural Education
+  container-title-short: JAE
   DOI: 10.1162/104648804323085446
   ISSN: 1046-4883, 1531-314X
   issue: '4'
@@ -2210,6 +2211,30 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3051022
   volume: '69'
+
+- id: fazio:2019building
+  author:
+    - family: Fazio
+      given: Michael W.
+    - family: Moffett
+      given: Marian
+    - family: Wodehouse
+      given: Lawrence
+  call-number: NA200 .M575 2019
+  citation-key: fazio:2019building
+  edition: '5'
+  event-place: New York
+  ISBN: 978-1-259-91377-8
+  issued:
+    - year: 2019
+  language: en
+  number-of-pages: '608'
+  publisher: McGraw-Hill Education
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: 'Building across time: an introduction to world architecture'
+  title-short: Building across time
+  type: book
 
 - id: fergusson:1855illustrated
   abstract: '31'
@@ -4304,7 +4329,7 @@ references:
   ISBN: 978-0-19-503472-1
   issued:
     - year: 1985
-  language: English
+  language: en
   publisher: Oxford University Press
   publisher-place: New York
   source: Open WorldCat

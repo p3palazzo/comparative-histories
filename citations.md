@@ -101,17 +101,6 @@ the potential to revise our understanding history at large, and this is
 precisely why the expansion of the scope of history requires a radical
 rethinking of the fundamental structure of history" (Pyla 1999:224)
 
-# Momigliano on Vico and Winckelmann #
-
-"In Italy, Vico had somehow prepared the way for a synthesis of
-philosophy and erudition. In Germany and England some historians soon
-combined the two elements. Winckelmann's History of Greek Art and
-Gibbon's Decline and Fall are the products of this combination, and we
-know how conscious Gibbon was of being both an antiquary and a
-philosopher— that is, he was a philosophic historian with the
-antiquarian's love of minutiae and nonliterary evidence." (Momigliano
-1990:75)
-
 # Baydar on Fletcher #
 
 "By all standards, History of Architecture has been a canonical text
@@ -121,7 +110,7 @@ uniquely remarkable about Fletcher's text: unlike other monumental
 histories (for example, those by Fisher von Erlach or James Fergusson)
 that now lend themselves predominantly to historiographical analysis, it
 has been continuously "updated" to preserve its "original" purpose to be
-one of the most comprehensive surveys of world architectur" (Baydar
+one of the most comprehensive surveys of world architecture" (Baydar
 Nalbantoğlu 1998:8)
 
 "The final edition bears testimony to the fact that, at least for a
@@ -211,45 +200,6 @@ a representational tool that consolidates all reference and meaning
 one's (in this case, nineteenth-century Western historiography's) own
 terms; it refuses to recognize the irreducibility of the other to the
 terms of the self." (Baydar Nalbantoğlu 1998:17)
-
-# Wigley on architecture as a statement about time #
-
-"When talking of memory, architects symptomatically forget the history
-of their own discipline. It is precisely in so doing that they maintain
-the discipline. An institutionalized memory loss makes possible the
-regular cycles of lament and celebration of memory loss. The discourse
-on collective memory presupposes a collective forgetting. It is this
-very forgetting that allows the traditional aura of architecture to
-survive and its displacement to appear as either a dangerous threat or a
-seductive attraction. The aura is inseparable from stories about its
-loss. Architecture is literally erected in the face of memory loss.
-Taking a stand against the slippage of memory, it is unthinkable outside
-the forces that apparently threaten to displace it. Consider the
-contemporary scene. The challenge to the traditional conception of
-architecture has never been clearer than today and yet there have never
-been as many new monuments. As the average life of buildings has gone
-down, the number of monuments has gone up exponentially." (Wigley
-2000:34)
-
-"Having spent their careers promoting the standardization and
-reproduction of the basic forms and aesthetic of the canonic modern
-buildings, Pevsner and his colleagues turned against reproduction in
-favor of the singular auratic object. The global proliferation of a
-"modern" architecture had become embarrassing. The copies had become a
-threat to the originals. Reproduction itself was understood as a form of
-decay that literally wears down the fabric of the canonic buildings."
-(Wigley 2000:36)
-
-"Buildings are understood as invaluable devices of collective
-synchronization. Debates about architecture are debates about time.
-Stories are told that link specific details of individual designs to
-general claims about temporal flow. These stories permeate the
-discourse, in formal publications or lectures, the rhetoric deployed
-with clients or critics, images carefully associated with projects, the
-strategic use of particular graphic techniques, the wording of captions,
-wall labels in exhibitions, layouts of competition entries, comments
-made on juries, and so on. An entire infrastructure of storytelling
-labors away to position buildings in time." (Wigley 2000:38)
 
 # Bozdoğan on postcolonial survey #
 
@@ -354,7 +304,7 @@ scoured the world for overlooked local architects who could be both
 modern and yet close to their supposed roots." (Jarzombek 2015:114)
 
 "This type of cultural nationalism has now become standard operating
-procedure around the world.11 As a result, the proverbial canon,
+procedure around the world. As a result, the proverbial canon,
 critiqued so strongly in the 1970s, is stronger today than it ever was,
 for it was in essence outsourced to the geopolitics of the nation-state"
 (Jarzombek 2015:117)
