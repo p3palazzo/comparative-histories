@@ -2,6 +2,7 @@
 title: "Comparative Histories of Architecture: History, Architecture, or Idealism?"
 author: Pedro P. Palazzo
 date: 2022-02-15
+lang: en-US
 bibliography: _bibliography.yaml
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl
 abstract: >
@@ -136,6 +137,35 @@ book. Rather, it was because this kind of formal problem-solving
 translated best across time and space, through very different cultures
 and conditions, and therefore could be exemplary for the modern student
 of architecture.
+
+Consider, for example, the following statements drawn from each of our
+sources (my italics):
+
+> Another refinement was making all the columns slope slightly inwards,
+> *so as to give an idea of strength and support to the whole.*
+> [@fergusson:1855illustrated1, 269]
+
+> The main entrance [of the English Gothic church] was frequently by a
+> south-western porch, *acting as a screen against the cold winds*...
+> [@fletcher:1905history, 299]
+
+> Most romanesque barrel vaults have their intrados broken up at regular
+> intervals by ribs ... *these ribs were strengthening to
+> brace thin vaults. But it was chiefly during construction of these
+> vaults that such ribs were useful ...* [@choisy:1899architecture2,
+> 150, my translation]
+
+In each case, the description of a motif (roman text) is followed by a
+rationale for its existence, in the form of a problem this motif solved
+(italicized text). This rationale was alternatively aesthetic,
+functional, or structural, and each writer deployed all three kinds of
+justifications at different places. Ultimately, the hierarchy of styles
+in their textbooks followed not just Eurocentric prejudice, but each
+writer's judgment as to the usefulness of their examples for modern
+professional practice. Thus, Fergusson and Choisy included the
+Mediterranean Islamic tradition within the historical development of
+Western architecture, whereas Fletcher consigned it to the
+"non-historical styles."
 
 # Critical history and its discontents #
 

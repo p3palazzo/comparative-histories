@@ -1580,6 +1580,56 @@ references:
   URL: https://gallica.bnf.fr/ark:/12148/bpt6k6584016q
   volume: '2'
 
+- id: choisy:1943histoire1
+  abstract: >-
+    Histoire de l'architecture... [Édition entièrement revué et corrigée.]. Tome
+    1 / Auguste Choisy -- 1943 -- livre
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1943histoire1
+  edition: Édition entièrement revué et corrigée
+  event-place: Paris
+  issued:
+    - year: 1943
+  language: fr
+  publisher: Georges Baranger
+  publisher-place: Paris
+  source: gallica.bnf.fr
+  title: Histoire de l'architecture
+  type: book
+  URL: https://gallica.bnf.fr/ark:/12148/bpt6k1156078m
+  volume: '1'
+
+- id: choisy:1943histoire2
+  abstract: >-
+    Histoire de l'architecture... [Édition entièrement revué et corrigée.]. Tome
+    2 / Auguste Choisy -- 1943 -- livre
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: Choisy
+      given: Auguste
+  citation-key: choisy:1943histoire2
+  edition: Édition entièrement revué et corrigée
+  event-place: Paris
+  issued:
+    - year: 1943
+  language: fr
+  publisher: Georges Baranger
+  publisher-place: Paris
+  source: gallica.bnf.fr
+  title: Histoire de l'architecture
+  type: book
+  URL: https://gallica.bnf.fr/ark:/12148/bpt6k1156050j
+  volume: '2'
+
 - id: choisy:1964histoire
   author:
     - family: Choisy
