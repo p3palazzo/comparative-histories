@@ -257,6 +257,42 @@ references:
   title: Rethinking architectural historiography
   type: book
 
+- id: baer:2007speculative34
+  abstract: >-
+    The building industry's organization has been relatively invariant down
+    through history due to housing's unique characteristics: durability, fixity
+    in location, complex co-ordination of various trades on site and financing
+    its great costs. That organizational form has allowed speculative
+    development to flourish periodically during large increases in urban
+    population, despite considerable risk. The same building and speculative
+    processes occurred in ancient Rome and cities in England and the US at
+    greatly different periods of time but those histories do not acknowledge the
+    similarities of development processes that each reports. A separate 'housing
+    literature' that steps back from particulars possibly explains why these
+    accounts are so alike.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 12
+  archive: JSTOR
+  author:
+    - family: Baer
+      given: William C.
+  citation-key: baer:2007speculative34
+  container-title: Urban History
+  ISSN: 0963-9268
+  issue: '2'
+  issued:
+    - year: 2007
+  language: en-GB
+  page: 296-316
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: Is speculative building underappreciated in urban history?
+  type: article-journal
+  URL: https://www.jstor.org/stable/44614223
+  volume: '34'
+
 - id: baldensperger:1921litterature1
   archive: Fichário 01
   author:
@@ -1189,6 +1225,43 @@ references:
   type: book
   URL: https://archive.org/details/gri_33125011135288
 
+- id: chattopadhyay:2015globality74
+  abstract: >-
+    This journal was founded seventy-four years ago with the ambition of
+    launching a “new” architectural history and expanding the scope of the
+    discipline. While the readership expanded in the next three decades, the
+    confines of the field became increasingly narrow in the 1950s and 1960s.
+    This was the subject of John Maass’s 1969 article that demonstrated the near
+    absence of “non-Western” and “vernacular” topics in JSAH.1 This was followed
+    a year later by Sibyl Moholy-Nagy’s acerbic criticism of the journal for
+    promoting disciplinary obsolescence.2 Despite these consecutive depth
+    charges that shattered SAH’s carapace of disciplinary ecumenism, both the
+    society and the journal sailed seemingly untroubled into the next
+    millennium.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: Chattopadhyay
+      given: Swati
+  citation-key: chattopadhyay:2015globality74
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2015.74.4.411
+  ISSN: 0037-9808
+  issue: '4'
+  issued:
+    - year: 2015
+      month: 12
+  language: en
+  page: 411-415
+  source: Silverchair
+  title: The globality of architectural history
+  type: article-journal
+  URL: https://doi.org/10.1525/jsah.2015.74.4.411
+  volume: '74'
+
 - id: chevrel:1991litterature
   author:
     - family: Chevrel
@@ -1198,7 +1271,7 @@ references:
   issued:
     - year: 1991
   language: fr
-  publisher: <span class="smallcaps">P.U.F.</span>
+  publisher: Presses Universitaires de France
   publisher-place: Paris
   title: La littérature comparée
   type: book
@@ -1261,6 +1334,35 @@ references:
   number-of-pages: '848'
   publisher: Wiley
   publisher-place: Hoboken, N.J
+  source: Library of Congress ISBN
+  title: A global history of architecture
+  type: book
+
+- id: ching:2017global
+  abstract: >-
+    "A Global History of Architecture, Third Edition has been updated and
+    revised throughout to reflect current scholarship, including an expanded
+    section on contemporary global architecture. Spanning from 3,500 b.c.e. to
+    the present, this unique guide is written by an all-star team of
+    architectural experts in their fields who emphasize the connections,
+    contrasts, and influences of architectural movements throughout history"--
+  author:
+    - family: Ching
+      given: Francis D. K.
+    - family: Jarzombek
+      given: Mark
+    - family: Prakāsh
+      given: Vikramāditya
+  call-number: NA200
+  citation-key: ching:2017global
+  edition: '3'
+  event-place: Hoboken, N.J.
+  ISBN: 978-1-118-98161-0 978-1-118-98160-3
+  issued:
+    - year: 2017
+  language: en
+  publisher: Wiley
+  publisher-place: Hoboken, N.J.
   source: Library of Congress ISBN
   title: A global history of architecture
   type: book
@@ -1425,6 +1527,43 @@ references:
   publisher-place: Paris
   title: Histoire de l'architecture
   type: book
+
+- id: chopra:2021sir80
+  abstract: >-
+    The two volumes of the twenty-first edition of Sir Banister Fletcher’s
+    Global History of Architecture (henceforth Banister Fletcher’s Global
+    History) are a sumptuous textual and visual banquet to delight varied
+    tastes, with offerings that can be savored repeatedly over time, separately
+    or, if desired, in their entirety. No matter where one enters the volumes,
+    it is soon evident that this edition represents a boldly radical and welcome
+    rethinking of Banister Fletcher (first published in 1896).1 For the first
+    time, the word global enters the title, and more than any other worldwide
+    architectural history survey to date, these volumes reveal a truly global
+    architectural history beginning to take shape.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: Chopra
+      given: Preeti
+  citation-key: chopra:2021sir80
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2021.80.4.485
+  ISSN: 0037-9808
+  issue: '4'
+  issued:
+    - year: 2021
+      month: 12
+      day: 1
+  language: en
+  page: 485-486
+  source: Silverchair
+  title: '*Sir Banister Fletcher’s Global History of Architecture*, 21^st^ edition'
+  type: article-journal
+  URL: https://doi.org/10.1525/jsah.2021.80.4.485
+  volume: '80'
 
 - id: chueca:1981invariantes
   author:
@@ -1863,6 +2002,20 @@ references:
   type: article-journal
   volume: '14'
 
+- id: epron:1997comprendre
+  author:
+    - family: Épron
+      given: Jean-Pierre
+  citation-key: epron:1997comprendre
+  event-place: Paris
+  issued:
+    - year: 1997
+  language: fr
+  publisher: Norma
+  publisher-place: Paris
+  title: Comprendre l'éclectisme
+  type: book
+
 - id: etlin:1987corbusier69
   abstract: >-
     This essay explores Le Corbusier's debt to the nineteenth-century tradition
@@ -2179,7 +2332,7 @@ references:
       given: Banister F.
   call-number: b12340145
   citation-key: fletcher:1905history
-  edition: 5. ed.
+  edition: '5'
   event-place: 'London : New York'
   issued:
     - year: 1905
@@ -2312,6 +2465,35 @@ references:
   title-short: La colonne
   type: book
 
+- id: ghirardo:2008review67
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: Ghirardo
+      given: Diane
+  citation-key: ghirardo:2008review67
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2008.67.1.134
+  ISSN: 0037-9808
+  issue: '1'
+  issued:
+    - year: 2008
+      month: 3
+      day: 1
+  language: en
+  page: 134-135
+  source: Silverchair
+  title: >-
+    Review: *A Global History of Architecture*, by Francis D. K. Ching, Mark M.
+    Jarzombek, and Vikramaditya Prakash
+  title-short: Review
+  type: article-journal
+  URL: https://doi.org/10.1525/jsah.2008.67.1.134
+  volume: '67'
+
 - id: giedion:1961space
   author:
     - family: Giedion
@@ -2346,6 +2528,29 @@ references:
   title: A plea for pluralism
   type: article-journal
   volume: '3'
+
+- id: gombrich:1998eastern127
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: Gombrich
+      given: E. H.
+  citation-key: gombrich:1998eastern127
+  container-title: Daedalus
+  ISSN: 0011-5266
+  issue: '1'
+  issued:
+    - year: 1998
+  language: en
+  page: 193-205
+  publisher: The MIT Press
+  source: JSTOR
+  title: Eastern inventions and western response
+  type: article-journal
+  URL: https://www.jstor.org/stable/20027482
+  volume: '127'
 
 - id: gould:2014antiquarianism53
   accessed:
@@ -2459,6 +2664,21 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/675401
   volume: '79'
+
+- id: hansen:2017culture
+  author:
+    - family: Hansen
+      given: Leo
+  citation-key: hansen:2017culture
+  ISBN: 978-1-5165-1082-5
+  issued:
+    - year: 2017
+  language: en
+  publisher: Cognella
+  source: Open WorldCat
+  title: 'Culture and architecture: an integrated history'
+  title-short: Culture and architecture
+  type: book
 
 - id: harbison:2009travels
   author:
@@ -2703,6 +2923,262 @@ references:
   URL: https://www.jstor.org/stable/1868876
   volume: '85'
 
+- id: hirsh:2017review76
+  abstract: >-
+    Until quite recently, studying architectural history essentially meant
+    learning the history of European urbanism and its extensions, from the
+    eighteenth century onward, into North America. The architectural traditions
+    of other parts of the world were left up to others—either to regional
+    historians in the case of modernism or to area studies scholars in the case
+    of “vernacular” structures built prior to industrialization. This geographic
+    division of labor has changed dramatically in recent decades for a number of
+    reasons, notably a growing awareness of, and opportunity to study in,
+    far-flung parts of the world, along with a recognition of the profession's
+    transatlantic biases and the pedagogical disadvantages that those
+    limitations place on those teaching in classrooms populated by students
+    whose careers will take them far beyond Europe and North America. In
+    response, scholarly initiatives have emerged with the aim of writing a truly
+    global architectural historical curriculum. Yet efforts to “globalize” the
+    discipline have not been uncontroversial. Some detractors have detected a
+    lack of rigor in the scholarship on “transnational flows”; others see a
+    watering down of a robust existing canon, while still others critique an
+    indisputable trendiness in researching the architecture of parts of the
+    world that are currently of strategic political and economic importance,
+    such as China and the Muslim world. These critics also perceive a thinly
+    disguised historiographic agenda that seeks to understand the current round
+    of globalization as the inevitable consequence of previous periods of
+    cross-cultural encounter and exchange.So far, the results of these
+    “globalizing” efforts have been mixed. While scholarship on non-Western
+    architectural traditions is undoubtedly much better represented at
+    architectural history conferences today than it was twenty years ago,
+    several challenges remain. One is the reductive division into “Western” and
+    “non-Western” topics, a binary taxonomy that defies both history and
+    geography. Another problem is that scholars of certain parts of the
+    world—such as Latin America and Southeast Asia—are very much aware of the
+    disciplinary debates taking place in Europe, but the reverse is rarely true.
+    Panels on, say, China or Africa are now commonplace at the annual meetings
+    of the Society of Architectural Historians and the European Architectural
+    History Network, but the interest of those who are not working in the
+    particular regions discussed remains, to put it diplomatically, limited.In a
+    nutshell, architectural historians today are confronted with two options.
+    The first of these is to adhere to a Euro-American understanding of the
+    discipline and ignore the cultural and thematic biases inherent in that
+    severe geographic limitation. This option also entails the unstated
+    expectation that our colleagues who work beyond the transatlantic sphere
+    should continue to do double duty: familiarizing themselves with the
+    foundations of both “Western” architecture and their home regions.
+    Alternatively, we can endeavor to educate ourselves and our students about
+    the broader global history of architecture and open ourselves up to a much
+    wider range of themes that transcend a normative periodization that
+    trifurcates architectural production into a history of European modernism,
+    its antecedents, and its legacy. But wouldn't this larger purview, both
+    temporal and spatial, come at the expense of a certain level of
+    superficiality? After all, how can we possibly aspire to credible
+    pedagogical expertise in the history of architecture of all cultures and
+    time periods?Two recent books attempt to answer this pressing, and rather
+    difficult, question: Kathleen James-Chakraborty's Architecture since 1400
+    and A Critical History of Contemporary Architecture, 1960–2010, edited by
+    Elie G. Haddad and David Rifkind. From the outset, James-Chakraborty readily
+    confesses that it would be unwise to undertake a comprehensive spatial and
+    stylistic study of six centuries of global architectural production and
+    attempt to condense that into a single volume. Instead, she takes a thematic
+    approach that foregrounds three main concerns: innovation, transfers, and
+    connections. Thus the book “focuses on a relatively small number of
+    examples, chosen to illustrate the range of ways that architects, builders,
+    and their clients have built and occupied structures that … were in their
+    day in the forefront of change” (xix). By investigating a discrete set of
+    technical, aesthetic, and spatial innovations chosen from sites around the
+    world, James-Chakraborty aims to decenter the existing literature on
+    “global” architectural history that distinguishes between European and North
+    American centers of innovation and production and non-Western sites of
+    reception and implementation. Identifying instances of “indigenous
+    modernization” from around the world, she advances a new model of global
+    architectural history that rejects the idea that “western Europe, joined
+    later by the United States, has consistently been in the forefront of new
+    styles or construction technologies” and refuses to “privilege one continent
+    over another as the locus of modernity or modernism, the aesthetic
+    expression of modernity, at any particular time” (xviii). Instead, she
+    frames the story of the past six centuries of architectural production in
+    terms of transfers and connections, on the one hand charting an ongoing
+    series of architectural exchanges that began to accelerate at the turn of
+    the fifteenth century, as “new trading links affected the appearance of
+    dwellings, workplaces, leisure environments, and houses of worship in cities
+    around the world” (xviii), and on the other hand drawing thematic
+    connections between unlikely case studies in order to highlight the
+    recurrence of abiding themes across space and time. Some of these enduring
+    questions are fundamental in nature: How do structures inscribe meaning into
+    place? How can architecture serve as both a repository of history and
+    cultural traditions and an agent of technical innovation and social
+    progress? Others engage with the challenges posed by nature and technology,
+    evident in James-Chakraborty's contemplation of the spatial and aesthetic
+    constraints imposed by climate, topography, and geology, and in her analysis
+    of the manifold ways in which changes in transportation, building materials,
+    and engineering have continuously reshaped the practice of architecture.The
+    book is at its strongest when James-Chakraborty explores these larger themes
+    across space and time, teasing out critical precedents and influential
+    figures in order to narrate a history of cross-cultural pollination. She
+    explores how the Atomium in Brussels influenced the thinking of Japanese
+    metabolists, for instance, and demonstrates how the renovation of the
+    National Mall in Washington, D.C., shaped the conceptualization of the
+    Rajpath in New Delhi. But she also departs from this standard mode of
+    architectural narration by making more basic connections that transcend the
+    technical and stylistic—for example, by drawing attention to parallels
+    between the spatial organization of Chinese courtyard houses and the
+    circular hut compounds typical of sub-Saharan Africa. The text flows nicely
+    from chapter to chapter as this sequence of common themes—the convergence of
+    the sacred and the profane in Lhasa's Potala Palace and the Residenz in
+    Würzburg, say, or the varying approaches to housing the family unit in the
+    wooden structures of Sumatra and Japan—gleefully toggles between continents
+    and centuries.The dizzying array of cross-cultural references is
+    complemented by James-Chakraborty's interrogation of architectural transfers
+    both big and small, which she frames in terms of ongoing conversations about
+    form, style, and spatial organization. She draws on iconic structures like
+    the Süleymaniye in Istanbul and Bangkok's Wat Phra Kaew in order to
+    illustrate a continuous dialogue between cultural influences—Ottoman and
+    Italian in the case of the former, Chinese and Indian in the latter. In so
+    doing, she highlights broader patterns of architectural syncretism
+    throughout world regions like the Middle East and Southeast Asia. She
+    likewise examines a judicious range of relevant social, environmental, and
+    economic shifts that greatly influenced the production of architecture on a
+    global scale, charting, for instance, how the influx of crops from the
+    Americas to East Asia effected dramatic changes in the architectural
+    composition of both Chinese cities and the surrounding countryside.An
+    undertaking as ambitious as a study of six hundred years of global
+    architectural history will inevitably need to be selective and abridged. It
+    is therefore unhelpful to chide the author for what is missing (e.g.,
+    Oceania) or entirely too brief (twelve pages for all of Africa!). The book's
+    most abiding flaw lies in its rather unconvincing engagement with the
+    architecture of everyday life, used by ordinary people. By and large, the
+    book focuses primarily on structures that are iconic and exceptional,
+    designed to inspire awe. In contrast, residential and administrative
+    buildings are examined in great detail in Western cases but are, apart from
+    a few meditations on vernacular Urhütten, largely missing elsewhere.
+    Critical commercial typologies—such as the Ottoman han, the Southeast Asian
+    shophouse, and the ports and central marketplaces that are the loci of urban
+    life the world over—are likewise absent. The absence of these commercial
+    buildings is curious, given that they physicalize the transnational circuits
+    of trade that James-Chakraborty foregrounds in her methodological approach.
+    Thus, although she voices criticism of our profession's tendency to focus on
+    showcase architecture, particularly in the non-Western chapters the book
+    evinces a lopsided fixation on the monumental, to the detriment of the
+    quotidian. Moreover, while some subjects are discussed at great
+    length—notably German modernism—other chapters feel a bit hurried, the
+    inevitable result of trying to condense, for example, “Asian” architectural
+    production, “from the Ottomans to the Qing, and from Korea to Sumatra,” into
+    a few short pages (219). But these are quibbles, small in comparison to the
+    overall achievements of the project.Too often, “global” histories of
+    architecture are framed in terms of the implementation of Western aesthetic
+    ideals in non-Western contexts, reducing the history of cross-cultural
+    architectural exchanges to an interrogation of European and American
+    architects’ expeditions into unfamiliar cultural and geographic terrains.
+    Decentering that narrative is not a matter of political correctness, but
+    rather represents an effort to write a more complete and complex
+    architectural history of the world. James-Chakraborty's emphasis on thematic
+    connections and cross-cultural dialogue provides an entry point for other
+    scholars to draw attention to the many conduits of architectural knowledge
+    and production that have entirely circumvented, and continue to circumvent,
+    the transatlantic sphere.While its chronological scope is by comparison
+    rather modest, Haddad and Rifkind's edited volume A Critical History of
+    Contemporary Architecture, 1960–2010 is no less ambitious than
+    James-Chakraborty's book in its effort to provide a comprehensive overview
+    of the past half century of architectural production. The book begins by
+    outlining the major themes in architectural history over the past half
+    century, focusing primarily on the critiques of modernism; the counterpart
+    rise of postmodern, deconstructionist, and postcolonial theory; and the
+    growing concern with environmental sustainability. The second and much
+    larger part of the book surveys architectural production across six
+    continents (the architectural history of Antarctica remains to be written),
+    with a heavy emphasis on Europe and Asia. In an attempt to “chart a middle
+    course between ‘aesthetic’ histories that examine architecture solely in
+    terms of its formal aspects and ‘ideological’ histories that subject it to a
+    critique that often skirts the discussion of its material aspects” (4), the
+    two editors have invited contributions by twenty-one additional authors who
+    are experts in their respective regions. Individual essays are strong,
+    including Laurent Stalder's explication of contemporary Swiss architecture
+    as the encounter between Italian formality and Helvetic pragmatism. Kimberly
+    Elman Zarecor succinctly synthesizes the complex postwar and post-Wall
+    architectural history of the former Eastern bloc, teasing out themes that
+    are central to the lived experience of socialism and postsocialism from the
+    perspective of both the architect and the user. Tao Zhu's essay on
+    architectural production in post-Mao China and Kelly Shannon's overview of
+    tropical regionalism in Southeast Asia serve as efficient go-to resources
+    for nonspecialists looking to familiarize themselves with the major themes,
+    practices, and practitioners in world regions with which they may not be
+    familiar. Ken Tadashi Oshima's chapter on post–World War II Japan offers a
+    good analysis of, among other things, everyday dwelling and mass housing in
+    a non-Western context (thereby filling in some of the gaps left by
+    James-Chakraborty's book).Although these and other chapters are strong as
+    stand-alone essays, the overall project suffers from a lack of
+    organizational and thematic continuity. Standard features of most edited
+    volumes, such as contributors’ notes and references that link the text to
+    the images, are missing. Confusingly, the index alternates between
+    categorizing architects by nationality and by the sites of their work, such
+    that SANAA's Kazuyo Sejima is listed as a “Swiss” architect but not a
+    Japanese one. Chinese designers are haphazardly alphabetized, some by given
+    name and some by family name. The result is a volume that can be difficult
+    to navigate.More problematic is the absence of the types of cross-references
+    between cases and chapters that represent such a strength in
+    James-Chakraborty's work. The book's geographic strictures lead to an
+    unfortunate repetition of very basic themes, such as the polarizing impact
+    of “Western” modernism in opposition to purportedly traditional styles.
+    Here, cross-references would have been extremely helpful in contrasting, for
+    example, Esra Akcan's excellent analysis of Istanbul and Dubai with Tao
+    Zhu's discussion of Beijing and Shanghai. Similarly, the editors could have
+    brought the physical implications of architects’ heightened ecological
+    awareness to the fore by placing Oshima's meditations on technological
+    disenchantment in 1970s Japan into dialogue with Phillip Tabb's essay on
+    “greening architecture.”These missed opportunities attest to the conceptual
+    pitfalls inherent in organizing a global history of architecture along
+    geographic lines. In her chapter on architectural production in “West
+    Asia”—which, apparently, encompasses Turkey, Lebanon, Israel, Iraq, and the
+    Gulf states—Akcan notes:In essence, Akcan critiques the underlying structure
+    of the book, and in so doing echoes James-Chakraborty's emphasis on thematic
+    connections and professional exchanges as the more appropriate
+    epistemological framework for tracing the evolution of global architectural
+    history.Finally, a major drawback of both books is the absence of maps and
+    color photographs, both of which would have been rather well suited for
+    illustrating the architectural transfers discussed in the text. These two
+    volumes are best read in dialogue with each other, as the individual
+    chapters in Haddad and Rifkind's book compensate for some of the geographic
+    and typological lacunae in James-Chakraborty's work, which, in turn,
+    provides a coherent underlying narrative that is sometimes lacking in the
+    anthology. A forthcoming volume on critical approaches to contemporary
+    architecture, edited by Swati Chattopadhyay and Jeremy White, promises to
+    complete a handy trilogy of reference books that will be useful both for
+    design schools keen on updating their history and theory curricula and for
+    architectural historians eager to engage with the expanding geographic
+    contours of our discipline.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: Hirsh
+      given: Max
+  citation-key: hirsh:2017review76
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2017.76.2.242
+  ISSN: 0037-9808
+  issue: '2'
+  issued:
+    - year: 2017
+      month: 6
+      day: 1
+  language: en
+  page: 242-244
+  publisher: University of California Press
+  source: online.ucpress.edu
+  title: >-
+    Review: *Architecture since 1400*, by Kathleen James-Chakraborty, *A
+    Critical History of Contemporary Architecture, 1960–2010*, edited by Elie G.
+    Haddad and David Rifkind
+  title-short: Review
+  type: article-journal
+  URL: >-
+    https://online.ucpress.edu/jsah/article/76/2/242/60804/Review-Architecture-since-1400-by-Kathleen-James
+  volume: '76'
+
 - id: hobsbawm:1983invention
   author:
     - family: Hobsbawm
@@ -2721,6 +3197,33 @@ references:
   source: Open WorldCat
   title: The Invention of tradition
   type: book
+
+- id: hoekstra:2014modernity2
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: Hoekstra
+      given: Rixt
+  citation-key: hoekstra:2014modernity2
+  container-title: Architectural Histories
+  DOI: 10.5334/ah.ca
+  ISSN: 2050-5833
+  issue: '1'
+  issued:
+    - year: 2014
+      month: 10
+      day: 27
+  language: en
+  source: DOI.org (Crossref)
+  title: >-
+    Modernity beyond the West: a review of Kathleen James-Chakraborty’s
+    *Architecture Since 1400*
+  title-short: Modernity beyond the West
+  type: article-journal
+  URL: http://journal.eahn.org/articles/10.5334/ah.ca/
+  volume: '2'
 
 - id: holsinger:2002medieval77
   accessed:
@@ -2741,7 +3244,7 @@ references:
   language: en
   page: 1195-1227
   source: JSTOR
-  title: Medieval Studies, Postcolonial Studies, and the Genealogies of Critique
+  title: Medieval studies, postcolonial studies, and the genealogies of critique
   type: article-journal
   URL: https://www.jstor.org/stable/3301217
   volume: '77'
@@ -2976,6 +3479,273 @@ references:
   type: book
   URL: https://www.jstor.org/stable/10.5749/j.ctt9qh39w
 
+- id: james-chakraborty:2017review76
+  abstract: >-
+    This wide-ranging and beautifully produced collection of essays, edited by
+    Gülru Necipoğlu and Alina Payne, addresses the role of ornament in
+    architecture and the decorative arts in light of its recent revival in
+    cutting-edge architecture and design. The publisher's description presents
+    Histories of Ornament: From Global to Local as “the first major global
+    history of ornament from the Middle Ages to today”; this is not a
+    comprehensive survey, however, but an episodic study, composed of twenty-six
+    individual contributions arranged thematically rather than chronologically.
+    The result of a conference held at Harvard in 2012, it features many
+    scholars with ties to that university. The coverage is impressively
+    wide-ranging but by no means global. Almost all the essays address European,
+    Asian, or North African material. Aside from Jonathan Hay's essay on a
+    single Chinese vase, however, most of Asia, at least those parts of it lying
+    east and south of India—not to mention Australia and sub-Saharan Africa—does
+    not figure in a volume that is less a compendium than an assortment of
+    highly focused, individual studies.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: James-Chakraborty
+      given: Kathleen
+  citation-key: james-chakraborty:2017review76
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.1525/jsah.2017.76.1.107
+  ISSN: 0037-9808
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 3
+      day: 1
+  language: en
+  page: 107-108
+  source: Silverchair
+  title: >-
+    Review: Histories of Ornament: From Global to Local, edited by Gülru
+    Necipoğlu and Alina Payne
+  title-short: Review
+  type: article-journal
+  URL: https://doi.org/10.1525/jsah.2017.76.1.107
+  volume: '76'
+
+- id: james-chakraborty:2021accreditation80
+  abstract: >-
+    Much has changed in our discipline in the last quarter century. In 1995,
+    when the Society of Architectural Historians last held its annual conference
+    in Seattle, a much higher proportion of its members had been trained and
+    subsequently taught in art history departments than is the case today, when
+    more have backgrounds in architecture and teach in schools of architecture.
+    Another obvious shift can be seen in the locations of the architecture we
+    study. Of the 183 papers originally scheduled to be presented at the SAH
+    2020 conference in Seattle, roughly a quarter focused on the architecture of
+    the Caribbean, Latin America, Africa, Asia, and even Antarctica. That count
+    does not include any of the papers that addressed the architecture of ethnic
+    minorities both in Europe and in the English-speaking world, or that focused
+    on the teaching of architectural history. Of the 111 papers listed in the
+    program for the SAH 1995 conference, only 10 ranged beyond Europe and the
+    English-speaking world, although, compared with contributions to the 2020
+    conference, a higher percentage of the European papers in 1995 examined the
+    architecture of Eastern Europe.1 There are multiple reasons for this major
+    shift, but one was certainly already in evidence at the SAH 1995 conference,
+    where the National Architectural Accrediting Board's recently introduced
+    changes in requirements prompted much discussion.In 1995 the SAH Education
+    Committee roundtable, chaired by Richard Cleary and Judith Hull, both then
+    teaching at Carnegie Mellon, was described in the program as “initiat[ing]
+    an effort to gather the perspectives of SAH members regarding the teaching
+    of architectural history in schools of architecture. It will begin with a
+    presentation of the NAAB review process that will suggest how SAH can
+    contribute. In the discussion that follows, SAH members will be invited to
+    consider the value of developing guidelines for schools of architecture to
+    use in evaluating the architectural history components of their own
+    professional degree programs.”2 The requirements resulting from this process
+    included that students “be aware of/understand the diversity of
+    architectural traditions and their histories throughout the world.”3This was
+    the first time that schools of architecture in the United States and Canada
+    had received a mandate to promote such inclusivity. The change was
+    controversial. Even some SAH members at the forefront of pushing the
+    boundaries of the canon resented the directive to restructure courses they
+    had taught for decades. As an outspoken proponent of the change, I was
+    subsequently invited to represent that position within SAH at a workshop
+    held in November 1995 at the Heinz Architectural Center in Pittsburgh, an
+    event also attended by representatives from the American Collegiate Schools
+    of Architecture (ACSA), the NAAB, and the National Council of Architectural
+    Accrediting Boards (NCARB).4 The issue surfaced again the following year,
+    when the 1996 SAH conference in St. Louis included a presentation of the
+    Education Committee's recommendations to the NAAB on the teaching of
+    architectural history in schools of architecture. That year the roundtable
+    focused on teaching the survey of architectural history. Curiously, the only
+    geographic area to receive special attention in the conference program's
+    session description was Eastern Europe, although “the search for a good
+    introductory text” was also mentioned.5Despite these efforts to reform the
+    curriculum, many schools of architecture evaded implementing the required
+    changes. Yet other factors certainly contributed as well to the enlargement
+    of the canon presented to architecture students. Concern for diversity was
+    already an issue at the University of California, Berkeley, as early as
+    1960, when student pressure induced Charles Moore to offer a course on the
+    history of Asian architecture. Student influence also helped to prompt the
+    hiring of Norma Evenson in 1963 (although Evenson later won the Alice Davis
+    Hitchcock Book Award for her extremely influential book on Paris, she
+    received the position at Berkeley based on her expertise regarding recent
+    city planning in India, an area of concentration that she eventually
+    extended to Brazil).6 In 1993 Stephen Tobriner met the challenge of
+    expanding coverage of sub-Saharan Africa in the pre-1400 half of the
+    Berkeley survey after students provided him with the names of sites, such as
+    Meroë and Aksum, to place alongside Great Zimbabwe, already an established
+    part of the Berkeley canon. Twenty-five years ago, many of those advocating
+    for the global survey belonged to a generation influenced by the civil
+    rights movement and advances in postcolonial discourse, such as Edward
+    Said's 1978 publication of Orientalism.7 Furthermore, many of the art
+    history departments where most scholars participating in these discussions
+    had trained had long traditions of teaching the history of premodern
+    architecture in both Latin America and Asia. By the 1980s the study of
+    African and colonial architecture (with Suzanne Preston Blier and Renata
+    Holod as respective pioneers in these fields) also began to enter their
+    curricula.8Nonetheless, until the discussion of the NAAB requirements in the
+    mid-1990s, historians of architecture based in American schools of
+    architecture tended to focus more on expanding the discussion of European
+    architectural and cultural theories than on deepening their knowledge of
+    architecture from what is now termed the global South. Those who argued for
+    the importance of the history of architecture in Africa, Asia, and Latin
+    America were often perceived by their colleagues in architecture schools as
+    coming from the periphery of the discipline. The sociologist Johannes
+    Angermüller has argued that the rise of what is now called postmodern theory
+    in American academia beginning in the mid-1970s, which had a significant
+    impact on schools of architecture, also represented an effort to curtail the
+    threats posed by affirmative action and feminism to the career possibilities
+    of young white male academics.9 Certainly, in the 1990s the emphasis on
+    theory in American architecture schools often served this purpose. Moreover,
+    the 1995 NAAB guidelines appeared at a time when the effort to define
+    architecture as an intellectual activity in order to enhance its academic
+    status as a discipline also worked to push discussions of the vernacular out
+    of many architecture schools. The contemporary establishment of new venues
+    for the study of vernacular architecture, such as the Vernacular
+    Architecture Forum in 1980 and the International Association for the Study
+    of Traditional Settlements in 1988, further diminished the attention paid to
+    these topics within SAH. The NAAB's 1995 push for an expanded canon thus
+    represented a significant challenge to what was being taught in most
+    American schools of architecture at the time.Although the NAAB-mandated
+    changes empowered scholars who supported geographic inclusivity, the issue
+    remained—and still remains today—a live wire at SAH meetings. At the 1998
+    SAH conference, responding to requests made at a graduate student breakfast
+    the year before, graduate students involved in teaching the introductory
+    survey held the education roundtable as a closed session.10 Five years
+    later, in 2003, Paula Lupkin and Zeynep Kezar chaired a session titled
+    “Towards a World History of Architecture,” which was followed the next year
+    by a roundtable they organized on the state of the architectural history
+    survey. All four of that event's speakers—Dell Upton, Carol Krinsky, Christy
+    Anderson, and Michael Lewis—taught in art history departments at the time.
+    The roundtable featured sample course syllabi by Hilary Ballon, David
+    Breiner, Richard Cleary, Alice Jarrard, Paula Lupkin, Anne Marshall, Lauren
+    O'Connell, and myself.11 While all of these courses adhered to the new NAAB
+    requirements, most faculty taught them in departments of art history rather
+    than in architecture schools. In 2000, Zeynep Çelik became editor of the
+    Journal of the Society of Architectural Historians, and, not coincidentally,
+    almost every issue of JSAH published since that time has included at least
+    one article on the architecture of the global South. Eight of the eighteen
+    SAH Founders’ Awards for the best article by a junior scholar granted
+    between 2000 and 2019 went to this subset of work, with six of these awarded
+    in the past nine years. Further important evidence for the changing
+    understanding of the discipline in our professional society is that in eight
+    of the past fifteen years, and six of the past twenty-one, SAH has granted
+    the Spiro Kostof Book Award and the Alice Davis Hitchcock Book Award,
+    respectively, to books on Latin American and Asian architecture.A new
+    generation of textbooks represents another outgrowth of the changes
+    initiated by the NAAB. In 1995 the best relatively new books on the market
+    included Spiro Kostof's Architecture: Settings and Rituals, first published
+    in 1985, and Marvin Trachtenberg and Isabelle Hyman's Architecture from
+    Prehistory to Post-modernism: The Western Tradition, first published in
+    1986.12 Kostof's book made the most significant effort to develop an
+    inclusive approach, unless you count some editions of Banister Fletcher's
+    handbook-like tome, although Fletcher never met with widespread success in
+    the United States.13 Nonetheless, all of these publications clearly fell far
+    short of the NAAB requirements.In 2003 McGraw Hill published the first
+    comprehensive alternative to these texts, Marian Moffett, Michael Fazio, and
+    Lawrence Wodehouse's Buildings across Time.14 Other publications soon
+    followed: by the time McGraw Hill's representatives contacted me to
+    encourage me to switch to this new offering, I had already been asked to
+    review manuscript drafts of two more wide-ranging competitors. A Global
+    History of Architecture, written by Francis D. K. Ching, Mark M. Jarzombek,
+    and Vikramaditya Prakash, with the assistance of a team of MIT and
+    University of Washington graduate students, crossed the line in 2006.15 As
+    its title suggests, A Global History of Architecture provided a far more
+    comprehensive survey than Buildings across Time, which did not originally
+    include any architecture from sub-Saharan Africa. Richard Ingersoll's update
+    of Kostof, titled World Architecture: A Cross-Cultural History (following a
+    less comprehensive earlier revision by Greg Castillo), appeared in 2012.16
+    Of course, simply covering the most celebrated monuments from around the
+    world was not enough: all of these books largely ignored the roles of women
+    in designing, commissioning, constructing, and using the buildings that they
+    chronicled, and too many of the secular examples included were limited to
+    the architectural patronage of what we now describe as “the 1 percent.” Such
+    omissions began to be addressed in the survey that I published in 2014,
+    Architecture since 1400, with examples ranging from Virginia slave cabins to
+    South African townships as well as discussion of kitchens and settlement
+    houses.17Political developments, and especially the aftermath of 9/11, also
+    played a role in pushing historians of architecture who teach in
+    NAAB-accredited programs in these new directions. Academics opposed to the
+    invasion of Iraq by the United States and appalled by the damage the war
+    caused to buildings and museums across the region turned with renewed
+    interest to the study of Islamic, colonial, and postcolonial art and
+    architecture.18 Increased familiarity with this material among those who are
+    not specialists has also changed our understanding of the Western canon.
+    Today experts on Gothic cathedrals often teach the Great Mosque of Córdoba,
+    just as historians of the Italian Renaissance are well acquainted with the
+    achievements of Sinan.19Global architectural surveys remain a challenge to
+    teach, especially for those who have not studied at the universities where
+    comprehensive training in the architecture of the global South has been on
+    offer for decades. Few architecture schools have the resources to offer
+    advanced classes in the history of the architecture of many regions around
+    the world. Nonetheless, the commitment made by architectural historians to
+    teach global surveys testifies to our scholarly community's dedication to
+    the education of global citizens, and this dedication in turn has helped to
+    transform our discipline.We have come far enough that we no longer depend on
+    the NAAB to prod us into supporting the cross-cultural understanding that
+    sustains free and open societies. Architectural historians based in
+    countries beyond the NAAB's orbit now have also become leaders in this
+    regard.20 But that does not mean that anyone will gain from a watering down
+    of the requirement to teach the global history of architecture. In the late
+    1980s and early 1990s, architecture schools saw an influx of historians with
+    doctorates, a shift that did much to encourage an architectural research
+    culture whose scope has more recently expanded to include a focus on
+    sustainability.21 Undoubtedly, climate change poses a more significant
+    challenge for the future of our students than does the cultivation of an
+    ability to appreciate the architecture of the past. But learning how to
+    reduce carbon footprints also depends at least in part on knowledge of and
+    attention to that architecture.Twenty-five years ago, SAH represented a
+    smaller, more ethnically homogeneous, and less well-traveled community of
+    architectural historians than it does today. In the study of architectural
+    history, students absorbed a canon that confirmed more often than challenged
+    the dominant white masculinity of the architectural profession. The issues
+    we face today, from the problem of holding annual conferences in the face of
+    a pandemic to the threat of global extinction, are somewhat different. While
+    we will continue to partner with the NAAB to ensure that we meet necessary
+    accreditation requirements, ultimately it is up to us to explain the ways in
+    which a better understanding of the history of the built environment
+    enhances human experience.
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  author:
+    - family: James-Chakraborty
+      given: Kathleen
+  citation-key: james-chakraborty:2021accreditation80
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: Journal of the Society of Architectural Historians
+  DOI: 10.1525/jsah.2021.80.2.136
+  ISSN: 0037-9808
+  issue: '2'
+  issued:
+    - year: 2021
+      month: 6
+      day: 1
+  language: en
+  page: 136-139
+  publisher: University of California Press
+  source: online.ucpress.edu
+  title: Accreditation requirements and the global history of architecture
+  type: article-journal
+  URL: >-
+    https://online.ucpress.edu/jsah/article/80/2/136/117763/Accreditation-Requirements-and-the-Global-History
+  volume: '80'
+
 - id: jarzombek:1991crisis44
   abstract: >-
     I outline the discursive logic of the two principal ways architectural
@@ -2999,6 +3769,7 @@ references:
       given: Mark
   citation-key: jarzombek:1991crisis44
   container-title: Journal of Architectural Education
+  container-title-short: JAE
   issue: '3'
   issued:
     - year: 1991
@@ -3186,55 +3957,37 @@ references:
   URL: https://www.jstor.org/stable/3654154
   volume: '62'
 
-- id: keyvanian:1992manfredo
+- id: keyvanian:2011teaching64
   abstract: >-
-    The essay is an analysis Tafuri's theory on historiography;. it traces his
-    methodological sources: the theories, and their mode of reception, that have
-    directly influenced his thought. The period examined starts with Theories
-    and History of Architecture, first published in 1968 and ends with "The
-    Historical 'Project"', the introductory essay of The Sphere and the
-    Labyrinth, published in 1980 The first chapter outlines the intertwining of
-    the two neo-idealist and Marxist components of Tafuri's thought, combined
-    with the early familiarity with the writings of the Nouvelle Critique.
-    Subsequently, it identifies the points that, in Theories and History,
-    represent Tafuri's original contribution to architectural history: the
-    identification of architecture as ideology and the consequent demystifying
-    role that the historian must play; consequently, the formulation of the
-    specific notions that will serve as the instruments for this task of the
-    historian; the identity of history and criticism; the complete separation of
-    the design process from the 'reading' process (Le. history writing) of a
-    building; the logical consequence of this: the 'futility' of history and
-    theory in design; and, finally, the obsoleteness of the mode of criticism
-    termed "operative criticism". The second chapter tackles the problem posed
-    by the contradictory coexistence, in Tafuri's later writings, of Marxist and
-    neo-avant-garde positions. It analyzes in detail what neo-avant-garde ideas
-    were, what they implied and what theoretical and methodological purposes
-    they served. The analysis centers on the strong impact of Foucault's
-    theories on Tafuri, and his equally strong criticism of them. Most
-    importantly, however, it outlines the profound impact of Walter Benjamin's
-    notion of history, particularly as exposed in "The Theses on the Philosophy
-    of History", on Tafuri. In the last chapter, are drawn some partial
-    conclusions on the epistemological implications of Tafuri's theory.
+    An outline of the debate on the relationship between history and design that
+    started in the 1960s prefaces a discussion about the contribution of history
+    courses to the education of architecture students. A milestone of that
+    debate was the rejection of the idea that the study of history can aid in
+    the development of formal languages. Starting from that understanding of the
+    boundary that exists between history and design, the article discusses the
+    reasons that render the study of architectural history necessary.
   accessed:
     - year: 2020
-      month: 3
-      day: 31
+      month: 1
+      day: 29
+  archive: JSTOR
   author:
     - family: Keyvanian
-      given: Carla L. (Carla Lucia)
-  citation-key: keyvanian:1992manfredo
-  genre: Thesis
+      given: Carla
+  citation-key: keyvanian:2011teaching64
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  ISSN: 1046-4883
+  issue: '2'
   issued:
-    - year: 1992
-  language: en
-  publisher: Massachusetts Institute of Technology
-  source: dspace.mit.edu
-  title: >-
-    Manfredo Tafuri's notion of history and its methodological sources : from
-    Walter Benjamin to Roland Barthes
-  title-short: Manfredo Tafuri's notion of history
-  type: thesis
-  URL: https://dspace.mit.edu/handle/1721.1/13110
+    - year: 2011
+  language: en-US
+  page: 25-36
+  source: JSTOR
+  title: Teaching history to architects
+  type: article-journal
+  URL: https://www.jstor.org/stable/41318775
+  volume: '64'
 
 - id: kimball:1918history
   abstract: |-
@@ -3341,6 +4094,62 @@ references:
   publisher-place: Paris
   source: Library of Congress ISBN
   title: À quoi sert l'histoire de l'architecture aujourd'hui?
+  type: book
+
+- id: kostof:1985history
+  abstract: >-
+    Ten years in the making, A History of Architecture ranges from the first
+    prehistoric environments on record to the most recent examples of urban
+    design. A landmark work of impressive scope, the book is enhanced by 700
+    halftone illustrations and 150 drawings especially prepared by architect
+    Richard Tobias. Kostof's range of study includes not only the monumental
+    religious, governmental and upper-class structures around which
+    architectural history has usually been written but also the diversity of
+    ordinary domestic, rural, and urban buildings, and landscapes which surround
+    them. Moreover, Kostof evaluates Western achievement in the context of
+    contemporary cultures elsewhere. Thus he discusses the high points of
+    imperial Rome along with Buddhist stupas and Han palaces, compares medieval
+    Florence with medieval Cairo, and introduces Inca and Aztec cities as the
+    Spanish conquistadores would have seen them. The author's premise is that
+    buldings are conditioned by the social, economic, and political frame of
+    their time; in this sense, Kostof concludes, the history of architecture can
+    be considered an aspect of the history of human institutions. "Architecture,
+    in the end," he writes, "is nothing less than the gift of making places for
+    some human purpose."
+  author:
+    - family: Kostof
+      given: Spiro
+  citation-key: kostof:1985history
+  event-place: New York
+  ISBN: 978-0-19-503472-1
+  issued:
+    - year: 1985
+  language: English
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: Open WorldCat
+  title: 'A history of architecture: settings and rituals'
+  title-short: A history of architecture
+  type: book
+
+- id: kostof:1995history
+  author:
+    - family: Kostof
+      given: Spiro
+  call-number: NA200 .K65 1995
+  citation-key: kostof:1995history
+  edition: '2'
+  event-place: New York
+  ISBN: 978-0-19-508378-1
+  issued:
+    - year: 1995
+  language: en-US
+  number-of-pages: '792'
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: 'A history of architecture: settings and rituals'
+  title-short: A history of architecture
   type: book
 
 - id: kothe:2002fundamentosa
@@ -3578,6 +4387,47 @@ references:
   URL: >-
     https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10059299_00007.html
 
+- id: luglio:2010giambattista
+  accessed:
+    - year: 2022
+      month: 2
+      day: 9
+  author:
+    - family: Luglio
+      given: Davide
+    - family: Zangara
+      given: Adriana
+  citation-key: luglio:2010giambattista
+  container-title: >-
+    Historiographie de l’antiquité et transferts culturels: Les histoires
+    anciennes dans l’Europe des <span class="smallcaps">XVIII</span>^e^ et <span
+    class="smallcaps">XIX</span>^e^ siècles
+  DOI: 10.1163/9789042032064_003
+  editor:
+    - family: Avlami
+      given: Chryssanthi
+    - family: Alvar
+      given: Jaime
+    - family: Romero Recio
+      given: Mirella
+  event-place: Leiden
+  ISBN: 978-90-420-3206-4
+  issued:
+    - year: 2010
+      month: 1
+      day: 1
+  language: fr
+  page: 17-31
+  publisher: Brill
+  publisher-place: Leiden
+  source: brill.com
+  title: >-
+    Giambattista Vico lecteur de l’Antiquité : une troisième voie entre Anciens
+    et Modernes
+  title-short: Giambattista Vico lecteur de l’Antiquité
+  type: chapter
+  URL: https://brill.com/view/book/9789042032064/B9789042032064-s003.xml
+
 - id: maass:1969where
   accessed:
     - year: 2012
@@ -3792,6 +4642,29 @@ references:
   title-short: Peiresc's Orient
   type: book
 
+- id: moffett:2004buildings
+  author:
+    - family: Moffett
+      given: Marian
+    - family: Fazio
+      given: Michael W.
+    - family: Wodehouse
+      given: Lawrence
+  call-number: NA200 .M575 2004
+  citation-key: moffett:2004buildings
+  event-place: Boston
+  ISBN: 978-0-7674-0511-9
+  issued:
+    - year: 2004
+  language: en
+  number-of-pages: '592'
+  publisher: McGraw-Hill
+  publisher-place: Boston
+  source: Library of Congress ISBN
+  title: 'Buildings across time: an introduction to world architecture'
+  title-short: Buildings across time
+  type: book
+
 - id: moffett:2004world
   author:
     - family: Moffett
@@ -3813,6 +4686,62 @@ references:
   source: Library of Congress ISBN
   title: A world history of architecture
   type: book
+
+- id: momigliano:1990classical
+  abstract: "Here, at last, are the long-awaited Sather Classical Lectures of the great historian Arnaldo Momigliano, In a masterly survey of the origins of ancient historiography, Momigliano captures those features of an ancient historian's work that not only gave it importance in its own day but also encouraged imitation and exploitation in later centuries. He reveals the extent to which Greek, Persian, and Jewish historians influenced the Western historiographic tradition, and then goes on to examine the first Roman historians and the emergence of national history. In the course of his exposition, he traces the development of antiquarian studies as distinctive branch of historical research from antiquity to the modern period, discusses the place of Tacitus in historical thought, and explores the way in which ecclesiastical historiography has developed a tradition of its own. All these lectures illustrate Momigliano's unrivaled ability to combine the study of classical texts and the history of classical scholarship.\_First delivered in 1962, the lectures were revised during the next fifteen years and then held for annotation that was never completed. They are now published from the author's manuscripts, collated and checked by Momigliano's literary executor, Anne Marie Meyer, of the Warburg Institute, with a foreword by Riccardo Di Donato, of the University of Pisa. The text is printed as the author left it.\_Sather Classical Lectures, 54"
+  author:
+    - family: Momigliano
+      given: Arnaldo
+  citation-key: momigliano:1990classical
+  event-place: Berkeley, Cal.
+  ISBN: 978-0-520-07870-3
+  issued:
+    - year: 1990
+  language: en
+  number-of-pages: '182'
+  publisher: University of California Press
+  publisher-place: Berkeley, Cal.
+  source: Google Books
+  title: The classical foundations of modern historiography
+  type: book
+
+- id: monk:2015discussion61
+  accessed:
+    - year: 2022
+      month: 2
+      day: 10
+  citation-key: monk:2015discussion61
+  container-title: Grey Room
+  container-title-short: Grey Room
+  DOI: 10.1162/GREY_a_00186
+  editor:
+    - family: Monk
+      given: Daniel Bertrand
+    - family: Herscher
+      given: Andrew
+    - family: Ticktin
+      given: Miriam
+    - family: Siddiqi
+      given: Anooradha Iyer
+    - family: Allais
+      given: Lucia
+    - family: Muzaffar
+      given: M. Ijlal
+    - family: Jarzombek
+      given: Mark
+    - family: Chattopadhyay
+      given: Swati
+  ISSN: 1526-3819, 1536-0105
+  issued:
+    - year: 2015
+      month: 10
+  language: en
+  page: 66-127
+  source: DOI.org (Crossref)
+  title: A discussion on the global and universal
+  type: article-journal
+  URL: https://direct.mit.edu/grey/article/10724
+  volume: '61'
 
 - id: monnier:1990histoire
   author:
@@ -4183,7 +5112,8 @@ references:
     - family: Piedmont
       given: Susan Carty
   citation-key: piedmont:1986operative40
-  container-title: Journal of Architectural Education (1984-)
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
   DOI: 10.2307/1424842
   ISSN: 1046-4883
   issue: '1'
@@ -4234,7 +5164,7 @@ references:
   title: The critical historians of art
   type: book
 
-- id: pyla:1999historicizing
+- id: pyla:1999historicizing52
   abstract: >-
     This paper is concerned with the practical problem of shaping a "History of
     Architecture" in a way that expands the dominant canon while acknowledging
@@ -4253,7 +5183,7 @@ references:
     - family: Pyla
       given: Panayiota
   call-number: 72.03:378
-  citation-key: pyla:1999historicizing
+  citation-key: pyla:1999historicizing52
   container-title: Journal of Architectural Education
   container-title-short: JAE
   DOI: 10.2307/1425411
@@ -4265,7 +5195,7 @@ references:
   language: en
   page: 216–225
   source: JSTOR
-  title: 'Historicizing pedagogy: a critique of Kostof''s "A history of architecture"'
+  title: 'Historicizing pedagogy: a critique of Kostof''s *A History of Architecture*'
   title-short: Historicizing pedagogy
   type: article-journal
   URL: http://www.jstor.org/stable/1425411
@@ -4820,6 +5750,32 @@ references:
   title: "Questions de style\_: fondements d’une histoire de l’ornementation"
   type: book
 
+- id: rosengarten:1912handbook
+  abstract: Includes index
+  accessed:
+    - year: 2020
+      month: 10
+      day: 5
+  author:
+    - family: Rosengarten
+      given: Albert
+  call-number: b12141586
+  citation-key: rosengarten:1912handbook
+  event-place: London
+  issued:
+    - year: 1912
+  language: en
+  number-of-pages: '544'
+  publisher: Chatto & Windus
+  publisher-place: London
+  source: Internet Archive
+  title: A handbook of architectural styles
+  translator:
+    - family: Collett-Sandars
+      given: W.
+  type: book
+  URL: http://archive.org/details/handbookofarchit00rose
+
 - id: roth:1993understanding
   abstract: >-
     Includes bibliographical references and index; "Commoditie" : how does the
@@ -4962,6 +5918,29 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/871369
   volume: '96'
+
+- id: scarpato:2020problemi
+  accessed:
+    - year: 2022
+      month: 2
+      day: 9
+  author:
+    - family: Scarpato
+      given: Giovanni
+  citation-key: scarpato:2020problemi
+  container-title: Laboratorio dell'Ispf
+  container-title-short: ISPF LAB
+  DOI: 10.12862/Lab20SCG
+  ISSN: '18249817'
+  issued:
+    - year: 2020
+  language: it
+  page: '1'
+  source: DOI.org (CSL JSON)
+  title: Problemi di prospettiva. Giambattista Vico e la «prova» artistica
+  title-short: Problemi di prospettiva
+  type: article-journal
+  URL: https://doi.org/10.12862/Lab20SCG
 
 - id: schmiechen:1988victorians93
   accessed:
@@ -5674,8 +6653,8 @@ references:
   language: en
   page: 1-20
   source: JSTOR
-  title: 'Diagrams of Diagrams: Architectural Abstraction and Modern Representation'
-  title-short: Diagrams of Diagrams
+  title: 'Diagrams of diagrams: architectural abstraction and modern representation'
+  title-short: Diagrams of diagrams
   type: article-journal
   URL: https://www.jstor.org/stable/2902906
 
@@ -5949,7 +6928,7 @@ references:
   source: Crossref
   title: The architectural cult of synchronization
   type: article-journal
-  URL: https://www.jstor.org/stable/779215?origin=crossref
+  URL: https://www.jstor.org/stable/779215
   volume: '94'
 
 - id: woelfflin:1948kunstgeschichtliche
