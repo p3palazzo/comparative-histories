@@ -32,28 +32,68 @@ critique.
 
 Comparative histories of architecture were developed in Europe during
 the second half of the 19^th^ century at the intersection of two
-intellectual movements: the Idealist philosophy of history and the
-articulation of the disciplinary field of architecture. Comparative
+intellectual movements: on the one hand, the Idealist philosophy of
+history, running from Vico and Winckelmann
+[@momigliano:1990classical, 75] to Hegel, Herder, and Marx
+[@rose:1984marxs]; on the other hand, the articulation of the
+disciplinary field of architectural practice and education that Épron
+saw at the heart of eclecticism [@epron:1997comprendre]. Comparative
 textbooks such as Fergusson's early *Illustrated Handbook of
-Architecture*, Choisy's *Histoire de l'architecture*, and Fletchers'
-*History of Architecture on the Comparative Method* portrayed
-architectural history as a collection of culture--epochs through time
-and space, each signaled by a characteristic style. These styles did not
-arise at random, but resulted almost deterministically from the
-interplay between the historical unfolding of the human mind and the
-constraints of geography, climate, materials, and inherited technical
-knowledge.
+Architecture* [@fergusson:1855illustrated], Barberot's *Histoire des
+styles* [@barberot:1891histoire], Choisy's *Histoire de l'architecture*
+[@choisy:1899histoire], or Fletchers' *History of Architecture on the
+Comparative Method* [@fletcher:1905history] portrayed architectural
+history as a collection of culture--epochs through time and space, each
+signaled by a characteristic style [@barberot:1891histoire1, v]. These
+styles did not arise at random, but resulted almost deterministically
+from the interplay between the historical unfolding of the human mind
+and the constraints of geography, climate, materials, and inherited
+technical knowledge.
 
-At the same time, the discourse of comparative history gave great weight
-to the architects' decision-making in response to these external
-constraints. Like art history, architectural scholarship in
-19^th^-century Europe was concerned with making sense of a growing body
-of works unveiled by archaeology and colonialism. Unlike art history, on
-the other hand, the history of architecture could not retreat into a
-narrative of formal autonomy. The systematic knowledge of classical and
-non-classical styles developed alongside the European architects'
-insecurity about the very nature of the profession.
+The deterministic development of style was not the only aspect of an
+Idealist philosophy of history that these 19^th^-century textbooks
+borrowed. They also consolidated a practice that would become a hallmark
+of architectural history textbooks to the present day: using a few,
+paradigmatic examples to stand in for the general character of a
+culture--epoch [@ghirardo:2008review67]. Idealist systems of art
+history, from Hegel to Wölfflin and Zevi, are infamous (and somewhat
+unfairly so) for having little concern for the particulars of individual
+facts. Choisy, for example, drew analyses from a wealth of specific
+buildings from the Ancient and Medieval Mediterranean. He had studied
+some of these in detail in his earlier work on Roman and Byzantine
+architecture [@choisy:1873romains; @choisy:1883byzantins]. In his
+broader *Histoire de l'architecture*, on the other hand, he presented
+only partial aspects of each building insofar as they served to
+illustrate the general characteristics and trends of each style. In a
+sense, Choisy's canon is not made of great works, but of general
+principles; the Renaissance, a period when individual character slowly
+gains ground over cultural trends, is only superficially discussed at
+the end of the second volume of his textbook.
 
+Comparative histories of architecture did not, of course, invent
+the Western canon and its oversimplifications. However, James Fergusson,
+for one, may very well have been partly responsible for giving a
+rationale for this canon. Long before Banister Fletcher's "historical"
+and "non-historical" styles [@baydar:1998postcolonial, 11], in 1855
+Fergusson split the history of architecture between, on the one hand,
+most "Pagan" styles, and on the other hand, "Christian" buildings
+together with their direct precedents in "Pagan", i.e. classical,
+societies [@fergusson:1855illustrated1, vii]. Thus, he implied only that
+strand leading through classical Antiquity to the Gothic style was
+worthy of study for its historical development.
+
+At the same time as it painted architecture in general strokes where the
+individual building was only proof of a general concept, the discourse
+of comparative history gave great weight to the architects'
+decision-making in response to these external constraints. This apparent
+contradiction is resolved when we look at the context in which
+architectural history arose. Like art history, architectural scholarship
+in 19^th^-century Europe was concerned with making sense of a growing
+body of works unveiled by archaeology and colonialism. Unlike art
+history, on the other hand, the history of architecture could not
+retreat into a narrative of formal autonomy. The systematic knowledge of
+classical and non-classical styles developed alongside the European
+architects' insecurity about the very nature of the profession.
 Comparative studies were therefore called upon to provide both
 justification for aesthetic judgments---that is, the choice among a
 myriad styles---and a rationale for framing the discipline of
@@ -61,15 +101,41 @@ architecture as a whole. The professional expertise of the architect was
 described historically in surveys of architectural decision-making
 visible through canonical buildings, while at the same time being
 defined by the 19^th^-century architect's knowledge and use of such
-precedents [@epron:1997comprendre].
+precedents.
 
-In this textbook format, history was seamlessly
-embedded in the theory and professional practice of the discipline.
+But the expertise of architects was not limited to the choice of visual
+precedents: with industrial and managerial development came increasingly
+specific functional requirements [@tzonis:1972non-oppressive], and these
+were at the core of what differentiated the Beaux-Arts architect from
+the Polytechnic engineer [@epron:1997comprendre]. It is worth noting
+that Banister Fletcher himself made a career in the design of
+utilitarian buildings before writing his textbook. Not only the program
+strictly speaking, but a whole range of sociocultural expectations and
+material, technical, or economic constraints had to be explicitly taken
+into account in the design of modern plants. *Explicitly* is the key
+word here, of course, since these factors had always been present in
+some way or another in every building culture. The "crisis" of modern
+European architecture, however, was that the myriad variables of design
+were no longer taken care of by a system of traditional, impersonal
+wisdom, but had to be expressly articulated with each new, unique
+project [@caniggia:1987progetto, 24]. Architects thus felt the need to
+emulate other "branches of artistic or scientific research" and devote
+"philosophical inquiry" to their discipline
+[@fergusson:1855illustrated1, v].
 
-implied or, in the
-latter case, explicitly claimed European architecture alone had the
-superior ability to perform meaningful historical change out of the
-passage of time.
+In this practical sense, the past was not just a moral teacher in
+matters of style. It was a trove of inspirational examples where
+architects had balanced a variety of social and material requirements,
+responded to their cultural and geographic context, while producing
+authentic styles of their own times. I contend the reason comparative
+histories of architecture focused so much on visual articulation was not
+because their authors were oblivious to the social or material
+conditions of the production of architecture---they made explicit points
+about it, and it shows in the chapter structure of Banister Fletcher's
+book. Rather, it was because this kind of formal problem-solving
+translated best across time and space, through very different cultures
+and conditions, and therefore could be exemplary for the modern student
+of architecture.
 
 # Critical history and its discontents #
 

@@ -181,13 +181,13 @@ non-West, which carries the double burden of curiosity and control.2"
 (Baydar Nalbantoğlu 1998:14)
 
 "his gaze witnesses its own historiographical violence prior to his
-appropriation of the non-West into his comparative method.2 What I am
+appropriation of the non-West into his comparative method. What I am
 interested in here is not the criticism of Fletcher's method per se, but
 his momentary recognition of how his framework violates difference; how
 the writing of history makes history." (Baydar Nalbantoğlu 1998:14)
 
 "In 1975 James Palmes eliminated all broad classifications and provided
-a straight run of forty chapters.2 Following the first chapter on
+a straight run of forty chapters. Following the first chapter on
 Egyptian architecture, eight chapters cover all the non-Western
 sections. The "pure" continuity of Western styles from ancient Greece to
 the twentieth century is preserved. Non-Western sections are almost
