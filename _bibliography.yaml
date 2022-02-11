@@ -1518,11 +1518,11 @@ references:
   type: book
   volume: '2'
 
-- id: choisy:1883lart
+- id: choisy:1883byzantins
   author:
     - family: Choisy
       given: Auguste
-  citation-key: choisy:1883lart
+  citation-key: choisy:1883byzantins
   event-place: Paris
   issued:
     - year: 1883

@@ -145,9 +145,9 @@ of architecture.
 Consider, for example, the following statements drawn from each of our
 sources (my italics):
 
-> Another refinement was making all the columns slope slightly inwards,
-> *so as to give an idea of strength and support to the whole.*
-> [@fergusson:1855illustrated1, 269]
+> Another refinement [in Greek columns] was making all the columns slope
+> slightly inwards, *so as to give an idea of strength and support to
+> the whole.* [@fergusson:1855illustrated1, 269]
 
 > The main entrance [of the English Gothic church] was frequently by a
 > south-western porch, *acting as a screen against the cold winds*...
@@ -182,7 +182,7 @@ architecture were not so much *history* as they were *architecture*:
 that their examples happened to have been built in the past was
 incidental.
 
-# Critical history and the textbook #
+# Critical history and the new textbook #
 
 Comparative histories of architecture fit the purpose they were
 conceived for in the context of professional education and practice in
@@ -215,9 +215,8 @@ be predicated on fragments is a different story. The definition of
 history as a constant rearrangement of fragments [@bann:1987clio23;
 @tafuri:1977storico, 18] is certainly correct from the perspective of
 how original research works. However, those who put forward this notion,
-and who manipulate these fragments deftly, were themselves educated on
-comparative textbooks. The fact
-
+and who rearrange these fragments deftly, were themselves educated on
+the comparative method.
 Moreover, the humanistic ideal of architecture education in the United
 States continued to demand some sort of universal, no-nonsense textbook.
 This need, coupled with postmodernism's renewed interest in the past as
@@ -227,22 +226,69 @@ Marvin Trachtenberg and Isabelle Hyman's textbooks in 1985.
 A major contribution of critical history was to dispel the belief in a
 universal standard for assessing different cultures. At the same time,
 architectural history must integrate the irreducible diversity of
-cultures into 'global' surveys. This paradox shows in the narrative
-choices of a couple of recent, paradigm-shifting textbooks. One of them,
+cultures into global surveys. This paradox shows in the narrative
+choices of a couple of recent, paradigm-shifting textbooks:
 *A Global History of Architecture* by Francis D. K. Ching, Mark
-Jarzombek, and Vikramāditya Prakāsh, evades the Idealist narrative by
-juxtaposing examples in simple chronological order; in so doing,
-however, it reinforces the Western idea that only linear time underpins
-critical meaning. Another one, *Architecture Since 1400* by Kathleen
-James-Chakraborty, showcases different societies walled off from one
-another in discrete chapters, an ethnographic structure that downplays
-the increasingly global cultural and economic networks.
+Jarzombek, and Vikramāditya Prakāsh [@ching:2007global], and
+*Architecture Since 1400* by Kathleen James-Chakraborty
+[@james-chakraborty:2014architecture]. These two books are predicated on
+the intention of breaking with the Idealist philosophy of history and
+the comparative method. Both attempt to update the paradigm of the
+architectural history textbook using somewhat different methods and
+narrative plans.
+
+*A Global History* evades the Idealist culture--epoch narrative by
+proposing to juxtapose examples in simple chronological order. This
+intent is, however, easier stated than done. In practice, the authors
+established a number of historical milestones; these claim some sort of
+neutrality by using numbered years rather than named epochs. Even so,
+under the appearance of neutrality one can see some rather conventional
+periodizations. The initial chapter at 3500 [BCE]{.smallcaps} matches
+the conventional date for the "urban revolution" in Mesopotamia
+[@ghirardo:2008review67, 134], leaving out Mesolithic huts and being an
+uneasy home for some of the earliest Neolithic examples. The 400
+[BCE]{.smallcaps} chapter was expunged of American material in the third
+edition [@ching:2017global] to include only examples from the Axial age
+in Eurasia. Even more conventionally, the years 600, 1200, 1400, 1600,
+1700, 1800, and 1950 [CE]{.smallcaps} are well-established epochs in
+histories of Western architecture masquerading under the neutrality of
+round numbers.
+
+This chapter structure, in fact, is where *A Global History* shines as a
+textbook, especially between 1000 and 1700 [CE]{.smallcaps}. Its
+two-tiered structure has been refined in the latest edition to provide
+for clearer groupings that make for a more intelligible narrative. At
+the same time, each chapter introduction suggests links that can be
+drawn between the cultural groupings it contains. This clarity falls
+apart at the extremes of the timeline, though, due to either
+insufficient or plentiful connections among cultures.
+
+James-Chakraborty took a somewhat different approach in her
+*Architecture since 1400*. Instead of focusing on juxtaposed case
+studies and a pretense of chronological neutrality, she circumscribed a
+number of themes with only a rough chronological order. The "basic
+premise" of the book is an insightful one: that 1400 marks an epoch in
+that awareness of one's own history comes to bear increasingly in the
+architecture of different cultures [@james-chakraborty:2014architecture,
+xvii]. The second premise, as one would expect in the current
+historiographic landscape, is that architecture is not an achievement of
+great artists and their patrons, but a conversation among many social
+agents [@james-chakraborty:2014architecture, xviii]. These are not two
+equal and mutually independent propositions, however, as the final
+remarks of the Introduction make clear: "Rather than merely reflecting
+culture, architecture contributes to crafting it"
+[@james-chakraborty:2014architecture, xix]. This is a book about how
+self-conscious architectural ideas *use* social processes; the
+precedence of the avant-garde (chapter 22) over mass culture (chapter 23),
+two more or less simultaneous processes, makes the author's intent clear
+in this respect. In this, it is not all that different from an Idealist
+philosophy of history.
 
 Even as these two books explicitly reject the colonial *argument* for
 European supremacy, their approaches to 'collecting' buildings and
 societies uphold the colonial *structure* of the universal ethnographic
 museum, curious but exotic to its target audience---the post-Postmodern,
-Western student. I contend it is these books' very partaking in the
+Western student. It is these books' very partaking in the
 non-disciplinary understanding of 'critical history' that has made them
 fall into this Idealist pitfall. By confronting their perspectives with
 the unapologetically disciplinary approach of comparative histories, we
