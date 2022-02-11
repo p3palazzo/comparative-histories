@@ -210,7 +210,15 @@ authors in 1961. "The new ideal was that history ought to be an agent of
 disjunction where the emphasis was on analysis rather than on synthesis"
 [@hoekstra:2014modernity2].
 
-Still, the humanistic ideal of architecture education in the United
+Whether it is realistic to expect an architectural history curriculum to
+be predicated on fragments is a different story. The definition of
+history as a constant rearrangement of fragments [@bann:1987clio23;
+@tafuri:1977storico, 18] is certainly correct from the perspective of
+how original research works. However, those who put forward this notion,
+and who manipulate these fragments deftly, were themselves educated on
+comparative textbooks. The fact
+
+Moreover, the humanistic ideal of architecture education in the United
 States continued to demand some sort of universal, no-nonsense textbook.
 This need, coupled with postmodernism's renewed interest in the past as
 precedent, may have spurred the publication of Spiro Kostof's as well as
