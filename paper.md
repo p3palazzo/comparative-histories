@@ -1,7 +1,8 @@
 ---
-title: "Comparative Histories of Architecture: History, Architecture, or Idealism?"
+title: "Comparative Histories of Architecture"
+subtitle: "History, Architecture, or Idealism?"
 author: Pedro P. Palazzo
-date: 2022-02-15
+date: "[EAHN]{.smallcaps} 2022"
 lang: en-US
 bibliography: _bibliography.yaml
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl
@@ -145,13 +146,19 @@ of architecture.
 Consider, for example, the following statements drawn from each of our
 sources (my italics):
 
+#### James Fergusson ####
+
 > Another refinement [in Greek columns] was making all the columns slope
 > slightly inwards, *so as to give an idea of strength and support to
 > the whole.* [@fergusson:1855illustrated1, 269]
 
+#### Banister Fletcher ####
+
 > The main entrance [of the English Gothic church] was frequently by a
 > south-western porch, *acting as a screen against the cold winds*...
 > [@fletcher:1905history, 299]
+
+#### Auguste Choisy ####
 
 > Most romanesque barrel vaults have their intrados broken up at regular
 > intervals by ribs ... *these ribs were strengthening to

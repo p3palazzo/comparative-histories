@@ -1,7 +1,6 @@
 from            : markdown+raw_tex
 to              : latex
 standalone      : true
-template        : "_lib/default.latex"
 file-scope      : true
 pdf-engine      : xelatex
 fail-if-warnings: false
@@ -9,8 +8,6 @@ cite-method     : citeproc
 filters:
   - pandoc-crossref
   - citeproc
-metadata:
-  lang          : en-US
 number-sections: false
 variables:
   documentclass : article
@@ -19,6 +16,7 @@ variables:
     \usepackage[p,osf]{ebgaramond}
     \usepackage{academicons}
     \usepackage{multicol}
+    \usepackage{endnotes}
     \setlength{\columnsep}{15pt}
     \usepackage{csquotes}
     \usepackage[overload]{textcase}
@@ -26,7 +24,8 @@ variables:
     \renewcommand{\textsc}[1]{\oldsc{\MakeLowercase{#1}}}
 
     \usepackage{titling}
-    \pretitle{\Huge\normalfont}
+    \pretitle{\begin{center}\Large\normalfont}
+    \posttitle{\end{center}}
 
     \usepackage{titlesec,titletoc}
     \titleformat{\section}[hang]{\normalfont\Large\itshape}{\thesection}{1em}{}[]
@@ -39,6 +38,10 @@ variables:
     \setlist[itemize,1]{label=$›$}
 
     \usepackage{fancyhdr}
+    \let\footnote=\endnote
+    \linespread{1.6}
+  include-after: |
+    \theendnotes
   indent: true
   papersize: a4
   secnumdepth: 2
