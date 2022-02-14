@@ -1,0 +1,44 @@
+from            : markdown+raw_tex
+to              : latex
+standalone      : true
+template        : "_lib/default.latex"
+file-scope      : true
+pdf-engine      : xelatex
+fail-if-warnings: false
+cite-method     : citeproc
+filters:
+  - pandoc-crossref
+  - citeproc
+metadata:
+  lang          : en-US
+number-sections: false
+variables:
+  documentclass : article
+  fontsize: 12pt
+  header-includes: |
+    \usepackage[p,osf]{ebgaramond}
+    \usepackage{academicons}
+    \usepackage{multicol}
+    \setlength{\columnsep}{15pt}
+    \usepackage{csquotes}
+    \usepackage[overload]{textcase}
+    \let\oldsc\textsc
+    \renewcommand{\textsc}[1]{\oldsc{\MakeLowercase{#1}}}
+
+    \usepackage{titling}
+    \pretitle{\Huge\normalfont}
+
+    \usepackage{titlesec,titletoc}
+    \titleformat{\section}[hang]{\normalfont\Large\itshape}{\thesection}{1em}{}[]
+    \titleformat{\subsection}[hang]{\normalfont\large\itshape}{}{1em}{}[]
+    \titleformat{\paragraph}[runin]{\normalfont\scshape}{}{0pt}{}[]
+    \titlespacing{\paragraph}{0pt}{1em}{0.5ex}
+
+    \usepackage{enumitem}
+    \setlist{font=\normalfont\scshape}
+    \setlist[itemize,1]{label=$›$}
+
+    \usepackage{fancyhdr}
+  indent: true
+  papersize: a4
+  secnumdepth: 2
