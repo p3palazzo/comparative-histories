@@ -17,7 +17,7 @@ analyses (Istanbul and Venice, Cairo and Florence) refer to
 Mediterranean cultures, while discussions on the architecture of China
 or India are much more cursory" (Pyla 1999:220)
 
-". His notion of interaction as a structure of historical organization,
+"His notion of interaction as a structure of historical organization,
 does not allow Kostof to accommodate the history of India or China,
 except when he discusses the "Silk Road," which establishes a direct
 interaction between these countries and the West. It is fair to ask,
@@ -38,7 +38,7 @@ having a unified or unitary relationship to itself." (Pyla 1999:221)
 
 "4 The "western achievement, Kostof calls it, may not appear entirely
 "insulated," but it still appears to have a pretty "logical
-progression,"2" (Pyla 1999:221)
+progression" (Pyla 1999:221)
 
 "Unlike what Kostof seems to assume, cross-cultural interaction as a
 historiographic tool does not automatically facilitate a "broader
@@ -50,7 +50,7 @@ for example, acknowledges that the "non-historical styles" of Chinese,
 Indian, "Saracenic" architecture had some interaction with the western
 styles (all styles feed from the same roots) even if the Western
 tradition represents a dynamic, historical evolution while lesser styles
-die out.2" (Pyla 1999:221)
+die out." (Pyla 1999:221)
 
 "Although textbooks have assumed a license to condense material and
 simplify issues, their impact is too great to allow their uncritical
@@ -399,15 +399,15 @@ to invent exciting new form" (Keyvanian 2011:29)
 
 Keyvanian as a successor to Banister Fletcher:
 
-"confused by more than minimal doses of lectures constructed along
-thematic lines that do not take into account the architectural periods
-they are familiar with. Further, chronological progression emphasizes
-how architectural transformations emerged from the search for structural
-and formal solutions to limitations imposed by existing technolog"
-(Keyvanian 2011:31)
+"Young students, I find, are confused by more than minimal doses of
+lectures constructed along thematic lines that do not take into account
+the architectural periods they are familiar with. Further, chronological
+progression emphasizes how architectural transformations emerged from
+the search for structural and formal solutions to limitations imposed by
+existing technology" (Keyvanian 2011:31)
 
 "Reading and written assignments should reinforce the systematic linking
-of histor examples to current concern" (Keyvanian 2011:31)
+of historical examples to current concerns." (Keyvanian 2011:31)
 
 "Bearing in mind the pedagogical advantage of emphasizing the current
 relevance of historical precedents helps us select those works that are
@@ -418,10 +418,8 @@ most useful in assembling lessons of theoretical significance."
 
 "At any given time and in any given place almost any kind of building
 can be included within the boundaries of what those of us working in the
-field call vernacular architecture. Such catholicity has led" (Carter
-and Herman 1991:2)
-
-"many observers to characterize vernacular architecture studies at best
+field call vernacular architecture. Such catholicity has led
+many observers to characterize vernacular architecture studies at best
 as expansive and at worst, vaporous." (Carter and Herman 1991:2)
 
 "One of the most pervasive and persuasive definitions of vernacular
@@ -432,7 +430,7 @@ Herman 1991:3)
 "In actual operation, vernacular architecture is a kind of architectural
 study with a strong orientation toward historical explanation and as
 such is both similar to and different from two close
-relatives-architectural history and the new social history. Yet we
+relatives---architectural history and the new social history. Yet we
 commonly distance vernacular architecture from traditional architectural
 history out of a belief that architectural historians are concerned only
 with the object or the "piece" of architecture rather than with history

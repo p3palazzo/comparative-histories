@@ -94,6 +94,45 @@ references:
   URL: https://doi.org/10.1162/ARTM_r_00105
   volume: '4'
 
+- id: albrecht:2002interpretation55
+  accessed:
+    - year: 2018
+      month: 12
+      day: 3
+  author:
+    - family: Albrecht
+      given: Johannes
+  citation-key: albrecht:2002interpretation55
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  ISSN: 1046-4883
+  issue: '3'
+  issued:
+    - year: 2002
+  language: en-US
+  page: 194–196
+  source: JSTOR
+  title: Against the interpretation of architecture
+  type: article-journal
+  URL: https://www.jstor.org/stable/1425541
+  volume: '55'
+
+- id: alonso:1995introduccion
+  author:
+    - family: Alonso Pereira
+      given: José Ramón
+  citation-key: alonso:1995introduccion
+  event-place: A Coruña
+  ISBN: 978-84-88301-96-3
+  issued:
+    - year: 1995
+  language: es
+  publisher: Universidade da Coruña, Servicio de Publicacions
+  publisher-place: A Coruña
+  source: Open WorldCat
+  title: Introducción a la historia de la arquitectura
+  type: book
+
 - id: anderson:1982types
   accessed:
     - year: 2015

@@ -182,7 +182,7 @@ architecture were not so much *history* as they were *architecture*:
 that their examples happened to have been built in the past was
 incidental.
 
-# Critical history and the new textbook #
+# Critical history and the global textbook #
 
 Comparative histories of architecture fit the purpose they were
 conceived for in the context of professional education and practice in
@@ -216,73 +216,208 @@ history as a constant rearrangement of fragments [@bann:1987clio23;
 @tafuri:1977storico, 18] is certainly correct from the perspective of
 how original research works. However, those who put forward this notion,
 and who rearrange these fragments deftly, were themselves educated on
-the comparative method.
-Moreover, the humanistic ideal of architecture education in the United
-States continued to demand some sort of universal, no-nonsense textbook.
-This need, coupled with postmodernism's renewed interest in the past as
-precedent, may have spurred the publication of Spiro Kostof's as well as
-Marvin Trachtenberg and Isabelle Hyman's textbooks in 1985.
+the synthetic view of the past practiced by the comparative method.
+Moreover, the humanistic ideal of architecture education in the Americas
+and the Iberian peninsula continued to demand some sort of broad outline
+of the past. Spiro Kostof's 1985 *History of Architecture*
+[@kostof:1985history] was a transitional attempt at reconciling the
+comparative history focused on the development of the Greco-Roman
+tradition with an awareness that this tradition was not isolated from
+non-Western cultures.
 
 A major contribution of critical history was to dispel the belief in a
-universal standard for assessing different cultures. At the same time,
-architectural history must integrate the irreducible diversity of
-cultures into global surveys. This paradox shows in the narrative
-choices of a couple of recent, paradigm-shifting textbooks:
-*A Global History of Architecture* by Francis D. K. Ching, Mark
-Jarzombek, and Vikramāditya Prakāsh [@ching:2007global], and
-*Architecture Since 1400* by Kathleen James-Chakraborty
-[@james-chakraborty:2014architecture]. These two books are predicated on
-the intention of breaking with the Idealist philosophy of history and
-the comparative method. Both attempt to update the paradigm of the
-architectural history textbook using somewhat different methods and
-narrative plans.
+universal standard for assessing different cultures. In this ever
+evolving landscape, such a compromise work as Kostof's could not claim
+an authoritative status for too long. The Cypriot architectural
+historial, Panayiota Pyla pointed out early on how Kostof still used
+"Renaissance architecture as a yardstick" against which to assess other
+building cultures, and showed little interest in those where interaction
+with Europe had been limited [@pyla:1999historicizing52, 218--219]. Pyla
+wrote her article on Kostof while a doctoral researcher under Mark
+Jarzombek at the Massachusetts Institute of Technology; both
+Cambridge-based universities, the [MIT]{.smallcaps} and Harvard, have in
+fact been hotbeds of thinking about critical perspectives in
+architectural history beyond the Western canon.
 
-*A Global History* evades the Idealist culture--epoch narrative by
-proposing to juxtapose examples in simple chronological order. This
-intent is, however, easier stated than done. In practice, the authors
-established a number of historical milestones; these claim some sort of
-neutrality by using numbered years rather than named epochs. Even so,
-under the appearance of neutrality one can see some rather conventional
-periodizations. The initial chapter at 3500 [BCE]{.smallcaps} matches
-the conventional date for the "urban revolution" in Mesopotamia
-[@ghirardo:2008review67, 134], leaving out Mesolithic huts and being an
-uneasy home for some of the earliest Neolithic examples. The 400
-[BCE]{.smallcaps} chapter was expunged of American material in the third
-edition [@ching:2017global] to include only examples from the Axial age
-in Eurasia. Even more conventionally, the years 600, 1200, 1400, 1600,
-1700, 1800, and 1950 [CE]{.smallcaps} are well-established epochs in
-histories of Western architecture masquerading under the neutrality of
-round numbers.
+It was at the [MIT]{.smallcaps} that a research circle formed in the
+1990s and early 2000s leading up to the publication in 2007 of *A Global
+History of Architecture* [@ching:2007global]. Mark Jarzombek and another
+of his former doctoral advisees, Virkamāditya Prakāsh, co-authored the
+book together with Francis D. K. Ching, whom Prakāsh had joined as
+faculty member of Washington University. The rationale for this "global
+history" of architecture, Jarzombek went on to claim, was an explicit
+rejection of the "globalized" appropriation of architecture as a diverse
+collection of national histories [@jarzombek:2015architecture, 112].
+This claim can be likened to an earlier argument by Sibel Bozdoğan---who
+has been affiliated with both the [MIT]{.smallcaps} and Harvard---on the
+opposition between difference and diversity in the architectural history
+survey [@bozdogan:1999architectural, 209]. Postcolonial critique,
+Bozdoğan had written, resists naturalizing cultural differences as an
+ethnographic exhibition of diversity [@bozdogan:1999architectural, 210].
 
-This chapter structure, in fact, is where *A Global History* shines as a
-textbook, especially between 1000 and 1700 [CE]{.smallcaps}. Its
-two-tiered structure has been refined in the latest edition to provide
-for clearer groupings that make for a more intelligible narrative. At
-the same time, each chapter introduction suggests links that can be
-drawn between the cultural groupings it contains. This clarity falls
-apart at the extremes of the timeline, though, due to either
-insufficient or plentiful connections among cultures.
+Given this genealogy of critical approaches to global history, let us
+look at how *A Global History* presented its subject matter. At first
+sight, it would seem the authors of *A Global History* went for just
+that kind of "encyclopaedic" diversity Jarzombek rejected
+[@jarzombek:2015architecture, 112]. It chained discrete examples in
+simple chronological order, under chapter headings with numbered years
+rather than named culture--epochs. The actual structure of the book,
+however, has a clear goal beneath this surface. To understand what it
+is, we must look at the market it was designed for.
 
-James-Chakraborty took a somewhat different approach in her
-*Architecture since 1400*. Instead of focusing on juxtaposed case
-studies and a pretense of chronological neutrality, she circumscribed a
-number of themes with only a rough chronological order. The "basic
-premise" of the book is an insightful one: that 1400 marks an epoch in
+Carla Keyvanian, a professor of architectural history at Auburn
+University, stated as a legitimate goal for history teaching in
+professional programs in the United States, to emphasize "how
+architectural transformations emerged from the search for structural and
+formal solutions to limitations imposed by existing technology"
+[@keyvanian:2011teaching64, 30]. This sounds eerily like Banister
+Fletcher's distinction between "historical" and "non-historical" styles
+on the basis of the development of structural and formal solutions
+through time. Yet, Keyvanian argues, this is a necessary accommodation
+for students in professional architecture programs that include
+extensive history coursework as part of a humanistic emphasis.
+
+*A Global History of Architecture* is a disciplinary textbook geared to
+just the same humanistic bent in professional curricula of architecture
+schools in the Americas that Keyvanian works with. As such, it
+compromised the critical approach to history by seeking to establish a
+narrative that will make sense for students who are not expected to
+become primarily historians. Therefore, it tempered the thematic
+autonomy of its discrete examples by reinforcing the Western historicist
+idea that a simple chronological succession is an intrinsically
+meaningful way of presenting content. This is so much the case that even
+*A Global History*'s seemingly neutral chapter headings actually show,
+upon closer inspection, they might as well have been modeled after
+conventional epochs in European art history ([@tbl:epochs]).
+
+Table: Parallel between chapter headings in *A Global History of Architecture* and conventional epochs of Western art history {#tbl:epochs}
+
+|                Chapter | Epoch of Western art history           |
+|-----------------------:|----------------------------------------|
+| 3500 [BCE]{.smallcaps} | Urban revolution in Mesopotamia        |
+| 2500 [BCE]{.smallcaps} | Old Kingdom Egypt                      |
+| 1500 [BCE]{.smallcaps} | New Kingdom Egypt and Mycenaean Greece |
+|  800 [BCE]{.smallcaps} | Iron Age Europe and Archaic Greece     |
+|  400 [BCE]{.smallcaps} | Axial Age and Classical Greece         |
+|                      0 | Hellenistic period                     |
+|   200 [CE]{.smallcaps} | Imperial Rome                          |
+|   400 [CE]{.smallcaps} | Late Antiquity                         |
+|   600 [CE]{.smallcaps} | Byzantine period                       |
+|   800 [CE]{.smallcaps} | Carolingian period                     |
+|  1000 [CE]{.smallcaps} | Romanesque                             |
+|  1200 [CE]{.smallcaps} | Gothic                                 |
+|  1400 [CE]{.smallcaps} | Renaissance                            |
+|  1600 [CE]{.smallcaps} | Baroque                                |
+|  1700 [CE]{.smallcaps} | Neoclassicism                          |
+|  1800 [CE]{.smallcaps} | Eclecticism                            |
+|  1900 [CE]{.smallcaps} | Pioneers of modern design              |
+|  1950 [CE]{.smallcaps} | High Modernism and beyond              |
+
+Manfredo Tafuri argued that the abuse of architectural history in design
+bred "reckless iconology and anachronism" [@tafuri:1991introduzione, 7].
+Though *A Global History*'s authors shunned stylistic analysis in
+general, including iconology, they fell into the anachronistic pitfall
+that linear time is the one legitimate source of meaning for all the
+world. The textbook projected backwards the contemporary anxiety about
+essentializing non-Western traditions, and in so doing neutralized the
+difference between the historicist societies arising in Early Modern
+Eurasia and others having different understandings of cultural
+transmission through time. In the same way the heavily refactored recent
+editions of Banister Fletcher's *History of Architecture* proceeded
+[@baydar:1998postcolonial, 13], *A Global History* reduced so-called
+"non-Western" societies to the Western student's grasp of linear
+history.
+
+# Non-disciplinary history in architectural education #
+
+Kathleen James-Chakraborty circumvented the historicist
+pitfall in her book *Architecture since 1400*. She did so by explicitly
+restricting her work to a time period and cultural universe where
+historicism is evidently a legitimate interpretive frame. The "basic
+premise" of the book is that 1400 marks an epoch in
 that awareness of one's own history comes to bear increasingly in the
 architecture of different cultures [@james-chakraborty:2014architecture,
-xvii]. The second premise, as one would expect in the current
-historiographic landscape, is that architecture is not an achievement of
+xvii]. This insight freed her to explore fully the methodological
+resources of current historiography. Thus, her second premise is that
+architecture is not an achievement of
 great artists and their patrons, but a conversation among many social
-agents [@james-chakraborty:2014architecture, xviii]. These are not two
-equal and mutually independent propositions, however, as the final
-remarks of the Introduction make clear: "Rather than merely reflecting
+agents [@james-chakraborty:2014architecture, xviii]. This follows neatly
+from the core "project" of critical history [@tafuri:1977storico], to
+dismantle the link of architectural history with the contemporary
+understanding of the architectural profession.
+
+We already looked at Baydar's argument as to why this disciplinary
+delimitation of architectural history was problematic in Banister
+Fletcher's *History*. When putting forward the anti-disciplinary program
+of critical history, Tafuri dismissed the visual analysis of
+architecture, the disciplinary toolkit *par excellence*. He considered
+it hopelessly bound by whichever ideological system was current. In
+contrast, he claimed, the complex web of relations that made up the
+productive system of architecture could only be critiqued in non-visual
+terms [@tafuri:1980sfera]. James-Chakraborty heeded this lesson and
+downplayed reliance on images as a gateway for understanding the social
+role of buildings: of the Gate of Felicity in Topkapı palace, she said
+"it may not seem particularly imposing, but that is because architecture
+was never the whole story here"
+[@james-chakraborty:2014architecture, 95].
+
+*Architecture since 1400* is, true to its critical premises, history
+*through* architecture more than history *of* architecture. In this
+trade-off, decreased reliance on visual analysis opens up narrative
+possibilities that result in more subtle connections. The author showed
+how cultural transfer often flowed backwards from what the Eurocentric
+historiography would have us believe [@hirsh:2017review76, 242]. That
+said, some connections are so distant, materially and conceptually, as
+to be inconsequential literary devices. Consider, for example, this
+account of Versailles:
+
+> If Bess’s gaze out from the long gallery of Hardwick Hall gave her
+> command of the surrounding territory, and Shah Abbas viewed the
+> proceedings on the Maidan from the Ali Qapu, on how much greater a
+> scale could Louis XIV look out over his dominion...
+> [@james-chakraborty:2014architecture, 163]
+
+If *A Global History* fell into the pitfall of apparent narrative
+neutrality, then certainly *Architecture since 1400* fell into that of
+discounting its very subject matter; more than a decade before its
+publication, Johannes Albrecht, following Susan Sontag, regretted that,
+in the current critical landscape, "even if the building has received
+attention, it is ultimately the interpretation and not the building that
+is of interest." [@albrecht:2002interpretation55, 194] James-Chakraborty
+is a far more rigorous scholar than the theorists Albrecht was aiming
+at. Still, for all its decentering of European assumptions, her book's
+final premise sounds oddly Idealistic: "rather than merely reflecting
 culture, architecture contributes to crafting it"
-[@james-chakraborty:2014architecture, xix]. This is a book about how
-self-conscious architectural ideas *use* social processes; the
-precedence of the avant-garde (chapter 22) over mass culture (chapter 23),
-two more or less simultaneous processes, makes the author's intent clear
-in this respect. In this, it is not all that different from an Idealist
-philosophy of history.
+[@james-chakraborty:2014architecture, xix].
+
+But what *is* this architecture that crafts culture, when the book
+consistently downplays the disciplinary aspects of practice---visual
+composition and professional tradition? This architecture that is
+capable of shaping culture is not the internal organization of the
+discipline, but the abstract ideas that can shuttle back and forth
+between architectural theory and other social actors. The precedence of
+the avant-garde (chapter 22) over mass culture (chapter 23) makes the
+author's intent clear in this respect. What ties *Architecture since
+1400* together is the assumption that modernization and historicism are
+common features of many of the building cultures described in the book.
+This assumption, however, is Idealistic and teleological in nature.
+
+# The place of disciplinary studies in architectural history #
+
+History "provides students with a vocabulary with which to formulate and
+express their ideas about architecture" [@keyvanian:2011teaching64, 27].
+
+Vernacular architecture as history [@carter:1991introduction4] vs.
+vernacular architecture as a sort of disciplined anti-global history
+institutionalized by nationalist ideology in the guise of historic
+preservation [@jarzombek:2015architecture].
+
+Tafuri's admonition eventually came to pass in much of western Europe,
+but not in quite the way he expected. As architectural history has been
+relegated to art history departments, the discipline can hardly provide
+a solid foundation for historic preservation.
+
+# Conclusion #
 
 Even as these two books explicitly reject the colonial *argument* for
 European supremacy, their approaches to 'collecting' buildings and
@@ -303,15 +438,6 @@ organized around some other criterion than chronological order or
 culture-epochs, yet remain intelligible and honest to its subject? For
 better or for worse, these questions show how much of the legacy of
 comparative history still bears upon the paradoxes of critical history.
-
-Favored circle: Mark Jarzombek was Ph.D committee chair for students
-Vikram Prakāsh, Panayiota Pyla, and Zeynep Çelik Alexander.
-
-Gülru Necipoglu and Alina Payne at Harvard.
-
-# The place of disciplinary studies in architectural history #
-
-# Conclusion #
 
 <!--
    -We found your abstract particularly compelling, but believe that it
