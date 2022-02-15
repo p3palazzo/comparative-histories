@@ -409,51 +409,120 @@ author's intent clear in this respect. What ties *Architecture since
 common features of many of the building cultures described in the book.
 This assumption, however, is Idealistic and teleological in nature.
 
-# A disciplinary place in architectural history #
+# Disciplinary tools in (or around) critical history #
 
 So far, we have looked at how the disciplinary, totalizing method of
-comparative histories has intrinsic contradictions, which critical
+comparative histories harbors intrinsic contradictions, which critical
 history has exposed and replaced with a provisional assemblage of a
 fragmentary subject matter. We have also seen how architectural history
 textbooks crafted for professional education have struggled to evade the
 determinism of the comparative approach, even when the critical method
-underpins their premises.
+underpins their premises. This process thus represents an incomplete
+transition from the study of buildings within the disciplinary framework
+of architecture, and towards a non-disciplinary historiographic ideal of
+the past as an entirely textual construct. This transition, however,
+will be ever incomplete insofar as the textual field of
+non-disciplinary, critical history leverages physical evidence produced
+by disciplinary, comparative fields. Tafuri is well-known for condemning
+the ideological dependency of history upon architecture. Yet he also
+made clear, in his later writings, a thorough study of architectural
+history must reach beyond a generic commitment to the critical treatment
+of documentary evidence, and rely on some sort of disciplinary framework
+that could address the problem of "*which* philology [is required] for
+*this* particular subject" [@tafuri:1991introduzione, 7-8].
 
-Is building archaeology, archaeology? Not the same as the archaeology of
-architecture (or of buildings). Social archaeology of architecture
-[@steadman:2015archaeology; @bille:2016fog] vs archaeology in the
-beaux-arts sense [@harbeson:1927study]. Building archaeology stems in
-part from *Bauforschung* [@azkarate:2020archaeology, 526]. It comes closer
-to critical history because it rejects stylistic analysis as the basis
-for dating (or ascribing meaning) to buildings or parts thereof;
-stratigraphy offers rigour:
+The philological framework architectural history demands lies nowadays,
+to a great extent, in the disciplinary field of building archaeology. It
+is a specialization that arose with the name of *Bauforschung* (building
+research or scholarship) in late 19^th^-century Germany. To its early
+practitioners such as Wilhelm Dörpfeld [@sapirstein:2016columns120] and
+Josef Durm [@durm:1905baukunst; @durm:1910baukunst], *Bauforschung*
+provided solid evidence as opposed to the questionable interpretations
+of stylistic analysis [@azkarate:2020archaeology, 526]. Building
+archaeology therefore arose, in a sense, out of a critical view of
+history and a rejection of comparative studies. Nevertheless, it is
+still a form of architectural scholarship above all, and continues to be
+taught in German-speaking countries as part of a professional curriculum
+in architecture [@neumann:2002teaching, 374-5].
 
-> In a historiographic tradition in which 'style' constituted the main
-> argument for ascribing a work to one or another historical period,
-> rigour in the application of stratigraphic principles to architecture
-> became an unavoidable priority. [@azkarate:2020archaeology, 521]
+Of course, many of the early assumptions of classical *Bauforschung*
+went on to be refuted, most notably Durm's reconstruction of the wooden
+Doric entablature after Charles Chipiez [@durm:1910baukunst;
+@chipiez:1876histoire. For a convincing building archaeology of the rise
+of the Doric order, see @barletta:2009origins]. Since the 1950s,
+archaeological stratigraphy has contributed a great deal to the current
+methodological makeup of building archaeology and to the near complete
+abandonment of stylistic analysis as a means of dating buildings
+[@azkarate:2020archaeology, 521]. Nevertheless, with respect to the
+textual tradition of critical history, building archaeology was long an
+outlier, perhaps distrusted on account of the latter's claim of direct
+access to physical evidence of the past [@perotti:2001archeologia, 379].
+Architectural history still needs to come more fully to terms with the
+disciplinary character of building archaeology. The field of
+construction history, for one, has welcomed disciplinary studies as
+specific as the structural calculation of traditional components
+[@dacunto:2019vector-based167]. Textual critique, on the other hand,
+still allows the historian the comfortable position of working with a
+past that can never be truly actualized, rather than the unsettling
+perspective of a historic building looming over the present.
 
-Building archaeology naturally related to vernacular architecture even
-as architectural history still tries to restrict itself to the prestige
-of art history (great works) [@perotti:2001archeologia, 379].
+However, building archaeology is still the study of buildings from the
+past, with the incidental task of supporting conservation. It might
+therefore be discounted as a supporting discipline rather than as
+historical scholarship on its own right. Vernacular architecture
+studies, on the other hand, add a layer of complication to the issue of
+whether historical critique can be embedded in a disciplinary setting.
+Vernacular architecture, by contrast, has often been viewed as an
+intrinsically operative, and therefore disciplinary, field. First, it
+deals with social subjects that are not safely stationed in the past,
+but continue into the present and look towards the future
+[@vellinga:2006engaging, 83]. Second, this continuity means scholarship
+often ends up entangled with building practice, both in experimental
+settings and as part of social activism [@ozkan:2006traditionalism,
+104--106].
 
-History "provides students with a vocabulary with which to formulate and
-express their ideas about architecture" [@keyvanian:2011teaching64, 27].
+This would seem to invalidate any claim that vernacular
+architecture studies might be a form of history, considering Tafuri's
+assertion that there can be no such thing as operative history
+[@tafuri:1988teorie, 263]. However, vernacular architecture studies
+arose unquestionably from a critical framework. Contemporary interest in
+vernacular built environments stems from anthropological studies in the
+1960s and 70s [@ara:2016imaging21, 174], notably Amos Rapoport's
+[@rapoport:1969house], Henry Glassie's [@glassie:1976folk], and Paul
+Oliver's [@oliver:2006built]. Since then, scholars of vernacular
+buildings have increasingly claimed historical status for their
+research, for much the same reasons as building archaeology
+[@carter:1991introduction4]. Architectural anthropology may still deal,
+to some degree, with present-day societies, but it no longer assumes any
+timeless quality in culture. Instead, it actively engages with cultural
+change in historical time, and does so with a critical outlook in each
+society's own terms [@egenter:1980bauform, 12].
 
-Vernacular architecture as history [@carter:1991introduction4] vs.
-vernacular architecture as a sort of disciplined anti-global history
+An even stronger claim for melding critical history and disciplinary
+insertion lies in the archaeology of architecture, a field that deals
+chiefly with the same vernacular built environment as architectural
+anthropology. Whereas building archaeology is chiefly concerned with
+ascertaining the physical process of buildings through time, the
+archaeology of architecture deals with the full range of human dwelling.
+The "fog" that Mikkel Bille and Tim Sørensen used to define the
+archaeology of architecture [@bille:2016fog, 1] is precisely the
+ever-changing critical landscape of history adapting its methods to both
+its discrete objects of study and contemporary research interests that
+Tafuri posited for architectural history. Archaeologies of architecture
+are critical endeavors committed to constantly unsettling established
+pictures of past societies and do not restrict themselves to a
+contemporary *bounding* of architecture [@kent:2001domestic]. Still,
+they do so by leveraging analytical skills that pertain to the
+contemporary professional discipline of architecture, including
+functional and symbolic ways of dwelling, social hierarchies, and even
+the reconstruction of the climate inside and around buildings
+[@steadman:2015archaeology].
+
+This disciplinary affinity is not without its pitfalls itself.
+
+Vernacular architecture as a sort of disciplined anti-global history
 institutionalized by nationalist ideology in the guise of historic
 preservation [@jarzombek:2015architecture].
-
-Vernacular architecture as anthropology due to Rapoport and Paul Oliver
-[@ara:2016imaging21, 174], Henry Glassie [@glassie:1976folk].
-
-But vernacular is also operative in that it must be practiced to remain
-relevant. On the one hand, it must be allowed to evolve in response to
-changing needs [@vellinga:2006engaging, 83]; on the other, vernacular
-studies must turn scholarship into building practice to assert its
-validity, see Fathy, Development Workshop, CRATerre
-[@ozkan:2006traditionalism, 104--106].
 
 Vernacular architecture studies presently in tension between the
 definition of vernacular as traditional, even if under transformation,
@@ -462,11 +531,6 @@ The traditional way of making is further divided between the celebration
 of abstract qualities [@asatekin:1990varieties1] and that of
 identifiable processes [@florentino:2020vernacularXLIV-M-1-2020].
 Cultural sustainability [@memmott:2015redefining58].
-
-Tafuri's admonition eventually came to pass in much of western Europe,
-but not in quite the way he expected. As architectural history has been
-relegated to art history departments, the discipline can hardly provide
-a solid foundation for historic preservation.
 
 # Conclusion #
 
@@ -489,6 +553,10 @@ organized around some other criterion than chronological order or
 culture-epochs, yet remain intelligible and honest to its subject? For
 better or for worse, these questions show how much of the legacy of
 comparative history still bears upon the paradoxes of critical history.
+
+Critical history's conundrum: can we legitimately have a history *of*
+architecture, as opposed to a social or cultural history that *uses*
+buildings, and what does that difference even mean?
 
 <!--
    -We found your abstract particularly compelling, but believe that it
