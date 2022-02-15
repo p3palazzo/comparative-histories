@@ -19,7 +19,7 @@ In this paper, I contrast two ways of looking at the
 architecture of the past: "comparative histories" and "critical
 history". Many textbooks from the 19^th^ and 20^th^ centuries adopted a
 *comparative method*, made famous by Banister Fletcher's eponymous book
-[@fletcher:1905history]. More recently, however, critique has become so
+[@fletcher:1905history]. More recently, however, criticism has become so
 central to our understanding of the "duty" of history
 [@tafuri:1968teorie] that we would hardly admit comparative studies as a
 form *history* at all. This notwithstanding, I argue the comparative form has a
@@ -29,7 +29,7 @@ education and practice. I discuss how this paradox plays out in a few
 recent textbooks that attempted to distance themselves from the
 comparative method. Then, I look at other disciplinary methods used in
 the study of past architecture and their relation to historical
-critique.
+criticism.
 
 # Purposes of comparative history #
 
@@ -76,7 +76,7 @@ the end of the second volume of his textbook.
 Comparative histories of architecture did not, of course, invent
 the Western canon and its oversimplifications. However, James Fergusson,
 for one, may very well have been partly responsible for giving a
-rationale for this canon. Long before Banister Fletcher's "historical"
+rationale for this canon. Long before Fletcher's "historical"
 and "non-historical" styles [@baydar:1998postcolonial, 11], in 1855
 Fergusson split the history of architecture between, on the one hand,
 most "Pagan" styles, and on the other hand, "Christian" buildings
@@ -115,7 +115,7 @@ precedents: with industrial and managerial development came increasingly
 specific functional requirements [@tzonis:1972non-oppressive], and these
 were at the core of what differentiated the Beaux-Arts architect from
 the Polytechnic engineer [@epron:1997comprendre]. It is worth noting
-that Banister Fletcher himself made a career in the design of
+that Fletcher himself made a career in the design of
 utilitarian buildings before writing his textbook. Not only the program
 strictly speaking, but a whole range of sociocultural expectations and
 material, technical, or economic constraints had to be explicitly taken
@@ -138,7 +138,7 @@ authentic styles of their own times. I contend the reason comparative
 histories of architecture focused so much on visual articulation was not
 because their authors were oblivious to the social or material
 conditions of the production of architecture---they made explicit points
-about it, and it shows in the chapter structure of Banister Fletcher's
+about it, and it shows in the chapter structure of Fletcher's
 book. Rather, it was because this kind of formal problem-solving
 translated best across time and space, through very different cultures
 and conditions, and therefore could be exemplary for the modern student
@@ -259,7 +259,7 @@ collection of national histories [@jarzombek:2015architecture, 112].
 This claim can be likened to an earlier argument by Sibel Bozdoğan---who
 has been affiliated with both the [MIT]{.smallcaps} and Harvard---on the
 opposition between difference and diversity in the architectural history
-survey [@bozdogan:1999architectural, 209]. Postcolonial critique,
+survey [@bozdogan:1999architectural, 209]. Postcolonial criticism,
 Bozdoğan had written, resists naturalizing cultural differences as an
 ethnographic exhibition of diversity [@bozdogan:1999architectural, 210].
 
@@ -301,7 +301,7 @@ conventional epochs in European art history ([@tbl:epochs]).
 Table: Parallel between chapter headings in *A Global History of Architecture* and conventional epochs of Western art history {#tbl:epochs}
 
 |                Chapter | Epoch of Western art history           |
-|-----------------------:|----------------------------------------|
+|-----------------------:|:---------------------------------------|
 | 3500 [BCE]{.smallcaps} | Urban revolution in Mesopotamia        |
 | 2500 [BCE]{.smallcaps} | Old Kingdom Egypt                      |
 | 1500 [BCE]{.smallcaps} | New Kingdom Egypt and Mycenaean Greece |
@@ -331,7 +331,7 @@ essentializing non-Western traditions, and in so doing neutralized the
 difference between the historicist societies arising in Early Modern
 Eurasia and others having different understandings of cultural
 transmission through time. In the same way the heavily refactored recent
-editions of Banister Fletcher's *History of Architecture* proceeded
+editions of Fletcher's *History of Architecture* proceeded
 [@baydar:1998postcolonial, 13], *A Global History* reduced so-called
 "non-Western" societies to the Western student's grasp of linear
 history.
@@ -361,8 +361,9 @@ of critical history, Tafuri dismissed the visual analysis of
 architecture, the disciplinary toolkit *par excellence*. He considered
 it hopelessly bound by whichever ideological system was current. In
 contrast, he claimed, the complex web of relations that made up the
-productive system of architecture could only be critiqued in non-visual
-terms [@tafuri:1980sfera]. James-Chakraborty heeded this lesson and
+productive system of architecture could only be criticismd in non-visual
+terms of relations of production (of the built environment and of
+ideology) [@tafuri:1980sfera, 22]. James-Chakraborty heeded this lesson and
 downplayed reliance on images as a gateway for understanding the social
 role of buildings: of the Gate of Felicity in Topkapı palace, she said
 "it may not seem particularly imposing, but that is because architecture
@@ -447,9 +448,7 @@ in architecture [@neumann:2002teaching, 374-5].
 
 Of course, many of the early assumptions of classical *Bauforschung*
 went on to be refuted, most notably Durm's reconstruction of the wooden
-Doric entablature after Charles Chipiez [@durm:1910baukunst;
-@chipiez:1876histoire. For a convincing building archaeology of the rise
-of the Doric order, see @barletta:2009origins]. Since the 1950s,
+Doric entablature after Charles Chipiez.[^1] Since the 1950s,
 archaeological stratigraphy has contributed a great deal to the current
 methodological makeup of building archaeology and to the near complete
 abandonment of stylistic analysis as a means of dating buildings
@@ -461,7 +460,7 @@ Architectural history still needs to come more fully to terms with the
 disciplinary character of building archaeology. The field of
 construction history, for one, has welcomed disciplinary studies as
 specific as the structural calculation of traditional components
-[@dacunto:2019vector-based167]. Textual critique, on the other hand,
+[@dacunto:2019vector-based167]. Textual criticism, on the other hand,
 still allows the historian the comfortable position of working with a
 past that can never be truly actualized, rather than the unsettling
 perspective of a historic building looming over the present.
@@ -471,7 +470,7 @@ past, with the incidental task of supporting conservation. It might
 therefore be discounted as a supporting discipline rather than as
 historical scholarship on its own right. Vernacular architecture
 studies, on the other hand, add a layer of complication to the issue of
-whether historical critique can be embedded in a disciplinary setting.
+whether historical criticism can be embedded in a disciplinary setting.
 Vernacular architecture, by contrast, has often been viewed as an
 intrinsically operative, and therefore disciplinary, field. First, it
 deals with social subjects that are not safely stationed in the past,
@@ -504,115 +503,133 @@ chiefly with the same vernacular built environment as architectural
 anthropology. Whereas building archaeology is chiefly concerned with
 ascertaining the physical process of buildings through time, the
 archaeology of architecture deals with the full range of human dwelling.
-The "fog" that Mikkel Bille and Tim Sørensen used to define the
+The "fog" that Mikkel Bille and Tim Sørensen invoked to define the
 archaeology of architecture [@bille:2016fog, 1] is precisely the
 ever-changing critical landscape of history adapting its methods to both
 its discrete objects of study and contemporary research interests that
 Tafuri posited for architectural history. Archaeologies of architecture
 are critical endeavors committed to constantly unsettling established
 pictures of past societies and do not restrict themselves to a
-contemporary *bounding* of architecture [@kent:2001domestic]. Still,
-they do so by leveraging analytical skills that pertain to the
-contemporary professional discipline of architecture, including
-functional and symbolic ways of dwelling, social hierarchies, and even
-the reconstruction of the climate inside and around buildings
-[@steadman:2015archaeology].
+contemporary definition of architecture [A comprehensive showcase can be
+found in @kent:2001domestic]. Still, they do so by leveraging analytical
+skills that pertain to the contemporary professional discipline of
+architecture, including the study of functional and symbolic programs,
+spatial hierarchies, and even the reconstruction of the climate inside
+and around buildings [For a systematic review of these and many other
+variables, see @steadman:2015archaeology].
 
-This disciplinary affinity is not without its pitfalls itself.
+The disciplinary affiliation of the study of vernacular buildings to the
+professional domain of architecture is necessary to provide the
+appropriate philological toolkit. Nevertheless, it is not without its
+own contradictions. Historic preservation and the practice of
+traditional or sustainable architecture [@memmott:2015redefining58] are
+the operative branches of building archaeology, the archaeology of
+architecture, and the study of vernacular environments. Jarzombek
+denounced that critical history increasingly confines itself to the
+study of historicist societies, and of modernism in particular
+[@ching:2007global, 118]. The operative disciplines, he continued, took
+over the vacuum left in the scholarship of premodern or traditional
+architecture with a supposedly preconceived interest in local or
+national identities [@jarzombek:2015architecture, 118]---identities that
+are indebted to the Idealist philosophy of history. Jarzombek thus
+echoed Tafuri in arguing global (critical) history is "not a discipline"
+but "an accusation" tasked with exposing "the epistemological regimes...
+[of] practices that lie at the core of the architectural world"
+[@jarzombek:2015architecture, 119].
 
-Vernacular architecture as a sort of disciplined anti-global history
-institutionalized by nationalist ideology in the guise of historic
-preservation [@jarzombek:2015architecture].
-
-Vernacular architecture studies presently in tension between the
-definition of vernacular as traditional, even if under transformation,
-ways of making, and as local cultural manifestations [@perez:2018marco].
-The traditional way of making is further divided between the celebration
-of abstract qualities [@asatekin:1990varieties1] and that of
-identifiable processes [@florentino:2020vernacularXLIV-M-1-2020].
-Cultural sustainability [@memmott:2015redefining58].
+This anti-disciplinary task, however, is bound up with the historicist
+problems of Early Modern and Modern societies. Teresa Stoppani showed
+how Tafuri's own interest in the Italian Renaissance hinged on
+"unresolved problems" linking the historical subject to contemporary
+theoretical anxieties [@stoppani:2010lhistoire, 216]. Because of this,
+such a critical history program inevitably feeds back into that loop of
+Early Modern to Modernist historiography. This in turn reduces critical
+historians' interest in premodern architecture, and leaves the field
+open to disciplinary studies. Critical history pries time apart to
+recompose its fragments, at the cost of favoring subjects where the
+problem of historical time is explicit. Disciplinary studies in
+architecture collapse time into a synthetic present, at the cost of
+projecting current categories onto subjects to which they are foreign.
+The Marxist ideal that this contradiction will be overcome once every
+disciplinary specialization is diluted into "abstract... technical
+labor" [@tafuri:1980sfera, 28] shows no sign of coming to pass.
 
 # Conclusion #
 
-Even as these two books explicitly reject the colonial *argument* for
-European supremacy, their approaches to 'collecting' buildings and
-societies uphold the colonial *structure* of the universal ethnographic
-museum, curious but exotic to its target audience---the post-Postmodern,
-Western student. It is these books' very partaking in the
-non-disciplinary understanding of 'critical history' that has made them
-fall into this Idealist pitfall. By confronting their perspectives with
-the unapologetically disciplinary approach of comparative histories, we
-can begin to unpack the ways in which different forms of writing have
-been legitimized in different contexts as 'proper' history or as
-'properly architectural' history. This brings other, more practical
-questions to the surface as well. For example, which
-other disciplinary approaches, such
-as vernacular studies or building archaeology, have also been sidelined
-by non-disciplinary criticism among historians? Can a survey be
-organized around some other criterion than chronological order or
-culture-epochs, yet remain intelligible and honest to its subject? For
-better or for worse, these questions show how much of the legacy of
-comparative history still bears upon the paradoxes of critical history.
+Despite the ever widening reach of criticism, then, Idealist philosophies
+of history keep creeping into architectural scholarship. This may stem
+from critical history deserting certain subjects or rejecting
+contamination by operative requirements. In other cases, however,
+Idealism shows through unstated assumptions or expedients in works that
+outwardly claim a critical method. Architectural history textbooks are
+at the core of the contradictions between the emergence of critical
+historiography and the survival of Idealism. Historical criticism can
+afford to be restricted by no preordained disciplinary boundaries, yet
+history in a professional education curriculum is typically expected to
+play a specific disciplinary part, even if only that of fostering an
+ability to talk about architecture. More insidiously, it is history that
+has often been leveraged to circumscribe what is or is not architecture.
 
-Critical history's conundrum: can we legitimately have a history *of*
-architecture, as opposed to a social or cultural history that *uses*
-buildings, and what does that difference even mean?
+This thread led from the 19^th^-century comparative histories of
+architecture, openly predicated on an Idealistic philosophy of history
+but also explicitly disciplinary, to the 21^st^-century global histories
+of architecture that reject the deterministic, Eurocentric categories
+and evolutionary paradigm of comparative histories. We have thus seen
+how two recent textbooks, *A Global History of Architecture* and
+*Architecture since 1400*, sought to dismantle deterministic narratives
+while filling the market niche of the humanistic architectural education
+prevalent in the Americas.
+Even as these two books explicitly reject the Eurocentric *argument* for
+an evolutionist history, their approaches to collecting buildings and
+societies uphold the Eurocentric *structure* of a universal architecture
+determined by the historicist framework of change through linear time.
 
-<!--
-   -We found your abstract particularly compelling, but believe that it
-   -could benefit from more detail, for example, what are the few recent
-   -books that you will be considering in your position paper. We would like
-   -to encourage you to read the RT provocation and make sure your abstract
-   -states a position in response. Before 20 December, please send us the
-   -final version of your abstract.
-   -
-   -RT03 – Historiography, get it right!
-   -
-   -Roundtable sponsored by the Society of Architectural Historians
-   -Australia and New Zealand.
-   -
-   -Chairs: Macarena de la Vega, University of Melbourne; Gevork Hartoonian,
-   -University of Canberra.
-   -
-   -… experience of the mole of History burrowing through a lengthy past and
-   -creating its specific traditions in the process.                    
-   -E. P. Thompson
-   -
-   -Yes, histories of architecture do produce traditions: the styles
-   -associated with certain periods, the connections made between tendencies
-   -and a certain group of architects. Above all, the conjectures which
-   -historians have construed and constructed in the delusion that they can
-   -capture the Zeitgeist. Nevertheless, should this ever-growing body of
-   -work be taken for History? To what extent does a text on the past
-   -approximate History? More specifically, what is the intersection between
-   -History and histories of architecture? Not every work concerned with
-   -past architecture is categorically historical, especially those written
-   -in the last twenty years. With the contemporary demise of Theory at
-   -least in architectural praxis, the decline of which was foreshadowed by
-   -the death of Jacques Derrida, useful binaries such as history and
-   -theory, history and criticism have lost their visibility, smoothing the
-   -way for the prevailing textuality. This turn of events is coterminous
-   -with the dissemination of contemporary digital networks engineered by
-   -global capitalism. Rather than to claim “the death of history,” the
-   -question is in what capacity does architectural history index History
-   -beyond contingencies, without reducing the text to only empirical
-   -realities, including those collected through archival research.
-   -
-   -To go beyond “reportage” and “textuality,” the two unconscious
-   -dimensions of contemporary history writing, we should recall the past
-   -accurately. Manfredo Tafuri, for one, said it all: there is no criticism
-   -but history. We argue that there is no history but historical criticism.
-   -In this sense, the non-contemporaneity implied in the dialectics of past
-   -and present plays a crucial role to the point that, like a detective,
-   -the historian should seek clues lost in between fragments of collected
-   -facts, subjective and objective. To follow E.P. Thompson, to be
-   -critically effective, the historiography of architecture should organise
-   -and interpret facts and ideas taking into account the specific
-   -traditions established by the mole of History. We invite papers that
-   -respond to the provocations framed above and that investigate critical
-   -strategies in architectural historiography with a focus on one of these
-   -topics: heritage and the past present, monumentality and the past
-   -frozen, landscape and the everlasting, historical time and temporality,
-   -and contemporaneity of architecture and history.
-   -->
+These architectural history textbooks offer a picture of a meaningful
+passage of time by means of examples drawn from architecture. In so
+doing, they established dubious relationships with comparative histories
+such as James Fergusson's, Banister Fletcher's, and Auguste Choisy's.
+These comparative histories delimited the disciplinary scope of
+architecture by signaling, through historical examples, how
+19^th^-century Europeans understood the professional work of designing
+buildings. In contrast, global histories of architecture portrayed
+buildings as being rendered meaningful through change over time: design
+not as professional agency, but as a reflection of society. In so doing,
+these global histories heeded the critical project of decentering the
+modern disciplinary boundaries, but at the cost of giving an afterlife
+to the comparative histories' premise of time as a teleological arrow,
+within which only structural change can be meaningful.
 
+On the other hand, the critical history of architecture today functions
+in a broad landscape where it interacts with other, more or less
+disciplinary fields, such as building archaeology, the archaeology or
+anthropology of architecture, and the study of vernacular built
+environments. The points of contact between these historical disciplines
+and history expose conflicts between the analytical toolkit drawn from
+the professional field of architecture and history's critical project of
+steering away from disciplinary determinations. On the one hand,
+engaging with these disciplines as supporting fields provides history
+with the sources necessary for constructing its narratives; on the other
+hand, it forces history to contend with the nature of disciplinary
+knowledge and its relation to time. This contention has been somewhat
+disorienting in the methods of architectural history, and the all too
+common retreat into pure textual criticism offers a convenient but
+unsatisfactory reaction to it.
+
+Much of the disciplinary knowledge about buildings of the past does not,
+indeed, make the cut of critical history. This knowledge, however,
+continues to provide source material for writing histories of
+architecture that pride themselves on a critical perspective. The
+contradiction between both domains may well be inescapable, inasmuch as
+the synthetic interpretations of fields such as building archaeology
+cannot but collapse the historical object onto the observable present,
+whereas historical criticism functions in the opposite way, prying
+ourselves apart from the past to expose it as an irreconcilable
+difference. Even so, architectural history must come to terms with the
+legitimacy of disciplinary knowledge of the architectural past. Failure
+to do so has led not only to an uneasy coexistence between history and
+its supporting fields, but even to the continued creeping of Idealist
+assumptions into historical narratives.
+
+[^1]: @durm:1910baukunst; @chipiez:1876histoire. For a convincing
+    archaeology of the development of the Doric order, see
+    @barletta:2009origins.

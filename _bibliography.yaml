@@ -1429,8 +1429,6 @@ references:
   author:
     - family: Casciato
       given: Maristella
-    - family: Fifield
-      given: Barry
   citation-key: casciato:2003italian62
   container-title: Journal of the Society of Architectural Historians
   container-title-short: JSAH
@@ -1444,6 +1442,9 @@ references:
   source: JSTOR
   title: 'The Italian mosaic: the architect as historian'
   title-short: The italian mosaic
+  translator:
+    - family: Fifield
+      given: Barry
   type: article-journal
   URL: www.jstor.org/stable/3655086
   volume: '62'
@@ -2493,6 +2494,98 @@ references:
     J.-N.-L. Durand,...
   type: book
   URL: http://gallica.bnf.fr/ark:/12148/bpt6k5762681g
+
+- id: durm:1910baukunst
+  abstract: '26'
+  accessed:
+    - year: 2021
+      month: 2
+      day: 15
+  author:
+    - family: Durm
+      given: Josef Wilhelm
+  call-number: AFQ-9612
+  citation-key: durm:1910baukunst
+  collection-editor:
+    - family: Durm
+      given: Josef
+    - family: Ende
+      given: Hermann
+    - family: Schmitt
+      given: Eduard
+  collection-number: 1. Band
+  collection-title: >-
+    Handbuch der Architektur, 2. Teil: die Baustile, historische und technische
+    Entwickelung
+  edition: '3'
+  event-place: Leipzig
+  issued:
+    - year: 1910
+  language: German
+  number-of-pages: '602'
+  publisher: A. Kröner
+  publisher-place: Leipzig
+  source: Internet Archive
+  title: Die Baukunst der Griechen
+  type: book
+  URL: http://archive.org/details/diebaukunstdergr00durmuoft
+
+- id: egenter:1980bauform
+  author:
+    - family: Egenter
+      given: Nold
+  citation-key: egenter:1980bauform
+  event-place: Zürich
+  issued:
+    - year: 1980
+  language: de
+  publisher: Eidgenössiche Technische Hochschule
+  publisher-place: Zürich
+  title: >-
+    Bauform als Zeichen und Symbol: Nichtdomestikales Bauen im japanischen
+    Volkskult
+  type: book
+
+- id: egenter:1992present
+  author:
+    - family: Egenter
+      given: Nold
+  citation-key: egenter:1992present
+  collection-number: '1'
+  collection-title: Architectural anthropology
+  event-place: Lausanne
+  ISBN: 978-3-905451-01-6
+  issued:
+    - year: 1992
+  language: en-GB
+  publisher: Structura mundi
+  publisher-place: Lausanne
+  source: Open WorldCat
+  title: The present relevance of the primitive in architecture
+  type: book
+
+- id: egenter:1994architectural
+  author:
+    - family: Egenter
+      given: Nold
+  citation-key: egenter:1994architectural
+  event-place: Lausanne
+  ISBN: 978-3-905451-02-3
+  issued:
+    - year: 1994
+  language: en
+  number-of-pages: '250'
+  publisher: Structura Mundi
+  publisher-place: Lausanne
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: >-
+    Architectural anthropology: Semantic and symbolic architecture: an
+    architectural ethnological survey into hundred villages of central Japan
+  title-short: Architectural anthropology
+  translator:
+    - family: Engel-Cowper
+      given: Joyce
+  type: book
 
 - id: elkins:1988art
   author:
@@ -5659,6 +5752,33 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/20167543
 
+- id: neumann:2002teaching
+  accessed:
+    - year: 2017
+      month: 4
+      day: 15
+  author:
+    - family: Neumann
+      given: Dietrich
+  citation-key: neumann:2002teaching
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/991790
+  ISSN: 0037-9808
+  issue: '3'
+  issued:
+    - year: 2002
+  language: en
+  page: 370–380
+  source: JSTOR
+  title: >-
+    Teaching the history of architecture in Germany, Austria, and Switzerland:
+    "Architekturgeschichte" vs. "Bauforschung"
+  title-short: Teaching the History of Architecture in Germany, Austria, and Switzerland
+  type: article-journal
+  URL: http://www.jstor.org/stable/991790
+  volume: '61'
+
 - id: normand:1852nouveau
   author:
     - family: Normand
@@ -6795,6 +6915,44 @@ references:
   URL: http://www.jstor.org/stable/871369
   volume: '96'
 
+- id: sapirstein:2016columns120
+  abstract: >-
+    This article presents the first results of an ongoing investigation of the
+    Temple of Hera at Olympia. Because it is traditionally believed that the
+    temple was designed with wooden columns that were only later replaced by the
+    stone columns now in situ, the Heraion has been widely cited as a key
+    example for the tectonic theory of the origins of Doric architecture.
+    However, a review of the archaeological evidence at Olympia and comparable
+    sites, the testimony of Pausanias, and the findings from recent fieldwork
+    demonstrate that the Heraion’s peristyle was very likely stone from the
+    beginning. This challenge to the traditional understanding of the
+    construction history of the Heraion has broad ramifications for our
+    understanding of early Doric architecture.
+  accessed:
+    - year: 2020
+      month: 8
+      day: 11
+  archive: JSTOR
+  author:
+    - family: Sapirstein
+      given: Philip
+  citation-key: sapirstein:2016columns120
+  container-title: American Journal of Archaeology
+  DOI: 10.3764/aja.120.4.0565
+  ISSN: 0002-9114
+  issue: '4'
+  issued:
+    - year: 2016
+  language: en
+  page: 565-601
+  publisher: Archaeological Institute of America
+  source: JSTOR
+  title: 'The columns of the Heraion at Olympia: Dörpfeld and early Doric architecture'
+  title-short: The columns of the heraion at olympia
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.3764/aja.120.4.0565
+  volume: '120'
+
 - id: scarpato:2020problemi
   accessed:
     - year: 2022
@@ -7225,6 +7383,55 @@ references:
   publisher-place: Bari
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: Teorie e storia dell'architettura
+  type: book
+
+- id: tafuri:1991introduzione
+  author:
+    - family: Tafuri
+      given: Manfredo
+  call-number: '72.02'
+  citation-key: tafuri:1991introduzione
+  collection-number: '58'
+  collection-title: Documenti di architettura
+  container-title: >-
+    La piazza, la chiesa, il parco: saggi di storia dell'architettura (<span
+    class="smallcaps">XV-XIX</span> secolo)
+  editor:
+    - family: Tafuri
+      given: Manfredo
+  event-place: Milano
+  ISBN: 978-88-435-3468-5
+  issued:
+    - year: 1991
+  language: it
+  page: 7-8
+  publisher: Electa
+  publisher-place: Milano
+  source: webopac.sib.uc.pt Library Catalog
+  title: Introduzione
+  type: chapter
+
+- id: tafuri:1991piazza
+  call-number: '72.02'
+  citation-key: tafuri:1991piazza
+  collection-number: '58'
+  collection-title: Documenti di architettura
+  editor:
+    - family: Tafuri
+      given: Manfredo
+  event-place: Milano
+  ISBN: 978-88-435-3468-5
+  issued:
+    - year: 1991
+  language: it
+  number-of-pages: '238'
+  publisher: Electa
+  publisher-place: Milano
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    La piazza, la chiesa, il parco: saggi di storia dell'architettura (<span
+    class="smallcaps">XV-XIX</span> secolo)
+  title-short: La piazza, la chiesa, il parco
   type: book
 
 - id: taine:1865philosophie
