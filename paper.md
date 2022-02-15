@@ -15,14 +15,14 @@ keywords:
 
 # Introduction #
 
-In this paper, I contrast two very different ways of looking at the
+In this paper, I contrast two ways of looking at the
 architecture of the past: "comparative histories" and "critical
 history". Many textbooks from the 19^th^ and 20^th^ centuries adopted a
 *comparative method*, made famous by Banister Fletcher's eponymous book
 [@fletcher:1905history]. More recently, however, critique has become so
 central to our understanding of the "duty" of history
 [@tafuri:1968teorie] that we would hardly admit comparative studies as a
-form *history* at all. Still, I argue the comparative form has a
+form *history* at all. This notwithstanding, I argue the comparative form has a
 stronger claim to being *architecture*. This brings up a long-standing
 paradox regarding the place of architectural history in professional
 education and practice. I discuss how this paradox plays out in a few
@@ -97,6 +97,7 @@ history, on the other hand, the history of architecture could not
 retreat into a narrative of formal autonomy. The systematic knowledge of
 classical and non-classical styles developed alongside the European
 architects' insecurity about the very nature of the profession.
+
 Comparative studies were therefore called upon to provide both
 justification for aesthetic judgments---that is, the choice among a
 myriad styles---and a rationale for framing the discipline of
@@ -397,11 +398,10 @@ final premise sounds oddly Idealistic: "rather than merely reflecting
 culture, architecture contributes to crafting it"
 [@james-chakraborty:2014architecture, xix].
 
-But what *is* this architecture that crafts culture, when the book
-consistently downplays the disciplinary aspects of practice---visual
-composition and professional tradition? This architecture that is
-capable of shaping culture is not the internal organization of the
-discipline, but the abstract ideas that can shuttle back and forth
+But if the book consistently downplays the disciplinary aspects of
+practice---visual composition and professional tradition, how can it
+define an architecture that crafts culture and is not itself this
+culture? It can only be the abstract ideas that shuttle back and forth
 between architectural theory and other social actors. The precedence of
 the avant-garde (chapter 22) over mass culture (chapter 23) makes the
 author's intent clear in this respect. What ties *Architecture since
@@ -409,7 +409,33 @@ author's intent clear in this respect. What ties *Architecture since
 common features of many of the building cultures described in the book.
 This assumption, however, is Idealistic and teleological in nature.
 
-# The place of disciplinary studies in architectural history #
+# A disciplinary place in architectural history #
+
+So far, we have looked at how the disciplinary, totalizing method of
+comparative histories has intrinsic contradictions, which critical
+history has exposed and replaced with a provisional assemblage of a
+fragmentary subject matter. We have also seen how architectural history
+textbooks crafted for professional education have struggled to evade the
+determinism of the comparative approach, even when the critical method
+underpins their premises.
+
+Is building archaeology, archaeology? Not the same as the archaeology of
+architecture (or of buildings). Social archaeology of architecture
+[@steadman:2015archaeology; @bille:2016fog] vs archaeology in the
+beaux-arts sense [@harbeson:1927study]. Building archaeology stems in
+part from *Bauforschung* [@azkarate:2020archaeology, 526]. It comes closer
+to critical history because it rejects stylistic analysis as the basis
+for dating (or ascribing meaning) to buildings or parts thereof;
+stratigraphy offers rigour:
+
+> In a historiographic tradition in which 'style' constituted the main
+> argument for ascribing a work to one or another historical period,
+> rigour in the application of stratigraphic principles to architecture
+> became an unavoidable priority. [@azkarate:2020archaeology, 521]
+
+Building archaeology naturally related to vernacular architecture even
+as architectural history still tries to restrict itself to the prestige
+of art history (great works) [@perotti:2001archeologia, 379].
 
 History "provides students with a vocabulary with which to formulate and
 express their ideas about architecture" [@keyvanian:2011teaching64, 27].
@@ -418,6 +444,24 @@ Vernacular architecture as history [@carter:1991introduction4] vs.
 vernacular architecture as a sort of disciplined anti-global history
 institutionalized by nationalist ideology in the guise of historic
 preservation [@jarzombek:2015architecture].
+
+Vernacular architecture as anthropology due to Rapoport and Paul Oliver
+[@ara:2016imaging21, 174], Henry Glassie [@glassie:1976folk].
+
+But vernacular is also operative in that it must be practiced to remain
+relevant. On the one hand, it must be allowed to evolve in response to
+changing needs [@vellinga:2006engaging, 83]; on the other, vernacular
+studies must turn scholarship into building practice to assert its
+validity, see Fathy, Development Workshop, CRATerre
+[@ozkan:2006traditionalism, 104--106].
+
+Vernacular architecture studies presently in tension between the
+definition of vernacular as traditional, even if under transformation,
+ways of making, and as local cultural manifestations [@perez:2018marco].
+The traditional way of making is further divided between the celebration
+of abstract qualities [@asatekin:1990varieties1] and that of
+identifiable processes [@florentino:2020vernacularXLIV-M-1-2020].
+Cultural sustainability [@memmott:2015redefining58].
 
 Tafuri's admonition eventually came to pass in much of western Europe,
 but not in quite the way he expected. As architectural history has been

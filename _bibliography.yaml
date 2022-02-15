@@ -189,6 +189,55 @@ references:
   URL: https://www.jstor.org/stable/991528
   volume: '58'
 
+- id: ara:2016imaging21
+  abstract: >-
+    Ethnographic surveys of building processes rarely feature in mainstream
+    architectural history. The curious dearth of studies derives perhaps more
+    from the absence of a relevant methodological orientation and
+    cross-disciplinary collaboration than a lack of serious interest in the
+    building process itself. By drawing on building methods and know-how from an
+    oral culture, in this essay, we propose that sentient building processes are
+    useful means for constructing one seamless history that transcends limited
+    disciplinary representations. We also pursue the possibilities of
+    collaboration on ethnographic knowledge across vernacular architecture and
+    anthropology. The essay discusses concepts and methods including visual
+    methods. Informed by current anthropology, images are additionally utilised
+    to interpret architectural temporality, a biographical view of dwelling,
+    situated learning, technology–culture non-duality, and socio-spatial
+    references. By intertwining a cross-disciplinary methodological position
+    with methodological techniques and by tying conditions and potentials of
+    human life to the very act of building, concerning an indigenous culture
+    without any written history, we advocate vernacular architecture’s potential
+    to complement mainstream architectural history.
+  accessed:
+    - year: 2019
+      month: 10
+      day: 10
+  author:
+    - family: Ara
+      given: Dilshad
+    - family: Rashid
+      given: Mamun
+  citation-key: ara:2016imaging21
+  container-title: Architectural Theory Review
+  DOI: 10.1080/13264826.2017.1349817
+  ISSN: 1326-4826
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 5
+      day: 3
+  language: en
+  page: 172-195
+  source: Taylor and Francis+NEJM
+  title: >-
+    Imaging vernacular architecture: a dialogue with anthropology on building
+    process
+  title-short: Imaging vernacular architecture
+  type: article-journal
+  URL: https://doi.org/10.1080/13264826.2017.1349817
+  volume: '21'
+
 - id: armstrong:2013leroy
   abstract: >-
     This book examines the career and publications of the French architect
@@ -295,6 +344,88 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: Rethinking architectural historiography
   type: book
+
+- id: asatekin:1990varieties1
+  abstract: >-
+    This paper addresses the problem of interpreting the concepts of tradition
+    and traditionalism with specific reference to the tradition of the Anatolian
+    house and the recent erosion of place quality in Turkish towns. The
+    Anatolian house provides a remarkable example of cultural diffusion and
+    transformation. During the reign of the late Ottoman, a variety of cultures
+    impinged on one another, giving rise to autochthonous traditions that were
+    shared by different religious and ethnic groups. But during the Republican
+    Period the process of Westernization interrupted the continuity of historic
+    traditions, resulting in the emergence of a peculiar contemporary tradition.
+    The majority of Turkish housing today displays characteristics of a
+    "vernacular modernism" conditioned by the moral and technical orders of a
+    market economy. The worldwide spread of such cultural mediocrity has often
+    been attributed to the corrosive influence of a single world civilization. A
+    number of recent attempts have been made to search for a national idiom in
+    Turkey. But these attempts, often promoting a "vernacular historicism," have
+    yet to account for any distinct revision of urban house-form. Argument today
+    revolves around an old rhetorical opposition between universal civilization
+    and national culture. Should a post-traditional society sustain its cultural
+    tradition to attain universal values, or vice-versa? The conservative in
+    this debate is more involved in the revival than in the preservation of
+    tradition. The progressive, though an ardent defender of preservation,
+    resists revivalism because of its chauvinistic connotations and pastiche
+    effects. This paper attempts to resolve this argument by suggesting a
+    simultaneous unfolding of the historical problems of the Anatolian house
+    tradition and the theoretical problems of presumed dichotomies such as
+    "traditional vs. modern." Finally, the paper advocates the development of
+    research strategies to facilitate correct readings of cultural tradition and
+    design strategies to improve the quality of residential environments.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 25
+  archive: JSTOR
+  author:
+    - family: Asatekin
+      given: Gül
+    - family: Balamir
+      given: Aydan
+  citation-key: asatekin:1990varieties1
+  container-title: Traditional Dwellings and Settlements Review
+  ISSN: 1050-2092
+  issue: '2'
+  issued:
+    - year: 1990
+  language: en-US
+  page: 61-70
+  source: JSTOR
+  title: Varieties of tradition and traditionalism
+  type: article-journal
+  URL: https://www.jstor.org/stable/23566252
+  volume: '1'
+
+- id: azkarate:2020archaeology
+  abstract: >-
+    Under the same name – archaeology of architecture/building archaeology –
+    there exist very different schools which frequently work in parallel,
+    mutually ignoring one another: the European tradition, more stratigraphic
+    and committed to knowledge, protection and dissemination of built heritage;
+    the North American tradition –and English-speaking in general – more
+    oriented, based on very different theoretical perspectives, to the
+    archaeology of houses and households; and Latin American archaeology, more
+    syncretic, open and permeable to different influences. This chapter presents
+    an insight into all three, concluding with a call for a flexible and, above
+    all, far more socially committed archaeology of global architecture.
+  author:
+    - family: Azkarate
+      given: Agustín
+  citation-key: azkarate:2020archaeology
+  container-title: The Routledge Handbook of Global Historical Archaeology
+  ISBN: 978-1-315-20284-6
+  issued:
+    - year: 2020
+  language: en
+  number-of-pages: '19'
+  page: 517-535
+  publisher: Routledge
+  title: 'Archaeology of architecture: Buildings archaeology'
+  title-short: Archaeology of architecture
+  type: chapter
 
 - id: baer:2007speculative34
   abstract: >-
@@ -683,6 +814,55 @@ references:
   type: chapter
   URL: https://re.public.polimi.it/handle/11311/976650
 
+- id: beng:2015unleashing16
+  abstract: >-
+    The provision of adequate quality housing for the mass population has always
+    been the major challenge for a rapidly developing country like Malaysia. As
+    the country heads towards higher level of urbanization, it is expected to
+    face accelerated demand on housing and the associated environmental impacts.
+    Only by encouraging the development of more eficient buildings or through
+    implementing a holistic construction approach that addressed right from the
+    onset of the design stage, harmful environmental impact to the surroundings
+    can be mitigated. This paper highlights the potential of applying lexibility
+    – a design approach which has been widely adopted in the traditional
+    construction – as an inherent design strategy for the modern urban mass
+    housing. The proposed design strategy entails open plan that enable retroit
+    and reconiguration to be made quickly, economically, and repeatedly, without
+    involving excessive site labour, time, and cost; as compared to the
+    currently adopted design strategy which is associated with rigid structure,
+    interlocking plan, and predetermined function. It makes possible the
+    creation of dwellings which may grow old yet without becoming obsolete;
+    incorporating the latest design ideas and technologies, yet have a sense of
+    history on the Malaysian housing design (the rumah kampung design); allowing
+    the communities to live for generations, yet incorporating the potential of
+    adaptation. By examining the background research and the fundamental design
+    principles, the paper suggests that only dwellings with high degree of
+    lexibility may enable the integration of dual aims and principles of
+    affordability and sustainability in mass housing, thereby facilitating the
+    movement of the country’s construction industry towards mechanization,
+    industrialization, and standardization.
+  author:
+    - family: Beng
+      given: Gan Hock
+    - family: Hamid
+      given: Zuhairi Abd
+    - family: Hung
+      given: Foo Chee
+  citation-key: beng:2015unleashing16
+  container-title: Malaysian Construction Research Journal
+  issue: '1'
+  issued:
+    - year: 2015
+      month: 6
+  language: en-GB
+  page: 59-75
+  source: Zotero
+  title: >-
+    Unleashing the potential of traditional construction technique in the
+    development of modern urban mass housing
+  type: article-journal
+  volume: '16'
+
 - id: benvenuto:1991statics
   author:
     - family: Benvenuto
@@ -719,6 +899,59 @@ references:
   source: K10plus ISBN
   title: Vaulted structures and elastic systems
   type: book
+
+- id: bille:2016elements
+  call-number: NA2542.4 .E44 2016
+  citation-key: bille:2016elements
+  collection-title: Archaeological orientations
+  editor:
+    - family: Bille
+      given: Mikkel
+    - family: Sørensen
+      given: Tim Flohr
+  event-place: London ; New York
+  ISBN: 978-1-138-77541-1
+  issued:
+    - year: 2016
+  language: en
+  number-of-pages: '443'
+  publisher: Routledge
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: >-
+    Elements of architecture: assembling archaeology, atmosphere and the
+    performance of building spaces
+  title-short: Elements of architecture
+  type: book
+
+- id: bille:2016fog
+  author:
+    - family: Bille
+      given: Mikkel
+    - family: Sørensen
+      given: Tim Flohr
+  call-number: NA2542.4 .E44 2016
+  citation-key: bille:2016fog
+  collection-title: Archaeological orientations
+  container-title: >-
+    Elements of architecture: assembling archaeology, atmosphere and the
+    performance of building spaces
+  editor:
+    - family: Bille
+      given: Mikkel
+    - family: Sørensen
+      given: Tim Flohr
+  event-place: London ; New York
+  ISBN: 978-1-138-77541-1
+  issued:
+    - year: 2016
+  language: en
+  page: 1-29
+  publisher: Routledge
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: Into the fog of architecture
+  type: chapter
 
 - id: binfield:2003architecture13
   accessed:
@@ -2077,6 +2310,54 @@ references:
   URL: https://www.jstor.org/stable/26418963
   volume: '76'
 
+- id: del-solar-velarde:2022arqueometria
+  abstract: >-
+    Este libro constituye una primera recopilación de técnicas arqueométricas
+    elementales, moleculares, de datación y de prospección, además de casos de
+    estudio originales en los cuales la utilización de estos análisis contribuyó
+    con resultados enriquecedores y significativos a la interpretación
+    arqueológica de variadas dimensiones materiales y culturales de sociedades
+    pasadas de América y de Europa. Esperamos que por ser el primer libro, en
+    español, de síntesis de estas características, se genere un gran interés
+    entre estudiantes, profesionales e investigadores, en sus variados procesos
+    de formación e investigación, para que en el futuro incorporen estas
+    herramientas y miradas arqueométricas a sus trabajos y a la resolución de
+    sus problemas de estudio. Los 30 capítulos están estructurados en 3 partes:
+    I) Técnicas, protocolos y aplicaciones; II) Materiales y casos de estudio; y
+    finalmente, III) Técnicas de prospección en Arqueología. Los autores son
+    destacados investigadores arqueólogos, físicos, químicos, biólogos y
+    geógrafos de Argentina, Brasil, Chile, Estados Unidos, Francia, México y
+    Perú.
+  accessed:
+    - year: 2022
+      month: 1
+      day: 4
+  citation-key: del-solar-velarde:2022arqueometria
+  collection-title: Travaux de l'IFEA
+  editor:
+    - family: Del-Solar-Velarde
+      given: Nino
+    - family: Wright
+      given: Véronique
+    - family: Chapoulie
+      given: Remy
+    - family: Sepulveda
+      given: Marcela
+  event-place: Lima
+  issued:
+    - year: 2022
+      month: 1
+      day: 4
+  language: es
+  number-of-pages: '669'
+  publisher: Institut français d’études andines
+  publisher-place: Lima
+  source: OpenEdition Books
+  title: 'Arqueometría : Estudios analíticos de materiales arqueológicos'
+  title-short: Arqueometría
+  type: book
+  URL: http://books.openedition.org/ifea/12740
+
 - id: delft:1993nature
   accessed:
     - year: 2019
@@ -2118,6 +2399,40 @@ references:
   title: 'Constructing architecture: materials, processes, structures, a handbook'
   title-short: Constructing architecture
   type: book
+
+- id: dipasquale:2014resilience
+  author:
+    - family: Dipasquale
+      given: Letizia
+    - family: Mecca
+      given: Saverio
+    - family: Özel
+      given: Bilge
+    - family: Ovalı
+      given: Pınar Kısa
+  call-number: NA208 .V54 2014
+  citation-key: dipasquale:2014resilience
+  container-title: >-
+    Versus: heritage for tomorrow: vernacular knowledge for sustainable
+    architecture
+  editor:
+    - family: Correia
+      given: Mariana
+    - family: Dipasquale
+      given: Letizia
+    - family: Mecca
+      given: Saverio
+  event-place: Firenze
+  ISBN: 978-88-6655-741-8
+  issued:
+    - year: 2014
+  language: en-GB
+  page: 65-73
+  publisher: Firenze University Press
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: Resilience of vernacular architecture
+  type: chapter
 
 - id: durand:1802precis
   author:
@@ -2604,6 +2919,74 @@ references:
   publisher-place: London
   title: History of architecture on the comparative method
   type: book
+
+- id: florentino:2020vernacularXLIV-M-1-2020
+  abstract: >-
+    <p><strong>Abstract.</strong> The World Heritage Committee lists every year,
+    several cultural sites as World Heritage properties. Some of these
+    properties balance the notion of a landscape that bears combined works
+    between nature and men, on which vernacular architecture is part of a local
+    tradition of interaction with nature. The 3dPast research project is a
+    European project, coordinated by Escola Superior Gallaecia and co-funded by
+    the European Union, under the Creative Europe programme. The project studies
+    and values vernacular knowledge of these unique places. In Portugal, the
+    Pico landscape was listed as a World Heritage property due to the 500 years
+    of history of local inhabitants adapting farming practices to produce wine,
+    in a challenge environment and in a remote place in the middle of the
+    Atlantic. This article aims to study, the history and the development of the
+    island's architecture and urbanism, based on an ancestral way of life that
+    is still alive nowadays. The scarcity of natural resources and the
+    difficulties to travel between villages and islands emphasised the effects
+    of insularity. However, the continuity of local culture, passed down through
+    generations, created a strong identity, which is source of pride. The
+    cultural landscape classified area includes about 987 hectares, from the
+    parish of Criação Velha, on the south coast, to Santa Luzia, on the north
+    side, covering part of two municipalities of Pico. The article first
+    presents a brief historical background of the island. Following, it focuses
+    on the evolution of human occupation, through the reading of population
+    indicators and traditional architecture and urbanism, recognizing the unique
+    cultural and landscape values within the property. Finally, it discusses the
+    current regulatory framework on territorial planning, and the architectural
+    and urban regulations in planning framework, with particular emphasis on
+    processes and practices at different scales.</p>
+  accessed:
+    - year: 2020
+      month: 7
+      day: 30
+  author:
+    - family: Florentino
+      given: R.
+    - family: Correia
+      given: M.
+    - family: Sousa
+      given: G.
+    - family: Carlos
+      given: G.
+  citation-key: florentino:2020vernacularXLIV-M-1-2020
+  container-title: >-
+    ISPRS - International Archives of the Photogrammetry, Remote Sensing and
+    Spatial Information Sciences
+  DOI: https://doi.org/10.5194/isprs-archives-XLIV-M-1-2020-159-2020
+  event: >-
+    HERITAGE2020 (3DPast | RISK-Terra) International Conference on Vernacular
+    Architecture in World Heritage Sites. Risks and New Technologies (Volume
+    XLIV-M-1-2020) - 9&ndash;12 September 2020, Valencia, Spain
+  ISSN: 1682-1750
+  issued:
+    - year: 2020
+      month: 7
+      day: 24
+  language: en
+  page: 159-165
+  publisher: Copernicus GmbH
+  source: www.int-arch-photogramm-remote-sens-spatial-inf-sci.net
+  title: >-
+    Vernacular architecture and traditional urbanism in the world heritage
+    cultural landscape property of Pico, in Azores (Portugal)
+  type: paper-conference
+  URL: >-
+    https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIV-M-1-2020/159/2020/
+  volume: XLIV-M-1-2020
 
 - id: forster:1972critical
   author:
@@ -3680,6 +4063,25 @@ references:
   title-short: World architecture
   type: book
 
+- id: ingold:2013making
+  author:
+    - family: Ingold
+      given: Tim
+  call-number: GN345 .I373 2013
+  citation-key: ingold:2013making
+  event-place: London ; New York
+  ISBN: 978-0-415-56722-0 978-0-415-56723-7
+  issued:
+    - year: 2013
+  language: en
+  number-of-pages: '163'
+  publisher: Routledge
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: 'Making: anthropology, archaeology, art and architecture'
+  title-short: Making
+  type: book
+
 - id: james-chakraborty:2014architecture
   abstract: >-
     " The first global history of architecture to give equal attention to
@@ -4200,6 +4602,27 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3654154
   volume: '62'
+
+- id: kent:2001domestic
+  citation-key: kent:2001domestic
+  collection-title: New directions in archaeology
+  editor:
+    - family: Kent
+      given: Susan
+  event-place: Cambridge
+  ISBN: 978-0-521-44577-1 978-0-521-38160-4
+  issued:
+    - year: 2001
+  language: en-GB
+  number-of-pages: '192'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: K10plus ISBN
+  title: >-
+    Domestic architecture and the use of space: an interdisciplinary
+    cross-cultural study
+  title-short: Domestic architecture and the use of space
+  type: book
 
 - id: keyvanian:2011teaching64
   abstract: >-
@@ -4763,6 +5186,30 @@ references:
   title-short: Antiguos y modernos
   type: book
 
+- id: maretto:1989verita
+  abstract: >-
+    Atti del Convegno internazionale Le ragioni dell'abitare, Prato, 8-9 gennaio
+    1988
+  author:
+    - family: Maretto
+      given: Paolo
+  citation-key: maretto:1989verita
+  collection-title: Convegno internazionale Le ragioni dell'abitare
+  container-title: Attualità del primitivo e del tradizionale in architettura
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  event-place: Firenze
+  issued:
+    - year: 1989
+  language: it
+  page: 166-168
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: Verità del tradizionale in architettura
+  type: chapter
+
 - id: mathews:1995what54
   accessed:
     - year: 2019
@@ -4838,6 +5285,71 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/901234
   volume: '2'
+
+- id: mehaffy:2007sustainable
+  author:
+    - family: Mehaffy
+      given: Michael W.
+  citation-key: mehaffy:2007sustainable
+  event-place: Oswego, Ore.
+  issued:
+    - year: 2007
+  language: en-US
+  page: '17'
+  publisher: Sustasis Foundation
+  publisher-place: Oswego, Ore.
+  source: Zotero
+  title: >-
+    Sustainable building and traditional morphology: implications of evolving
+    research in biophilia and evidence-based design
+  title-short: Sustainable building and traditional morphology
+  type: report
+
+- id: memmott:2015redefining58
+  abstract: >-
+    A theory of ‘cultural sustainability’ in architecture must be underpinned by
+    a conceptualization of architecture that is sensitive to cross-cultural
+    contexts and values and not overly dominated by Western concepts of what
+    architecture is. A number of key areas are thus outlined for design
+    consideration if cultural sustainability is to become more intimately
+    aligned with architectural outcomes. These include the cross-cultural
+    variation in where authority lies in building and design decisions,
+    culturally specific forms of spatial behaviour and the meanings encoded into
+    buildings and environments. The cultural properties of buildings need to be
+    positioned as a subset of the cultural properties of places, and the
+    dynamics of architectural traditions and their time properties need to be
+    understood within varying scales of cultural change processes. Finally
+    consideration is provided to cultural constructs of well-being and social
+    design in the environment.
+  accessed:
+    - year: 2021
+      month: 12
+      day: 6
+  author:
+    - family: Memmott
+      given: Paul
+    - family: Keys
+      given: Cathy
+  citation-key: memmott:2015redefining58
+  container-title: Architectural Science Review
+  DOI: 10.1080/00038628.2015.1032210
+  ISSN: 0003-8628
+  issue: '4'
+  issued:
+    - year: 2015
+      month: 10
+      day: 2
+  language: en
+  page: 278-289
+  publisher: Taylor & Francis
+  source: Taylor and Francis+NEJM
+  title: >-
+    Redefining architecture to accommodate cultural difference: designing for
+    cultural sustainability
+  title-short: Redefining architecture to accommodate cultural difference
+  type: article-journal
+  URL: https://doi.org/10.1080/00038628.2015.1032210
+  volume: '58'
 
 - id: merriman:1973parallel31
   accessed:
@@ -5221,6 +5733,59 @@ references:
   title-short: Antiquarismo e história
   type: book
 
+- id: oosthuizen:2013hierarchy45
+  accessed:
+    - year: 2020
+      month: 9
+      day: 17
+  author:
+    - family: Oosthuizen
+      given: Susan
+  citation-key: oosthuizen:2013hierarchy45
+  container-title: World Archaeology
+  container-title-short: World Archaeology
+  DOI: 10.1080/00438243.2013.847634
+  ISSN: 0043-8243, 1470-1375
+  issue: '5'
+  issued:
+    - year: 2013
+      month: 12
+  language: en
+  page: 714-729
+  source: DOI.org (Crossref)
+  title: 'Beyond hierarchy: the archaeology of collective governance'
+  title-short: Beyond hierarchy
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/abs/10.1080/00438243.2013.847634
+  volume: '45'
+
+- id: oosthuizen:2016hierarchy48
+  accessed:
+    - year: 2020
+      month: 9
+      day: 17
+  author:
+    - family: Oosthuizen
+      given: Susan
+  citation-key: oosthuizen:2016hierarchy48
+  container-title: World Archaeology
+  container-title-short: World Archaeology
+  DOI: 10.1080/00438243.2016.1180261
+  ISSN: 0043-8243, 1470-1375
+  issue: '3'
+  issued:
+    - year: 2016
+      month: 5
+      day: 26
+  language: en
+  page: 381-394
+  source: DOI.org (Crossref)
+  title: 'Beyond hierarchy: archaeology, common rights and social identity'
+  title-short: Beyond hierarchy
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/full/10.1080/00438243.2016.1180261
+  volume: '48'
+
 - id: pacht:1963art105
   author:
     - family: Pächt
@@ -5315,6 +5880,29 @@ references:
   type: article-journal
   URL: https://www.mdpi.com/2409-9252/1/1/4
   volume: '1'
+
+- id: perotti:2001archeologia
+  author:
+    - family: Perotti
+      given: Piero
+    - family: Quirós Castillo
+      given: Antonio
+  citation-key: perotti:2001archeologia
+  editor:
+    - family: Brogiolo
+      given: Gian Pietro
+  event: II Congresso Nazionale di Archeologia Medievale
+  event-place: 'Brescia : Firenze'
+  issued:
+    - year: 2001
+  language: it
+  page: 377-380
+  publisher: 'Società di Archeologi Medievisti Italiani : All’Insegna del Giglio'
+  publisher-place: 'Brescia : Firenze'
+  title: >-
+    Archeologia dell’architettura e storia dell’architettura: due discipline a
+    confronto
+  type: paper-conference
 
 - id: pevsner:1989history
   author:
@@ -6280,6 +6868,25 @@ references:
   title-short: World antiquarianism
   type: book
 
+- id: schuller:2002building
+  citation-key: schuller:2002building
+  collection-number: '7'
+  collection-title: Monuments and sites New series
+  editor:
+    - family: Schuller
+      given: Manfred
+  event-place: Paris
+  ISBN: 978-3-87490-677-7
+  issued:
+    - year: 2002
+  language: en
+  number-of-pages: '91'
+  publisher: Icomos
+  publisher-place: Paris
+  source: K10plus ISBN
+  title: Building archaeology
+  type: book
+
 - id: scruton:2009beauty
   author:
     - family: Scruton
@@ -6395,6 +7002,29 @@ references:
       given: Michael
   type: book
 
+- id: shanks:1992re-constructing
+  author:
+    - family: Shanks
+      given: Michael
+    - family: Tilley
+      given: Christopher Y.
+  call-number: CC72 .S5 1992
+  citation-key: shanks:1992re-constructing
+  collection-title: New studies in archaeology
+  edition: '2'
+  event-place: London ; New York
+  ISBN: 978-0-415-08870-1
+  issued:
+    - year: 1992
+  language: en
+  number-of-pages: '287'
+  publisher: Routledge
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: 'Re-constructing archaeology: theory and practice'
+  title-short: Re-constructing archaeology
+  type: book
+
 - id: smith:1978dome
   author:
     - family: Smith
@@ -6414,6 +7044,78 @@ references:
   title: 'The dome: a study in the history of ideas'
   title-short: The dome
   type: book
+
+- id: steadman:2015archaeology
+  abstract: >-
+    "This volume is the first text to focus specifically on the archaeology of
+    domestic architecture. Covering major theoretical and methodological
+    developments over recent decades in areas like social institutions,
+    settlement types, gender, status, and power, this book addresses the
+    developing understanding of where and how people in the past created and
+    used domestic space. It will be a useful synthesis for scholars and an ideal
+    text for advanced undergraduate and graduate courses in archaeology and
+    architecture. The book: covers the relationship of architectural decisions
+    of ancient peoples with our understanding of social and cultural
+    institutions; includes cases from every continent and all time periods--from
+    the Paleolithic of Europe to present-day African villages; is ideal for the
+    growing number of courses on household archaeology, social archaeology, and
+    historical and vernacular architecture"--
+  author:
+    - family: Steadman
+      given: Sharon R.
+  call-number: NA7105 .S73 2015
+  citation-key: steadman:2015archaeology
+  event-place: Walnut Creek, Cal.
+  ISBN: 978-1-61132-282-8 978-1-61132-283-5
+  issued:
+    - year: 2015
+  language: en
+  number-of-pages: '393'
+  publisher: Left Coast
+  publisher-place: Walnut Creek, Cal.
+  source: Library of Congress ISBN
+  title: Archaeology of domestic architecture and the human use of space
+  type: book
+
+- id: steadman:2016classification27
+  abstract: >-
+    A classification of built forms is presented. It is based on a study of
+    buildings surveyed at 3350 addresses in four English towns and has been
+    designed for use...
+  accessed:
+    - year: 2020
+      month: 7
+      day: 11
+  archive_location: 'Sage UK: London, England'
+  author:
+    - family: Steadman
+      given: Philip
+    - family: Bruhns
+      given: Harry R.
+    - family: Holtier
+      given: Senino
+    - family: Gakovic
+      given: Bratislav
+    - family: Rickaby
+      given: Peter A.
+    - family: Brown
+      given: Frank E.
+  citation-key: steadman:2016classification27
+  container-title: 'Environment and Planning B: Planning and Design'
+  DOI: 10.1068/bst7
+  issued:
+    - year: 2016
+      month: 11
+      day: 30
+  language: en
+  page: 73-91
+  publisher: 'SAGE PublicationsSage UK: London, England'
+  source: journals.sagepub.com
+  title: A classification of built forms
+  title-short: A classification of built forms
+  type: article-journal
+  URL: https://journals.sagepub.com/doi/10.1068/bst7
+  volume: '27'
 
 - id: stoppani:2010lhistoire
   author:
@@ -6898,6 +7600,45 @@ references:
   title-short: Modern to contemporary
   type: article-journal
   URL: http://polired.upm.es/index.php/cuadernodenotas/article/view/4259
+
+- id: vellinga:2006engaging
+  abstract: >-
+    The issues surrounding the function and meaning of vernacular architecture
+    in the twenty-first century are complex and extensive. Taking a
+    distinctively rigorous theoretical approach, this book considers these
+    issues from a number of perspectives, broadening current debate to a wider
+    multidisciplinary audience. These collected essays from the leading experts
+    in the field focus on theory, education and practice in this essential
+    sector of architecture, and help to formulate solutions to the
+    environmental, disaster management and housing challenges facing the global
+    community today.
+  author:
+    - family: Vellinga
+      given: Marcel
+  call-number: NA208 .V48 2006
+  citation-key: vellinga:2006engaging
+  container-title: >-
+    Vernacular architecture in the twenty-first century: theory, education and
+    practice
+  editor:
+    - family: Asquith
+      given: Lindsay
+    - family: Vellinga
+      given: Marcel
+  event-place: London ; New York
+  ISBN: 978-0-415-35781-4 978-0-415-35795-1 978-0-203-00386-2
+  issued:
+    - year: 2006
+  language: en
+  page: 81-94
+  publisher: Taylor & Francis
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: >-
+    Engaging the future: vernacular architecture studies in the twenty-first
+    century
+  title-short: Engaging the future
+  type: chapter
 
 - id: vidler:1998idea
   author:
