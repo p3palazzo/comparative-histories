@@ -301,6 +301,3 @@ to do so has led not only to an uneasy coexistence between history and
 its supporting fields, but even to the continued creeping of Idealist
 assumptions into historical narratives.
 
-[^1]: @durm:1910baukunst; @chipiez:1876histoire. For a convincing
-    archaeology of the development of the Doric order, see
-    @barletta:2009origins.
