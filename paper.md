@@ -301,3 +301,5 @@ to do so has led not only to an uneasy coexistence between history and
 its supporting fields, but even to the continued creeping of Idealist
 assumptions into historical narratives.
 
+# Notes #
+
