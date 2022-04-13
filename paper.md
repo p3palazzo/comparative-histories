@@ -18,7 +18,7 @@ abstract: >
   acknowledge disciplinary boundaries. Whereas critical history may lay
   claim, nowadays, to being the only proper form of historiography,
   comparative histories were more closely linked to the methods and
-  categorizations of the discipline of architecture. Some recent
+  categorizations of the discipline of architecture. Some 21^st^-century
   architectural history textbooks, committed as they were to the
   critical method, nevertheless allowed Idealistic determinism to creep
   into their narrative structure. I argue this creep is not a
@@ -59,7 +59,7 @@ form *history* at all. This notwithstanding, I argue the comparative form has a
 stronger claim to being *architecture*. This brings up a long-standing
 paradox regarding the place of architectural history in professional
 education and practice. I discuss how this paradox plays out in a few
-recent textbooks that attempted to distance themselves from the
+21^st^-century textbooks that attempted to distance themselves from the
 comparative method. Then, I look at other disciplinary methods used in
 the study of past architecture and their relation to historical
 criticism.
@@ -277,7 +277,7 @@ from critical history deserting certain subjects or rejecting
 contamination by operative requirements. In other cases, however,
 Idealism shows in unstated assumptions or expedients in works that
 otherwise adopt a critical method. We have thus seen
-how two recent textbooks, *A Global History of Architecture* and
+how two 21^st^-century textbooks, *A Global History of Architecture* and
 *Architecture since 1400*, had mixed results in dismantling disciplinary narratives.
 Even as these two books explicitly reject the Eurocentric *argument* for
 an evolutionist history, their approaches to collecting buildings and
