@@ -2384,7 +2384,7 @@ references:
 - id: deplazes:2005constructing
   call-number: TA403.6 .C659 2005
   citation-key: deplazes:2005constructing
-  edition: 2^nd^ ed.
+  edition: '2'
   editor:
     - family: Deplazes
       given: Andrea
@@ -2996,6 +2996,7 @@ references:
   title: >-
     A history of architecture on the comparative method for the student,
     craftsman, and amateur
+  title-short: A history of architecture
   type: book
   URL: http://archive.org/details/historyofarchite00flet
 
@@ -3610,8 +3611,8 @@ references:
   page: 335-345
   source: DOI.org (Crossref)
   title: >-
-    The teaching of architectural history and theory in belgium and the
-    netherlands
+    The teaching of architectural history and theory in Belgium and the
+    Netherlands
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/991787
   volume: '61'
@@ -4649,7 +4650,7 @@ references:
   language: fr
   page: '205'
   source: Crossref
-  title: Dans l'oeil du rétroviseur. Pour une histoire relativiste
+  title: Dans l'œil du rétroviseur. Pour une histoire relativiste
   title-short: Dans l'oeil du rétroviseur
   type: article-journal
   URL: https://www.jstor.org/stable/1483689?origin=crossref
