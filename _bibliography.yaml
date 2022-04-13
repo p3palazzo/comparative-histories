@@ -423,7 +423,7 @@ references:
   number-of-pages: '19'
   page: 517-535
   publisher: Routledge
-  title: 'Archaeology of architecture: Buildings archaeology'
+  title: 'Archaeology of architecture: buildings archaeology'
   title-short: Archaeology of architecture
   type: chapter
 
@@ -4656,6 +4656,41 @@ references:
   URL: https://www.jstor.org/stable/1483689?origin=crossref
   volume: '23'
 
+- id: kail:2003vous150151
+  abstract: >-
+    By returning to the theme of the presence in the world as the lynch pin of
+    materialism, we may identify the conditions for the foundation of a strictly
+    anti-naturalist materialism. This thematic eliminates a sterile
+    confrontation of subject and object, and simultaneously lends support to the
+    following two propositions : the world is chronologically first ; the
+    subject is logically first. Materialism free of any naturalism thus opens
+    the way to a political practice that goes beyond a simple logic of
+    emancipation, in favor of a norm promising true liberation.
+  accessed:
+    - year: 2022
+      month: 4
+      day: 13
+  author:
+    - family: Kail
+      given: Michel
+  citation-key: kail:2003vous150151
+  container-title: L'Homme & la Société
+  DOI: 10.3917/lhs.150.0159
+  ISSN: 0018-4306
+  issue: '4'
+  issued:
+    - year: 2003
+      month: 11
+      day: 15
+  language: fr
+  page: 159-201
+  publisher: L'Harmattan
+  source: www.cairn.info
+  title: Vous avez dit matérialisme !
+  type: article-journal
+  URL: https://www.cairn.info/revue-l-homme-et-la-societe-2003-4-page-159.htm
+  volume: 150/151
+
 - id: kaufmann:1951hegel
   author:
     - family: Kaufmann
@@ -5239,6 +5274,24 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/431432?origin=crossref
   volume: '52'
+
+- id: mallgrave:2017companions
+  call-number: NA200 .C64 2017
+  citation-key: mallgrave:2017companions
+  collection-editor:
+    - family: Mallgrave
+      given: Harry Francis
+  event-place: Chichester, West Sussex ; Malden, Mass.
+  ISBN: 978-1-4443-3851-5
+  issued:
+    - year: 2017
+  language: en
+  number-of-volumes: '4'
+  publisher: Wiley Blackwell
+  publisher-place: Chichester, West Sussex ; Malden, Mass.
+  source: Library of Congress ISBN
+  title: The companions to the history of architecture
+  type: book
 
 - id: mambriani:2018storiografia
   abstract: >-
@@ -5906,6 +5959,42 @@ references:
   type: article-journal
   URL: https://www.tandfonline.com/doi/full/10.1080/00438243.2016.1180261
   volume: '48'
+
+- id: ozkan:2006traditionalism
+  abstract: >-
+    The issues surrounding the function and meaning of vernacular architecture
+    in the twenty-first century are complex and extensive. Taking a
+    distinctively rigorous theoretical approach, this book considers these
+    issues from a number of perspectives, broadening current debate to a wider
+    multidisciplinary audience. These collected essays from the leading experts
+    in the field focus on theory, education and practice in this essential
+    sector of architecture, and help to formulate solutions to the
+    environmental, disaster management and housing challenges facing the global
+    community today.
+  author:
+    - family: Özkan
+      given: Suha
+  call-number: NA208 .V48 2006
+  citation-key: ozkan:2006traditionalism
+  container-title: >-
+    Vernacular architecture in the twenty-first century: theory, education and
+    practice
+  editor:
+    - family: Asquith
+      given: Lindsay
+    - family: Vellinga
+      given: Marcel
+  event-place: London ; New York
+  ISBN: 978-0-415-35781-4 978-0-415-35795-1 978-0-203-00386-2
+  issued:
+    - year: 2006
+  language: en
+  page: 97-109
+  publisher: Taylor & Francis
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: Traditionalism and vernacular architecture in the twenty-first century
+  type: chapter
 
 - id: pacht:1963art105
   author:
@@ -6623,6 +6712,20 @@ references:
   URL: >-
     https://online.ucpress.edu/jsah/article/77/4/388/60312/The-Hidden-Hand-Edward-Said-s-Orientalism-and
   volume: '77'
+
+- id: reframing:2022
+  accessed:
+    - year: 2022
+      month: 1
+      day: 30
+  citation-key: reframing:2022
+  container-title: SmartHistory
+  issued:
+    - year: 2022
+  language: en
+  title: Reframing Art History
+  type: webpage
+  URL: https://smarthistory.org/reframing-art-history/
 
 - id: reveyron:2002lapport
   accessed:
