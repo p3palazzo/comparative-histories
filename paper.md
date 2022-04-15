@@ -90,22 +90,22 @@ since it was by means of historical classifications, wrote Baydar
 Gülsum, that "the boundary between the inner and outer worlds of architecture
 is carefully maintained for the purposes of disciplinary regulation and
 control" [@baydar:1998postcolonial, 8]. Although styles were the most
-conspicuous of classifications, comparative histories insisted on how
+conspicuous of classifications ([@Fig:treearch]), comparative histories insisted on how
 architects had balanced a variety of social and material requirements.
 Consider the following statements drawn from Fergusson, Fletcher, and
 Choisy respectively:
 
 > Another refinement [in Greek columns] was making all the columns slope
 > slightly inwards, *so as to give an idea of strength and support to
-> the whole.* [@fergusson:1855illustrated1, 269]
+> the whole.* [@fergusson:1855illustrated1, 269] [[@Fig:fergusson]]
 
 > The main entrance [of the English Gothic church] was frequently by a
 > south-western porch, *acting as a screen against the cold winds*...
-> [@fletcher:1905history, 299]
+> [@fletcher:1905history, 299] [[@Fig:fletcher]]
 
-> Most romanesque barrel vaults have their intrados broken up at regular
-> intervals by ribs ... *these ribs were strengthening to
-> brace thin vaults.* [@choisy:1899histoire2, 150, my translation]
+> Most Romanesque barrel vaults have their intrados broken up at regular
+> intervals by ribs ... *these ribs were strengthening to brace thin
+> vaults.* [@choisy:1899histoire 2:150, my translation] [[@Fig:choisy]]
 
 In each case, a stylistic motif (roman text) is followed by a
 rationale for its existence, in the form of an aesthetic, functional, or
@@ -320,4 +320,12 @@ its supporting fields, but even to the continued creeping of Idealist
 assumptions into historical narratives.
 
 # Notes #
+
+![The tree of architecture, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed. (1905)](media/figure-1.tif){#fig:treearch}
+
+![Greek Doric columns, from James Fergusson's *The Illustrated Handbook of Architecture*, 1:268 (1855)](media/figure-2.tif){#fig:fergusson}
+
+![Comparative plans of English cathedrals, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed., 300--1 (1905)](media/figure-3.tif){#fig:fletcher}
+
+![Romanesque ribbed vaults, from Auguste Choisy's *Histoire de l'architecture* 148--50 (1899)](media/figure-4.tif){#fig:choisy}
 
