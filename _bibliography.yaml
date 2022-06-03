@@ -710,6 +710,7 @@ references:
   author:
     - family: Baydar Nalbantoğlu
       given: Gülsüm
+    - literal: Nalbantoḡlu
   citation-key: baydar:1998postcolonial
   container-title: Assemblage
   DOI: 10.2307/3171235
@@ -2521,7 +2522,7 @@ references:
   event-place: Leipzig
   issued:
     - year: 1910
-  language: German
+  language: de
   number-of-pages: '602'
   publisher: A. Kröner
   publisher-place: Leipzig
@@ -5229,7 +5230,7 @@ references:
   type: chapter
   URL: https://brill.com/view/book/9789042032064/B9789042032064-s003.xml
 
-- id: maass:1969where
+- id: maass:1969where28
   accessed:
     - year: 2012
       month: 12
@@ -5237,7 +5238,7 @@ references:
   author:
     - family: Maass
       given: John
-  citation-key: maass:1969where
+  citation-key: maass:1969where28
   container-title: The Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/988523
@@ -6209,7 +6210,7 @@ references:
   citation-key: pinon:2006teoria
   collection-number: '24'
   collection-title: Col·lecció d'Arquitectura
-  edition: 1. ed
+  edition: '1'
   event-place: Barcelona
   ISBN: 978-84-8301-847-7
   issued:
