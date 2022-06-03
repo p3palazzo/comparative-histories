@@ -14,8 +14,8 @@ abstract: >
   of the Idealist philosophy of history and combined its deterministic
   narrative with a disciplinary bounding of architecture that followed
   modern assumptions about decision-making in design. Critical history,
-  on the other hand, is a materialistic approach that does not
-  acknowledge disciplinary boundaries. Whereas critical history may lay
+  on the other hand, is a materialistic approach that sees the discipline
+  as one aspect within broader social forces. Whereas critical history may lay
   claim, nowadays, to being the only proper form of historiography,
   comparative histories were more closely linked to the methods and
   categorizations of the discipline of architecture. Some 21^st^-century
@@ -64,6 +64,14 @@ comparative method. Then, I look at other disciplinary methods used in
 the study of past architecture and their relation to historical
 criticism.
 
+Idealism is known for preferring the general concept to the individual
+example [@ghirardo:2008review67]. More importantly, however, it is
+predicated on the subject's historically determined agency through the
+act of construing concepts. Materialism is evidently the brainchild of
+this assumption [@kail:2003vous150151, 170]. In practice, materialist
+historiography has come to mean criticism emphasizing effective
+socio-economic change, rather than conceptual worldviews.
+
 # Comparative History as Architecture #
 
 Comparative histories of architecture were developed in 19^th^-century
@@ -76,29 +84,28 @@ Banister Fletchers' *History of Architecture on the Comparative Method*
 characteristic styles [@barberot:1891histoire1, v] determined by the
 constraints of the natural and social context.
 
-Idealism is known for preferring the general concept to the individual
-example [@ghirardo:2008review67]. At the same time, comparative
+Comparative
 histories went to great lengths to explain the agency of architects,
 since it was by means of historical classifications, wrote Baydar
 Gülsum, that "the boundary between the inner and outer worlds of architecture
 is carefully maintained for the purposes of disciplinary regulation and
 control" [@baydar:1998postcolonial, 8]. Although styles were the most
-conspicuous of classifications, comparative histories insisted on how
+conspicuous of classifications ([@Fig:treearch]), comparative histories insisted on how
 architects had balanced a variety of social and material requirements.
 Consider the following statements drawn from Fergusson, Fletcher, and
 Choisy respectively:
 
 > Another refinement [in Greek columns] was making all the columns slope
 > slightly inwards, *so as to give an idea of strength and support to
-> the whole.* [@fergusson:1855illustrated1, 269]
+> the whole.* [@fergusson:1855illustrated1, 269] [[@Fig:fergusson]]
 
 > The main entrance [of the English Gothic church] was frequently by a
 > south-western porch, *acting as a screen against the cold winds*...
-> [@fletcher:1905history, 299]
+> [@fletcher:1905history, 299] [[@Fig:fletcher]]
 
-> Most romanesque barrel vaults have their intrados broken up at regular
-> intervals by ribs ... *these ribs were strengthening to
-> brace thin vaults.* [@choisy:1899histoire2, 150, my translation]
+> Most Romanesque barrel vaults have their intrados broken up at regular
+> intervals by ribs ... *these ribs were strengthening to brace thin
+> vaults.* [@choisy:1899histoire 2:150, my translation] [[@Fig:choisy]]
 
 In each case, a stylistic motif (roman text) is followed by a
 rationale for its existence, in the form of an aesthetic, functional, or
@@ -143,9 +150,10 @@ between difference and diversity
 Bozdoğan had written, resists naturalizing cultural differences as an
 ethnographic exhibition of diversity [@bozdogan:1999architectural, 210].
 
-Given this genealogy of critical approaches to global history, let us
-look at how *A Global History* presented its subject matter.
-The book chained discrete examples in
+Given this genealogy of critical approaches to global history, it is
+perhaps disappointing that *A Global History* does just that sort of
+naturalizing the juxtaposition of cultural difference.
+The book chains discrete examples in
 simple chronological order, under chapter headings with numbered years
 rather than the conventional culture--epochs of Western art.
 *A Global History of Architecture* is a disciplinary textbook geared to
@@ -190,8 +198,10 @@ role of buildings: of the Gate of Felicity in Topkapı palace, she said
 was never the whole story here"
 [@james-chakraborty:2014architecture, 95].
 
-*Architecture since 1400* is therefore history *through* architecture
-more than history *of* architecture, opening up a web of possible
+Therefore, whereas *A Global History* packaged a critical project for
+easy consumption in architectural education, *Architecture since 1400*
+took the less disciplinary path of doing history *through* architecture
+more than history *of* architecture. This opened up a web of possible
 connections beyond the conventional boundaries of the profession. That
 said, some connections are so far-fetched as to seem arbitrary, as in
 the comparison of Versailles to coeval site plans:
@@ -208,11 +218,11 @@ discounting its very subject matter. For all the decentering of European
 assumptions in James-Chakraborty's book, its final premise sounds
 off-key: "rather than merely reflecting culture, architecture
 contributes to crafting it" [@james-chakraborty:2014architecture, xix].
-But if the latter manual downplays the disciplinary aspects of
-architecture---visual composition and professional tradition---, how can
+But if the latter manual downplayed the disciplinary aspects of
+architecture---visual composition and professional tradition---, how could
 it single out an architecture that crafts culture while standing outside
-it? The answer, I believe, is that behind its critical method lies an
-Idealistic philosophy of history: namely, modernization and historicism
+it? The answer, I believe, is that behind its critical method lies a
+philosophy of history: namely, modernization and historicism
 as legitimation for a transcendental concept of architecture
 [@hoekstra:2014modernity2, 2].
 
@@ -271,25 +281,33 @@ labor" [@tafuri:1980sfera, 28] shows no sign of coming to pass.
 
 # Conclusion #
 
-Despite the ever widening reach of criticism, then, Idealist philosophies
+Despite the ever-widening reach of criticism, then, Idealist philosophies
 of history keep creeping into architectural scholarship. This may stem
 from critical history deserting certain subjects or rejecting
 contamination by operative requirements. In other cases, however,
 Idealism shows in unstated assumptions or expedients in works that
 otherwise adopt a critical method. We have thus seen
-how two 21^st^-century textbooks, *A Global History of Architecture* and
-*Architecture since 1400*, had mixed results in dismantling disciplinary narratives.
+how *A Global History of Architecture* and *Architecture since 1400* had
+mixed results in dismantling disciplinary narratives.
 Even as these two books explicitly reject the Eurocentric *argument* for
 an evolutionist history, their approaches to collecting buildings and
 societies uphold the Eurocentric *structure* of a universal architecture
 determined by the Idealistic framework of change through linear time.
 
-Moreover, critical history of architecture today functions
+The latest editions of Banister Fletcher's textbook, in contrast, have
+attempted to break free from this structure by shunning the narrative
+unity provided by coherent authorship in favor of isolated chapters
+written by specialists. This is unusual in the textbook genre and found
+more often in *Companions* [@mallgrave:2017companions], although the
+SmartHistory project *Reframing Art History* is another, promising
+example of this approach [@reframing:2022].
+However, critical history of architecture today functions
 in a broad landscape where it interacts with other, more or less
 disciplinary fields. The points of contact between these disciplines
 and history expose conflicts between the philological toolkit drawn from
 the professional field of architecture and history's critical project of
-steering away from disciplinary boundaries.
+steering away from disciplinary boundaries and unitary narratives.
+
 Much of the disciplinary knowledge about buildings of the past does not,
 indeed, make the cut of critical history. This knowledge, however,
 continues to provide source material for writing histories of
@@ -300,4 +318,14 @@ legitimacy of disciplinary knowledge of the architectural past. Failure
 to do so has led not only to an uneasy coexistence between history and
 its supporting fields, but even to the continued creeping of Idealist
 assumptions into historical narratives.
+
+# Notes #
+
+![The tree of architecture, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed. (1905)](media/figure-1.tif){#fig:treearch}
+
+![Greek Doric columns, from James Fergusson's *The Illustrated Handbook of Architecture*, 1:268 (1855)](media/figure-2.tif){#fig:fergusson}
+
+![Comparative plans of English cathedrals, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed., 300--1 (1905)](media/figure-3.tif){#fig:fletcher}
+
+![Romanesque ribbed vaults, from Auguste Choisy's *Histoire de l'architecture* 148--50 (1899)](media/figure-4.tif){#fig:choisy}
 
