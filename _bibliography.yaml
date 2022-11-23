@@ -151,6 +151,7 @@ references:
       month: 1
       day: 1
   language: en-GB
+  license: Copyright © 1982 Yale University, School of Architecture
   page: 109-117
   source: JSTOR
   title: >-
@@ -570,6 +571,7 @@ references:
   issued:
     - year: 1891
   language: fr-FR
+  license: domaine public
   number-of-volumes: '2'
   publisher: Baudry
   publisher-place: Paris
@@ -595,6 +597,7 @@ references:
   issued:
     - year: 1891
   language: fr-FR
+  license: domaine public
   publisher: Baudry
   publisher-place: Paris
   source: gallica.bnf.fr
@@ -621,6 +624,7 @@ references:
   issued:
     - year: 1891
   language: fr-FR
+  license: domaine public
   publisher: Baudry
   publisher-place: Paris
   source: gallica.bnf.fr
@@ -648,6 +652,7 @@ references:
   issued:
     - year: 1912
   language: fr
+  license: domaine public
   publisher: Béranger
   publisher-place: 'Paris : Liège'
   source: gallica.bnf.fr
@@ -1164,6 +1169,7 @@ references:
     - year: 1999
       month: 5
   language: en-US
+  license: Copyright © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
   title: >-
@@ -1247,6 +1253,8 @@ references:
   collection-title: >-
     A history of architecture in all countries from the earliest times to the
     present day
+  contributor:
+    - literal: Robarts - University of Toronto
   event-place: London
   issued:
     - year: 1910
@@ -1280,6 +1288,8 @@ references:
   collection-title: >-
     A history of architecture in all countries from the earliest times to the
     present day
+  contributor:
+    - literal: Robarts - University of Toronto
   event-place: London
   issued:
     - year: 1910
@@ -1872,6 +1882,7 @@ references:
   issued:
     - year: 1943
   language: fr
+  license: domaine public
   publisher: Georges Baranger
   publisher-place: Paris
   source: gallica.bnf.fr
@@ -1897,6 +1908,7 @@ references:
   issued:
     - year: 1943
   language: fr
+  license: domaine public
   publisher: Georges Baranger
   publisher-place: Paris
   source: gallica.bnf.fr
@@ -2179,6 +2191,7 @@ references:
   issued:
     - year: 1822
   language: fr
+  license: domaine public
   publisher: Firmin Didot
   publisher-place: Paris
   source: gallica.bnf.fr
@@ -2199,6 +2212,7 @@ references:
   issued:
     - year: 1849
   language: fr-FR
+  license: domaine public
   publisher: A. Logerot
   publisher-place: Paris
   source: Gallica
@@ -2252,6 +2266,10 @@ references:
   citation-key: croce:1948teoria
   collection-number: '4'
   collection-title: Filosofia dello spirito
+  contributor:
+    - family: Sá
+      given: Pedro de Moura
+      dropping-particle: e
   edition: 6ª ed. riveduta
   event-place: Bari
   issued:
@@ -2448,7 +2466,7 @@ references:
     - year: 1805
   language: fr
   number-of-volumes: '2'
-  publisher: l'auteur
+  publisher: Chez l'auteur
   publisher-place: Paris
   source: BnF Catalogue général (http://catalogue.bnf.fr)
   title: Précis des leçons d'architecture données à l'École polytechnique
@@ -2474,7 +2492,7 @@ references:
   title-short: Partie graphique des cours d'architecture
   type: book
 
-- id: durand:1825precis
+- id: durand:1825precis2
   accessed:
     - year: 2015
       month: 1
@@ -2482,11 +2500,12 @@ references:
   author:
     - family: Durand
       given: Jean-Nicolas-Louis
-  citation-key: durand:1825precis
+  citation-key: durand:1825precis2
   event-place: Paris
   issued:
     - year: 1825
   language: fr
+  license: domaine public
   publisher: Chez l'auteur
   publisher-place: Paris
   source: Gallica
@@ -2495,6 +2514,7 @@ references:
     J.-N.-L. Durand,...
   type: book
   URL: http://gallica.bnf.fr/ark:/12148/bpt6k5762681g
+  volume: '2'
 
 - id: durm:1910baukunst
   abstract: '26'
@@ -2609,6 +2629,7 @@ references:
       given: Jean-Pierre
   citation-key: epron:1997comprendre
   event-place: Paris
+  ISBN: 2-909283-29-1
   issued:
     - year: 1997
   language: fr
@@ -2921,6 +2942,8 @@ references:
       given: former owner DSI
   call-number: '39088008238313'
   citation-key: fischer:1725entwurff
+  contributor:
+    - literal: Smithsonian Libraries
   event-place: Leipzig
   issued:
     - year: 1725
@@ -3055,22 +3078,22 @@ references:
       day: 30
   author:
     - family: Florentino
-      given: R.
+      given: Rui
     - family: Correia
-      given: M.
+      given: Mariana
     - family: Sousa
-      given: G.
+      given: Goreti
     - family: Carlos
-      given: G.
+      given: Gilberto Duarte
   citation-key: florentino:2020vernacularXLIV-M-1-2020
   container-title: >-
     ISPRS - International Archives of the Photogrammetry, Remote Sensing and
     Spatial Information Sciences
   DOI: https://doi.org/10.5194/isprs-archives-XLIV-M-1-2020-159-2020
-  event: >-
+  event-title: >-
     HERITAGE2020 (3DPast | RISK-Terra) International Conference on Vernacular
     Architecture in World Heritage Sites. Risks and New Technologies (Volume
-    XLIV-M-1-2020) - 9&ndash;12 September 2020, Valencia, Spain
+    XLIV-M-1-2020) - 9–12 September 2020, Valencia, Spain
   ISSN: 1682-1750
   issued:
     - year: 2020
@@ -3128,6 +3151,8 @@ references:
       given: Paul
   call-number: SRLF_UCLA:LAGE-1334174
   citation-key: frankl:1914entwicklungsphasen
+  contributor:
+    - literal: University of California Libraries
   event-place: Leipzig, Berlin
   issued:
     - year: 1914
@@ -4135,6 +4160,28 @@ references:
       month: 12
       day: 24
   language: en
+  license: >-
+    Authors who publish with this journal agree to the following terms:   
+    Authors retain copyright and grant the journal right of first publication
+    with the work simultaneously licensed under a  Creative Commons Attribution
+    License  that allows others to share the work with an acknowledgement of the
+    work's authorship and initial publication in this journal.  Authors are able
+    to enter into separate, additional contractual arrangements for the
+    non-exclusive distribution of the journal's published version of the work
+    (e.g., post it to an institutional repository or publish it in a book), with
+    an acknowledgement of its initial publication in this journal.  Authors are
+    permitted and encouraged to post their work online (e.g., in institutional
+    repositories or on their website) prior to and during the submission
+    process, as it can lead to productive exchanges, as well as earlier and
+    greater citation of published work (See  The Effect of Open Access ).  All
+    third-party images reproduced on this journal are shared under Educational
+    Fair Use. For more information on  Educational Fair Use , please see  this
+    useful checklist prepared by Columbia University Libraries .   All
+    copyright  of third-party content posted here for research purposes belongs
+    to its original owners.  Unless otherwise stated all references to
+    characters and comic art presented on this journal are ©, ® or ™ of their
+    respective owners. No challenge to any owner’s rights is intended or should
+    be inferred.
   source: journal.eahn.org
   title: >-
     ‘Puisé aux meilleures sources’: textual and visual strategies of
@@ -4940,6 +4987,9 @@ references:
       given: Spiro
   call-number: NA200 .K65 1995
   citation-key: kostof:1995history
+  contributor:
+    - family: Castillo
+      given: Greg
   edition: '2'
   event-place: New York
   ISBN: 978-0-19-508378-1
@@ -5133,6 +5183,10 @@ references:
   call-number: '111.85'
   citation-key: lefebvre:1953contribution
   collection-title: Problèmes
+  contributor:
+    - family: Albuquerque
+      given: Luís
+      dropping-particle: de
   event-place: Paris
   issued:
     - year: 1953
@@ -5249,6 +5303,7 @@ references:
       month: 3
       day: 1
   language: en-US
+  license: Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
   title: Where architectural historians fear to tread
@@ -5777,6 +5832,9 @@ references:
     - family: Muratori
       given: Saverio
   citation-key: muratori:1978metodologia
+  contributor:
+    - family: Marinucci
+      given: Guido
   event-place: Roma
   issued:
     - year: 1978
@@ -6088,6 +6146,7 @@ references:
     - year: 2021
       month: 3
   language: en
+  license: http://creativecommons.org/licenses/by/3.0/
   number: '1'
   page: 10-11
   publisher: Multidisciplinary Digital Publishing Institute
@@ -6107,8 +6166,8 @@ references:
   editor:
     - family: Brogiolo
       given: Gian Pietro
-  event: II Congresso Nazionale di Archeologia Medievale
   event-place: 'Brescia : Firenze'
+  event-title: II Congresso Nazionale di Archeologia Medievale
   issued:
     - year: 2001
   language: it
@@ -6155,6 +6214,7 @@ references:
     - year: 1866
     - year: 1868
   language: fr
+  license: domaine public
   publisher: E. Devienne
   publisher-place: Paris
   source: Gallica
@@ -6268,6 +6328,7 @@ references:
     - year: 1999
       month: 5
   language: en
+  license: Copyright © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 216–225
   source: JSTOR
   title: 'Historicizing pedagogy: a critique of Kostof''s *A History of Architecture*'
@@ -6825,18 +6886,31 @@ references:
   type: book
   URL: http://archive.org/details/in.ernet.dli.2015.70527
 
-- id: riegl:1992questions
+- id: riegl:2002questions
   author:
     - family: Riegl
-      given: Alois
-  citation-key: riegl:1992questions
+      given: Aloïs
+  call-number: '745'
+  citation-key: riegl:2002questions
+  collection-title: Collection 35-37
+  contributor:
+    - family: Damisch
+      given: Hubert
   event-place: Paris
+  ISBN: 978-2-85025-831-2
   issued:
-    - year: 1992
-  language: fr-FR
+    - year: 2002
+  language: fr
   publisher: Hazan
   publisher-place: Paris
-  title: "Questions de style\_: fondements d’une histoire de l’ornementation"
+  source: BnF ISBN
+  title: 'Questions de style: fondements d''une histoire de l''ornementation'
+  title-short: Questions de style
+  translator:
+    - family: Baatsch
+      given: Henri-Alexis
+    - family: Rolland
+      given: Françoise
   type: book
 
 - id: rose:1984marxs
@@ -6905,6 +6979,8 @@ references:
     - family: Roth
       given: Leland M.
   citation-key: roth:1993understanding
+  contributor:
+    - literal: Internet Archive
   event-place: New York
   issued:
     - year: 1993
@@ -7018,6 +7094,7 @@ references:
       month: 4
       day: 1
   language: en
+  license: Copyright © 1954 The Burlington Magazine Publications Ltd.
   page: 123-124
   source: JSTOR
   title: Siegfried Giedion and the notion of style
@@ -7229,6 +7306,8 @@ references:
       given: Gottfried
   call-number: '85776'
   citation-key: semper:1860stil
+  contributor:
+    - literal: Getty Research Institute
   event-place: Frankfurt am Main
   issued:
     - year: 1860
@@ -7560,6 +7639,20 @@ references:
       given: Hippolyte
   call-number: '9928008590001551'
   citation-key: taine:1865philosophie
+  contributor:
+    - family: Duret
+      given: Theodore
+    - family: Curtiss
+      given: Mina Kirstein
+    - family: Manet
+      given: Edouard
+    - family: Tabarant
+      given: A. (Adolphe)
+    - family: Bailliere
+      given: Germer
+    - family: Martinet
+      given: Emile
+    - literal: Getty Research Institute
   event-place: Paris
   issued:
     - year: 1865
@@ -7585,6 +7678,8 @@ references:
   call-number: DFK3971
   citation-key: taine:1867lideal
   collection-title: Leçons professées à l'école des Beaux-Arts
+  contributor:
+    - literal: Harold B. Lee Library
   event-place: Paris
   issued:
     - year: 1867
@@ -7828,6 +7923,8 @@ references:
     - family: Turner
       given: R. Gregory
   citation-key: turner:1986construction
+  contributor:
+    - literal: Internet Archive
   event-place: New York
   ISBN: 978-0-442-28309-4
   issued:
@@ -8109,13 +8206,14 @@ references:
   citation-key: wang:2018comparison
   container-title: 24th ISUF International Conference. Book of Papers
   DOI: 10.4995/ISUF2017.2017.5061
-  event: 24th ISUF International Conference. Book of Papers
+  event-title: 24th ISUF International Conference. Book of Papers
   ISBN: 978-84-9048-574-3
   issued:
     - year: 2018
       month: 4
       day: 20
   language: en
+  license: Reconocimiento - No comercial - Sin obra derivada (by-nc-nd)
   page: 167-175
   publisher: Editorial Universitat Politècnica de València
   source: riunet.upv.es
@@ -8307,6 +8405,8 @@ references:
       given: Heinrich
   call-number: '9928868980001551'
   citation-key: wolfflin:1888renaissance
+  contributor:
+    - literal: Getty Research Institute
   event-place: München
   issued:
     - year: 1888
