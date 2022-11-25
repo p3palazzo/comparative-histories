@@ -93,3 +93,19 @@ to do so has led not only to an uneasy coexistence between history and
 its supporting fields, but even to the continued creeping of Idealist
 assumptions into historical narratives.
 
+## Biographical note ##
+
+Pedro P. Palazzo is an architect, architectural historian, and historic
+preservationist specializing in the western Mediterranean and
+Portuguese-speaking world in the eighteenth and nineteenth centuries.
+His research explores the interfaces between traditional and modern
+construction as well as between the learned architecture of classicism
+and vernacular typologies.
+
+Pedro is associate professor of architectural history and theory at the
+University of Brasilia School of Architecture and Urbanism and was a
+visiting scholar at the University of Coimbra Center for Social Studies
+in 2019--2023. He was the District Historic Preservation and Museums
+Officer in Brasilia in 2016 and has been since 2021 a member of the
+Documentation committee of Icomos Brazil.
+
