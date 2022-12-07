@@ -1,7 +1,7 @@
 ---
 title: "Comparative Histories of Architecture: History, Architecture, or Idealism?"
 author: Pedro P. Palazzo
-date: 2022-11-24
+date: 2022-12-07
 tags:
 bibliography: _bibliography.yaml
 ---
@@ -23,62 +23,25 @@ historicist, hence the drift of current architectural historiography
 towards an ever greater emphasis on modernism.
 This brings up a long-standing
 paradox regarding the place of architectural history in professional
-education and practice.
-
-Comparative histories of architecture were developed in 19^th^-century
-Europe at the intersection of the Idealist philosophy of history and the
-modern discipline of architecture. Textbooks such as James Fergusson's
-*Illustrated Handbook of Architecture*,
-Auguste Choisy's *Histoire de l'architecture*, or
-Banister Fletchers' *History of Architecture on the Comparative Method*
-portrayed architectural history as a sequence of
-characteristic styles determined by the
+education and practice. Comparative histories of architecture
+portrayed architectural history as a
+sequence of characteristic styles determined by the
 constraints of the natural and social context.
-Comparative history was embedded into the European theory and practice
-of architecture, blending seamlessly with
-professional education.
 
 The critical historians' refutation of Idealism
 since the twentieth century disputed both the evolutionism and the
 disciplinary bounds of comparative history.
-Critical history arose as a denunciation of operative anachronism;
-criticism's emphasis on fragments not synthesis made interest in
-the disciplinary textbook falter.
 A major achievement of critical theorists was to dispel the belief in a
 universal standard for assessing different cultures. At the same time,
 architectural history must integrate the irreducible diversity of
 cultures into "global" surveys for consumption in the humanistic
 educational model of architecture schools in the Americas.
 
-This paradox shows in the narrative
-choices of a couple of recent, paradigm-shifting textbooks. One of them,
-*A Global History of Architecture* by Francis D. K. Ching, Mark
-Jarzombek, and Vikramāditya Prakāsh, evaded the
-Idealist narrative by juxtaposing examples in simple chronological
-order; in so doing, however, it reinforced the Idealist principle that only
-linear time underpins critical meaning. Kathleen James-Chakraborty, on
-the other hand, circumvented the historicist pitfall in her book
-*Architecture since 1400* by mostly restricting her work to cultures
-that are increasingly aware of their own history and modernization.
-
-Even more recent works, such as the
-21^st^ edition of so-called *Banister Fletcher's Global History of
-Architecture* or SmartHistory's *Reframing Art History*, attempted a way
-out of this conundrum by drifting away from the unified textbook and
-towards the "Companion" form. The effects of this approach on
-architectural history survey courses are yet to be seen.
-
 By confronting critical histories of architecture with
 the unapologetically disciplinary approach of comparative histories, we
 can begin to unpack the ways in which different forms of writing have
 been legitimized in different contexts as "proper" history or as
-"properly architectural" history. This brings other, more practical
-questions to the surface as well. For example, which
-other disciplinary approaches, such as vernacular studies or the
-archaeology of architecture, have also been sidelined
-by non-disciplinary criticism among historians? Can a survey be
-organized around some other criterion than chronological order or
-culture-epochs, yet remain intelligible and honest to its subject? For
+"properly architectural" history. For
 better or for worse, these questions show how much of the legacy of
 comparative history still bears upon the paradoxes of critical history.
 
