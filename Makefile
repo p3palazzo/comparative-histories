@@ -29,7 +29,7 @@ cv.pdf : cv.md cv.bib _chicago-cv.csl latex.yaml
 	$(PANDOC/LATEX) -d _spec/latex.yaml -o $@ $<
 	@echo "$< > $@"
 
-%.docx : %.md _spec/docx.yaml reference.docx
+%.docx : %.md _spec/docx.yaml _lib/reference.docx
 	$(PANDOC/CROSSREF) -d _spec/docx.yaml -o $@ $<
 	@echo "$< > $@"
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
