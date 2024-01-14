@@ -109,7 +109,7 @@ references:
   issue: '3'
   issued:
     - year: 2002
-  language: en-US
+  language: en
   page: 194–196
   source: JSTOR
   title: Against the interpretation of architecture
@@ -150,7 +150,7 @@ references:
     - year: 1982
       month: 1
       day: 1
-  language: en-GB
+  language: en
   license: Copyright © 1982 Yale University, School of Architecture
   page: 109-117
   source: JSTOR
@@ -259,7 +259,7 @@ references:
     - year: 2013
       month: 4
       day: 15
-  language: en-GB
+  language: en
   number-of-pages: '316'
   publisher: Routledge
   source: Google Books
@@ -298,9 +298,9 @@ references:
   ISBN: 978-0-415-25049-8 978-0-415-25050-4
   issued:
     - year: 2002
-  language: en-US
+  language: en
   number-of-pages: '229'
-  publisher: Routledge, Taylor & Francis Group
+  publisher: Routledge
   publisher-place: London ; New York
   source: Library of Congress ISBN
   title: Reading architectural history
@@ -581,34 +581,7 @@ references:
     anciens jusqu'à nos jours
   type: book
 
-- id: barberot:1891histoire1
-  abstract: >-
-    Histoire des styles d'architecture dans tous les pays, depuis les temps
-    anciens jusqu'à nos jours,. Tome 1 / par É. Barberot,... -- 1891 -- livre
-  accessed:
-    - year: 2021
-      month: 1
-      day: 19
-  author:
-    - family: Barberot
-      given: Étienne
-  citation-key: barberot:1891histoire1
-  event-place: Paris
-  issued:
-    - year: 1891
-  language: fr-FR
-  license: domaine public
-  publisher: Baudry
-  publisher-place: Paris
-  source: gallica.bnf.fr
-  title: >-
-    Histoire des styles d'architecture dans tous les pays, depuis les temps
-    anciens jusqu'à nos jours
-  type: book
-  URL: https://gallica.bnf.fr/ark:/12148/bpt6k6562416x
-  volume: '1'
-
-- id: barberot:1891histoire2
+- id: barberot:1891histoirea
   abstract: >-
     Histoire des styles d'architecture dans tous les pays, depuis les temps
     anciens jusqu'à nos jours,. Tome 2 / par É. Barberot,... -- 1891 -- livre
@@ -619,11 +592,11 @@ references:
   author:
     - family: Barberot
       given: Étienne
-  citation-key: barberot:1891histoire2
+  citation-key: barberot:1891histoirea
   event-place: Paris
   issued:
     - year: 1891
-  language: fr-FR
+  language: fr
   license: domaine public
   publisher: Baudry
   publisher-place: Paris
@@ -634,6 +607,33 @@ references:
   type: book
   URL: http://gallica.bnf.fr/ark:/12148/bpt6k6562417b
   volume: '2'
+
+- id: barberot:1891histoireb
+  abstract: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours,. Tome 1 / par É. Barberot,... -- 1891 -- livre
+  accessed:
+    - year: 2021
+      month: 1
+      day: 19
+  author:
+    - family: Barberot
+      given: Étienne
+  citation-key: barberot:1891histoireb
+  event-place: Paris
+  issued:
+    - year: 1891
+  language: fr
+  license: domaine public
+  publisher: Baudry
+  publisher-place: Paris
+  source: gallica.bnf.fr
+  title: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours
+  type: book
+  URL: https://gallica.bnf.fr/ark:/12148/bpt6k6562416x
+  volume: '1'
 
 - id: barberot:1912traite
   abstract: >-
@@ -660,7 +660,7 @@ references:
   type: book
   URL: https://gallica.bnf.fr/ark:/12148/bpt6k3239915
 
-- id: batie:1997incorporation6
+- id: batie:1997incorporation
   abstract: >-
     Current teaching methods for architectural history seldom embrace building
     technology as an essential component of study. Accepting the premise that
@@ -689,7 +689,7 @@ references:
   author:
     - family: Batie
       given: David L.
-  citation-key: batie:1997incorporation6
+  citation-key: batie:1997incorporation
   collection-title: 'Design computation: reasoning and collaboration'
   container-title: Automation in Construction
   container-title-short: Automation in Construction
@@ -705,7 +705,7 @@ references:
   source: ScienceDirect
   title: >-
     The incorporation of construction history in architectural history: the
-    <span class="smallcaps">HISTCON</span> interactive computer program
+    <span smallcaps="smallcaps">histcon</span> interactive computer program
   title-short: The incorporation of construction history in architectural history
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S0926580597000460
@@ -715,7 +715,6 @@ references:
   author:
     - family: Baydar Nalbantoğlu
       given: Gülsüm
-    - literal: Nalbantoḡlu
   citation-key: baydar:1998postcolonial
   container-title: Assemblage
   DOI: 10.2307/3171235
@@ -723,12 +722,12 @@ references:
   issue: '35'
   issued:
     - year: 1998
-  language: en-US
+  language: en
   page: 7-17
   source: JSTOR
   title: >-
     Toward postcolonial openings: rereading Sir Banister Fletcher's *History of
-    Architecture*
+    architecture*
   title-short: Toward Postcolonial Openings
   type: article-journal
   URL: http://www.jstor.org/stable/3171235
@@ -1168,7 +1167,7 @@ references:
   issued:
     - year: 1999
       month: 5
-  language: en-US
+  language: en
   license: Copyright © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
@@ -1233,7 +1232,7 @@ references:
   URL: http://www.jstor.org/stable/990453
   volume: '48'
 
-- id: burgess:1910history1
+- id: burgess:1910history
   abstract: 26 29
   accessed:
     - year: 2019
@@ -1245,7 +1244,7 @@ references:
     - family: Spiers
       given: Richard Phené
   call-number: AAK-2013
-  citation-key: burgess:1910history1
+  citation-key: burgess:1910history
   collection-editor:
     - family: Fergusson
       given: James
@@ -1258,7 +1257,7 @@ references:
   event-place: London
   issued:
     - year: 1910
-  language: en-GB
+  language: en
   number-of-pages: '526'
   publisher: J. Murray
   publisher-place: London
@@ -1268,7 +1267,7 @@ references:
   URL: http://archive.org/details/historyofindiane01ferguoft
   volume: '1'
 
-- id: burgess:1910history2
+- id: burgess:1910historya
   abstract: 26 29
   accessed:
     - year: 2019
@@ -1280,7 +1279,7 @@ references:
     - family: Spiers
       given: Richard Phené
   call-number: AAK-2013
-  citation-key: burgess:1910history2
+  citation-key: burgess:1910historya
   collection-editor:
     - family: Fergusson
       given: James
@@ -1293,7 +1292,7 @@ references:
   event-place: London
   issued:
     - year: 1910
-  language: en-GB
+  language: en
   number-of-pages: '648'
   publisher: J. Murray
   publisher-place: London
@@ -1317,7 +1316,7 @@ references:
   ISBN: 978-0-300-05215-2
   issued:
     - year: 1993
-  language: en-US
+  language: en
   number-of-pages: '248'
   publisher: Yale University Press
   publisher-place: New Haven
@@ -1380,7 +1379,7 @@ references:
   issue: '1'
   issued:
     - year: 1980
-  language: en-US
+  language: en
   page: '25'
   source: JSTOR
   title: History at the Ecole
@@ -1826,7 +1825,7 @@ references:
   event-place: Paris
   issued:
     - year: 1899
-  language: fr-FR
+  language: fr
   number-of-volumes: '2'
   publisher: Gauthier-Villars
   publisher-place: Paris
@@ -1841,7 +1840,7 @@ references:
   event-place: Paris
   issued:
     - year: 1899
-  language: fr-FR
+  language: fr
   publisher: Gauthier-Villars
   publisher-place: Paris
   title: Histoire de l'architecture
@@ -1857,7 +1856,7 @@ references:
   event-place: Paris
   issued:
     - year: 1899
-  language: fr-FR
+  language: fr
   publisher: Gauthier-Villars
   publisher-place: Paris
   title: Histoire de l'architecture
@@ -2211,7 +2210,7 @@ references:
   event-place: Paris
   issued:
     - year: 1849
-  language: fr-FR
+  language: fr
   license: domaine public
   publisher: A. Logerot
   publisher-place: Paris
@@ -2446,7 +2445,7 @@ references:
   ISBN: 978-88-6655-741-8
   issued:
     - year: 2014
-  language: en-GB
+  language: en
   page: 65-73
   publisher: Firenze University Press
   publisher-place: Firenze
@@ -2578,7 +2577,7 @@ references:
   ISBN: 978-3-905451-01-6
   issued:
     - year: 1992
-  language: en-GB
+  language: en
   publisher: Structura mundi
   publisher-place: Lausanne
   source: Open WorldCat
@@ -2733,7 +2732,7 @@ references:
   title-short: The illustrated handbook of architecture
   type: book
 
-- id: fergusson:1855illustrated1
+- id: fergusson:1855illustrateda
   abstract: '31'
   accessed:
     - year: 2019
@@ -2743,12 +2742,12 @@ references:
     - family: Fergusson
       given: James
   call-number: AKJ-9676
-  citation-key: fergusson:1855illustrated1
+  citation-key: fergusson:1855illustrateda
   edition: '1'
   event-place: London
   issued:
     - year: 1855
-  language: en-GB
+  language: en
   number-of-pages: '576'
   publisher: Murray
   publisher-place: London
@@ -2762,7 +2761,7 @@ references:
   URL: http://archive.org/details/illustratedhandb01ferguoft
   volume: '1'
 
-- id: fergusson:1855illustrated2
+- id: fergusson:1855illustratedb
   abstract: '31'
   accessed:
     - year: 2019
@@ -2772,12 +2771,12 @@ references:
     - family: Fergusson
       given: James
   call-number: AKJ-9676
-  citation-key: fergusson:1855illustrated2
+  citation-key: fergusson:1855illustratedb
   edition: '1'
   event-place: London
   issued:
     - year: 1855
-  language: en-GB
+  language: en
   number-of-pages: '552'
   publisher: Murray
   publisher-place: London
@@ -2815,7 +2814,7 @@ references:
   event-place: London
   issued:
     - year: 1862
-  language: en-GB
+  language: en
   number-of-pages: '598'
   publisher: J. Murray
   publisher-place: London
@@ -2827,7 +2826,7 @@ references:
   type: book
   URL: http://archive.org/details/historyofmoderns00ferg
 
-- id: fergusson:1874history2
+- id: fergusson:1874history
   abstract: >-
     Vol. 1-2. - History of architecture.- Vol. 3. - History of Indian and
     Eastern architecture.- Vol. 4. - History of modern architecture; 26
@@ -2839,13 +2838,13 @@ references:
     - family: Fergusson
       given: James
   call-number: AEO-3820
-  citation-key: fergusson:1874history2
+  citation-key: fergusson:1874history
   collection-number: Christian Architecture
   edition: '2'
   event-place: London
   issued:
     - year: 1874
-  language: en-GB
+  language: en
   number-of-pages: '648'
   publisher: Murray
   publisher-place: London
@@ -2857,7 +2856,7 @@ references:
   URL: http://archive.org/details/historyofarchite02ferguoft
   volume: '2'
 
-- id: fergusson:1891history2
+- id: fergusson:1891history
   abstract: Bibliographical footnotes
   accessed:
     - year: 2019
@@ -2869,11 +2868,11 @@ references:
     - family: Kerr
       given: Robert
   call-number: b12853707
-  citation-key: fergusson:1891history2
+  citation-key: fergusson:1891history
   event-place: New York
   issued:
     - year: 1891
-  language: en-US
+  language: en
   number-of-pages: '480'
   publisher: Dodd, Mead
   publisher-place: New York
@@ -2883,7 +2882,7 @@ references:
   URL: http://archive.org/details/historyofmoderns02ferg
   volume: '2'
 
-- id: fergusson:1893history1
+- id: fergusson:1893history
   accessed:
     - year: 2019
       month: 10
@@ -2894,13 +2893,13 @@ references:
     - family: Spiers
       given: Richard Phené
   call-number: 720.9 F38h3
-  citation-key: fergusson:1893history1
+  citation-key: fergusson:1893history
   collection-number: A history of ancient and medieval architecture
   edition: '3'
   event-place: London
   issued:
     - year: 1893
-  language: en-GB
+  language: en
   number-of-pages: '674'
   publisher: Murray
   publisher-place: London
@@ -3036,14 +3035,14 @@ references:
   event-place: New York
   issued:
     - year: 1961
-  language: en-GB
+  language: en
   publisher: Charles Scribner’s Sons
   publisher-place: New York
   title: History of architecture on the comparative method
   type: book
   URL: https://archive.org/details/historyofarchite0000flet/
 
-- id: florentino:2020vernacularXLIV-M-1-2020
+- id: florentino:2020vernacularXLIVM12020
   abstract: >-
     <p><strong>Abstract.</strong> The World Heritage Committee lists every year,
     several cultural sites as World Heritage properties. Some of these
@@ -3085,10 +3084,10 @@ references:
       given: Goreti
     - family: Carlos
       given: Gilberto Duarte
-  citation-key: florentino:2020vernacularXLIV-M-1-2020
+  citation-key: florentino:2020vernacularXLIVM12020
   container-title: >-
-    ISPRS - International Archives of the Photogrammetry, Remote Sensing and
-    Spatial Information Sciences
+    <span smallcaps="smallcaps">ISPRS</span> - International Archives of the
+    Photogrammetry, Remote Sensing and Spatial Information Sciences
   DOI: https://doi.org/10.5194/isprs-archives-XLIV-M-1-2020-159-2020
   event-title: >-
     HERITAGE2020 (3DPast | RISK-Terra) International Conference on Vernacular
@@ -3156,7 +3155,7 @@ references:
   event-place: Leipzig, Berlin
   issued:
     - year: 1914
-  language: de-DE
+  language: de
   number-of-pages: '224'
   publisher: B. G. Teubner
   publisher-place: Leipzig, Berlin
@@ -3174,8 +3173,8 @@ references:
   ISBN: 0-262-56013-5
   issued:
     - year: 1968
-  language: en-US
-  publisher: <span class="smallcaps">MIT</span> Press
+  language: en
+  publisher: <span smallcaps="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   source: Open WorldCat
   title: >-
@@ -3209,7 +3208,7 @@ references:
   ISBN: 978-2-88074-714-5
   issued:
     - year: 2008
-  language: fr-CH
+  language: fr
   publisher: Presses polytechniques et universitaires romandes
   publisher-place: Lausanne
   source: Open WorldCat
@@ -3379,7 +3378,8 @@ references:
     - family: Anthony
       given: Kathryn H.
   citation-key: gurel:2006canon59
-  container-title: Journal of Architectural Education (1984-)
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
   DOI: 10.2307/40480647
   ISSN: 1046-4883
   issue: '3'
@@ -3588,7 +3588,7 @@ references:
   ISSN: '00790958'
   issued:
     - year: 1969
-  language: en-US
+  language: en
   page: '153'
   source: DOI.org (Crossref)
   title: >-
@@ -3596,7 +3596,7 @@ references:
     building design
   title-short: J.n.l. durand's architectural theory
   type: article-journal
-  URL: https://www.jstor.org/stable/1566963?origin=crossref
+  URL: https://www.jstor.org/stable/1566963
   volume: '12'
 
 - id: herrmann:1984gottfried
@@ -4015,7 +4015,7 @@ references:
   issue: '4'
   issued:
     - year: 1927
-  language: en-US
+  language: en
   page: 615-624
   publisher: '[American Anthropological Association, Wiley]'
   source: JSTOR
@@ -4081,7 +4081,7 @@ references:
   issue: '1'
   issued:
     - year: 1980
-  language: en-US
+  language: en
   page: 22-22
   source: JSTOR
   title: History synchrony
@@ -4263,7 +4263,7 @@ references:
   ISBN: 978-0-8166-7396-4 978-0-8166-7397-1
   issued:
     - year: 2014
-  language: en-US
+  language: en
   number-of-pages: '513'
   publisher: University of Minnesota Press
   publisher-place: Minneapolis
@@ -4566,7 +4566,7 @@ references:
   issue: '3'
   issued:
     - year: 1991
-  language: en-US
+  language: en
   page: 150-155
   title: The crisis of interdisciplinary historiography
   type: article-journal
@@ -4582,12 +4582,13 @@ references:
       given: Mark
   citation-key: jarzombek:1999disciplinary58
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/991543
   ISSN: 0037-9808
   issue: '3'
   issued:
     - year: 1999
-  language: en-US
+  language: en
   page: 488–493
   source: JSTOR
   title: The disciplinary dislocations of (architectural) history
@@ -4628,7 +4629,7 @@ references:
   issue: '4'
   issued:
     - year: 1999
-  language: en-US
+  language: en
   page: 197-206
   source: JSTOR
   title: A prolegomena to critical historiography
@@ -4795,7 +4796,7 @@ references:
   ISBN: 978-0-521-44577-1 978-0-521-38160-4
   issued:
     - year: 2001
-  language: en-GB
+  language: en
   number-of-pages: '192'
   publisher: Cambridge University Press
   publisher-place: Cambridge
@@ -4830,7 +4831,7 @@ references:
   issue: '2'
   issued:
     - year: 2011
-  language: en-US
+  language: en
   page: 25-36
   source: JSTOR
   title: Teaching history to architects
@@ -5302,7 +5303,7 @@ references:
     - year: 1969
       month: 3
       day: 1
-  language: en-US
+  language: en
   license: Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
@@ -5442,7 +5443,7 @@ references:
   URL: https://www.jstor.org/stable/777585?origin=crossref
   volume: '54'
 
-- id: meeks:1942new2
+- id: meeks:1942new
   accessed:
     - year: 2019
       month: 5
@@ -5450,7 +5451,7 @@ references:
   author:
     - family: Meeks
       given: Carroll L. V.
-  citation-key: meeks:1942new2
+  citation-key: meeks:1942new
   container-title: Journal of the American Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/901197
@@ -5460,7 +5461,7 @@ references:
     - year: 1942
       month: 1
       day: 1
-  language: en-US
+  language: en
   page: 3-7
   source: jsah.ucpress.edu
   title: The new history of architecture
@@ -5478,6 +5479,7 @@ references:
       given: Carroll L. V.
   citation-key: meeks:1942teacher
   container-title: Journal of the American Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/901234
   ISSN: 1544-9890
   issue: '2'
@@ -5767,7 +5769,7 @@ references:
   issue: '1'
   issued:
     - year: 1980
-  language: en-US
+  language: en
   page: 27–28
   source: JSTOR
   title: Teaching history typologically
@@ -5857,7 +5859,7 @@ references:
     - family: Naginski
       given: Erika
   citation-key: naginski:2001riegl
-  container-title: '<span class="smallcaps">RES</span>: Anthropology and Aesthetics'
+  container-title: '<span smallcaps="smallcaps">res</span>: Anthropology and Aesthetics'
   container-title-short: RES
   ISSN: 0277-1322
   issue: '40'
@@ -6114,7 +6116,7 @@ references:
   issue: '3'
   issued:
     - year: 1999
-  language: en-US
+  language: en
   page: 292-299
   source: JSTOR
   title: 'Architectural history and the history of art: a suspended dialogue'
@@ -6794,17 +6796,17 @@ references:
   type: webpage
   URL: https://smarthistory.org/reframing-art-history/
 
-- id: reveyron:2002lapport
+- id: reveyron:2002lapporta
+  abstract: "Introduction  L'histoire de l'art affiche dans son intitulé même les deux lieux qui organisent sa recherche\_: l'histoire, d'une part, c'est-à-dire une méthodologie et un travail spécifiques sur les textes et les sources archivistiques\_; d'autre part, l'art en tant que création matérielle, objet d'une étude archéologique, au sens où l'entendait l'enseignement supérieur au XIXe siècle\_: dans sa leçon d'ouverture du cours d'antiquités grecques et latines de la faculté de Lyon (année 1877), Gusta..."
   accessed:
-    - year: 2021
-      month: 1
-      day: 25
+    - year: 2022
+      month: 2
+      day: 14
   author:
     - family: Reveyron
       given: Nicolas
-  citation-key: reveyron:2002lapport
-  container-title: In Situ
-  container-title-short: insitu
+  citation-key: reveyron:2002lapporta
+  container-title: In Situ. Revue des patrimoines
   DOI: 10.4000/insitu.1200
   ISSN: 1630-7305
   issue: '2'
@@ -6813,10 +6815,18 @@ references:
       month: 6
       day: 1
   language: fr
-  source: DOI.org (Crossref)
+  license: >-
+    In Situ Revues des patrimoines est mis à disposition selon les termes de la
+    licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas
+    de Modification 4.0 International.
+  number: '2'
+  publisher: >-
+    Ministère de la culture et de la communication, direction générale des
+    patrimoines
+  source: journals.openedition.org
   title: L'apport de l'archéologie du bâti dans la monographie d'architecture
   type: article-journal
-  URL: http://journals.openedition.org/insitu/1200
+  URL: https://journals.openedition.org/insitu/1200
 
 - id: riegl:1893stilfragen
   abstract: >-
@@ -6984,7 +6994,7 @@ references:
   event-place: New York
   issued:
     - year: 1993
-  language: en-US
+  language: en
   number-of-pages: '588'
   publisher: Icon
   publisher-place: New York
@@ -7178,7 +7188,7 @@ references:
   issue: '2'
   issued:
     - year: 1988
-  language: en-US
+  language: en
   page: 287-316
   source: JSTOR
   title: The Victorians, the historians, and the idea of Modernism
@@ -7262,7 +7272,7 @@ references:
   issue: '1'
   issued:
     - year: 1980
-  language: en-US
+  language: en
   page: 14–19
   source: JSTOR
   title: 'Architectural history: discipline or routine?'
@@ -7476,14 +7486,14 @@ references:
   editor:
     - family: Bandyopadhyay
       given: Soumyen
-  event-place: Milton Park, Abingdon, Oxon ; New York, NY
+  event-place: Milton Park, Abingdon, Oxon ; New York, N.Y.
   ISBN: 978-0-415-55113-7 978-0-415-55114-4
   issued:
     - year: 2010
-  language: en-GB
+  language: en
   page: 214-225
   publisher: Routledge
-  publisher-place: Milton Park, Abingdon, Oxon ; New York, NY
+  publisher-place: Milton Park, Abingdon, Oxon ; New York, N.Y.
   source: Library of Congress ISBN
   title: 'L''histoire assassinée: Manfredo Tafuri and the present'
   type: chapter
@@ -7584,7 +7594,7 @@ references:
   collection-title: Documenti di architettura
   container-title: >-
     La piazza, la chiesa, il parco: saggi di storia dell'architettura (<span
-    class="smallcaps">XV-XIX</span> secolo)
+    smallcaps="smallcaps">XV-XIX</span> secolo)
   editor:
     - family: Tafuri
       given: Manfredo
@@ -7619,7 +7629,7 @@ references:
   source: webopac.sib.uc.pt Library Catalog
   title: >-
     La piazza, la chiesa, il parco: saggi di storia dell'architettura (<span
-    class="smallcaps">XV-XIX</span> secolo)
+    smallcaps="smallcaps">XV-XIX</span> secolo)
   title-short: La piazza, la chiesa, il parco
   type: book
 
@@ -7873,7 +7883,7 @@ references:
   ISBN: 978-2-8047-0045-4
   issued:
     - year: 2010
-  language: fr-FR
+  language: fr
   number-of-pages: '274'
   publisher: Mardaga
   publisher-place: Bruxelles
@@ -8075,7 +8085,7 @@ references:
   publisher: Princeton Architectural Press
   publisher-place: Princeton, N.J.
   source: Library of Congress ISBN
-  title: 'The Idea of Type: The Transformation of the Academic Ideal, 1750–1830 [1977]'
+  title: 'The idea of type: the transformation of the academic ideal, 1750–1830 [1977]'
   type: chapter
 
 - id: vidler:2000diagrams
@@ -8141,17 +8151,29 @@ references:
     https://www.e-flux.com/architecture/history-theory/225183/theories-in-and-of-history/
 
 - id: virk:2003comparative
+  accessed:
+    - year: 2023
+      month: 1
+      day: 5
   author:
     - family: Virk
       given: Tomo
   citation-key: virk:2003comparative
-  container-title: Comparative Literature and Culture
+  container-title: 'CLCWeb: Comparative Literature and Culture'
+  container-title-short: 'CLCWeb: Comparative Literature and Culture'
+  DOI: 10.7771/1481-4374.1202
+  ISSN: 1481-4374
+  issue: '4'
   issued:
     - year: 2003
+      month: 12
+      day: 1
   language: en
+  source: DOI.org (Crossref)
   title: Comparative literature versus comparative cultural studies
   type: article-journal
-  volume: '5.4'
+  URL: https://docs.lib.purdue.edu/clcweb/vol5/iss4/6
+  volume: '5'
 
 - id: walker:1980note19
   accessed:
@@ -8232,7 +8254,7 @@ references:
   ISBN: 978-0-19-817350-2
   issued:
     - year: 1977
-  language: en-GB
+  language: en
   publisher: Clarendon
   publisher-place: Oxford
   source: Open WorldCat
@@ -8260,7 +8282,7 @@ references:
   title: The rise of architectural history
   type: book
 
-- id: wellek:1953benedetto5
+- id: wellek:1953benedetto
   accessed:
     - year: 2019
       month: 8
@@ -8268,7 +8290,7 @@ references:
   author:
     - family: Wellek
       given: René
-  citation-key: wellek:1953benedetto5
+  citation-key: wellek:1953benedetto
   container-title: Comparative Literature
   DOI: 10.2307/1768693
   ISSN: '00104124'
@@ -8375,24 +8397,7 @@ references:
   URL: https://www.jstor.org/stable/779215
   volume: '94'
 
-- id: woelfflin:1948kunstgeschichtliche
-  author:
-    - family: Wölfflin
-      given: Heinrich
-  citation-key: woelfflin:1948kunstgeschichtliche
-  edition: '10'
-  event-place: Basel
-  issued:
-    - year: 1948
-  language: de-CH
-  publisher: Benno Schwabe
-  publisher-place: Basel
-  title: >-
-    Kunstgeschichtliche Grundbegriffe: das Problem der Stilentwicklung in der
-    neueren Kunst
-  type: book
-
-- id: wolfflin:1888renaissance
+- id: woelfflin:1888renaissance
   abstract: >-
     Includes bibliographical notes; Library's c. 1 and c. 2 are shelved with the
     Wölfflin Collection
@@ -8404,7 +8409,7 @@ references:
     - family: Wölfflin
       given: Heinrich
   call-number: '9928868980001551'
-  citation-key: wolfflin:1888renaissance
+  citation-key: woelfflin:1888renaissance
   contributor:
     - literal: Getty Research Institute
   event-place: München
@@ -8422,30 +8427,47 @@ references:
   type: book
   URL: http://archive.org/details/gri_33125006523688
 
-- id: wolfflin:1949gedanken
+- id: woelfflin:1948kunstgeschichtliche
   author:
     - family: Wölfflin
       given: Heinrich
-  citation-key: wolfflin:1949gedanken
+  citation-key: woelfflin:1948kunstgeschichtliche
+  edition: '10'
+  event-place: Basel
+  issued:
+    - year: 1948
+  language: de
+  publisher: Benno Schwabe
+  publisher-place: Basel
+  title: >-
+    Kunstgeschichtliche Grundbegriffe: das Problem der Stilentwicklung in der
+    neueren Kunst
+  type: book
+
+- id: woelfflin:1949gedanken
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  citation-key: woelfflin:1949gedanken
   event-place: Basel
   issued:
     - year: 1949
-  language: de-CH
+  language: de
   publisher: Benno Schwabe
   publisher-place: Basel
   title: Gedanken zur Kunstgeschichte
   type: book
 
-- id: wolfflin:1949italien
+- id: woelfflin:1949italien
   author:
     - family: Wölfflin
       given: Heinrich
-  citation-key: wolfflin:1949italien
+  citation-key: woelfflin:1949italien
   container-title: Gedanken zur Kunstgeschichte
   event-place: Basel
   issued:
     - year: 1949
-  language: de-CH
+  language: de
   page: 119–126
   publisher: Benno Schwabe
   publisher-place: Basel
