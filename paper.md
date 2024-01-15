@@ -1,6 +1,6 @@
 ---
-title: "Comparative Histories of Architecture"
-subtitle: "History, Architecture, or Idealism?"
+title: "Comparative histories of architecture in professional education"
+subtitle: "History, architecture, or idealism?"
 author: Pedro P. Palazzo
 date: "School of Architecture and Urbanism, University of Brasilia, Brazil, palazzo@unb.br"
 lang: en-US
@@ -8,7 +8,7 @@ bibliography: _bibliography.yaml
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl
 suppress-bibliography: true
 abstract: >
-  This paper contrasts comparative histories of architecture, prevalent
+  This chapter contrasts comparative histories of architecture, prevalent
   from the 19^th^ and 20^th^ centuries, to the critical method of
   history that is claimed by recent works. Comparative history arose out
   of the Idealist philosophy of history and combined its deterministic
