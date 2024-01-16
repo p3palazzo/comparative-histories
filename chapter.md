@@ -5,8 +5,8 @@ author: Pedro P. Palazzo
 date: "School of Architecture and Urbanism, University of Brasilia, Brazil, palazzo@unb.br"
 lang: en-US
 bibliography: _bibliography.yaml
-csl: https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-fullnote-bibliography-with-ibid.csl
-suppress-bibliography: true
+csl: "chicago-note-bibliography.csl"
+reference-section-title: "References"
 abstract: >
   This chapter contrasts comparative histories of architecture, prevalent
   from the 19^th^ and 20^th^ centuries, to the critical method of
