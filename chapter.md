@@ -48,21 +48,32 @@ keywords:
 
 # Introduction #
 
-In this paper, I contrast two ways of looking at the
+This chapter contrasts two ways of looking at the
 architecture of the past: "comparative histories" and "critical
 history". Many textbooks from the 19^th^ and 20^th^ centuries adopted a
 *comparative method*, made famous by Banister Fletcher's eponymous book
-[@fletcher:1905history]. More recently, however, criticism has become so
+[@fletcher:1896history]. More recently, however, criticism has become so
 central to our understanding of the "duty" of history
 [@tafuri:1968teorie] that we would hardly admit comparative studies as a
-form *history* at all. This notwithstanding, I argue the comparative form has a
-stronger claim to being *architecture*. This brings up a long-standing
+form *history* at all. This notwithstanding, the comparative form has a
+stronger claim to being *architecture*.
+
+The problem of history in professional architectural education resides,
+therefore, in the interplay between two pairs of concepts in tension
+with each other: first, the tension between the comparative method as
+part of an Idealist view of scholarship and the critical approach as a
+development of historical materialism; second, the tension between the
+discipline of architecture bearing upon professional education and the
+field of history as understood within the frame of the humanistic
+universities.
+
+This brings up a long-standing
 paradox regarding the place of architectural history in professional
-education and practice. I discuss how this paradox plays out in a few
+education and practice. This paradox plays out in a few
 21^st^-century textbooks that attempted to distance themselves from the
-comparative method. Then, I look at other disciplinary methods used in
-the study of past architecture and their relation to historical
-criticism.
+comparative method. Other disciplinary methods, however, are used in the
+study of past architecture and establish particular relations to
+historical criticism.
 
 Idealism is known for preferring the general concept to the individual
 example [@ghirardo:2008review67]. More importantly, however, it is
@@ -74,9 +85,31 @@ socio-economic change, rather than conceptual worldviews.
 
 # Comparative History as Architecture #
 
-Comparative histories of architecture were developed in 19^th^-century
-Europe at the intersection of the Idealist philosophy of history and the
-modern discipline of architecture. Textbooks such as James Fergusson's
+Comparative histories of architecture were developed in Europe at the
+intersection of the Idealist philosophy of history and the modern
+discipline of architecture. It is in fact the concurrent development of
+art and architectural history, on the one hand, and of the modern
+professional education in architecture, on the other, that set the
+conditions for the hegemony of the philosophy of history as an
+interpretive paradigm in the 19^th^ and 20^th^ centuries. To understand
+why this is so, one must look at the structure of older art and
+architectural history books, from Vasari's *Lives of the artists* in the
+mid-16^th^ century to Milizia's *Lives of the architects* in the early
+18^th^.
+
+The early 18^th^-century Neapolitan professor Giambattista Vico took
+issue with the classical system where philosophy and history were two
+complementary yet distinct forms of knowledge. Instead,  integrated
+history (or rather, the history of modes of understanding) into a
+philosophical system [@vico:2011principi]. Vico's
+
+[@momigliano:1990classical]
+
+Conversely, the notion that architecture had a history---in that
+philosophical sense---was also being formulated in the 18^th^ century.
+[@winckelmann:1764geschichte] [@legrand:1842essai]
+
+Textbooks such as James Fergusson's
 *Illustrated Handbook of Architecture* [@fergusson:1855illustrated],
 Auguste Choisy's *Histoire de l'architecture* [@choisy:1899histoire], or
 Banister Fletchers' *History of Architecture on the Comparative Method*
