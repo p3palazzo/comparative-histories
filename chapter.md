@@ -85,7 +85,7 @@ professional education in architecture, on the other, that set the
 conditions for the hegemony of the philosophy of history as an
 interpretive paradigm in the 19^th^ and 20^th^ centuries.
 
-To understand why this is so, one must look at the structure of art and
+To understand why this is so, let us look at the structure of art and
 architectural history books during the three hundred years between
 Giorgio Vasari's 1550 *Lives of the artists* and Francesco Milizia's
 1768 *Lives of celebrated architects*.
@@ -207,6 +207,8 @@ precedents. By means of historical classifications, writes Baydar
 Gülsum, "the boundary between the inner and outer worlds of architecture
 is carefully maintained for the purposes of disciplinary regulation and
 control." [@baydar:1998postcolonial, 8]
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 The expertise of architects was not limited to the choice of visual
 precedents: with industrial and managerial development came increasingly
@@ -374,6 +376,8 @@ survey [@bozdogan:1999architectural, 209]. Postcolonial criticism,
 Bozdoğan had written, resists naturalizing cultural differences as an
 ethnographic exhibition of diversity [@bozdogan:1999architectural, 210].
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 Given this genealogy of critical approaches to global history, let us
 look at how *A Global History* presented its subject matter. At first
 sight, it would seem the authors of *A Global History* went for just
@@ -490,9 +494,10 @@ was never the whole story here"
 *Architecture since 1400* thus was, true to its critical premises, history
 *through* architecture more than history *of* architecture. In this
 trade-off, decreased reliance on visual analysis opened up narrative
-possibilities that resulted in more subtle connections. The author showed
+possibilities that resulted in more subtle connections. The author
+showed, according to @hirsh:2017review76 [242],
 how cultural transfer often flowed backwards from what the Eurocentric
-historiography would have us believe [@hirsh:2017review76, 242]. That
+historiography would have us believe. That
 said, some connections were so distant, materially and conceptually, as
 to look like inconsequential literary devices. Consider, for example, this
 account of Versailles in confrontation with other site plans of its age:
@@ -507,10 +512,10 @@ If *A Global History* fell for the illusion of narrative
 neutrality, then certainly *Architecture since 1400* fell into the
 methodological pitfall of
 discounting its very subject matter. More than a decade before its
-publication, Johannes Albrecht, following Susan Sontag, regretted that,
+publication, @albrecht:2002interpretation55 [194], following Susan Sontag, regretted that,
 in the current critical landscape, "even if the building has received
 attention, it is ultimately the interpretation and not the building that
-is of interest." [@albrecht:2002interpretation55, 194] James-Chakraborty
+is of interest."  James-Chakraborty
 is a far more rigorous scholar than those theorists Albrecht was aiming his guns
 at. Still, for all her decentering of European assumptions, her book's
 crowning premise sounds oddly Idealistic: "rather than merely reflecting
@@ -522,14 +527,28 @@ practice---visual composition and professional tradition---, how could it
 define an architecture that crafts culture and is not itself this
 culture? It can only be the abstract ideas that shuttle back and forth
 between architectural theory and other social actors. The precedence of
-the avant-garde (chapter 22) over mass culture (chapter 23) makes the
-author's intent clear in this respect. What tied *Architecture since
+the avant-garde (chapter 22) over mass culture (chapter 23) made the
+author's intent clear in this respect.
+
+What tied *Architecture since
 1400* together was the assumption that modernization and historicism were
 common features of many of the building cultures described in the book.
 This assumption, however, was Idealistic and teleological in nature.
 Behind its critical method lay a philosophy of history, then: namely,
 that modernization and historicism legitimated a transcendental concept
 of architecture [@hoekstra:2014modernity2, 2].
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+James-Chakraborty's book was not the only one putting modernization at
+the center of its concept of architectural history. This has become so
+much of a trope in recent scholarship that @jarzombek:2015architecture
+[119] has bemoaned the fact that:
+
+> Architectural history---the discipline---has almost become a code word
+> for the history of modernism, whereas the "historical"---now sadly
+> often called "the premodern"---is allied with epistemologies that
+> champion the proverbial "pride of place."
 
 <!--Discuss Gustavo and José Pedro-->
 
@@ -592,9 +611,13 @@ past that can never be truly actualized, rather than with the unsettling
 perspective of a historic building looming over the present.
 
 However, building archaeology is still the study of buildings from the
-past, with the incidental task of supporting conservation. It might
-therefore be discounted as a supporting discipline rather than as
-historical scholarship on its own right. Vernacular architecture
+past, with the incidental task of supporting conservation. It might even
+be discounted as a supporting discipline of heritage conservation rather
+than as historical scholarship on its own right [@tenreiro:2023fall].
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Vernacular architecture
 studies, on the other hand, add a layer of complication to the issue of
 whether historical criticism can be embedded in a disciplinary setting.
 Vernacular architecture, by contrast, has often been viewed as an
