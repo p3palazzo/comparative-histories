@@ -75,6 +75,27 @@ comparative method. Other disciplinary methods, however, are used in the
 study of past architecture and establish particular relations to
 historical criticism.
 
+Much of the publishing market for architectural history textbooks is
+concentrated in North America and Western Europe. Therefore, the
+discussion in this chapter is chiefly concerned with a few major
+publications originating in these regions but circulated worldwide
+either in their original form or in translation. That said, history as a
+humanistic and literary craft has been marginalized from professional
+education in architecture in much of continental Europe. The context of
+this discussion is thus mainly focused on how architectural history
+appears from the perspective of the Americas, North to South, and to a
+lesser extent the Iberian peninsula and Belgium.
+
+These regions are where architectural education has long been integrated
+into universities, and where the ideal of a humanistic and generalist
+education for architects is strongest. Moreover, unlike much of
+continental Europe and the British isles where the scholar--architect is
+a relatively new development, in the Americas and the Iberian peninsula
+architectural historians have often, if not mostly, come out of an
+initial professional training. Since they all have been, to some extent,
+consumers of French, British, and North American textbooks, this
+geographic scope is logically self-contained.
+
 # Before comparative history #
 
 Comparative histories of architecture were developed in Europe at the
@@ -445,16 +466,25 @@ world. This textbook projected backwards the contemporary anxiety about
 essentializing non-Western traditions, and in so doing neutralized the
 difference between the historicist societies arising in Early Modern
 Eurasia and others having different understandings of cultural
-transmission and change through time. In the same way the heavily refactored recent
-editions of Fletcher's *History of Architecture* proceeded
-[@baydar:1998postcolonial, 13], *A Global History* reduced so-called
-"non-Western" societies to the Western student's grasp of linear
-history.
+transmission and change through time.
+
+@baydar:1998postcolonial [13] criticized the heavily refactored recent
+editions of Fletcher's *History of Architecture* for reducing both
+so-called "Western" and "non-Western" societies to the single yardstick
+of a unified timeline. *A Global History* took the same approach, with
+similar conceptual problems arising from it. Beyond the truism that
+linear time is itself a "Western" concept, it is, more importantly, a
+*modern* concept. @heynen:1999architecture [10] equated the attribution
+of intrinsic meaning to the passage of time with the rise of modernity
+as a worldview. Understanding modernity as a precondition for the
+legitimacy of linear-time historiography is key to grasping the current
+drift in both the scholarship of architectural history as well as the
+scope of (text)book writing.
 
 # Non-disciplinary history in architectural education #
 
-Kathleen James-Chakraborty circumvented the historicist
-pitfall in her book *Architecture since 1400*. She did so by explicitly
+Kathleen James-Chakraborty circumvented the pitfall of linear time
+in her book *Architecture since 1400*. She did so by explicitly
 restricting her work to a time period and cultural universe where
 historicism is (mostly) a legitimate interpretive frame. The "basic
 premise" of the book was that 1400 marks an epoch when several Eurasian
@@ -515,7 +545,7 @@ discounting its very subject matter. More than a decade before its
 publication, @albrecht:2002interpretation55 [194], following Susan Sontag, regretted that,
 in the current critical landscape, "even if the building has received
 attention, it is ultimately the interpretation and not the building that
-is of interest."  James-Chakraborty
+is of interest." James-Chakraborty
 is a far more rigorous scholar than those theorists Albrecht was aiming his guns
 at. Still, for all her decentering of European assumptions, her book's
 crowning premise sounds oddly Idealistic: "rather than merely reflecting
@@ -543,12 +573,28 @@ of architecture [@hoekstra:2014modernity2, 2].
 James-Chakraborty's book was not the only one putting modernization at
 the center of its concept of architectural history. This has become so
 much of a trope in recent scholarship that @jarzombek:2015architecture
-[119] has bemoaned the fact that:
+[119] bemoaned the fact that "architectural history---the
+discipline---has almost become a code word for the history of
+modernism." Conversely, the hegemonic understanding of modernization has
+rekindled Eurocentrism in architectural history.
 
-> Architectural history---the discipline---has almost become a code word
-> for the history of modernism, whereas the "historical"---now sadly
-> often called "the premodern"---is allied with epistemologies that
-> champion the proverbial "pride of place."
+We have already seen how Heynen's concept of modernization mentioned
+above explicitly stated that linear history is a modern and Western
+invention. She also structured her book around the notion that modernism
+was entangled with "the bourgeois modernity of capitalist civilization"
+[@heynen:1999architecture, 12]. Throughout her book *Architecture and
+Modernity*, it was implied that the culture of bourgeois
+capitalism was a Northwestern European creation, only belatedly and
+imperfectly adopted by the rest of the world. Thus, the entire
+intellectual debate around modernity she discussed in her book has
+played out in a handful of European and New England universities.
+Because Heynen's book gave such a thorough and insightful account of
+this debate, however, its insidious Eurocentrism has become somewhat
+normalized in the global thinking about the nature of architectural
+history.
+
+@tenreiro:2023fall [217] claims that "those who were attached to
+architectural history for political reasons now prefer theory."
 
 <!--Discuss Gustavo and José Pedro-->
 
