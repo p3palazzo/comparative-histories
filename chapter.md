@@ -55,10 +55,12 @@ schools: "comparative histories" and "critical
 history". Many textbooks from the 19^th^ and 20^th^ centuries adopted a
 *comparative method*, made famous by Banister Fletcher's eponymous book
 [@fletcher:1896history]. More recently, however, criticism has become so
-central to our understanding of the "duty" of history
-[@tafuri:1968teorie] that we would hardly admit comparative studies as a
+central to our understanding of the "duty" of history according to Manfredo
+@tafuri:1968teorie that we would hardly admit comparative studies as a
 form *history* at all. This notwithstanding, the comparative form has a
-stronger claim to being *architecture*.
+stronger claim to being *architecture*. This contrast has spilled over
+from the education of professional architects to raise issues in the
+writing and practice of supporting disciplines of architectural history.
 
 Much of the publishing market for architectural history textbooks is
 concentrated in North America and Western Europe. Therefore, the
@@ -67,7 +69,7 @@ publications originating in these regions but circulated worldwide
 either in their original form or in translation. That said, history as a
 humanistic and literary craft has been marginalized from professional
 education in architecture in much of continental Europe. The context of
-this discussion is thus mainly focused on how architectural history
+this discussion is thus mainly focused on how global architectural history
 appears from the perspective of the Americas, North to South, and to a
 lesser extent the Iberian peninsula and Belgium.
 
@@ -107,7 +109,8 @@ historical criticism.
 
 To address the problem of history's place in the disciplinary field of
 architecture, then, we must look at the two major currents in historical
-interpretation that arose in the mid 19^th^ century: comparative history
+interpretation whose foundations were laid in the mid 19^th^ century:
+comparative history
 and critical history. Some of the textbooks and methods that most
 explicitly adhere to either of these currents will be discussed in
 depth. This will be, then, not a judgment on the merits or relevance of
@@ -119,10 +122,20 @@ A number of other historiographic currents have been left out of this
 discussion, most notably the diverse forms of Idealist criticism and
 formalism that saw their heyday from the first half of the 20^th^
 century up to the 1960s. These currents were already discussed by
-scholars such as @podro
+scholars such as Michael @podro:1982critical, Alan
+@colquhoun:1981historicism, Alina @payne:1994rudolf, David Watkin
+[-@watkin:1977morality; -@watkin:1980rise], and Giorgio
+@pigafetta:1993architettura. Neither is this chapter concerned with a
+number of transitional textbooks focused on Western architecture that
+appeared in the 1970s, 80s, and 90s, such as Watkin's
+[@watkin:2005history], Marvin Trachtenberg and Isabelle Hyman's
+[@trachtenberg:1986architecture], or José Ramón Alonso Pereira's
+[@alonso:1995introduccion]. Finally, the German tradition of
+architectural history textbooks is too deeply entangled with editorial
+projects of encyclopaedic professional manuals to be singled out and
+discussed here.
 
-
-# Before comparative history #
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 Comparative histories of architecture were developed in Europe at the
 intersection of the Idealist philosophy of history and the modern
@@ -132,8 +145,10 @@ professional education in architecture, on the other, that set the
 conditions for the hegemony of the philosophy of history as an
 interpretive paradigm in the 19^th^ and 20^th^ centuries.
 
-To understand why this is so, let us look at the structure of art and
-architectural history books during the three hundred years between
+To understand why this is so, let us look at how the structure of art and
+architectural history books changed during the 18^th^ century.
+
+during the three hundred years between
 Giorgio Vasari's 1550 *Lives of the artists* and Francesco Milizia's
 1768 *Lives of celebrated architects*.
 
@@ -261,7 +276,7 @@ control." [@baydar:1998postcolonial, 8]
 
 The expertise of architects was not limited to the choice of visual
 precedents: with industrial and managerial development came increasingly
-specific functional requirements [@tzonis:1972non-oppressive], and these
+specific functional requirements [@tzonis:1972nonoppressive], and these
 were at the core of what differentiated the Beaux-Arts architect from
 the Polytechnic engineer [@epron:1997comprendre]. It is worth noting
 that Fletcher himself made a career in the design of
