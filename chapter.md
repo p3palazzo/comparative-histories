@@ -578,25 +578,108 @@ discipline---has almost become a code word for the history of
 modernism." Conversely, the hegemonic understanding of modernization has
 rekindled Eurocentrism in architectural history.
 
-We have already seen how Heynen's concept of modernization mentioned
-above explicitly stated that linear history is a modern and Western
+We have already seen how Heynen's aforementioned concept of modernization
+explicitly stated that linear history is a modern and Western
 invention. She also structured her book around the notion that modernism
 was entangled with "the bourgeois modernity of capitalist civilization"
 [@heynen:1999architecture, 12]. Throughout her book *Architecture and
-Modernity*, it was implied that the culture of bourgeois
-capitalism was a Northwestern European creation, only belatedly and
-imperfectly adopted by the rest of the world. Thus, the entire
+Modernity*, it was implied that the culture of bourgeois capitalism
+was also a monolithic Northwestern European creation, leaving the rest
+of the world as a mere receiver and adapter of this culture. Thus, the entire
 intellectual debate around modernity she discussed in her book has
 played out in a handful of European and New England universities.
+
 Because Heynen's book gave such a thorough and insightful account of
 this debate, however, its insidious Eurocentrism has become somewhat
 normalized in the global thinking about the nature of architectural
-history.
+history. This has been compounded by the lesser ability of architecture
+schools and publishers in the global South to sustain an autonomous
+market for original textbooks, relying instead to a great extent on
+translations from North American and European works. Moreover, in Latin
+America the conceptual toolkit for writing such an autonomous body of
+architectural history was developed roughly at the same time as the
+distrust of comparative histories and of textbook syntheses became
+entrenched in the universities. It is not surprising, then, that the
+first textbook on the architectural history of the Americas as a whole
+was a work by Iowa State University professor Clare Cardinal-Pett, the
+2016 book *A History of Architecture and Urbanism in the Americas*
+[@cardinal-pett:2016history].
 
-@tenreiro:2023fall [217] claims that "those who were attached to
-architectural history for political reasons now prefer theory."
+Cardinal-Pett's book blended the mostly chronological structure already
+seen in *A Global History*, rejecting the conventional separation of
+culture--areas, with a more conventional narrative text. The latter
+enabled her to adopt, in some places, the critical approach
+characteristic of *Architecture since 1400*. Rather than delving deep
+into Cardinal-Pett's content, at the risk of repeating much of was has
+already been said about the other two textbooks, then, let us look
+briefly at a domain where a few South American scholars have made an
+original contribution.
 
-<!--Discuss Gustavo and José Pedro-->
+The dichotomy of Theory and History of Architecture was popularized by
+@tafuri:1968teorie in his eponymous 1968 book. While theory and history
+have remained, at Tafuri's behest, largely separate in Europe, in the
+Americas and the Iberian peninsula they are united in the names of
+countless departments, courses, and research tracks in architecture
+schools. The drift of architectural[^2] history scholarship away from
+premodern periods has, however, raised a contradiction with
+undergraduate teaching, which has continued to cover a broad
+chronological survey. To some extent, this has led to a number of
+architecture faculty deserting history altogether: the Portuguese
+professor @tenreiro:2023fall [217] claimed that "those who were attached
+to architectural history for political reasons now prefer theory."
+
+In South America, however, many went on to ponder instead *what*
+theory was required for the history of architecture they were teaching.
+Argentinian professor Marina Waisman gave an early and influential
+response to this question. The title of her 1990 book *El interior de la
+historia*  was a play on the concept of "intra-history" coined by
+Spanish literary historian @unamuno:1902torno as transposed to
+architecture by the urban historian Fernando Chueca Goitia
+[@waisman:1993interior, 54; see @chuecagoitia:1981invariantes-castizos].
+The latter meant the history of lesser places and lives, often unnoticed
+by historians before the mid 20^th^ century and, more importantly,
+forming a slow-moving undercurrent outlasting the faster changes in
+elite art. Waisman's book had the subtitle "architectural historiography
+for use by Latin Americans", so it was not at all a textbook but a
+statement on the theory of architectural history.
+
+Though Waisman purported to assemble her thoughts on the specificity of
+the Latin American context in which to write architectural history,
+however, her argument ended up being more of a reflection on the
+specificity of architectural history as a methodological field. Without
+folding back into the disciplinary character of comparative history,
+this entailed nevertheless an Idealist frame of mind. Waisman proposed a
+fixed set of themes that, to her, ought to supersede conventional
+stylistic periods or even simple chronology as tools for historical
+interpretation. This was reminiscent of Heinrich Wölfflin's *Principles*
+[@woelfflin:1948kunstgeschichtliche] and, by her recurring admonition to
+relate history to current urban planning problems, of Bruno Zevi's
+operative history [@zevi:1974architettura]. Although the title of
+Waisman's book alluded to unchanging cultural features going against the
+grain of a historiography usually concerned with change itself, then,
+her argument came back to the teleological supremacy of present
+professional needs.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+The persistence of Idealist underpinnings in Latin American theories of
+architectural history such as Waisman's confirms to this day Tafuri's
+admonition against the pitfalls of doing "Theory and History", though it
+is by no means restricted to Latin America. @keyvanian:2011teaching64
+[32] touted more recently the merits of "emphasizing the relevance of
+historical precedents ... in assembling lessons of theoretical
+significance." Her career in the United States underscores the practical
+limits of critical scholarship when faced with the task of teaching in
+professional programs.
+
+One of few critical historians who endeavored to lay out a teaching
+method is the Brazilian professor Gustavo Rocha-Peixoto. Shunning both
+modernist Idealism and a strict mapping of critical research methods
+onto survey teaching, he set out in 2011 to describe a heuristic for the
+historical education of professional architects
+[@rocha-peixoto:2013spiders].
+
+<!--Discuss Gustavo-->
 
 # Disciplinary tools in (or around) critical history #
 
@@ -659,7 +742,10 @@ perspective of a historic building looming over the present.
 However, building archaeology is still the study of buildings from the
 past, with the incidental task of supporting conservation. It might even
 be discounted as a supporting discipline of heritage conservation rather
-than as historical scholarship on its own right [@tenreiro:2023fall].
+than as historical scholarship on its own right. On a political level,
+@tenreiro:2023fall [223] argued, the pedagogical emphasis on
+construction history was a way of hollowing out the critical content of
+architectural history.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -832,3 +918,10 @@ assumptions into historical narratives.
 [^1]: @durm:1910baukunst; @chipiez:1876histoire. For a convincing and
     currently accepted archaeology of the development of the Doric order,
     see @barletta:2009origins.
+
+[^2]: This is not the case for urban history, which in Latin America has
+    a well established track of specialized scholarship encompassing the
+    Precolumbian and Colonial periods as well as the more recent past.
+    However, urban history generally has a lesser bearing on the
+    professional education of architects. See, for example,
+    @fridman:2013cidades.
