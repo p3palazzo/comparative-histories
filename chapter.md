@@ -672,19 +672,32 @@ significance." Her career in the United States underscores the practical
 limits of critical scholarship when faced with the task of teaching in
 professional programs.
 
-One of few critical historians who endeavored to lay out a teaching
-method is the Brazilian professor Gustavo Rocha-Peixoto. Shunning both
-modernist Idealism and a strict mapping of critical research methods
-onto survey teaching, he set out in 2011 to describe a heuristic for the
-historical education of professional architects
-[@rocha-peixoto:2013spiders].
+One of few critical scholars who endeavored to flesh out a thorough
+teaching method is the Brazilian architectural historian Gustavo
+Rocha-Peixoto. Shunning Idealism in all its forms and being wary of a
+strict mapping of critical research methods onto survey teaching, he set
+out in 2011 to describe a heuristics for the historical education of
+professional architects in his book *The Spider's Stratagem*.
 
-<!--Discuss Gustavo-->
+Rocha-Peixoto's central argument was that premodern, modernist, and
+postmodern historiographic "modes ... are not successive stages or
+phases, but three forms of architectural thinking in constant debate,"
+all three of them having actually arisen "in the early 19^th^ century."
+[@rocha-peixoto:2013spiders, 75] as different manifestations of
+Idealism. In Tafuri's view, critical history was a safeguard against the
+aporia of Theory and History; in Rocha-Peixoto's, then, critical history
+had definitely exorcized that aporia by subsuming Theory under History
+[@rocha-peixoto:2013spiders, 80].
+
+Because theory was no longer a threat to proper historiography,
+Rocha-Peixoto's historical pedagogy was free to engage with professional
+education by means of creative associations that may or may not comprise
+disciplinary tools.
 
 # Disciplinary tools in (or around) critical history #
 
 So far, we have looked at how the disciplinary, totalizing method of
-comparative histories harbors intrinsic contradictions, which critical
+comparative histories harbored intrinsic contradictions, which critical
 history has exposed and replaced with a provisional assemblage of a
 fragmentary subject matter. We have also seen how architectural history
 textbooks crafted for professional education have struggled to evade the
