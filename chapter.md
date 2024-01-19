@@ -49,31 +49,16 @@ keywords:
 # Introduction #
 
 This chapter contrasts two ways of looking at the
-architecture of the past: "comparative histories" and "critical
+architecture of the past that have been prevalent in the research and
+teaching of this subject matter within professional architecture
+schools: "comparative histories" and "critical
 history". Many textbooks from the 19^th^ and 20^th^ centuries adopted a
 *comparative method*, made famous by Banister Fletcher's eponymous book
-[@fletcher:1905history]. More recently, however, criticism has become so
+[@fletcher:1896history]. More recently, however, criticism has become so
 central to our understanding of the "duty" of history
 [@tafuri:1968teorie] that we would hardly admit comparative studies as a
 form *history* at all. This notwithstanding, the comparative form has a
 stronger claim to being *architecture*.
-
-The problem of history in professional architectural education resides,
-therefore, in the interplay between two pairs of concepts in tension
-with each other: first, the tension between the comparative method as
-part of an Idealist view of scholarship and the critical approach as a
-development of historical materialism; second, the tension between the
-discipline of architecture bearing upon professional education and the
-field of history as understood within the frame of the humanistic
-universities.
-
-This brings up a long-standing
-paradox regarding the place of architectural history in professional
-education and practice. This paradox plays out in a few
-21^st^-century textbooks that attempted to distance themselves from the
-comparative method. Other disciplinary methods, however, are used in the
-study of past architecture and establish particular relations to
-historical criticism.
 
 Much of the publishing market for architectural history textbooks is
 concentrated in North America and Western Europe. Therefore, the
@@ -95,6 +80,47 @@ architectural historians have often, if not mostly, come out of an
 initial professional training. Since they all have been, to some extent,
 consumers of French, British, and North American textbooks, this
 geographic scope is logically self-contained.
+
+The problem of history in professional architectural education resides,
+therefore, in the interplay between two pairs of concepts in tension
+with each other: first, the tension between the comparative method as
+part of an Idealist view of scholarship and the critical approach as a
+development of historical materialism; second, the tension between the
+discipline of architecture bearing upon professional education and the
+non-disciplinary field of history as understood within the frame of the
+humanistic universities.
+
+This brings up a long-standing
+paradox regarding the place of architectural history in professional
+education and practice. It has played out in a few
+21^st^-century textbooks that attempted to distance themselves from the
+comparative method. This paradox has to do with the fact that critical
+history functions best as an interpretive paradigm when applied to
+architectural cultures that were themselves critically aware of their
+own historicity. As such, architectural history has tended to drift
+towards more recent subject matter, thus re-entering the territory of
+disciplinary theory that critical historians initially sought to avoid.
+This disciplinary tension is being addressed nowadays by heuristic
+approaches that acknowledge the role of disciplinary methods in the
+study of past architecture and establish particular relations to
+historical criticism.
+
+To address the problem of history's place in the disciplinary field of
+architecture, then, we must look at the two major currents in historical
+interpretation that arose in the mid 19^th^ century: comparative history
+and critical history. Some of the textbooks and methods that most
+explicitly adhere to either of these currents will be discussed in
+depth. This will be, then, not a judgment on the merits or relevance of
+these works, or of those omitted from this discussion, but an
+exploration of how such works shed light on the development of the
+professional architect's historical education since the 19^th^ century.
+
+A number of other historiographic currents have been left out of this
+discussion, most notably the diverse forms of Idealist criticism and
+formalism that saw their heyday from the first half of the 20^th^
+century up to the 1960s. These currents were already discussed by
+scholars such as @podro
+
 
 # Before comparative history #
 
@@ -479,7 +505,7 @@ legitimacy of linear-time historiography is key to grasping the current
 drift in both the scholarship of architectural history as well as the
 scope of (text)book writing.
 
-# Non-disciplinary history in architectural education #
+# Non-disciplinary history and disciplinary theory #
 
 Kathleen James-Chakraborty circumvented the pitfall of linear time
 in her book *Architecture since 1400*. She did so by explicitly
