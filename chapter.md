@@ -140,6 +140,8 @@ this assumption [@kail:2003vous150151, 170]. In practice, materialist
 historiography has come to mean criticism emphasizing effective
 socio-economic change, rather than conceptual worldviews.
 
+<!--Now define critical history, Tafuri, Benjamin, fragments-->
+
 # Comparative history as architecture #
 
 Comparative textbooks such as Fergusson's early *Illustrated Handbook of
@@ -341,13 +343,9 @@ still the authoritative textbook at the École des Beaux-Arts
 [@choisy:1964histoire; a facsimilar edition was issued by Le Moniteur
 for the first edition's hundredth anniversary in 1996]. Banister
 Fletcher's book was last issued in the form sanctioned by its original
-authors in 1961.
-
-<!--Solution de continuité-->
-
-"The new ideal was that history ought to be an agent of
+authors in 1961. According to @hoekstra:2014modernity2 [25.1],
+"the new ideal was that history ought to be an agent of
 disjunction where the emphasis was on analysis rather than on synthesis"
-[@hoekstra:2014modernity2].
 
 Whether it is realistic to expect an architectural history curriculum to
 be predicated on fragments is a different story. The definition of
@@ -660,8 +658,6 @@ grain of a historiography usually concerned with change itself, then,
 her argument came back to the teleological supremacy of present
 professional needs.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 The persistence of Idealist underpinnings in Latin American theories of
 architectural history such as Waisman's confirms to this day Tafuri's
 admonition against the pitfalls of doing "Theory and History", though it
@@ -670,29 +666,8 @@ is by no means restricted to Latin America. @keyvanian:2011teaching64
 historical precedents ... in assembling lessons of theoretical
 significance." Her career in the United States underscores the practical
 limits of critical scholarship when faced with the task of teaching in
-professional programs.
-
-One of few critical scholars who endeavored to flesh out a thorough
-teaching method is the Brazilian architectural historian Gustavo
-Rocha-Peixoto. Shunning Idealism in all its forms and being wary of a
-strict mapping of critical research methods onto survey teaching, he set
-out in 2011 to describe a heuristics for the historical education of
-professional architects in his book *The Spider's Stratagem*.
-
-Rocha-Peixoto's central argument was that premodern, modernist, and
-postmodern historiographic "modes ... are not successive stages or
-phases, but three forms of architectural thinking in constant debate,"
-all three of them having actually arisen "in the early 19^th^ century."
-[@rocha-peixoto:2013spiders, 75] as different manifestations of
-Idealism. In Tafuri's view, critical history was a safeguard against the
-aporia of Theory and History; in Rocha-Peixoto's, then, critical history
-had definitely exorcized that aporia by subsuming Theory under History
-[@rocha-peixoto:2013spiders, 80].
-
-Because theory was no longer a threat to proper historiography,
-Rocha-Peixoto's historical pedagogy was free to engage with professional
-education by means of creative associations that may or may not comprise
-disciplinary tools.
+professional programs and how this task tends to favor the creep of
+Idealism back into critical history.
 
 # Disciplinary tools in (or around) critical history #
 
@@ -706,6 +681,31 @@ underpins their premises. This process thus represents an incomplete
 transition from the study of buildings within the disciplinary framework
 of architecture, and towards a non-disciplinary historiographic ideal of
 the past as an entirely textual construct.
+
+One of few critical scholars who endeavored to flesh out a thorough
+method to address this incompleteness within professional education is
+the Brazilian architectural historian Gustavo Rocha-Peixoto. Shunning
+Idealism in all its forms and being wary of a strict mapping of critical
+research methods onto survey teaching, he set out in 2011 to describe a
+heuristics for the historical education of professional architects in
+his book *The Spider's Stratagem*.
+
+Rocha-Peixoto's central argument was that premodern, modernist, and
+postmodern historiographic "modes ... are not successive stages or
+phases, but three forms of architectural thinking in constant debate,"
+all three of them having actually arisen "in the early 19^th^ century."
+[@rocha-peixoto:2013spiders, 75] as different manifestations of
+Idealism. In Tafuri's view, critical history was a safeguard against the
+aporia of Theory and History; in Rocha-Peixoto's, then, critical history
+had definitely exorcized that aporia by subsuming Theory under History
+[@rocha-peixoto:2013spiders, 80]. Because theory is no longer a threat
+to proper historiography, Rocha-Peixoto's historical pedagogy can engage
+with professional education by means of creative associations that may
+comprise disciplinary tools yet is not constrained by disciplinary
+demands. To complete the aforementioned transition towards an
+understanding of the past as a fully malleable construct, it is the
+distinction itself between disciplinary (professional) and
+non-disciplinary (historiographic) interests that needs to be erased.
 
 This transition, however,
 will be ever incomplete insofar as the textual field of
@@ -836,21 +836,35 @@ but "an accusation" tasked with exposing "the epistemological regimes...
 <!--Solution de continuité-->
 
 This anti-disciplinary task, however, is bound up with the historicist
-problems of Early Modern and Modern societies. Teresa Stoppani showed
-how Tafuri's own interest in the Italian Renaissance hinged on
+problems of Early Modern and Modern societies. @stoppani:2010lhistoire [216]
+showed how Tafuri's own interest in the Italian Renaissance hinged on
 "unresolved problems" linking the historical subject to contemporary
-theoretical anxieties [@stoppani:2010lhistoire, 216]. Because of this,
-such a critical history program inevitably feeds back into that loop of
-Early Modern to Modernist historiography. This in turn reduces critical
-historians' interest in premodern architecture, and leaves the field
+theoretical anxieties. Because of this,
+such a critical history program would feed back inevitably into that loop of
+Early Modern to Modernist historiography. This in turn reduced critical
+historians' interest in premodern architecture, and left the field
 open to disciplinary studies. Critical history pries time apart to
 recompose its fragments, at the cost of favoring subjects where the
 problem of historical time is explicit. Disciplinary studies in
-architecture collapse time into a synthetic present, at the cost of
+architecture, on the other hand, collapse time into a synthetic present, at the cost of
 projecting current categories onto subjects to which they are foreign.
 The Marxist ideal that this contradiction will be overcome once every
 disciplinary specialization is diluted into "abstract... technical
 labor" [@tafuri:1980sfera, 28] shows no sign of coming to pass.
+
+The latest editions of Banister Fletcher's textbook have
+attempted to break free from synthesis by shunning the narrative
+unity provided by coherent authorship in favor of isolated chapters
+written by specialists. This is unusual in the textbook genre and found
+more often in *Companions* [@mallgrave:2017companions], although the
+SmartHistory project *Reframing Art History* is another, promising
+example of this approach [@reframing:2022].
+However, critical history of architecture today functions
+in a broad landscape where it interacts with other, more or less
+disciplinary fields. The points of contact between these disciplines
+and history expose conflicts between the philological toolkit drawn from
+the professional field of architecture and history's critical project of
+steering away from disciplinary boundaries and unitary narratives.
 
 # Conclusion #
 
