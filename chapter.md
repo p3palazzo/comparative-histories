@@ -1,6 +1,5 @@
 ---
-title: "Comparative histories of architecture in professional education"
-subtitle: "History, architecture, or Idealism?"
+title: "Comparative histories of architecture in professional education: history, architecture, or Idealism?"
 author: Pedro P. Palazzo
 date: "School of Architecture and Urbanism, University of Brasilia, Brazil, palazzo@unb.br"
 lang: en-US
@@ -198,7 +197,9 @@ signaled by a characteristic style [@barberot:1891histoire1, v]. These
 styles did not arise at random, but resulted almost deterministically
 from the interplay between the historical unfolding of the human mind
 and the constraints of geography, climate, materials, and inherited
-technical knowledge.
+technical knowledge (@fig:treearch).
+
+![The tree of architecture, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed. (1905)](media/figure-1.tif){#fig:treearch}
 
 It is the determinism implicit in the timeline of styles that makes
 these works instances of a philosophy of history. What makes them
@@ -206,15 +207,14 @@ Idealist is the assumption that such determinism was rooted outside the
 practice of architecture itself. In a strand linking Winckelmann to
 Hegel to Riegl and Wölfflin, these roots were thought to be spiritual.
 They thus hinge on the moral character of a nation or its stage of
-intellectual development, or on a more abstract "will to form" or
-"feeling for form" peculiar to each time period. Another tradition,
+intellectual development, or on a more abstract "will to form"
+[@riegl:1893stilfragen] or "feeling for form" [@woelfflin:1949italien]
+peculiar to each time period. Another tradition,
 arising later but much more influential in architectural histories, saw
-the roots of style as lying in material and social conditions. Although
-materialism is often equated with Marxism, it is worth noting that Karl
-Marx's own contributions to aesthetics were at best equivocal
-[@rose:1984marxs]. It was, instead, with technological rationalists such
+the roots of style as lying in material and social conditions.
+It was with technological rationalists such
 as Viollet-Le-Duc that the social and material determinism was strongest
-[@collins:1988changing]. <!--TBC?-->
+[@collins:1988changing].
 
 The deterministic development of style was not the only aspect of an
 Idealist philosophy of history that these 19^th^-century textbooks
@@ -279,7 +279,7 @@ control." [@baydar:1998postcolonial, 8]
 
 The expertise of architects was not limited to the choice of visual
 precedents: with industrial and managerial development came increasingly
-specific functional requirements [@tzonis:1972nonoppressive], and these
+specific functional requirements [@tzonis:1972non-oppressive], and these
 were at the core of what differentiated the Beaux-Arts architect from
 the Polytechnic engineer [@epron:1997comprendre]. It is worth noting
 that Fletcher himself made a career in the design of
@@ -316,25 +316,31 @@ of architecture.
 Consider, for example, the following statements drawn from a few
 comparative textbooks (emphasis added):
 
-#### James Fergusson (@fig:fergusson) ####
+James Fergusson (@fig:fergusson)
 
-> Another refinement [in Greek columns] was making all the columns slope
-> slightly inwards, *so as to give an idea of strength and support to
-> the whole.* [@fergusson:1855illustrated1, 269]
+: > Another refinement [in Greek columns] was making all the columns
+  > slope slightly inwards, *so as to give an idea of strength and
+  > support to the whole.* [@fergusson:1855illustrated1, 269]
 
-#### Banister Fletcher (@fig::fletcher) ####
+Banister Fletcher (@fig:fletcher)
 
-> The main entrance [of the English Gothic church] was frequently by a
-> south-western porch, *acting as a screen against the cold winds*...
-> [@fletcher:1905history, 299]
+: > The main entrance [of the English Gothic church] was frequently by a
+  > south-western porch, *acting as a screen against the cold winds*...
+  > [@fletcher:1905history, 299]
 
-#### Auguste Choisy (@fig:choisy) ####
+Auguste Choisy (@fig:choisy)
 
-> Most romanesque barrel vaults have their intrados broken up at regular
-> intervals by ribs ... *these ribs were strengthening to
-> brace thin vaults. But it was chiefly during construction of these
-> vaults that such ribs were useful ...* [@choisy:1899histoire2, 150, my
-> translation]
+: > Most romanesque barrel vaults have their intrados broken up at
+  > regular intervals by ribs ... *these ribs were strengthening to
+  > brace thin vaults. But it was chiefly during construction of these
+  > vaults that such ribs were useful ...* [@choisy:1899histoire2, 150,
+  > my translation]
+
+![Greek Doric columns, from James Fergusson's *The Illustrated Handbook of Architecture*, 1:268 (1855)](media/figure-2.tif){#fig:fergusson}
+
+![Comparative plans of English cathedrals, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed., 300--1 (1905)](media/figure-3.tif){#fig:fletcher}
+
+![Romanesque ribbed vaults, from Auguste Choisy's *Histoire de l'architecture* 148--50 (1899)](media/figure-4.tif){#fig:choisy}
 
 In each case, the description of a motif (roman text) was followed by a
 rationale for its existence, in the form of a problem this motif solved
@@ -383,13 +389,15 @@ The consolidation of critical history was accompanied by a faltering of
 interest in the architectural history textbook, at least in Northern
 Europe and the United States. The last running edition of Choisy's
 *Histoire de l'architecture* dates from 1964, at a time when it was
-still the authoritative textbook at the École des Beaux-Arts
-[@choisy:1964histoire; a facsimilar edition was issued by Le Moniteur
-for the first edition's hundredth anniversary in 1996]. Banister
+still the authoritative textbook at the École des Beaux-Arts.[^3]
+Banister
 Fletcher's book was last issued in the form sanctioned by its original
 authors in 1961. According to @hoekstra:2014modernity2 [25.1],
 "the new ideal was that history ought to be an agent of
 disjunction where the emphasis was on analysis rather than on synthesis"
+
+[^3]: @choisy:1964histoire; a facsimilar edition was issued by Le Moniteur
+    for the first edition's hundredth anniversary in 1996.
 
 Whether it is realistic to expect an architectural history curriculum to
 be predicated on fragments is a different story. The definition of
@@ -420,7 +428,6 @@ Jarzombek at the Massachusetts Institute of Technology; both
 Cambridge-based universities, the [MIT]{.smallcaps} and Harvard, have in
 fact been hotbeds of thinking about critical perspectives in
 architectural history beyond the Western canon.
-
 It was at the [MIT]{.smallcaps} that a research circle formed in the
 1990s and early 2000s leading up to the publication in 2007 of *A Global
 History of Architecture* [@ching:2007global]. Mark Jarzombek and another
@@ -648,7 +655,7 @@ was a work by Iowa State University professor Clare Cardinal-Pett, the
 [@cardinal-pett:2016history].
 
 Cardinal-Pett's book blended the mostly chronological structure already
-seen in *A Global History*, rejecting the conventional separation of
+seen in *A Global History*, rejecting the traditional scheme of native American
 culture--areas, with a more conventional narrative text. The latter
 enabled her to adopt, in some places, the critical approach
 characteristic of *Architecture since 1400*. Rather than delving deep
@@ -667,11 +674,11 @@ premodern periods has, however, raised a contradiction with
 undergraduate teaching, which has continued to cover a broad
 chronological survey. To some extent, this has led to a number of
 architecture faculty deserting history altogether: the Portuguese
-professor @tenreiro:2023fall [217] claimed that "those who were attached
+professor José Pedro @tenreiro:2023fall [217] claimed that "those who were attached
 to architectural history for political reasons now prefer theory."
 
 [^2]: This is not the case for urban history, which in Latin America has
-    a well established track of specialized scholarship encompassing the
+    a well established track record of specialized scholarship encompassing the
     Precolumbian and Colonial periods as well as the more recent past.
     However, urban history generally has a lesser bearing on the
     professional education of architects. See, for example,
@@ -682,7 +689,7 @@ theory was required for the history of architecture they were teaching.
 Argentinian professor Marina Waisman gave an early and influential
 response to this question. The title of her 1990 book *El interior de la
 historia*  was a play on the concept of "intra-history" coined by
-Spanish literary historian @unamuno:1902torno as transposed to
+Spanish literary historian Miguel de @unamuno:1902torno as transposed to
 architecture by the urban historian Fernando Chueca Goitia
 [@waisman:1993interior, 54; see @chuecagoitia:1981invariantes-castizos].
 The latter meant the history of lesser places and lives, often unnoticed
@@ -694,16 +701,16 @@ statement on the theory of architectural history.
 
 Though Waisman purported to assemble her thoughts on the specificity of
 the Latin American context in which to write architectural history,
-however, her argument ended up being more of a reflection on the
+her argument ended up being more of a reflection on the
 specificity of architectural history as a methodological field. Without
 folding back into the disciplinary character of comparative history,
 this entailed nevertheless an Idealist frame of mind. Waisman proposed a
 fixed set of themes that, to her, ought to supersede conventional
 stylistic periods or even simple chronology as tools for historical
-interpretation. This was reminiscent of Heinrich Wölfflin's *Principles*
-[@woelfflin:1948kunstgeschichtliche] and, by her recurring admonition to
+interpretation. This was reminiscent of Wölfflin's *Principles*
+[-@woelfflin:1950principles] and, by her recurring admonition to
 relate history to current urban planning problems, of Bruno Zevi's
-operative history [@zevi:1974architettura]. Although the title of
+operative history [-@zevi:1974architettura]. Although the title of
 Waisman's book alluded to unchanging cultural features going against the
 grain of a historiography usually concerned with change itself, then,
 her argument came back to the teleological supremacy of present
@@ -728,7 +735,7 @@ history has exposed and replaced with a provisional assemblage of a
 fragmentary subject matter. We have also seen how architectural history
 textbooks crafted for professional education have struggled to evade the
 determinism of the comparative approach, even when the critical method
-underpins their premises. This process thus represents an incomplete
+underpinned their premises. This process thus represents an incomplete
 transition from the study of buildings within the disciplinary framework
 of architecture, and towards a non-disciplinary historiographic ideal of
 the past as an entirely textual construct.
@@ -766,7 +773,7 @@ the ideological dependency of history upon architecture. Yet he also
 made clear, in his later writings, that a thorough study of architectural
 history must reach beyond a generic commitment to the critical treatment
 of documentary evidence, and rely on some sort of disciplinary training
-that could address the problem of "*which* philology [is required] for
+that could address the problem of "*which* philology for
 *this* particular subject" [@tafuri:1991introduzione, 7-8, his italics].
 
 The philological framework architectural history depends on lies nowadays,
@@ -774,7 +781,7 @@ to a great extent, in the disciplinary field of building archaeology. It
 is a specialization that arose with the name of *Bauforschung* (building
 research or scholarship) in late 19^th^-century Germany. To its early
 practitioners such as Wilhelm Dörpfeld [@sapirstein:2016columns120] and
-Josef Durm [@durm:1905baukunst; @durm:1910baukunst], *Bauforschung*
+Josef Durm [@durm:1905baukunst; -@durm:1910baukunst], *Bauforschung*
 provided solid evidence as opposed to the questionable interpretations
 of stylistic analysis [@azkarate:2020archaeology, 526]. Building
 archaeology therefore arose, in a sense, out of a critical view of
@@ -783,7 +790,7 @@ still a form of architectural scholarship above all, and continues to be
 taught in German-speaking countries as part of a professional curriculum
 in architecture [@neumann:2002teaching, 374-5].
 
-Of course, many of the early assumptions of classical *Bauforschung*
+Of course, many of the early results of classical *Bauforschung*
 went on to be refuted, most notably Durm's reconstruction of the
 primitive wooden Doric entablature after Charles Chipiez.[^1] Since the
 1950s, however, stratigraphy has contributed a great deal to the current
@@ -791,14 +798,14 @@ methodological makeup of building archaeology and to the near complete
 abandonment of stylistic analysis as a means of dating buildings
 [@azkarate:2020archaeology, 521]. Nevertheless, with respect to the
 textual tradition of critical history, building archaeology was long an
-outlier, perhaps distrusted on account of the latter's claim of direct
+outlier, perhaps distrusted on account of its claim of direct
 access to physical evidence of the past [@perotti:2001archeologia, 379].
 
 [^1]: @durm:1910baukunst; @chipiez:1876histoire. For a convincing and
     currently accepted archaeology of the development of the Doric order,
     see @barletta:2009origins.
 
-Architectural history still needs to come more fully to terms with the
+Architectural history still needs to come to terms more fully with the
 disciplinary character of building archaeology. The field of
 construction history, for one, has welcomed disciplinary studies as
 specific as the structural calculation of traditional components
@@ -820,7 +827,7 @@ architectural history.
 Vernacular architecture
 studies, on the other hand, add a layer of complication to the issue of
 whether historical criticism can be embedded in a disciplinary setting.
-Vernacular architecture, by contrast, has often been viewed as an
+Vernacular architecture has often been viewed as an
 intrinsically operative, and therefore disciplinary, field. First, it
 deals with social subjects that are not safely stationed in the past,
 but continue into the present and look towards the future
@@ -836,7 +843,7 @@ assertion that there can be no such thing as operative history
 arose unquestionably from a critical framework. Contemporary interest in
 vernacular built environments stems from anthropological studies in the
 1960s and 70s [@ara:2016imaging21, 174], notably those of
-@rapoport:1969house, @glassie:1976folk, and
+Amos @rapoport:1969house, Henry @glassie:1976folk, and Paul
 @oliver:2006built. Since then, scholars of vernacular
 buildings have increasingly claimed historical status for their
 research, for much the same reasons as building archaeology
@@ -847,10 +854,11 @@ change in historical time, and does so with a critical outlook in each
 society's own terms [@egenter:1980bauform, 12].
 
 An even stronger claim for melding critical history and disciplinary
-insertion lies in the archaeology of architecture (somewhat confusingly,
-this is not at all the same as building archaeology), a field that deals
+insertion lies in the archaeology of architecture, a field that deals
 chiefly with the same vernacular built environment as architectural
-anthropology. Whereas building archaeology is chiefly concerned with
+anthropology. Somewhat confusingly, the archaeology of architecture
+is not related to building archaeology.
+Whereas building archaeology is chiefly concerned with
 ascertaining the physical process of buildings through time, the
 archaeology of architecture deals with the full range of human dwelling.
 
@@ -875,7 +883,7 @@ appropriate philological toolkit. Nevertheless, it is not without its
 own contradictions. Historic preservation and the practice of
 traditional or sustainable architecture [@memmott:2015redefining58] are
 the operative branches of building archaeology, the archaeology of
-architecture, and the study of vernacular environments. Jarzombek
+architecture, and the study of vernacular environments. As we saw above, Jarzombek
 denounced that critical history increasingly confines itself to the
 study of historicist societies, and of modernism in particular
 [@ching:2007global, 118]. The operative disciplines, he continued, took
