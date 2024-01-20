@@ -48,43 +48,43 @@ keywords:
 # Introduction #
 
 This chapter contrasts two ways of looking at the
-architecture of the past that have been prevalent in the research and
-teaching of this subject matter within professional architecture
-schools: "comparative histories" and "critical
+architecture of the past that have been prevalent in research and
+teaching within professional architecture
+schools: "comparative history" and "critical
 history". Many textbooks from the 19^th^ and 20^th^ centuries adopted a
-*comparative method*, made famous by Banister Fletcher's eponymous book
-[@fletcher:1896history]. More recently, however, criticism has become so
-central to our understanding of the "duty" of history according to Manfredo
-@tafuri:1968teorie that we would hardly admit comparative studies as a
-form *history* at all. This notwithstanding, the comparative form has a
+*comparative method*, notably Banister Fletcher's eponymous book
+[@fletcher:1896history]. However, criticism has become so central to our
+understanding of the "task" of history as outlined by Manfredo
+@tafuri:1968teorie that comparative studies are now scarcely
+acknowledged as a form *history*. Despite this, the comparative form has a
 stronger claim to being *architecture*. This contrast has spilled over
 from the education of professional architects to raise issues in the
 writing and practice of supporting disciplines of architectural history.
 
 Much of the publishing market for architectural history textbooks is
-concentrated in North America and Western Europe. Therefore, the
-discussion in this chapter is chiefly concerned with a few major
-publications originating in these regions but circulated worldwide
-either in their original form or in translation. That said, history as a
-humanistic and literary craft has been marginalized from professional
-education in architecture in much of continental Europe. The context of
+concentrated in North America and Western Europe. Therefore, we will
+focus on a few major publications from these regions as well as some
+noteworthy theoretical contributions from South America. This is in part
+because history as a
+humanistic pursuit and literary craft has been marginalized in professional
+architectural education in much of continental Europe. The context of
 this discussion is thus mainly focused on how global architectural history
 appears from the perspective of the Americas, North to South, and to a
 lesser extent the Iberian peninsula and Belgium.
 
-These regions are where architectural education has long been integrated
-into universities, and where the ideal of a humanistic and generalist
-education for architects is strongest. Moreover, unlike much of
+These regions, where architectural education has long been integrated
+into universities, have nurtured the ideal of a humanistic and generalist
+education for architects. Moreover, unlike much of
 continental Europe and the British isles where the scholar--architect is
-a relatively new development, in the Americas and the Iberian peninsula
-architectural historians have often, if not mostly, come out of an
-initial professional training. Since they all have been, to some extent,
-consumers of French, British, and North American textbooks, this
+a relatively new development, architectural historians in the Americas
+and the Iberian peninsula often, if not mostly, come out of professional
+training. Given their exposure to French, British, and North American
+textbooks, this
 geographic scope is logically self-contained.
 
-The problem of history in professional architectural education resides,
-therefore, in the interplay between two pairs of concepts in tension
-with each other: first, the tension between the comparative method as
+The problem of history in professional architectural education thus lies
+in the interplay between two pairs of concepts in tension:
+first, that between the comparative method as
 part of an Idealist view of scholarship and the critical approach as a
 development of historical materialism; second, the tension between the
 discipline of architecture bearing upon professional education and the
@@ -92,47 +92,36 @@ non-disciplinary field of history as understood within the frame of the
 humanistic universities.
 
 This brings up a long-standing
-paradox regarding the place of architectural history in professional
-education and practice. It has played out in a few
-21^st^-century textbooks that attempted to distance themselves from the
-comparative method. This paradox has to do with the fact that critical
-history functions best as an interpretive paradigm when applied to
-architectural cultures that were themselves critically aware of their
-own historicity. As such, architectural history has tended to drift
+paradox concerning the place of architectural history in professional
+education and practice. This paradox has played out in a few
+21^st^-century textbooks attempting to distance themselves from the
+comparative method. Critical history operates most effectively as an
+interpretive paradigm when applied to architectural cultures critically
+aware of their
+own historicity. As such, architectural history has drifted
 towards more recent subject matter, thus re-entering the territory of
 disciplinary theory that critical historians initially sought to avoid.
-This disciplinary tension is being addressed nowadays by heuristic
-approaches that acknowledge the role of disciplinary methods in the
-study of past architecture and establish particular relations to
+Addressing this disciplinary tension nowadays involves heuristic
+approaches that acknowledge the role of disciplinary methods in
+studying past architecture and establish particular relations to
 historical criticism.
 
-To address the problem of history's place in the disciplinary field of
-architecture, then, we must look at the two major currents in historical
-interpretation whose foundations were laid in the mid 19^th^ century:
-comparative history
-and critical history. Some of the textbooks and methods that most
-explicitly adhere to either of these currents will be discussed in
-depth. This will be, then, not a judgment on the merits or relevance of
-these works, or of those omitted from this discussion, but an
-exploration of how such works shed light on the development of the
-professional architect's historical education since the 19^th^ century.
-
 A number of other historiographic currents have been left out of this
-discussion, most notably the diverse forms of Idealist criticism and
-formalism that saw their heyday from the first half of the 20^th^
-century up to the 1960s. These currents were already discussed by
+discussion, notably the diverse forms of Idealist criticism and
+formalism widespread from the first half of the 20^th^
+century up to the 1960s. These currents were already examined by
 scholars such as Michael @podro:1982critical, Alan
 @colquhoun:1981historicism, Alina @payne:1994rudolf, David Watkin
 [-@watkin:1977morality; -@watkin:1980rise], and Giorgio
-@pigafetta:1993architettura. Neither is this chapter concerned with a
-number of transitional textbooks focused on Western architecture that
-appeared in the 1970s, 80s, and 90s, such as Watkin's
+@pigafetta:1993architettura. Neither does this chapter delve into
+textbooks focused on Western architecture published
+in the 1970s, 80s, and 90s, such as Watkin's
 [@watkin:2005history], Marvin Trachtenberg and Isabelle Hyman's
 [@trachtenberg:1986architecture], or José Ramón Alonso Pereira's
 [@alonso:1995introduccion]. Finally, the German tradition of
-architectural history textbooks is too deeply entangled with editorial
-projects of encyclopaedic professional manuals to be singled out and
-discussed here.
+architectural history textbooks is too deeply tied to encyclopaedic
+professional manuals to be profitably confronted with the Atlantic
+tradition of standalone textbooks.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -178,11 +167,11 @@ These historians considered that "dissecting" the "crises" of
 historical structures was more relevant to scholarship than studying
 style as a shared mindset [@palazzo:2021death]. Hence, materialist
 historiography claimed the title "critical", although some critical
-historians such as @hartoonian:2018time have sought to expand the reach
-of this definition into more symbolic, not purely materialistic,
-approaches. It ultimately rejected the notion that it was even possible
-to provide a stable explanation for architectural forms of the past,
-preferring to work out fragmentary pictures of particular case studies.
+historians such as @hartoonian:2018time have sought to expand this
+definition to encompass more symbolic, not purely materialistic,
+approaches. It ultimately rejected the notion that providing a stable
+explanation for architectural forms of the past was even possible,
+preferring to work out fragmentary pictures of specific case studies.
 
 
 # Comparative history as architecture #
