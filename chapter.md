@@ -670,6 +670,13 @@ architecture faculty deserting history altogether: the Portuguese
 professor @tenreiro:2023fall [217] claimed that "those who were attached
 to architectural history for political reasons now prefer theory."
 
+[^2]: This is not the case for urban history, which in Latin America has
+    a well established track of specialized scholarship encompassing the
+    Precolumbian and Colonial periods as well as the more recent past.
+    However, urban history generally has a lesser bearing on the
+    professional education of architects. See, for example,
+    @fridman:2013cidades.
+
 In South America, however, many went on to ponder instead *what*
 theory was required for the history of architecture they were teaching.
 Argentinian professor Marina Waisman gave an early and influential
@@ -786,6 +793,10 @@ abandonment of stylistic analysis as a means of dating buildings
 textual tradition of critical history, building archaeology was long an
 outlier, perhaps distrusted on account of the latter's claim of direct
 access to physical evidence of the past [@perotti:2001archeologia, 379].
+
+[^1]: @durm:1910baukunst; @chipiez:1876histoire. For a convincing and
+    currently accepted archaeology of the development of the Doric order,
+    see @barletta:2009origins.
 
 Architectural history still needs to come more fully to terms with the
 disciplinary character of building archaeology. The field of
@@ -930,14 +941,14 @@ This discussion led from the 19^th^-century comparative histories of
 architecture, openly predicated on an Idealistic philosophy of history
 but also explicitly disciplinary, to the 21^st^-century global histories
 of architecture that rejected the deterministic, Eurocentric categories
-and evolutionary paradigm of comparative histories. We have thus seen
+and evolutionary paradigm of comparative histories. We thus saw
 how two recent textbooks, *A Global History of Architecture* and
 *Architecture since 1400*, sought to dismantle deterministic narratives
 while filling the market niche of the humanistic architectural education
 prevalent in the Americas.
-Even as these two books explicitly reject the Eurocentric *argument* for
+Even as these two books explicitly rejected the Eurocentric *argument* for
 an evolutionist history, their approaches to collecting buildings and
-societies uphold the Eurocentric *structure* of a universal architecture
+societies upheld the Eurocentric *structure* of a universal architecture
 determined by the historicist framework of change through linear time.
 
 These architectural history textbooks offered a picture of meaningful
@@ -985,14 +996,3 @@ legitimacy of disciplinary knowledge about the architectural past. Failure
 to do so has led not only to an uneasy coexistence between history and
 its supporting fields, but even to the continued creeping of Idealist
 assumptions into historical narratives.
-
-[^1]: @durm:1910baukunst; @chipiez:1876histoire. For a convincing and
-    currently accepted archaeology of the development of the Doric order,
-    see @barletta:2009origins.
-
-[^2]: This is not the case for urban history, which in Latin America has
-    a well established track of specialized scholarship encompassing the
-    Precolumbian and Colonial periods as well as the more recent past.
-    However, urban history generally has a lesser bearing on the
-    professional education of architects. See, for example,
-    @fridman:2013cidades.
