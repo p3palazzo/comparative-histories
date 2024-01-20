@@ -125,23 +125,27 @@ tradition of standalone textbooks.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-Both the comparative and the critical methods in architectural history were
-developed in Europe at the intersection of Idealist criticism and the
-modern discipline of architecture. Idealism, though now most often
-identified with Immanuel Kant's *Critiques* and Hegel's philosophy of
-history, really was a web of intellectual developments in the 18^th^
-century. Much of the development of a philosophy of architectural
-history took place not in philosophy proper but among historians such as
-the Austrian connoisseur Johann Joachim @winckelmann:1764geschichte and
-the French architects Julien-David Leroy [@kisacky:2001history60] and
-Jacques Guillaume @legrand:1842essai.
+Both the comparative and the critical methods in architectural history
+originated in Europe at the intersection of Idealist criticism and the
+modern discipline of architecture. Idealism is now commonly associated
+with the Prussian thinkers Immanuel Kant's *Critiques* and G.W.F.
+Hegel's philosophy of history, yet it really was a web of intellectual
+developments in the 18^th^ century. An Idealist philosophy of art
+history was shaped more or less independently from classical philology
+and antiquarianism [@momigliano:1990classical], through the Italian
+philosopher Giambattista Vico [@ciardo:1947quattro]. A third, better
+known strand, ran from a circle of Catholic German-speaking artists and
+antiquarians who may have influenced the Austrian connoisseur Johann
+Joachim Winckelmann [@kaufmann:2001antiquarianism62] in formulating his
+system of identity between historical periodization, culture, and style
+several decades before Hegel.
 
 It was in fact the concurrent development of
 art and architectural history, on the one hand, and of the modern
 professional education in architecture, on the other, that set the
 conditions for the hegemony of Idealist criticism as an interpretive
 paradigm in the 19^th^ and 20^th^ centuries. Unlike earlier artists'
-biographies in the Vasarian tradition, the Idealist paradigm put forward
+biographies in the Vasarian tradition, Winckelmann's system put forward
 a new understanding of history as a sequence of conceptual boxes. In
 each of these boxes, a style could be logically explained by the context
 in which it arose. This entailed an awareness that there was, in the
@@ -150,8 +154,13 @@ Heinrich @woelfflin:1950principles [1], "no such thing as objective
 vision" across different ages and styles. Therefore, one of the major
 tasks of Idealist art and especially architectural history was,
 according to @podro:1982critical [xv], bringing an historical artwork to
-bear upon "our conception of art" and thus reshaping it through
-comparison with the past.
+bear upon "our conception of art" and thus reshaping the latter through
+comparison with the past.[^4]
+
+[^4]: Michael Podro, writing in the 1970s, called this form of art
+    historical scholarship "critical", but his use of the word is
+    unrelated to what has come to be understood as "critical history"
+    since the 1990s.
 
 This paradigm served well the articulation of education and professional
 practice that was, according to @egbert:1980beauxarts and
@@ -159,19 +168,16 @@ practice that was, according to @egbert:1980beauxarts and
 Then, as the absorption of architecture schools by the university system
 in Italy and the Americas was completed by the mid 20^th^ century,
 specialist architectural historians began to pry scholarship apart from
-operative theory. They often did so by taking up another 19^th^-century
-offshoot of the Idealist philosophy of history, Marxist historical
-materialism as reinterpreted by Walter Benjamin [@tafuri:1980sfera, 22].
-
-These historians considered that "dissecting" the "crises" of
-historical structures was more relevant to scholarship than studying
-style as a shared mindset [@palazzo:2021death]. Hence, materialist
-historiography claimed the title "critical", although some critical
-historians such as @hartoonian:2018time have sought to expand this
-definition to encompass more symbolic, not purely materialistic,
-approaches. It ultimately rejected the notion that providing a stable
-explanation for architectural forms of the past was even possible,
-preferring to work out fragmentary pictures of specific case studies.
+operative theory. To do so, they emphasized an implication of the
+Idealist philosophy of history as reinterpreted by Walter Benjamin and
+other Marxist thinkers. This implication was that the "boxes" of the
+past could never be explained in their entirety by the modern scholar,
+and only fragments could be laboriously and provisionally reconstructed
+[@tafuri:1980sfera, 22].
+These specialist historians held that "dissecting" the "crises" of
+historical structures was thus more relevant to scholarship than studying
+style as a unified system [@palazzo:2021death]. Hence, this form of
+historiography claimed the sobriquet "critical".
 
 
 # Comparative history as architecture #
