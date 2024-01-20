@@ -137,51 +137,54 @@ discussed here.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-Comparative histories of architecture were developed in Europe at the
-intersection of the Idealist philosophy of history and the modern
-discipline of architecture. It is in fact the concurrent development of
+Both the comparative and the critical methods in architectural history were
+developed in Europe at the intersection of Idealist criticism and the
+modern discipline of architecture. Idealism, though now most often
+identified with Immanuel Kant's *Critiques* and Hegel's philosophy of
+history, really was a web of intellectual developments in the 18^th^
+century. Much of the development of a philosophy of architectural
+history took place not in philosophy proper but among historians such as
+the Austrian connoisseur Johann Joachim @winckelmann:1764geschichte and
+the French architects Julien-David Leroy [@kisacky:2001history60] and
+Jacques Guillaume @legrand:1842essai.
+
+It was in fact the concurrent development of
 art and architectural history, on the one hand, and of the modern
 professional education in architecture, on the other, that set the
-conditions for the hegemony of the philosophy of history as an
-interpretive paradigm in the 19^th^ and 20^th^ centuries.
+conditions for the hegemony of Idealist criticism as an interpretive
+paradigm in the 19^th^ and 20^th^ centuries. Unlike earlier artists'
+biographies in the Vasarian tradition, the Idealist paradigm put forward
+a new understanding of history as a sequence of conceptual boxes. In
+each of these boxes, a style could be logically explained by the context
+in which it arose. This entailed an awareness that there was, in the
+famous words of the neo-Kantian art historian [@hart:1982reinterpreting]
+Heinrich @woelfflin:1950principles [1], "no such thing as objective
+vision" across different ages and styles. Therefore, one of the major
+tasks of Idealist art and especially architectural history was,
+according to @podro:1982critical [xv], bringing an historical artwork to
+bear upon "our conception of art" and thus reshaping it through
+comparison with the past.
 
-To understand why this is so, let us look at how the structure of art and
-architectural history books changed during the 18^th^ century.
+This paradigm served well the articulation of education and professional
+practice that was, according to @egbert:1980beauxarts and
+@epron:1997comprendre, at the core of the Beaux-Arts schools system.
+Then, as the absorption of architecture schools by the university system
+in Italy and the Americas was completed by the mid 20^th^ century,
+specialist architectural historians began to pry scholarship apart from
+operative theory. They often did so by taking up another 19^th^-century
+offshoot of the Idealist philosophy of history, Marxist historical
+materialism as reinterpreted by Walter Benjamin [@tafuri:1980sfera, 22].
 
-during the three hundred years between
-Giorgio Vasari's 1550 *Lives of the artists* and Francesco Milizia's
-1768 *Lives of celebrated architects*.
+These historians considered that "dissecting" the "crises" of
+historical structures was more relevant to scholarship than studying
+style as a shared mindset [@palazzo:2021death]. Hence, materialist
+historiography claimed the title "critical", although some critical
+historians such as @hartoonian:2018time have sought to expand the reach
+of this definition into more symbolic, not purely materialistic,
+approaches. It ultimately rejected the notion that it was even possible
+to provide a stable explanation for architectural forms of the past,
+preferring to work out fragmentary pictures of particular case studies.
 
-The early 18^th^-century Neapolitan professor Giambattista Vico took
-issue with the classical system where philosophy and history were two
-complementary yet distinct forms of knowledge. Instead,  integrated
-history (or rather, the history of modes of understanding) into a
-philosophical system [@vico:2011principi]. Vico's
-
-[@momigliano:1990classical]
-
-Conversely, the notion that architecture had a history---in that
-philosophical sense---was also being formulated in the 18^th^ century.
-[@winckelmann:1764geschichte] [@legrand:1842essai]
-
-Comparative histories of architecture were developed in Europe during
-the second half of the 19^th^ century at the intersection of two
-intellectual movements: on the one hand, the Idealist philosophy of
-history, running from Vico and Winckelmann
-[@momigliano:1990classical, 75] to Hegel, Herder, and Marx
-[@rose:1984marxs]; on the other hand, the articulation of the
-disciplinary field of architectural practice and education that Épron
-saw at the heart of eclecticism [@epron:1997comprendre].
-
-Idealism is known for preferring the general concept to the individual
-example [@ghirardo:2008review67]. More importantly, however, it is
-predicated on the subject's historically determined agency through the
-act of construing concepts. Materialism is evidently the brainchild of
-this assumption [@kail:2003vous150151, 170]. In practice, materialist
-historiography has come to mean criticism emphasizing effective
-socio-economic change, rather than conceptual worldviews.
-
-<!--Now define critical history, Tafuri, Benjamin, fragments-->
 
 # Comparative history as architecture #
 
@@ -909,7 +912,7 @@ steering away from disciplinary boundaries and unitary narratives.
 
 # Conclusion #
 
-Despite the ever widening reach of criticism, then, Idealist philosophies
+Despite the ever widening reach of materialist criticism, then, Idealist philosophies
 of history have kept creeping into architectural scholarship. This may stem
 from critical history deserting certain subjects or rejecting
 contamination by operative requirements. In other cases, however,
