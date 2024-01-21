@@ -1,113 +1,74 @@
 ---
 title: "Comparative Histories of Architecture: History, Architecture, or Idealism?"
 author: Pedro P. Palazzo
-date: 2021-09-17
+date: 2022-12-07
 tags:
 bibliography: _bibliography.yaml
 ---
 
-Comparative histories of architecture arose in the second half of the
-nineteenth century from the Idealist philosophy of history. Canonical
-textbooks such as Fergusson's early *Illustrated Handbook of
-Architecture*, Choisy's *Histoire de l'architecture*, and Fletchers'
-*History of Architecture on the Comparative Method* implied or, in the
-latter case, explicitly claimed European architecture alone had the
-superior ability to perform meaningful 'historical change' out of the
-passage of time. At the same time, comparative history was embedded into
-the theory and practice of architecture, blending seamlessly with
-professional education. The critical historians' refutation of Idealism
+Since the mid-nineteenth century, there have been two dominant modes of
+presenting, discussing, and classifying the
+architecture of the past: "comparative histories" and "critical
+history". Many textbooks from the 19^th^ and 20^th^ centuries adopted a
+*comparative method*, made famous by Banister Fletcher's eponymous book.
+Since the postwar period, however, criticism
+became so central to our understanding of the "duty" of history
+that we would hardly admit comparative studies as a
+form *history* at all. This notwithstanding, the comparative
+form has a stronger claim to being *architecture*.
+
+The critical understanding of history is ultimately best suited to
+analyzing building cultures that are themselves self-consciously
+historicist, hence the drift of current architectural historiography
+towards an ever greater emphasis on modernism.
+This brings up a long-standing
+paradox regarding the place of architectural history in professional
+education and practice. Comparative histories of architecture
+portrayed architectural history as a
+sequence of characteristic styles determined by the
+constraints of the natural and social context.
+
+The critical historians' refutation of Idealism
 since the twentieth century disputed both the evolutionism and the
 disciplinary bounds of comparative history.
-
 A major achievement of critical theorists was to dispel the belief in a
 universal standard for assessing different cultures. At the same time,
 architectural history must integrate the irreducible diversity of
-cultures into 'global' surveys. This paradox shows in the narrative
-choices of a couple of recent, paradigm-shifting textbooks. One of them,
-*A Global History of Architecture* by Francis D. K. Ching, Mark
-Jarzombek, and Vikramāditya Prakāsh, evades the Idealist narrative by
-juxtaposing examples in simple chronological order; in so doing,
-however, it reinforces the Western idea that only linear time underpins
-critical meaning. Another one, *Architecture Since 1400* by Kathleen
-James-Chakraborty, showcases different societies walled off from one
-another in discrete chapters, an ethnographic structure that downplays
-the increasingly global cultural and economic networks.
+cultures into "global" surveys for consumption in the humanistic
+educational model of architecture schools in the Americas.
 
-Even as these two books explicitly reject the colonial *argument* for
-European supremacy, their approaches to 'collecting' buildings and
-societies uphold the colonial *structure* of the universal ethnographic
-museum, curious but exotic to its target audience---the post-Postmodern,
-Western student. I contend it is these books' very partaking in the
-non-disciplinary understanding of 'critical history' that has made them
-fall into this Idealist pitfall. By confronting their perspectives with
+By confronting critical histories of architecture with
 the unapologetically disciplinary approach of comparative histories, we
 can begin to unpack the ways in which different forms of writing have
-been legitimized in different contexts as 'proper' history or as
-'properly architectural' history. This brings other, more practical
-questions to the surface as well. For example, which
-other disciplinary approaches, such
-as vernacular studies or building archaeology, have also been sidelined
-by non-disciplinary criticism among historians? Can a survey be
-organized around some other criterion than chronological order or
-culture-epochs, yet remain intelligible and honest to its subject? For
+been legitimized in different contexts as "proper" history or as
+"properly architectural" history. For
 better or for worse, these questions show how much of the legacy of
 comparative history still bears upon the paradoxes of critical history.
 
-<!--
-   -We found your abstract particularly compelling, but believe that it
-   -could benefit from more detail, for example, what are the few recent
-   -books that you will be considering in your position paper. We would like
-   -to encourage you to read the RT provocation and make sure your abstract
-   -states a position in response. Before 20 December, please send us the
-   -final version of your abstract.
-   -
-   -RT03 – Historiography, get it right!
-   -
-   -Roundtable sponsored by the Society of Architectural Historians
-   -Australia and New Zealand.
-   -
-   -Chairs: Macarena de la Vega, University of Melbourne; Gevork Hartoonian,
-   -University of Canberra.
-   -
-   -… experience of the mole of History burrowing through a lengthy past and
-   -creating its specific traditions in the process.                    
-   -E. P. Thompson
-   -
-   -Yes, histories of architecture do produce traditions: the styles
-   -associated with certain periods, the connections made between tendencies
-   -and a certain group of architects. Above all, the conjectures which
-   -historians have construed and constructed in the delusion that they can
-   -capture the Zeitgeist. Nevertheless, should this ever-growing body of
-   -work be taken for History? To what extent does a text on the past
-   -approximate History? More specifically, what is the intersection between
-   -History and histories of architecture? Not every work concerned with
-   -past architecture is categorically historical, especially those written
-   -in the last twenty years. With the contemporary demise of Theory at
-   -least in architectural praxis, the decline of which was foreshadowed by
-   -the death of Jacques Derrida, useful binaries such as history and
-   -theory, history and criticism have lost their visibility, smoothing the
-   -way for the prevailing textuality. This turn of events is coterminous
-   -with the dissemination of contemporary digital networks engineered by
-   -global capitalism. Rather than to claim “the death of history,” the
-   -question is in what capacity does architectural history index History
-   -beyond contingencies, without reducing the text to only empirical
-   -realities, including those collected through archival research.
-   -
-   -To go beyond “reportage” and “textuality,” the two unconscious
-   -dimensions of contemporary history writing, we should recall the past
-   -accurately. Manfredo Tafuri, for one, said it all: there is no criticism
-   -but history. We argue that there is no history but historical criticism.
-   -In this sense, the non-contemporaneity implied in the dialectics of past
-   -and present plays a crucial role to the point that, like a detective,
-   -the historian should seek clues lost in between fragments of collected
-   -facts, subjective and objective. To follow E.P. Thompson, to be
-   -critically effective, the historiography of architecture should organise
-   -and interpret facts and ideas taking into account the specific
-   -traditions established by the mole of History. We invite papers that
-   -respond to the provocations framed above and that investigate critical
-   -strategies in architectural historiography with a focus on one of these
-   -topics: heritage and the past present, monumentality and the past
-   -frozen, landscape and the everlasting, historical time and temporality,
-   -and contemporaneity of architecture and history.
-   -->
+Much of the disciplinary knowledge about buildings of the past does not,
+indeed, make the cut of critical history. This knowledge, however,
+continues to provide source material for writing histories of
+architecture that pride themselves on a critical perspective. The
+contradiction between both domains may well be inescapable.
+Even so, architectural history has yet to come to terms with the
+legitimacy of disciplinary knowledge of the architectural past. Failure
+to do so has led not only to an uneasy coexistence between history and
+its supporting fields, but even to the continued creeping of Idealist
+assumptions into historical narratives.
+
+## Biographical note ##
+
+Pedro P. Palazzo is an architect, architectural historian, and historic
+preservationist specializing in the western Mediterranean and
+Portuguese-speaking world in the eighteenth and nineteenth centuries.
+His research explores the interfaces between traditional and modern
+construction as well as between the learned architecture of classicism
+and vernacular typologies.
+
+Pedro is associate professor of architectural history and theory at the
+University of Brasilia School of Architecture and Urbanism and was a
+visiting scholar at the University of Coimbra Center for Social Studies
+in 2019--2023. He was the District Historic Preservation and Museums
+Officer in Brasilia in 2016 and has been since 2021 a member of the
+Documentation committee of Icomos Brazil.
 
