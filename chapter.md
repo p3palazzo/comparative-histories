@@ -43,6 +43,7 @@ keywords:
   - Professional education
   - Textbooks
   - 19^th^, 20^th^, and 21^st^ centuries
+nocite: @fletcher:1905history
 ---
 
 # Introduction #
@@ -138,7 +139,9 @@ known strand, ran from a circle of Catholic German-speaking artists and
 antiquarians who may have influenced the Austrian connoisseur Johann
 Joachim Winckelmann [@kaufmann:2001antiquarianism62] in formulating his
 system of identity between historical periodization, culture, and style
-several decades before Hegel.
+(@fig:winckelmann) several decades before Hegel.
+
+![Title page from the first edition (posthumous) of Winckelmann's *History of Art in Antiquity*, 1764](media/winckelmann.tif){#fig:winckelmann}
 
 It was in fact the concurrent development of
 art and architectural history, on the one hand, and of the modern
@@ -182,13 +185,12 @@ historiography claimed the sobriquet "critical".
 
 # Comparative history as architecture #
 
-Comparative textbooks such as Fergusson's early *Illustrated Handbook of
-Architecture* [@fergusson:1855illustrated], Barberot's *Histoire des
-styles* [@barberot:1891histoire], Choisy's *Histoire de l'architecture*
-[@choisy:1899histoire], or Fletchers' *History of Architecture on the
-Comparative Method* [@fletcher:1905history] portrayed architectural
+Comparative textbooks such as James Fergusson's early *Illustrated
+Handbook of Architecture*, Étienne Barberot's *Histoire des styles*,
+Auguste Choisy's *Histoire de l'architecture*, or Fletchers' *History of
+Architecture on the Comparative Method* portrayed architectural
 history as a collection of culture--epochs through time and space, each
-signaled by a characteristic style [@barberot:1891histoire1, v]. These
+signaled by a characteristic style [@barberot:1891histoire, v. 1, p. v]. These
 styles did not arise at random, but resulted almost deterministically
 from the interplay between the historical unfolding of the human mind
 and the constraints of geography, climate, materials, and inherited
@@ -199,14 +201,15 @@ technical knowledge (@fig:treearch).
 It is the determinism implicit in the timeline of styles that makes
 these works instances of a philosophy of history. What makes them
 Idealist is the assumption that such determinism was rooted outside the
-practice of architecture itself. In a strand linking Winckelmann to
-Hegel to Riegl and Wölfflin, these roots were thought to be spiritual.
-They thus hinge on the moral character of a nation or its stage of
-intellectual development, or on a more abstract "will to form"
+practice of architecture itself. These roots hinge on the moral
+character of a nation, for example the clarity of the Ancient Greeks
+according to @winckelmann:1764geschichte or the spiritual nature of
+Hindu architecture according to @fergusson:1855illustrated [v. 1].
+Alternative, historians could invoke a more abstract "will to form"
 [@riegl:1893stilfragen] or "feeling for form" [@woelfflin:1949italien]
-peculiar to each time period. Another tradition,
-arising later but much more influential in architectural histories, saw
-the roots of style as lying in material and social conditions.
+peculiar to each time period and region. Another tradition,
+much more influential in architectural histories, saw the roots of style
+in material and social conditions rather than mental states.
 It was with technological rationalists such
 as Viollet-Le-Duc that the social and material determinism was strongest
 [@collins:1988changing].
@@ -215,98 +218,103 @@ The deterministic development of style was not the only aspect of an
 Idealist philosophy of history that these 19^th^-century textbooks
 borrowed. They also consolidated a practice that would become a hallmark
 of architectural history textbooks to the present day: using a few,
-paradigmatic examples to stand in for the general character of a
+often monumental examples to stand in for the general character of a
 culture--epoch [@ghirardo:2008review67]. Idealist systems of art
-history, from Hegel to Wölfflin and Zevi, are infamous (and somewhat
-unfairly so) for having little concern for the particulars of individual
-facts.
+history are infamous for having little concern for the particulars of
+individual facts. This is not, however, an entirely fair assessment.
 
-Choisy, for example, drew analyses from a wealth of specific
+Choisy, for example, drew his analyses from several lesser-known
 buildings from the Ancient and Medieval Mediterranean. He had studied
 some of these in detail in his earlier work on Roman and Byzantine
 architecture [@choisy:1873romains; @choisy:1883byzantins]. In his
-broader *Histoire de l'architecture*, on the other hand, he presented
+broader *Histoire de l'architecture*, he presented
 only partial aspects of each building insofar as they served to
 illustrate the general characteristics and trends of each style. In a
 sense, Choisy's canon is not made of great works, but of general
-principles; the Renaissance, a period when individual character slowly
+principles. He omitted such masterworks as Chartres cathedral from his
+timeline in order to fit more obscure buildings like Saint-Andoche at
+Saulieu, which better illustrated his argument on the development of
+structural form (@fig:saulieu). Likewise,
+the Renaissance, a period when individual character slowly
 gains ground over cultural trends, is only superficially discussed at
 the end of the second volume of his textbook.
 
+![Basilica of Saint-Andoche, Saulieu, completed 1119. Plan-axonometric by Auguste Choisy, *Histoire de l'architecture* v. 2, p. 232](media/saulieu.png){#fig:saulieu.png}
+
 Comparative histories of architecture did not, of course, invent
 the Western canon and its oversimplifications. However, James Fergusson,
-for one, may very well have been partly responsible for giving a
-rationale for this canon. Long before Fletcher's "historical"
-and "non-historical" styles [@baydar:1998postcolonial, 11], in 1855
-Fergusson split the history of architecture between, on the one hand,
-most "Pagan" styles, and on the other hand, "Christian" buildings
-together with their direct precedents in some "Pagan", i.e. classical,
-societies [@fergusson:1855illustrated1, vii]. Thus, he implied only that
-strand leading through classical Antiquity to the Gothic style was
-worthy of study for its historical development.
+for one, likely played a role in providing a rationale for this canon.
+Long before Fletcher's distinction between "historical" and
+"non-historical" styles [@baydar:1998postcolonial, 11], Fergusson
+divided the history of architecture in two parts: "Pagan" styles first,
+then "Christian" buildings together with their precedents in classical
+societies [@fergusson:1855illustrated1, vii]. Thus, he implied that only
+the strand leading through classical Antiquity to the Gothic style had a
+truly historical development.
 
-At the same time as it painted architecture in general strokes where the
-individual building was only proof of a general concept, the discourse
-of comparative history gave great weight to the architects'
+Comparative historians painted architecture in broad strokes where the
+individual building was only proof of a general concept. At the same
+time, however, they gave great weight to the architects'
 decision-making in response to these external constraints. This apparent
-contradiction is resolved when we look at the context in which
-architectural history arose. Like art history, architectural scholarship
-in 19^th^-century Europe was concerned with making sense of a growing
+contradiction dissolves when we look at the context in which they wrote.
+On the one hand, like art history, architectural scholarship
+in 19^th^-century Europe sought to make sense of a growing
 body of works unveiled by archaeology and colonialism. Unlike art
 history, on the other hand, the history of architecture could not
-retreat into a narrative of formal autonomy. The systematic knowledge of
-classical and non-classical styles developed alongside the European
-architects' insecurity about the very nature of the profession.
+retreat into a narrative of formal autonomy. At the same time as
+European architects were experimenting with the new genre of history
+writing [@watkin:1980rise], they had to grapple with a growing
+instability in the very nature of the profession
+[@epron:1997comprendre].
 
-Comparative studies were therefore called upon to provide both
-justification for aesthetic judgments---that is, the choice among a
-myriad styles---and a rationale for framing the discipline of
-architecture as a whole. The professional expertise of the architect was
-described historically in surveys of architectural decision-making
-visible through canonical buildings, while at the same time being
-defined by the 19^th^-century architect's knowledge and use of such
-precedents. By means of historical classifications, writes Baydar
+Comparative studies were thus tasked both with justifying aesthetic
+judgments---that is, the choice among myriad Western and non-Western
+styles---and with framing the discipline of architecture as a whole.
+Surveys of historic buildings were devices to evidence the professional
+expertise of architects through the ages. At the same time, the
+Beaux-Arts architect's knowledge and use of historic precedents
+justified his decision-making in design [@egbert:1980beauxarts].
+By means of historical classifications, wrote Baydar
 Gülsum, "the boundary between the inner and outer worlds of architecture
-is carefully maintained for the purposes of disciplinary regulation and
-control." [@baydar:1998postcolonial, 8]
+[was] carefully maintained for the purposes of disciplinary regulation and
+control." [-@baydar:1998postcolonial, 8]
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-The expertise of architects was not limited to the choice of visual
-precedents: with industrial and managerial development came increasingly
-specific functional requirements [@tzonis:1972non-oppressive], and these
+The expertise of architects extended beyond the choice of visual
+precedents. With industrial and managerial development came increasingly
+specific functional requirements [@tzonis:1972non-oppressive]. These
 were at the core of what differentiated the Beaux-Arts architect from
-the Polytechnic engineer [@epron:1997comprendre]. It is worth noting
-that Fletcher himself made a career in the design of
-utilitarian buildings before writing his textbook. Not only the program
-strictly speaking, but a whole range of sociocultural expectations and
+the Polytechnic engineer [@epron:1997comprendre]. Banister Fletcher the
+elder himself, prior to writing his textbook, had made a career in the
+design of utilitarian buildings. Beyond the program itself, a broad
+range of sociocultural expectations and
 material, technical, or economic constraints had to be explicitly taken
-into account in the design of modern plants.
+into account in the design of modern plans.
 
-*Explicitly* is the key
-word here, of course, since these factors had always been present in
-some way or another in every building culture. The "crisis" of modern
-European architecture, however, was that the myriad variables of design
+*Explicitly* is key here, since these factors had always been present in
+some way or another in every culture. The "crisis" of modern
+European architecture, however, was that the variables of design
 were no longer taken care of by a system of traditional, impersonal
-wisdom, but had to be expressly articulated with each new, unique
-project [@caniggia:1987progetto, 24]. Architects thus felt the need to
-emulate other "branches of artistic or scientific research" and devote
-"philosophical inquiry" to their discipline
-[@fergusson:1855illustrated1, v].
-
-In this practical sense, the past was not just a moral teacher in
-matters of style. It was a trove of inspirational examples where
+wisdom. Instead, @caniggia:1987progetto [24] argued, each new, unique
+project had to expressly articulate these variables moving forward. In
+Fergusson's words, architects now felt the need to emulate other
+"branches of artistic or scientific research" and to engage in
+"philosophical inquiry" within their discipline
+[-@fergusson:1855illustrated, v. 1, p. v].
+In this practical sense, the past served not only as a moral teacher in
+matters of style, but also as a trove of inspirational examples. Past
 architects had balanced a variety of social and material requirements,
-responded to their cultural and geographic context, while producing
-authentic styles of their own times. I contend the reason comparative
-histories of architecture focused so much on visual articulation was not
-because their authors were oblivious to the social or material
-conditions of the production of architecture---they made explicit points
-about it, and it shows in the chapter structure of Fletcher's
-book. Rather, it was because this kind of formal problem-solving
+responding to cultural and geographic contexts, while producing
+authentic styles of their time.
+
+Now the crucial point of comparative histories of architecture is this:
+their focus on graphic articulation was not due to their authors'
+oversight of the social or material conditions in the production of
+architecture---they made explicit points about these conditions. Rather,
+it was because formal problem-solving
 translated best across time and space, through very different cultures
-and conditions, and therefore could be exemplary for the modern student
-of architecture.
+and conditions, making it exemplary for modern architecture students.
 
 Consider, for example, the following statements drawn from a few
 comparative textbooks (emphasis added):
@@ -317,33 +325,33 @@ James Fergusson (@fig:fergusson)
   > slope slightly inwards, *so as to give an idea of strength and
   > support to the whole.* [@fergusson:1855illustrated1, 269]
 
+![Greek Doric columns, from James Fergusson's *The Illustrated Handbook of Architecture*, 1:268 (1855)](media/figure-2.tif){#fig:fergusson}
+
 Banister Fletcher (@fig:fletcher)
 
 : > The main entrance [of the English Gothic church] was frequently by a
   > south-western porch, *acting as a screen against the cold winds*...
   > [@fletcher:1905history, 299]
 
+![Comparative plans of English cathedrals, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed., 300--1 (1905)](media/figure-3.tif){#fig:fletcher}
+
 Auguste Choisy (@fig:choisy)
 
 : > Most romanesque barrel vaults have their intrados broken up at
   > regular intervals by ribs ... *these ribs were strengthening to
   > brace thin vaults. But it was chiefly during construction of these
-  > vaults that such ribs were useful ...* [@choisy:1899histoire2, 150,
+  > vaults that such ribs were useful ...* [@choisy:1899histoire v. 2, p. 150,
   > my translation]
-
-![Greek Doric columns, from James Fergusson's *The Illustrated Handbook of Architecture*, 1:268 (1855)](media/figure-2.tif){#fig:fergusson}
-
-![Comparative plans of English cathedrals, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed., 300--1 (1905)](media/figure-3.tif){#fig:fletcher}
 
 ![Romanesque ribbed vaults, from Auguste Choisy's *Histoire de l'architecture* 148--50 (1899)](media/figure-4.tif){#fig:choisy}
 
 In each case, the description of a motif (roman text) was followed by a
 rationale for its existence, in the form of a problem this motif solved
 (italicized text). This rationale was alternatively aesthetic,
-functional, or structural, and each writer deployed all three kinds of
+functional, or structural. Each writer deployed all three kinds of
 justifications at different places. Ultimately, the hierarchy of styles
 in their textbooks followed not just Eurocentric prejudice, but each
-writer's judgment as to the usefulness of their examples for modern
+author's judgment as to the usefulness of their examples for modern
 professional practice. Thus, Fergusson and Choisy included the
 Mediterranean Islamic tradition within the historical development of
 Western architecture, whereas Fletcher consigned it to the
