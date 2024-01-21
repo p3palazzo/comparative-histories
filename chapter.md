@@ -754,8 +754,8 @@ Idealism back into critical history.
 # Disciplinary tools in (or around) critical history #
 
 So far, we have looked at how the disciplinary, totalizing method of
-comparative histories harbored intrinsic contradictions, which critical
-history has exposed and replaced with a provisional assemblage of a
+comparative histories harbored intrinsic contradictions. Critical
+history has exposed this method and replaced it with a provisional assemblage of
 fragmentary subject matter. We have also seen how architectural history
 textbooks crafted for professional education have struggled to evade the
 determinism of the comparative approach, even when the critical method
@@ -764,43 +764,36 @@ transition from the study of buildings within the disciplinary framework
 of architecture, and towards a non-disciplinary historiographic ideal of
 the past as an entirely textual construct.
 
-One of few critical scholars who endeavored to flesh out a thorough
-method to address this incompleteness within professional education is
+One of few critical scholars who endeavored to flesh out a method to
+address this incompleteness is
 the Brazilian architectural historian Gustavo Rocha-Peixoto. Shunning
 Idealism in all its forms and being wary of a strict mapping of critical
-research methods onto survey teaching, he set out in 2011 to describe a
-heuristics for the historical education of professional architects in
-his book *The Spider's Stratagem*.
+research methods onto survey teaching, he described in his 2011 book
+*The Spider's Stratagem* a heuristics for the historical education of
+architecture students.
 
-Rocha-Peixoto's central argument was that premodern, modernist, and
-postmodern historiographic "modes ... are not successive stages or
-phases, but three forms of architectural thinking in constant debate,"
-all three of them having actually arisen "in the early 19^th^ century."
-[@rocha-peixoto:2013spiders, 75] as different manifestations of
-Idealism. In Tafuri's view, critical history was a safeguard against the
+In Tafuri's historiography, critical history was a safeguard against the disciplinary
 aporia of Theory and History; in Rocha-Peixoto's, then, critical history
 had definitely exorcized that aporia by subsuming Theory under History
-[@rocha-peixoto:2013spiders, 80]. Because theory is no longer a threat
-to proper historiography, Rocha-Peixoto's historical pedagogy can engage
+[@rocha-peixoto:2013spiders, 80]. Because theory was no longer a threat
+to proper historiography, Rocha-Peixoto's historical pedagogy could engage
 with professional education by means of creative associations that may
-comprise disciplinary tools yet is not constrained by disciplinary
+comprise disciplinary tools yet was not constrained by disciplinary
 demands. To complete the aforementioned transition towards an
 understanding of the past as a fully malleable construct, it is the
 distinction itself between disciplinary (professional) and
 non-disciplinary (historiographic) interests that needs to be erased.
 
-This transition, however,
-will be ever incomplete insofar as the textual field of
-non-disciplinary, critical history leverages physical evidence produced
-by disciplinary fields. Tafuri became known for condemning
-the ideological dependency of history upon architecture. Yet he also
-made clear, in his later writings, that a thorough study of architectural
+This transition, however, will be ever incomplete insofar as
+non-disciplinary, critical history depends on physical evidence produced
+by disciplinary fields. Tafuri himself
+made clear, in his later writings, that architectural
 history must reach beyond a generic commitment to the critical treatment
 of documentary evidence, and rely on some sort of disciplinary training
 that could address the problem of "*which* philology for
 *this* particular subject" [@tafuri:1991introduzione, 7-8, his italics].
 
-The philological framework architectural history depends on lies nowadays,
+The philological framework architectural history is built on lies nowadays,
 to a great extent, in the disciplinary field of building archaeology. It
 is a specialization that arose with the name of *Bauforschung* (building
 research or scholarship) in late 19^th^-century Germany. To its early
@@ -808,30 +801,19 @@ practitioners such as Wilhelm Dörpfeld [@sapirstein:2016columns120] and
 Josef Durm [@durm:1905baukunst; -@durm:1910baukunst], *Bauforschung*
 provided solid evidence as opposed to the questionable interpretations
 of stylistic analysis [@azkarate:2020archaeology, 526]. Building
-archaeology therefore arose, in a sense, out of a critical view of
+archaeology arose out of a critical view of
 history and a rejection of comparative studies. Nevertheless, it is
-still a form of architectural scholarship above all, and continues to be
+still a form of primarily architectural scholarship, and continues to be
 taught in German-speaking countries as part of a professional curriculum
 in architecture [@neumann:2002teaching, 374-5].
-
-Of course, many of the early results of classical *Bauforschung*
-went on to be refuted, most notably Durm's reconstruction of the
-primitive wooden Doric entablature after Charles Chipiez.[^1] Since the
-1950s, however, stratigraphy has contributed a great deal to the current
+Since the 1950s, stratigraphy has contributed a great deal to the current
 methodological makeup of building archaeology and to the near complete
 abandonment of stylistic analysis as a means of dating buildings
-[@azkarate:2020archaeology, 521]. Nevertheless, with respect to the
-textual tradition of critical history, building archaeology was long an
-outlier, perhaps distrusted on account of its claim of direct
-access to physical evidence of the past [@perotti:2001archeologia, 379].
-
-[^1]: @durm:1910baukunst; @chipiez:1876histoire. For a convincing and
-    currently accepted archaeology of the development of the Doric order,
-    see @barletta:2009origins.
+[@azkarate:2020archaeology, 521].
 
 Architectural history still needs to come to terms more fully with the
-disciplinary character of building archaeology. The field of
-construction history, for one, has welcomed disciplinary studies as
+disciplinary character of building archaeology [@perotti:2001archeologia, 379].
+The field of construction history, for one, has welcomed disciplinary studies as
 specific as the structural calculation of traditional components
 [@dacunto:2019vector-based167]. Textual criticism, on the other hand,
 still allows the historian the comfortable position of working with a
