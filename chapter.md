@@ -43,7 +43,8 @@ keywords:
   - Professional education
   - Textbooks
   - 19^th^, 20^th^, and 21^st^ centuries
-nocite: @fletcher:1905history
+nocite: |
+  @fletcher:1905history
 ---
 
 # Introduction #
@@ -239,7 +240,7 @@ the Renaissance, a period when individual character slowly
 gains ground over cultural trends, is only superficially discussed at
 the end of the second volume of his textbook.
 
-![Basilica of Saint-Andoche, Saulieu, completed 1119. Plan-axonometric by Auguste Choisy, *Histoire de l'architecture* v. 2, p. 232](media/saulieu.png){#fig:saulieu.png}
+![Basilica of Saint-Andoche, Saulieu, completed 1119. Plan-axonometric by Auguste Choisy, *Histoire de l'architecture* v. 2, p. 232](media/saulieu.png){#fig:saulieu}
 
 Comparative histories of architecture did not, of course, invent
 the Western canon and its oversimplifications. However, James Fergusson,
