@@ -142,7 +142,7 @@ Joachim Winckelmann [@kaufmann:2001antiquarianism62] in formulating his
 system of identity between historical periodization, culture, and style
 (@fig:winckelmann) several decades before Hegel.
 
-![Title page from the first edition (posthumous) of Winckelmann's *History of Art in Antiquity*, 1764](media/winckelmann.tif){#fig:winckelmann}
+![Title page from the first edition (posthumous) of Winckelmann's *History of Art in Antiquity*, 1764](media/figure-1.tif){#fig:winckelmann}
 
 It was in fact the concurrent development of
 art and architectural history, on the one hand, and of the modern
@@ -197,7 +197,7 @@ from the interplay between the historical unfolding of the human mind
 and the constraints of geography, climate, materials, and inherited
 technical knowledge (@fig:treearch).
 
-![The tree of architecture, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed. (1905)](media/figure-1.tif){#fig:treearch}
+![The tree of architecture, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed. (1905)](media/figure-2.tif){#fig:treearch}
 
 It is the determinism implicit in the timeline of styles that makes
 these works instances of a philosophy of history. What makes them
@@ -240,7 +240,7 @@ the Renaissance, a period when individual character slowly
 gains ground over cultural trends, is only superficially discussed at
 the end of the second volume of his textbook.
 
-![Basilica of Saint-Andoche, Saulieu, completed 1119. Plan-axonometric by Auguste Choisy, *Histoire de l'architecture* v. 2, p. 232](media/saulieu.png){#fig:saulieu}
+![Basilica of Saint-Andoche, Saulieu, completed 1119. Plan-axonometric by Auguste Choisy, *Histoire de l'architecture* v. 2, p. 232](media/figure-3.tif){#fig:saulieu}
 
 Comparative histories of architecture did not, of course, invent
 the Western canon and its oversimplifications. However, James Fergusson,
@@ -326,7 +326,7 @@ James Fergusson (@fig:fergusson)
   > slope slightly inwards, *so as to give an idea of strength and
   > support to the whole.* [@fergusson:1855illustrated1, 269]
 
-![Greek Doric columns, from James Fergusson's *The Illustrated Handbook of Architecture*, 1:268 (1855)](media/figure-2.tif){#fig:fergusson}
+![Greek Doric columns, from James Fergusson's *The Illustrated Handbook of Architecture*, 1:268 (1855)](media/figure-4.tif){#fig:fergusson}
 
 Banister Fletcher (@fig:fletcher)
 
@@ -334,7 +334,7 @@ Banister Fletcher (@fig:fletcher)
   > south-western porch, *acting as a screen against the cold winds*...
   > [@fletcher:1905history, 299]
 
-![Comparative plans of English cathedrals, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed., 300--1 (1905)](media/figure-3.tif){#fig:fletcher}
+![Comparative plans of English cathedrals, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed., 300--1 (1905)](media/figure-5.tif){#fig:fletcher}
 
 Auguste Choisy (@fig:choisy)
 
@@ -344,7 +344,7 @@ Auguste Choisy (@fig:choisy)
   > vaults that such ribs were useful ...* [@choisy:1899histoire v. 2, p. 150,
   > my translation]
 
-![Romanesque ribbed vaults, from Auguste Choisy's *Histoire de l'architecture* 148--50 (1899)](media/figure-4.tif){#fig:choisy}
+![Romanesque ribbed vaults, from Auguste Choisy's *Histoire de l'architecture* 148--50 (1899)](media/figure-6.tif){#fig:choisy}
 
 In each case, the description of a motif (roman text) was followed by a
 rationale for its existence, in the form of a problem this motif solved
