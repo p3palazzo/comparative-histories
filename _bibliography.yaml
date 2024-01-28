@@ -15,7 +15,7 @@ references:
   issue: '3'
   issued:
     - year: 1962
-  language: en-US
+  language: en
   page: 227-237
   source: JSTOR
   title: A theory of style
@@ -33,9 +33,9 @@ references:
   ISBN: 978-0-262-01186-0
   issued:
     - year: 2002
-  language: en-US
+  language: en
   number-of-pages: '328'
-  publisher: MIT Press
+  publisher: <span smallcaps="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   source: Library of Congress ISBN
   title: 'Origins, imitation, conventions: representation in the visual arts'
@@ -280,7 +280,7 @@ references:
   ISBN: 978-1-4443-3851-5
   issued:
     - year: 2017
-  language: en-US
+  language: en
   page: 15.1–15.29
   publisher: 'Wiley : Blackwell'
   publisher-place: Chichester, West Sussex ; Malden, Mass.
@@ -346,7 +346,7 @@ references:
   title: Rethinking architectural historiography
   type: book
 
-- id: asatekin:1990varieties1
+- id: asatekin:1990varieties
   abstract: >-
     This paper addresses the problem of interpreting the concepts of tradition
     and traditionalism with specific reference to the tradition of the Anatolian
@@ -386,13 +386,13 @@ references:
       given: Gül
     - family: Balamir
       given: Aydan
-  citation-key: asatekin:1990varieties1
+  citation-key: asatekin:1990varieties
   container-title: Traditional Dwellings and Settlements Review
   ISSN: 1050-2092
   issue: '2'
   issued:
     - year: 1990
-  language: en-US
+  language: en
   page: 61-70
   source: JSTOR
   title: Varieties of tradition and traditionalism
@@ -455,7 +455,7 @@ references:
   issue: '2'
   issued:
     - year: 2007
-  language: en-GB
+  language: en
   page: 296-316
   publisher: Cambridge University Press
   source: JSTOR
@@ -479,6 +479,27 @@ references:
   title: 'Littérature comparée : le mot et la chose'
   type: article-journal
   volume: '1'
+
+- id: banham:1960theory
+  abstract: >-
+    Bibliographical footnotes; Predisposing causes: Academic and rationalist
+    writers, 1900-1914 -- Italy: Futurist manifestos and projects, 1909-1914 --
+    Holland: The legacy of Berlage: De Stijl, 1917-1925 -- Paris: The world of
+    art and Le Corbusier -- Germany: Berlin, the Bauhaus, the victory of the new
+    style
+  author:
+    - family: Banham
+      given: Reyner
+  citation-key: banham:1960theory
+  edition: '1'
+  event-place: London
+  issued:
+    - year: 1960
+  language: en
+  publisher: Architectural Press
+  publisher-place: London
+  title: Theory and design in the first machine age
+  type: book
 
 - id: bann:1987clio23
   accessed:
@@ -526,7 +547,7 @@ references:
   title-short: The inventions of history
   type: book
 
-- id: bannister:1942contributions2
+- id: bannister:1942contributions
   accessed:
     - year: 2021
       month: 3
@@ -534,7 +555,7 @@ references:
   author:
     - family: Bannister
       given: Turpin C.
-  citation-key: bannister:1942contributions2
+  citation-key: bannister:1942contributions
   container-title: Journal of the American Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/901232
@@ -544,7 +565,7 @@ references:
     - year: 1942
       month: 4
       day: 1
-  language: en-US
+  language: en
   page: 5-13
   source: DOI.org (Crossref)
   title: >-
@@ -570,7 +591,7 @@ references:
   event-place: Paris
   issued:
     - year: 1891
-  language: fr-FR
+  language: fr
   license: domaine public
   number-of-volumes: '2'
   publisher: Baudry
@@ -581,34 +602,7 @@ references:
     anciens jusqu'à nos jours
   type: book
 
-- id: barberot:1891histoirea
-  abstract: >-
-    Histoire des styles d'architecture dans tous les pays, depuis les temps
-    anciens jusqu'à nos jours,. Tome 2 / par É. Barberot,... -- 1891 -- livre
-  accessed:
-    - year: 2015
-      month: 1
-      day: 23
-  author:
-    - family: Barberot
-      given: Étienne
-  citation-key: barberot:1891histoirea
-  event-place: Paris
-  issued:
-    - year: 1891
-  language: fr
-  license: domaine public
-  publisher: Baudry
-  publisher-place: Paris
-  source: gallica.bnf.fr
-  title: >-
-    Histoire des styles d'architecture dans tous les pays, depuis les temps
-    anciens jusqu'à nos jours
-  type: book
-  URL: http://gallica.bnf.fr/ark:/12148/bpt6k6562417b
-  volume: '2'
-
-- id: barberot:1891histoireb
+- id: barberot:1891histoire1
   abstract: >-
     Histoire des styles d'architecture dans tous les pays, depuis les temps
     anciens jusqu'à nos jours,. Tome 1 / par É. Barberot,... -- 1891 -- livre
@@ -619,7 +613,7 @@ references:
   author:
     - family: Barberot
       given: Étienne
-  citation-key: barberot:1891histoireb
+  citation-key: barberot:1891histoire1
   event-place: Paris
   issued:
     - year: 1891
@@ -634,6 +628,33 @@ references:
   type: book
   URL: https://gallica.bnf.fr/ark:/12148/bpt6k6562416x
   volume: '1'
+
+- id: barberot:1891histoire2
+  abstract: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours,. Tome 2 / par É. Barberot,... -- 1891 -- livre
+  accessed:
+    - year: 2015
+      month: 1
+      day: 23
+  author:
+    - family: Barberot
+      given: Étienne
+  citation-key: barberot:1891histoire2
+  event-place: Paris
+  issued:
+    - year: 1891
+  language: fr
+  license: domaine public
+  publisher: Baudry
+  publisher-place: Paris
+  source: gallica.bnf.fr
+  title: >-
+    Histoire des styles d'architecture dans tous les pays, depuis les temps
+    anciens jusqu'à nos jours
+  type: book
+  URL: http://gallica.bnf.fr/ark:/12148/bpt6k6562417b
+  volume: '2'
 
 - id: barberot:1912traite
   abstract: >-
@@ -749,7 +770,7 @@ references:
   issued:
     - year: 2004
       month: 5
-  language: en-US
+  language: en
   page: 19-27
   source: Crossref
   title: The cultural burden of architecture
@@ -859,7 +880,7 @@ references:
   issued:
     - year: 2015
       month: 6
-  language: en-GB
+  language: en
   page: 59-75
   source: Zotero
   title: >-
@@ -1258,14 +1279,14 @@ references:
   issued:
     - year: 1910
   language: en
-  number-of-pages: '526'
+  number-of-pages: '648'
   publisher: J. Murray
   publisher-place: London
   source: Internet Archive
   title: History of Indian and Eastern architecture
   type: book
-  URL: http://archive.org/details/historyofindiane01ferguoft
-  volume: '1'
+  URL: http://archive.org/details/historyofindiane02ferguoft
+  volume: '2'
 
 - id: burgess:1910historya
   abstract: 26 29
@@ -1293,14 +1314,14 @@ references:
   issued:
     - year: 1910
   language: en
-  number-of-pages: '648'
+  number-of-pages: '526'
   publisher: J. Murray
   publisher-place: London
   source: Internet Archive
   title: History of Indian and Eastern architecture
   type: book
-  URL: http://archive.org/details/historyofindiane02ferguoft
-  volume: '2'
+  URL: http://archive.org/details/historyofindiane01ferguoft
+  volume: '1'
 
 - id: cacciari:1993architecture
   author:
@@ -1352,6 +1373,24 @@ references:
   title-short: Il progetto nell'edilizia di base
   type: book
 
+- id: cardinal-pett:2016history
+  author:
+    - family: Cardinal-Pett
+      given: Clare
+  call-number: NA2543.S6 C349 2016
+  citation-key: cardinal-pett:2016history
+  event-place: New York
+  ISBN: 978-0-415-53492-5
+  issued:
+    - year: 2016
+  language: en
+  number-of-pages: '526'
+  publisher: Routledge
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: A history of architecture and urbanism in the Americas
+  type: book
+
 - id: cardoso:1935philosophiaa
   author:
     - family: Cardoso
@@ -1360,7 +1399,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1935
-  language: pt-BR
+  language: pt
   publisher: José Olympio
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1545,7 +1584,7 @@ references:
   event-place: London
   issued:
     - year: 1759
-  language: en-GB
+  language: en
   publisher: Printed for the author by J. Haberkorn
   publisher-place: London
   source: archive.org
@@ -1631,7 +1670,7 @@ references:
   ISBN: 978-0-471-26892-5
   issued:
     - year: 2007
-  language: en-US
+  language: en
   publisher: J. Wiley & Sons
   publisher-place: Hoboken, N.J.
   source: Open WorldCat
@@ -1662,7 +1701,7 @@ references:
   ISBN: 978-0-470-40257-3
   issued:
     - year: 2011
-  language: en-US
+  language: en
   number-of-pages: '848'
   publisher: Wiley
   publisher-place: Hoboken, N.J
@@ -2003,6 +2042,30 @@ references:
     arquitectura hispanoamericana : Manifiesto de la Alhambra
   type: book
 
+- id: chuecagoitia:1981invariantes-castizos
+  author:
+    - family: Chueca Goitia
+      given: Fernando
+  call-number: '72'
+  citation-key: chuecagoitia:1981invariantes-castizos
+  collection-number: '2'
+  collection-title: Dossat Bolsillo
+  container-title: >-
+    Invariantes castizos de la arquitectura española : Invariantes en la
+    arquitectura hispanoamericana : Manifiesto de la Alhambra
+  edition: '2'
+  event-place: Madrid
+  ISBN: 978-84-237-0462-0
+  issued:
+    - year: 1981
+  language: es
+  page: 15–153
+  publisher: Dossat
+  publisher-place: Madrid
+  source: webopac.sib.uc.pt Library Catalog
+  title: Invariantes castizos de la arquitectura española
+  type: chapter
+
 - id: ciardo:1947quattro
   author:
     - family: Ciardo
@@ -2102,6 +2165,38 @@ references:
   URL: http://jsah.ucpress.edu/cgi/doi/10.1525/jsah.2008.67.3.325
   volume: '67'
 
+- id: collins:1988changing
+  author:
+    - family: Collins
+      given: Peter
+  citation-key: collins:1988changing
+  event-place: Kingston
+  ISBN: 978-0-7735-0048-8
+  issued:
+    - year: 1988
+  language: en
+  publisher: McGill-Queen's University Press
+  publisher-place: Kingston
+  source: Open WorldCat
+  title: Changing ideals in modern architecture, 1750-1950
+  type: book
+
+- id: colquhoun:1981historicism
+  author:
+    - family: Colquhoun
+      given: Alan
+  citation-key: colquhoun:1981historicism
+  container-title: 'Essays in architectural criticism: modern architecture and historical change'
+  event-place: Cambridge, Mass.
+  issued:
+    - year: 1981
+  language: en
+  page: 129-138
+  publisher: <span smallcaps="smallcaps">MIT</span> Press
+  publisher-place: Cambridge, Mass.
+  title: Historicism and the limits of semiology
+  type: chapter
+
 - id: colquhoun:2004historicismo
   author:
     - family: Colquhoun
@@ -2111,7 +2206,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2004
-  language: pt-BR
+  language: pt
   page: 23-37
   publisher: Cosac & Naify
   publisher-place: São Paulo
@@ -2127,7 +2222,7 @@ references:
   ISBN: 978-85-7503-278-7
   issued:
     - year: 2004
-  language: pt-BR
+  language: pt
   publisher: Cosac & Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -2329,6 +2424,61 @@ references:
   URL: https://www.jstor.org/stable/26418963
   volume: '76'
 
+- id: dacunto:2019vector-based167
+  abstract: >-
+    This article develops a vector-based 3D graphic statics framework that uses
+    synthetic and intuitive graphical means for the analysis and design of
+    spatial structures such as networks of bar elements in static equilibrium.
+    It is intended to support the collaborative work of structural engineers and
+    architects from the conceptual phase of the design process. Several
+    procedures for the construction of a vector-based 3D force diagram for any
+    given 3D form diagram with an underlying planar or non-planar graph are
+    identified and described. In the non-planar case, the proposed procedures
+    rely on the preliminary topological planarization of the graph by cutting
+    the crossing edges and reconnecting them to one or more newly inserted
+    auxiliary vertices. Resulting planar graphs can be then used as a base for
+    the assembly of 3D force diagrams, without altering the static equilibrium
+    of the structure. An implementation of the proposed framework to real design
+    scenarios is presented through two case studies. These examples demonstrate
+    the benefits of bi-directional manipulations of form and force diagrams in
+    the structural design process.
+  accessed:
+    - year: 2021
+      month: 8
+      day: 14
+  author:
+    - family: D'Acunto
+      given: Pierluigi
+    - family: Jasienski
+      given: Jean-Philippe
+    - family: Ohlbrock
+      given: Patrick Ole
+    - family: Fivet
+      given: Corentin
+    - family: Schwartz
+      given: Joseph
+    - family: Zastavni
+      given: Denis
+  citation-key: dacunto:2019vector-based167
+  container-title: International Journal of Solids and Structures
+  container-title-short: International Journal of Solids and Structures
+  DOI: 10.1016/j.ijsolstr.2019.02.008
+  ISSN: 0020-7683
+  issued:
+    - year: 2019
+      month: 8
+      day: 1
+  language: en
+  page: 58-70
+  source: ScienceDirect
+  title: >-
+    Vector-based 3D graphic statics: A framework for the design of spatial
+    structures based on the relation between form and forces
+  title-short: Vector-based 3D graphic statics
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S0020768319300812
+  volume: '167'
+
 - id: del-solar-velarde:2022arqueometria
   abstract: >-
     Este libro constituye una primera recopilación de técnicas arqueométricas
@@ -2453,6 +2603,20 @@ references:
   title: Resilience of vernacular architecture
   type: chapter
 
+- id: durand:1799recueil
+  author:
+    - family: Durand
+      given: Jean-Nicolas-Louis
+  citation-key: durand:1799recueil
+  event-place: Paris
+  issued:
+    - year: 1799
+  language: fr
+  publisher: Gillé Fils
+  publisher-place: Paris
+  title: Recueil et parallèle des édifices de tout genre anciens et modernes
+  type: book
+
 - id: durand:1802precis
   author:
     - family: Durand
@@ -2515,6 +2679,42 @@ references:
   URL: http://gallica.bnf.fr/ark:/12148/bpt6k5762681g
   volume: '2'
 
+- id: durm:1905baukunst
+  abstract: >-
+    Book digitized by Google from the library of Harvard University and uploaded
+    to the Internet Archive by user tpb.
+  accessed:
+    - year: 2021
+      month: 2
+      day: 15
+  author:
+    - family: Durm
+      given: Josef
+  citation-key: durm:1905baukunst
+  collection-editor:
+    - family: Durm
+      given: Josef
+    - family: Ende
+      given: Hermann
+    - family: Schmitt
+      given: Eduard
+  collection-number: 2. Band
+  collection-title: >-
+    Handbuch der Architektur, 2. Teil: die Baustile, historische und technische
+    Entwickelung
+  edition: '2'
+  event-place: Stuttgart
+  issued:
+    - year: 1905
+  language: de
+  number-of-pages: '832'
+  publisher: A. Bergsträsser
+  publisher-place: Stuttgart
+  source: Internet Archive
+  title: Die Baukunst der Etrusker. Die Baukunst der Römer
+  type: book
+  URL: http://archive.org/details/handbuchderarch00wagngoog
+
 - id: durm:1910baukunst
   abstract: '26'
   accessed:
@@ -2549,6 +2749,20 @@ references:
   title: Die Baukunst der Griechen
   type: book
   URL: http://archive.org/details/diebaukunstdergr00durmuoft
+
+- id: egbert:1980beauxarts
+  author:
+    - family: Egbert
+      given: Donald Drew
+  citation-key: egbert:1980beauxarts
+  event-place: Princeton, N.J.
+  issued:
+    - year: 1980
+  language: en
+  publisher: Princeton University Press
+  publisher-place: Princeton, N.J.
+  title: The Beaux-Arts tradition in French architecture
+  type: book
 
 - id: egenter:1980bauform
   author:
@@ -2715,11 +2929,10 @@ references:
       given: James
   call-number: AKJ-9676
   citation-key: fergusson:1855illustrated
-  edition: '1'
   event-place: London
   issued:
     - year: 1855
-  language: en-GB
+  language: en
   number-of-pages: '576'
   number-of-volumes: '2'
   publisher: Murray
@@ -2732,7 +2945,7 @@ references:
   title-short: The illustrated handbook of architecture
   type: book
 
-- id: fergusson:1855illustrateda
+- id: fergusson:1855illustrated1
   abstract: '31'
   accessed:
     - year: 2019
@@ -2742,7 +2955,7 @@ references:
     - family: Fergusson
       given: James
   call-number: AKJ-9676
-  citation-key: fergusson:1855illustrateda
+  citation-key: fergusson:1855illustrated1
   edition: '1'
   event-place: London
   issued:
@@ -2761,7 +2974,7 @@ references:
   URL: http://archive.org/details/illustratedhandb01ferguoft
   volume: '1'
 
-- id: fergusson:1855illustratedb
+- id: fergusson:1855illustrated2
   abstract: '31'
   accessed:
     - year: 2019
@@ -2771,7 +2984,7 @@ references:
     - family: Fergusson
       given: James
   call-number: AKJ-9676
-  citation-key: fergusson:1855illustratedb
+  citation-key: fergusson:1855illustrated2
   edition: '1'
   event-place: London
   issued:
@@ -2995,6 +3208,34 @@ references:
   URL: http://www.jstor.org/stable/1425646
   volume: '54'
 
+- id: fletcher:1896history
+  abstract: Robert Holmes Collection; With short bibliographies
+  accessed:
+    - year: 2022
+      month: 4
+      day: 15
+  author:
+    - family: Fletcher
+      given: Banister
+    - family: Fletcher
+      given: Banister F.
+  call-number: '66355'
+  citation-key: fletcher:1896history
+  event-place: London
+  issued:
+    - year: 1896
+  language: en
+  number-of-pages: '422'
+  publisher: B.T. Batsford
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    A history of architecture for the student, craftsman, and amateur : being a
+    comparative view of the historical styles from the earliest period
+  title-short: A history of architecture
+  type: book
+  URL: http://archive.org/details/historyofarcocad00fletuoft
+
 - id: fletcher:1905history
   accessed:
     - year: 2019
@@ -3011,7 +3252,7 @@ references:
   event-place: 'London : New York'
   issued:
     - year: 1905
-  language: en-GB
+  language: en
   number-of-pages: '808'
   publisher: 'Batsford : Scribner''s sons'
   publisher-place: 'London : New York'
@@ -3042,7 +3283,7 @@ references:
   type: book
   URL: https://archive.org/details/historyofarchite0000flet/
 
-- id: florentino:2020vernacularXLIVM12020
+- id: florentino:2020vernacularxlivm12020
   abstract: >-
     <p><strong>Abstract.</strong> The World Heritage Committee lists every year,
     several cultural sites as World Heritage properties. Some of these
@@ -3084,7 +3325,7 @@ references:
       given: Goreti
     - family: Carlos
       given: Gilberto Duarte
-  citation-key: florentino:2020vernacularXLIVM12020
+  citation-key: florentino:2020vernacularxlivm12020
   container-title: >-
     <span smallcaps="smallcaps">ISPRS</span> - International Archives of the
     Photogrammetry, Remote Sensing and Spatial Information Sciences
@@ -3183,6 +3424,28 @@ references:
   title-short: Principles of architectural history
   type: book
 
+- id: fridman:2013cidades
+  call-number: HT384.L29 E525 2012
+  citation-key: fridman:2013cidades
+  collection-title: Garamond universitária
+  editor:
+    - family: Fridman
+      given: Fania
+    - family: Vidal
+      given: Laurent
+  event-place: Rio de Janeiro
+  ISBN: 978-85-7617-295-6
+  issued:
+    - year: 2013
+  language: pt
+  number-of-pages: '178'
+  publisher: Garamond
+  publisher-place: Rio de Janeiro
+  source: Library of Congress ISBN
+  title: 'Cidades do novo mundo: ensaios de urbanização e história'
+  title-short: Cidades do novo mundo
+  type: book
+
 - id: fusco:1981storia
   author:
     - family: De Fusco
@@ -3263,6 +3526,61 @@ references:
   source: Amazon
   title: 'Space, time and architecture: the growth of a new tradition'
   title-short: Space, time and architecture
+  type: book
+
+- id: glassie:1976folk
+  abstract: >-
+    In this fascinating analysis of eighteenth-century vernacular houses of
+    Middle Virginia, Henry Glassie presents a revolutionary and carefully
+    constructed methodology for looking at houses and interpreting from them the
+    people who built and used them. Glassie believes that all relevant
+    historical evidence - unwritten as well as written - must be taken into
+    account before historical truth can be found. He in convinced that any study
+    of man's past must make use of nonverbal and verbal evidence, since written
+    history - the story of man as recorded by the intellectual elite - does not
+    tell us much about the everyday life, thoughts, and fears of the ordinary
+    people of the past. Such people have always been in the majority, however,
+    and a way has to be found to include them in any valid history. In Folk
+    Housing in Middle Virginia Glassie admirably sets forth such a way.  The
+    people who lived in Middle Virginia in the eighteenth century are almost
+    unknown to history because so little has been written about them. After
+    Glassie selected the area - roughly Goochland and Louisa counties - for
+    study, he selected a representative part of the countryside, recorded all
+    the older houses there, developed a transformational grammar of traditional
+    house designs, and examined the area's architectural stability and change. 
+    Comparing the houses with written accounts of the period, he found that the
+    houses became more formal and lee related to their environment at the same
+    time as the areas established political, economic, and religious
+    institutions were disintegrating. It is as though the builders of the houses
+    were deliberately trying to impose order on the surrounding chaotic world.
+    Previous orthodox historical interpretations of the period have failed to
+    note this. Glassie has provided new insights into the intellectual and
+    social currents of the period, and at that time has rescued a heretofore
+    little-known people from historiographical oblivion. Combining a fresh,
+    perceptive approach with a broad interdisciplinary body of knowledge, ha has
+    made an invaluable breakthrough in showing the way to understand the people
+    of history who have left their material things as their only legacy.  Henry
+    Glassie is College Professor of Folklore at Indiana University. He is the
+    author of Pattern in the Material Folk Culture of the Eastern United States,
+    passing the Time in Ballymenone, Irish Folktales, and The Spirit of Folk
+    Art. He has served as president of the Vernacular Architecture Forum and the
+    American Folklore Society.
+  author:
+    - family: Glassie
+      given: Henry
+  citation-key: glassie:1976folk
+  event-place: Knoxville
+  ISBN: 978-0-87049-268-6
+  issued:
+    - year: 1976
+      month: 2
+  language: en
+  number-of-pages: '252'
+  publisher: University of Tennessee Press
+  publisher-place: Knoxville
+  source: Google Books
+  title: 'Folk housing in middle Virginia: A structural analysis of historic artifacts'
+  title-short: Folk housing in middle Virginia
   type: book
 
 - id: gombrich:1971plea
@@ -3408,7 +3726,7 @@ references:
   issue: '3'
   issued:
     - year: 1977
-  language: en-US
+  language: en
   page: 649-652
   publisher: '[American Anthropological Association, Wiley]'
   source: JSTOR
@@ -3468,7 +3786,7 @@ references:
     - year: 2011
       month: 6
       day: 1
-  language: en-US
+  language: en
   page: 149-152
   source: DOI.org (Crossref)
   title: That's not architectural history!
@@ -3486,7 +3804,7 @@ references:
   issue: 4, The Crisis in the Discipline
   issued:
     - year: 1982
-  language: en-US
+  language: en
   page: 292-300
   title: 'Reinterpreting Wölfflin: neo-Kantianism and hermeneutics'
   type: article-journal
@@ -3618,6 +3936,43 @@ references:
   title-short: Gottfried Semper
   type: book
 
+- id: heynen:1999architecture
+  abstract: >-
+    Architecture and Modernity traces some of the most important moments of the
+    discourse on the `crisis' of architecture brought about by the changes of
+    modernity." -- Beatriz Colomina, School of Architecture, Princeton
+    University Critical theories such as those of the Frankfurt School of the
+    twenties and thirties gave rise to a complex and sophisticated critique of
+    modernity and modernism. The history and theory of twentieth-century
+    architecture, which developed rather independently of this rich tradition,
+    appear naive and unbalanced in comparison. In this exploration of the
+    relationship between modernity, dwelling, and architecture, Hilde Heynen
+    attempts to bridge this gap between the discourse of the modern movement and
+    cultural theories of modernity. On one hand, she discusses architecture from
+    the perspective of critical theory, and on the other she modifies positions
+    within critical theory by linking them with architecture. She assesses
+    architecture as a cultural field that structures daily life and that
+    embodies major contradictions inherent in modernity, arguing that
+    architecture nonetheless has a certain capacity to adopt a critical stance
+    vis-?-vis modernity. Besides presenting a theoretical discussion of the
+    relation between architecture, modernity, and dwelling, the book provides
+    architectural students with an introduction to the discourse of critical
+    theory. The subchapters on Walter Benjamin, Ernst Bloch, Theodor Adorno, and
+    the Venice School (Tafuri, Dal Co, Cacciari) can be studied independently.
+  author:
+    - family: Heynen
+      given: Hilde
+  citation-key: heynen:1999architecture
+  event-place: Cambridge, Mass.
+  issued:
+    - year: 1999
+  language: en
+  publisher: <span smallcaps="smallcaps">MIT</span> Press
+  publisher-place: Cambridge, Mass.
+  title: 'Architecture and modernity: a critique'
+  title-short: Architecture and modernity
+  type: book
+
 - id: heynen:2002teaching61
   accessed:
     - year: 2021
@@ -3638,7 +3993,7 @@ references:
   issued:
     - year: 2002
       month: 9
-  language: en-US
+  language: en
   page: 335-345
   source: DOI.org (Crossref)
   title: >-
@@ -4058,7 +4413,7 @@ references:
   issue: '2'
   issued:
     - year: 1957
-  language: en-US
+  language: en
   page: 12-14
   publisher: >-
     [Taylor & Francis, Ltd., Association of Collegiate Schools of Architecture,
@@ -4311,7 +4666,7 @@ references:
   page: 107-108
   source: Silverchair
   title: >-
-    Review: Histories of Ornament: From Global to Local, edited by Gülru
+    Review: *Histories of Ornament: From Global to Local*, edited by Gülru
     Necipoğlu and Alina Payne
   title-short: Review
   type: article-journal
@@ -4917,7 +5272,7 @@ references:
   issue: '3'
   issued:
     - year: 2001
-  language: en-US
+  language: en
   page: 260-289
   source: JSTOR
   title: >-
@@ -4996,7 +5351,7 @@ references:
   ISBN: 978-0-19-508378-1
   issued:
     - year: 1995
-  language: en-US
+  language: en
   number-of-pages: '792'
   publisher: Oxford University Press
   publisher-place: New York
@@ -5014,7 +5369,7 @@ references:
   ISBN: 85-230-0651-6 978-85-230-0651-8
   issued:
     - year: 2002
-  language: pt-BR
+  language: pt
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -5069,7 +5424,7 @@ references:
   URL: https://www.jstor.org/stable/426454
   volume: '11'
 
-- id: lara:2020american5
+- id: lara:2020american
   accessed:
     - year: 2022
       month: 1
@@ -5077,7 +5432,7 @@ references:
   author:
     - family: Lara
       given: Fernando Luiz
-  citation-key: lara:2020american5
+  citation-key: lara:2020american
   container-title: The Plan Journal
   container-title-short: TPJ
   DOI: 10.15274/tpj.2020.05.01.5
@@ -5085,7 +5440,7 @@ references:
   issue: '1'
   issued:
     - year: 2020
-  language: en-US
+  language: en
   source: DOI.org (Crossref)
   title: >-
     American mirror: the occupation of the ‘New World’ and the rise of
@@ -5109,7 +5464,7 @@ references:
   ISBN: 978-0-203-97525-1
   issued:
     - year: 2005
-  language: en-US
+  language: en
   publisher: 'Routledge : Taylor & Francis'
   publisher-place: New York
   source: Open WorldCat
@@ -5232,7 +5587,7 @@ references:
   event-place: Liège
   issued:
     - year: 1842
-  language: fr-BE
+  language: fre
   publisher: Avanzo
   publisher-place: Liège
   title: >-
@@ -5312,7 +5667,7 @@ references:
   URL: http://www.jstor.org/stable/988523
   volume: '28'
 
-- id: mack:1994modernist52
+- id: mack:22modernist52
   accessed:
     - year: 2019
       month: 6
@@ -5320,7 +5675,7 @@ references:
   author:
     - family: Mack
       given: Roxie Davis
-  citation-key: mack:1994modernist52
+  citation-key: mack:22modernist52
   container-title: The Journal of Aesthetics and Art Criticism
   DOI: 10.2307/431432
   ISSN: '00218529'
@@ -5504,7 +5859,7 @@ references:
   event-place: Oswego, Ore.
   issued:
     - year: 2007
-  language: en-US
+  language: en
   page: '17'
   publisher: Sustasis Foundation
   publisher-place: Oswego, Ore.
@@ -5561,7 +5916,7 @@ references:
   URL: https://doi.org/10.1080/00038628.2015.1032210
   volume: '58'
 
-- id: merriman:1973parallel31
+- id: merriman:21parallel31
   accessed:
     - year: 2019
       month: 8
@@ -5569,7 +5924,7 @@ references:
   author:
     - family: Merriman
       given: James D.
-  citation-key: merriman:1973parallel31
+  citation-key: merriman:21parallel31
   container-title: The Journal of Aesthetics and Art Criticism
   DOI: 10.2307/429161
   ISSN: '00218529'
@@ -5585,6 +5940,63 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/429161?origin=crossref
   volume: '31'
+
+- id: milizia:1768vite
+  abstract: >-
+    The author is named in the 3rd ed. of the work: Memorie degli architetti
+    antichi e moderni, Parma, 1781, and records his authorship in the
+    autobiographical note in his Principi di architettura civile; Dedication
+    signed: Giuseppe Antonio Monaldini; Books 1-4 have engraved caption title
+    vignettes; Appendice sopra il meccanismo delle volte: p. 428-475; Includes
+    indexes
+  author:
+    - family: Milizia
+      given: Francesco
+  call-number: '67743'
+  citation-key: milizia:1768vite
+  contributor:
+    - family: Monaldini
+      given: Giuseppe Antonio
+    - literal: Getty Research Institute
+  event-place: Roma
+  issued:
+    - year: 1768
+  language: it
+  number-of-pages: '526'
+  publisher: Venanzio Monaldini
+  publisher-place: Roma
+  source: Internet Archive
+  title: >-
+    Le vite de' più celebri architetti d'ogni nazione e d'ogni tempo : precedute
+    da un saggio sopra l'architettura
+  title-short: Vite
+  type: book
+  URL: http://archive.org/details/levitedepivceleb00mili
+
+- id: milizia:1826lives
+  abstract: '26'
+  accessed:
+    - year: 2024
+      month: 1
+      day: 16
+  author:
+    - family: Milizia
+      given: Francesco
+  call-number: AAK-1162
+  citation-key: milizia:1826lives
+  contributor:
+    - literal: Robarts - University of Toronto
+  issued:
+    - year: 1826
+  language: eng
+  number-of-pages: '476'
+  publisher: London, Architectural library
+  source: Internet Archive
+  title: >-
+    The lives of celebrated architects, ancient and modern, with historical and
+    critical observations on their works, and on the principles of the art
+  type: book
+  URL: http://archive.org/details/livesofcelebrate02miliuoft
 
 - id: miller:2012peiresc
   author:
@@ -5645,7 +6057,7 @@ references:
   ISBN: 978-0-07-141751-8
   issued:
     - year: 2004
-  language: en-US
+  language: en
   number-of-pages: '592'
   publisher: McGraw-Hill
   publisher-place: Boston
@@ -5944,7 +6356,7 @@ references:
   issue: '3'
   issued:
     - year: 1968
-  language: en-US
+  language: en
   page: 386-388
   publisher: Society for American Archaeology
   source: JSTOR
@@ -5969,8 +6381,27 @@ references:
   source: Open WorldCat
   title: >-
     Antiquarismo e história: para a história da historiografia (séculos <span
-    class="smallcaps">XVII–XXI</span>)
+    smallcaps="smallcaps">XVII–XXI</span>)
   title-short: Antiquarismo e história
+  type: book
+
+- id: oliver:2006built
+  author:
+    - family: Oliver
+      given: Paul
+  citation-key: oliver:2006built
+  edition: '1'
+  event-place: Amsterdam
+  ISBN: 978-0-7506-6657-2
+  issued:
+    - year: 2006
+  language: en
+  number-of-pages: '445'
+  publisher: Elsevier, Architectural Press
+  publisher-place: Amsterdam
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: 'Built to meet needs: cultural issues in vernacular architecture'
+  title-short: Built to meet needs
   type: book
 
 - id: oosthuizen:2013hierarchy45
@@ -6081,6 +6512,32 @@ references:
   URL: http://www.jstor.org/stable/874034
   volume: '105'
 
+- id: palazzo:2021death
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021death
+  container-title: Conference Proceedings
+  editor:
+    - family: Anderson
+      given: Richard
+  event-place: Edinburgh
+  event-title: European Architectural History Network 6^th^ International Meeting
+  ISBN: 978-1-912669-38-7
+  issued:
+    - year: 2021
+  language: en
+  page: 33-40
+  publisher: The University of Edinburgh
+  publisher-place: Edinburgh
+  title: >-
+    The death and life of ‘operative’ history: dialogues between the
+    historiography and theory of architecture and urbanism in contemporary Italy
+  title-short: The death and life of ‘operative’ history
+  type: paper-conference
+  URL: >-
+    https://eahn2021.eca.ed.ac.uk/wp-content/uploads/2021/06/EAHN_Proceedings_2021_FINAL_Web.pdf
+
 - id: parisot:2005
   archive: Fichário 01
   call-number: '82.09'
@@ -6100,7 +6557,53 @@ references:
   title: Littérature et représentations artistiques
   type: book
 
-- id: payne:1999architectural58a
+- id: payne:1994rudolf
+  abstract: >-
+    To date Rudolf Wittkower's Architectural Principles in the Age of Humanism
+    of 1949 remains a fundamental evaluation of Renaissance architectural
+    aesthetics. Although not unique in having achieved such paradigmatic status
+    within its discipline, its simultaneous impact upon architectural production
+    remains unprecedented. It is precisely the fact that this work captured the
+    imagination of two traditionally distinct groups at a moment in history when
+    exchanges between the two seemed least likely to occur that constitutes the
+    starting point for this inquiry. Based upon an examination of Principles
+    against the Renaissance literature it so categorically supplanted, against
+    its art historical and broader intellectual context, as well as against
+    contemporary architectural theory, the argument presented here proposes a
+    deeper cultural continuity between the discourse of modernist architecture
+    in the 1940s and 1950s and the readings of history that were conceived at
+    the same time. In conclusion it is argued that beyond affording specific
+    insight into the historicity of our constructions of the Renaissance, such a
+    pattern of exchange between history writing and criticism/theory alerts us
+    to the complex symbiosis that existed between these two reflective
+    activities at the very heart of modernism itself.
+  accessed:
+    - year: 2013
+      month: 3
+      day: 2
+  author:
+    - family: Payne
+      given: Alina A.
+  citation-key: payne:1994rudolf
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/990940
+  ISSN: 0037-9808
+  issue: '3'
+  issued:
+    - year: 1994
+      month: 9
+      day: 1
+  language: en
+  license: Copyright © 1994 Society of Architectural Historians
+  page: 322-342
+  source: JSTOR
+  title: Rudolf Wittkower and architectural principles in the age of modernism
+  type: article-journal
+  URL: http://www.jstor.org/stable/990940
+  volume: '53'
+
+- id: payne:1999architectural58
   accessed:
     - year: 2019
       month: 1
@@ -6108,7 +6611,7 @@ references:
   author:
     - family: Payne
       given: Alina A.
-  citation-key: payne:1999architectural58a
+  citation-key: payne:1999architectural58
   container-title: Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/991521
@@ -6181,6 +6684,20 @@ references:
     confronto
   type: paper-conference
 
+- id: pevsner:1972architectural
+  author:
+    - family: Pevsner
+      given: Nikolaus
+  citation-key: pevsner:1972architectural
+  event-place: Oxford
+  issued:
+    - year: 1972
+  language: en
+  publisher: Clarendon
+  publisher-place: Oxford
+  title: Some architectural writers of the nineteenth century
+  type: book
+
 - id: pevsner:1989history
   author:
     - family: Pevsner
@@ -6194,7 +6711,7 @@ references:
   ISBN: 978-0-691-01829-4
   issued:
     - year: 1989
-  language: en-US
+  language: en
   number-of-pages: '352'
   publisher: Princeton University Press
   publisher-place: Princeton, N.J.
@@ -6264,6 +6781,29 @@ references:
   URL: https://www.jstor.org/stable/1424842
   volume: '40'
 
+- id: pigafetta:1993architettura
+  author:
+    - family: Pigafetta
+      given: Giorgio
+  call-number: NA190 .P53 1993
+  citation-key: pigafetta:1993architettura
+  collection-title: Università
+  edition: '1'
+  event-place: Milano
+  ISBN: 978-88-7802-388-8
+  issued:
+    - year: 1993
+  language: it
+  number-of-pages: '237'
+  publisher: Guerini Studio
+  publisher-place: Milano
+  source: Library of Congress ISBN
+  title: >-
+    Architettura moderna e ragione storica: la storiografia italiana
+    sull'architettura moderna, 1928-1976
+  title-short: Architettura moderna e ragione storica
+  type: book
+
 - id: pinon:2006teoria
   author:
     - family: Piñón
@@ -6290,13 +6830,13 @@ references:
     - family: Podro
       given: Michael
   citation-key: podro:1982critical
-  event-place: New Haven
+  event-place: New Haven, Conn.
   ISBN: 978-0-300-02862-1
   issued:
     - year: 1982
-  language: en-US
+  language: en
   publisher: Yale University Press
-  publisher-place: New Haven
+  publisher-place: New Haven, Conn.
   source: Open WorldCat
   title: The critical historians of art
   type: book
@@ -6352,10 +6892,13 @@ references:
       non-dropping-particle: d’
   collection-title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
   container-title: Architecture
+  editor:
+    - family: Quatremère de Quincy
+      given: A.C.
   event-place: Paris
   issued:
     - year: 1788
-  language: fr-FR
+  language: fr
   page: 477–518
   publisher: Panckouke
   publisher-place: Paris
@@ -6782,6 +7325,21 @@ references:
     https://online.ucpress.edu/jsah/article/77/4/388/60312/The-Hidden-Hand-Edward-Said-s-Orientalism-and
   volume: '77'
 
+- id: rapoport:1969house
+  author:
+    - family: Rapoport
+      given: Amos
+  citation-key: rapoport:1969house
+  event-place: Englewood Cliffs, N.J.
+  issued:
+    - year: 1969
+  language: en
+  publisher: Prentice-Hall
+  publisher-place: Englewood Cliffs, N.J.
+  source: Open WorldCat
+  title: House form and culture
+  type: book
+
 - id: reframing:2022
   accessed:
     - year: 2022
@@ -6796,7 +7354,7 @@ references:
   type: webpage
   URL: https://smarthistory.org/reframing-art-history/
 
-- id: reveyron:2002lapporta
+- id: reveyron:2002lapport
   abstract: "Introduction  L'histoire de l'art affiche dans son intitulé même les deux lieux qui organisent sa recherche\_: l'histoire, d'une part, c'est-à-dire une méthodologie et un travail spécifiques sur les textes et les sources archivistiques\_; d'autre part, l'art en tant que création matérielle, objet d'une étude archéologique, au sens où l'entendait l'enseignement supérieur au XIXe siècle\_: dans sa leçon d'ouverture du cours d'antiquités grecques et latines de la faculté de Lyon (année 1877), Gusta..."
   accessed:
     - year: 2022
@@ -6805,7 +7363,7 @@ references:
   author:
     - family: Reveyron
       given: Nicolas
-  citation-key: reveyron:2002lapporta
+  citation-key: reveyron:2002lapport
   container-title: In Situ. Revue des patrimoines
   DOI: 10.4000/insitu.1200
   ISSN: 1630-7305
@@ -6887,7 +7445,7 @@ references:
   event-place: Berlin
   issued:
     - year: 1893
-  language: de-DE
+  language: de
   publisher: Siemens
   publisher-place: Berlin
   source: Internet Archive
@@ -6923,18 +7481,39 @@ references:
       given: Françoise
   type: book
 
+- id: rocha-peixoto:2013spiders
+  author:
+    - family: Rocha-Peixoto
+      given: Gustavo
+  call-number: 720.907 R582e
+  citation-key: rocha-peixoto:2013spiders
+  collection-title: Proarq
+  event-place: Rio de Janeiro
+  issued:
+    - year: 2013
+  language: pt-BR
+  number-of-pages: '170'
+  publisher: Rio Books
+  publisher-place: Rio de Janeiro
+  source: www.buscaintegrada.usp.br
+  title: >-
+    The spider’s stratagem or: of the possibility of a metahistorical teaching
+    in architecture
+  title-short: The spider’s stratagem
+  type: book
+
 - id: rose:1984marxs
   author:
     - family: Rose
       given: Margaret A.
   citation-key: rose:1984marxs
-  event-place: Cambridge [Cambridgeshire]; New York
+  event-place: Cambridge ; New York
   ISBN: 0-521-25666-6 978-0-521-25666-7
   issued:
     - year: 1984
   language: en
   publisher: Cambridge University Press
-  publisher-place: Cambridge [Cambridgeshire]; New York
+  publisher-place: Cambridge ; New York
   source: Open WorldCat
   title: 'Marx''s lost aesthetic: Karl Marx and the visual arts'
   title-short: Marx's lost aesthetic
@@ -7047,7 +7626,7 @@ references:
   issue: '3'
   issued:
     - year: 1966
-  language: en-US
+  language: en
   page: 334-337
   publisher: Society for American Archaeology
   source: JSTOR
@@ -7084,6 +7663,29 @@ references:
   title-short: Texts, images and the perception of ‘savages’ in Early Modern Europe
   type: chapter
   URL: http://www.britishmuseum.org/research/research_publications/
+
+- id: ruskin:1851stones
+  abstract: v. 1. The foundations.--v. 2. The sea-stories.--v. 3. The fall; 3 v. 19 cm
+  accessed:
+    - year: 2024
+      month: 1
+      day: 21
+  author:
+    - family: Ruskin
+      given: John
+  citation-key: ruskin:1851stones
+  event-place: New York
+  issued:
+    - year: 1851
+  language: eng
+  number-of-pages: '926'
+  number-of-volumes: '3'
+  publisher: Lovell
+  publisher-place: New York
+  source: Internet Archive
+  title: The stones of Venice
+  type: book
+  URL: http://archive.org/details/stonesofvenice01year1851rusk
 
 - id: rykwert:1954siegfried
   accessed:
@@ -7346,7 +7948,7 @@ references:
   ISBN: 978-0-89236-597-5
   issued:
     - year: 2004
-  language: en-US
+  language: en
   number-of-pages: '980'
   publisher: Getty Research Institute
   publisher-place: Los Angeles
@@ -7498,6 +8100,20 @@ references:
   title: 'L''histoire assassinée: Manfredo Tafuri and the present'
   type: chapter
 
+- id: summerson:1963heavenly
+  author:
+    - family: Summerson
+      given: John
+  citation-key: summerson:1963heavenly
+  event-place: New York
+  issued:
+    - year: 1963
+  language: en
+  publisher: Norton
+  publisher-place: New York
+  title: Heavenly mansions
+  type: book
+
 - id: tafuri:1968teorie
   author:
     - family: Tafuri
@@ -7509,7 +8125,7 @@ references:
   event-place: Bari
   issued:
     - year: 1968
-  language: Italian
+  language: it
   number-of-pages: '362'
   publisher: Laterza
   publisher-place: Bari
@@ -7814,13 +8430,56 @@ references:
   issued:
     - year: 1972
       season: 4
-  language: en-US
+  language: en
   page: '165'
   source: Crossref
   title: The great theory of beauty and its decline
   type: article-journal
   URL: https://www.jstor.org/stable/429278?origin=crossref
   volume: '31'
+
+- id: tenreiro:2023fall
+  abstract: >-
+    This book contains a set of essays on the teaching of Architecture and
+    Urbanism, written by university professors and researchers from several
+    countries. It argues that the teaching of architecture and urbanism is in a
+    state of crisis; architecture seems unable to respond to current problems,
+    and urbanism seems incapable of fulfilling the needs of a more balanced
+    society and its built environment, including the human right to housing. The
+    book comprises historical analyses, systematization of concepts, manifestos,
+    and social evaluations, and, above all, an alignment of new objectives,
+    curricular plans, and pedagogical methodologies.
+  author:
+    - family: Tenreiro
+      given: José Pedro
+  citation-key: tenreiro:2023fall
+  container-title: Emerging perspectives on teaching architecture and urbanism
+  editor:
+    - family: Viana
+      given: David Leite
+    - family: Brandão
+      given: Emílio da Cruz
+    - family: Morais
+      given: Franklim
+    - family: Carvalho
+      given: Isabel Cristina
+    - family: Duarte
+      given: José P.
+    - family: Brandão
+      given: Nicolau
+  event-place: Newcastle upon Tyne
+  ISBN: 978-1-5275-5260-9
+  issued:
+    - year: 2023
+  language: eng
+  page: 217-231
+  publisher: Cambridge Scholars
+  publisher-place: Newcastle upon Tyne
+  source: Open WorldCat
+  title: >-
+    The fall of History: architectural history's challenges in the 2020s
+    teaching
+  type: chapter
 
 - id: therrien:1998histoire
   abstract: >-
@@ -7894,6 +8553,27 @@ references:
   title-short: La géométrie des émotions
   type: book
 
+- id: trachtenberg:1986architecture
+  author:
+    - family: Trachtenberg
+      given: Marvin
+    - family: Hyman
+      given: Isabelle
+  call-number: NA200 .T7 1986
+  citation-key: trachtenberg:1986architecture
+  event-place: 'Englewood Cliffs, N.J. : New York'
+  ISBN: 978-0-13-044702-9
+  issued:
+    - year: 1986
+  language: en
+  number-of-pages: '606'
+  publisher: Prentice-Hall ; H.N. Abrams
+  publisher-place: 'Englewood Cliffs, N.J. : New York'
+  source: Library Catalog (Blacklight)
+  title: 'Architecture, from prehistory to post-modernism: the western tradition'
+  title-short: Architecture, from prehistory to post-modernism
+  type: book
+
 - id: trachtenberg:1988observations70
   accessed:
     - year: 2021
@@ -7909,7 +8589,7 @@ references:
   issue: '2'
   issued:
     - year: 1988
-  language: en-GB
+  language: en
   page: 208-241
   publisher: '[Taylor & Francis, Ltd., College Art Association]'
   source: JSTOR
@@ -7948,6 +8628,31 @@ references:
   title-short: Construction economics and building design
   type: book
   URL: http://archive.org/details/constructionecon0000turn
+
+- id: tzonis:1972non-oppressive
+  abstract: >-
+    124 p. ; 21 cm; On spine: Non-oppressive environment; Includes
+    bibliographical references
+  accessed:
+    - year: 2022
+      month: 1
+      day: 10
+  author:
+    - family: Tzonis
+      given: Alexander
+  citation-key: tzonis:1972non-oppressive
+  event-place: Boston
+  issued:
+    - year: 1972
+  language: en-US
+  number-of-pages: '138'
+  publisher: Braziller
+  publisher-place: Boston
+  source: Internet Archive
+  title: Towards a non-oppressive environment
+  title-short: Towards a non-oppressive environment
+  type: book
+  URL: http://archive.org/details/towardsnonoppres0000tzon
 
 - id: unamuno:1902torno
   author:
@@ -8080,7 +8785,7 @@ references:
   ISBN: 978-1-56898-152-9 978-1-56898-153-6
   issued:
     - year: 1998
-  language: en-US
+  language: en
   page: 437-460
   publisher: Princeton Architectural Press
   publisher-place: Princeton, N.J.
@@ -8174,6 +8879,25 @@ references:
   type: article-journal
   URL: https://docs.lib.purdue.edu/clcweb/vol5/iss4/6
   volume: '5'
+
+- id: waisman:1993interior
+  author:
+    - family: Waisman
+      given: Marina
+  citation-key: waisman:1993interior
+  edition: '2'
+  event-place: Bogotá
+  issued:
+    - year: 1993
+  language: es
+  publisher: Escala
+  publisher-place: Bogotá
+  source: Open WorldCat
+  title: >-
+    El interior de la historia: historiografía arquitectónica para uso de
+    latinoamericanos
+  title-short: El interior de la historia
+  type: book
 
 - id: walker:1980note19
   accessed:
@@ -8281,6 +9005,39 @@ references:
   source: Open WorldCat
   title: The rise of architectural history
   type: book
+
+- id: watkin:2005history
+  abstract: >-
+    720 pages : 24 cm; The history of Western architecture from the earliest
+    times in Mesopotamia and Egypt to the dramatic impact of CAD on
+    architectural practice at the beginning of the 21st century; Previous
+    edition: London : Watson-Guptill, 2000; Includes bibliographical references
+    and index; Mesopotamia and Egypt -- The classical foundation: Greek,
+    Hellenistic, Roman -- Early Christian and Byzantine -- Carolingian and
+    Romanesque -- The Gothic experiment -- Renaissance harmony -- Baroque
+    expansion -- Eighteenth-century classicism -- The Nineteenth century -- Art
+    Nouveau -- The Twentieth century and beyond
+  accessed:
+    - year: 2022
+      month: 4
+      day: 23
+  author:
+    - family: Watkin
+      given: David
+  citation-key: watkin:2005history
+  edition: '4'
+  event-place: London
+  ISBN: 978-1-85669-459-9
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: '726'
+  publisher: Laurence King
+  publisher-place: London
+  source: Internet Archive
+  title: A history of Western architecture
+  type: book
+  URL: http://archive.org/details/historyofwestern0000watk_y0h2
 
 - id: wellek:1953benedetto
   accessed:
@@ -8397,6 +9154,27 @@ references:
   URL: https://www.jstor.org/stable/779215
   volume: '94'
 
+- id: winckelmann:1764geschichte
+  accessed:
+    - year: 2020
+      month: 9
+      day: 6
+  author:
+    - family: Winckelmann
+      given: Johann Joachim
+  citation-key: winckelmann:1764geschichte
+  event-place: Dresden
+  issued:
+    - year: 1764
+  language: ger
+  publisher: Waltherischen Hof
+  publisher-place: Dresden
+  title: Geschichte der Kunst des Alterthums
+  type: book
+  URL: >-
+    http://www.deutschestextarchiv.de/book/view/winckelmann_kunstgeschichte02_1764?p=1
+  volume: '2'
+
 - id: woelfflin:1888renaissance
   abstract: >-
     Includes bibliographical notes; Library's c. 1 and c. 2 are shelved with the
@@ -8473,6 +9251,33 @@ references:
   publisher-place: Basel
   title: Italien und das deutsche Formgefühl
   type: chapter
+
+- id: woelfflin:1950principles
+  accessed:
+    - year: 2021
+      month: 12
+      day: 13
+  author:
+    - family: Wölfflin
+      given: Heinrich
+  citation-key: woelfflin:1950principles
+  event-place: New York
+  ISBN: 0-486-20276-3
+  issued:
+    - year: 1950
+  language: en
+  publisher: Dover
+  publisher-place: New York
+  source: Open WorldCat
+  title: >-
+    Principles of art history: the problem of the development of style in later
+    art
+  title-short: Principles of art history
+  translator:
+    - family: Hottinger
+      given: Marie Donald Mackie
+  type: book
+  URL: https://archive.org/details/principlesofarth00woel
 
 - id: younes:2004empire79
   accessed:

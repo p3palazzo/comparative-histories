@@ -1,46 +1,15 @@
 ---
-title: "Comparative histories of architecture in professional education: history, architecture, or Idealism?"
+title: "Comparative and critical histories in professional education: a problem of disciplinary methods"
 author: Pedro P. Palazzo
-date: "School of Architecture and Urbanism, University of Brasilia, Brazil, palazzo@unb.br"
+date: "http://orcid.org/0000-0002-0187-774X"
 lang: en-US
 bibliography: _bibliography.yaml
 csl: "chicago-note-bibliography.csl"
 reference-section-title: "References"
-abstract: >
-  This chapter contrasts comparative histories of architecture, prevalent
-  from the 19^th^ and 20^th^ centuries, to the critical method of
-  history that is claimed by recent works. Comparative history arose out
-  of the Idealist philosophy of history and combined its deterministic
-  narrative with a disciplinary bounding of architecture that followed
-  modern assumptions about decision-making in design. Critical history,
-  on the other hand, is a materialistic approach that does not
-  acknowledge disciplinary boundaries. Whereas critical history may lay
-  claim, nowadays, to being the only proper form of historiography,
-  comparative histories were more closely linked to the methods and
-  categorizations of the discipline of architecture. Some recent
-  architectural history textbooks, committed as they were to the
-  critical method, nevertheless allowed Idealistic determinism to creep
-  into their narrative structure. I argue this creep is not a
-  shortcoming of these individual works, but a consequence of the
-  contradictions between the non-disciplinary project of critical
-  history and its uncertain place in the professional architectural
-  education. I further develop on this contradiction by comparing it
-  to the broader problem of how the critical history of architecture
-  relates to supporting disciplines such as building archaeology, the
-  archaeology of architecture, or the scholarship of vernacular
-  environments. These fields interact with history by providing source
-  material and preliminary interpretations, yet they have an uneasy
-  relationship to critical history due to their partial reliance on
-  concepts and categories developed in the professional practice of
-  architecture. The inability of critical architectural history to come
-  to terms with the historical legitimacy of its supporting disciplines
-  is akin to its inability to acknowledge the persistence of Idealistic
-  assumptions in textbooks that cater to the professional education
-  market.
 keywords:
-  - Comparative history
-  - Idealism
-  - Professional education
+  - Architectural history
+  - Global history
+  - Historiography
   - Textbooks
   - 19^th^, 20^th^, and 21^st^ centuries
 nocite: |
@@ -197,7 +166,7 @@ from the interplay between the historical unfolding of the human mind
 and the constraints of geography, climate, materials, and inherited
 technical knowledge (@fig:treearch).
 
-![The tree of architecture, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed. (1905)](media/figure-2.tif){#fig:treearch}
+![The tree of architecture, from Banister Fletcher's *A History of Architecture on the Comparative Method*, 5^th^ ed. (1905)](media/figure-2.tif){#fig:treearch width=25%}
 
 It is the determinism implicit in the timeline of styles that makes
 these works instances of a philosophy of history. What makes them
@@ -589,10 +558,12 @@ have called into question Tafuri's excessive reliance on materialism.].
 James-Chakraborty heeded this lesson, downplaying reliance on images to
 understand the social
 role of buildings. While showing a painting of the Gate of Felicity
-in Topkapı palace, she said
+in Topkapı palace (@fig:selim), she said
 "it may not seem particularly imposing, but that is because architecture
 was never the whole story here"
 [@james-chakraborty:2014architecture, 95].
+
+![Konstantinos Kyzikinós, Sultan Selim III holding an audience in front of the Gate of Felicity, ca. 1789. Oil on canvas, Topkapı Sarayı Müzesi, İstanbul (Inv. 17/163)](media/figure-7.jpg){#fig:selim}
 
 *Architecture since 1400* thus was, true to its critical premises, history
 *through* architecture more than history *of* architecture.
@@ -715,7 +686,7 @@ Argentinian professor Marina Waisman gave an early and influential
 response to this question. The title of her 1990 book *El interior de la
 historia*  was a play on the concept of "intra-history" coined by
 Spanish literary historian Miguel de @unamuno:1902torno and transposed to
-architecture by the urban historian Fernando Chueca Goitia
+architecture by Fernando Chueca Goitia
 [@waisman:1993interior, 54; see @chuecagoitia:1981invariantes-castizos].
 The latter meant the history of lesser places and lives, often unnoticed
 by historians before the mid 20^th^ century and, more importantly,
@@ -801,16 +772,19 @@ research or scholarship) in late 19^th^-century Germany. To its early
 practitioners such as Wilhelm Dörpfeld [@sapirstein:2016columns120] and
 Josef Durm [@durm:1905baukunst; -@durm:1910baukunst], *Bauforschung*
 provided solid evidence as opposed to the questionable interpretations
-of stylistic analysis [@azkarate:2020archaeology, 526]. Building
-archaeology arose out of a critical view of
+of stylistic analysis [@azkarate:2020archaeology, 526].
+
+Building archaeology arose out of a critical view of
 history and a rejection of comparative studies. Nevertheless, it is
 still a form of primarily architectural scholarship, and continues to be
 taught in German-speaking countries as part of a professional curriculum
-in architecture [@neumann:2002teaching, 374-5].
-Since the 1950s, stratigraphy has contributed a great deal to the current
+in architecture [@neumann:2002teaching, 374-5]. Since the 1950s,
+stratigraphy (@fig:stratigraphy) has contributed a great deal to the current
 methodological makeup of building archaeology and to the near complete
 abandonment of stylistic analysis as a means of dating buildings
 [@azkarate:2020archaeology, 521].
+
+![Stratigraphic map of an exposed party wall, Coimbra, Portugal. Author's drawing](media/figure-8.tif){#fig:stratigraphy}
 
 Architectural history still needs to come to terms more fully with the
 disciplinary character of building archaeology [@perotti:2001archeologia, 379].
@@ -890,8 +864,10 @@ appropriate philological toolkit. Nevertheless, it is not without its
 own contradictions. Historic preservation and the practice of
 traditional or sustainable architecture [@memmott:2015redefining58] are
 the operative branches of building archaeology, the archaeology of
-architecture, and the study of vernacular environments. As we saw above, Jarzombek
-denounced that critical history increasingly confines itself to the
+architecture, and the study of vernacular environments.
+
+As we saw above, Jarzombek denounced the fact
+that critical history has increasingly confined itself to the
 study of historicist societies, and of modernism in particular
 [@ching:2007global, 118]. The operative disciplines, he continued, took
 over the vacuum left in the scholarship of premodern or traditional
@@ -903,8 +879,6 @@ but "an accusation" tasked with exposing "the epistemological regimes...
 [of] practices that lie at the core of the architectural world"
 [@jarzombek:2015architecture, 119].
 
-<!--Solution de continuité-->
-
 This anti-disciplinary task, however, is bound up with the historicist
 problems of Early Modern and Modern societies. @stoppani:2010lhistoire [216]
 showed how Tafuri's own interest in the Italian Renaissance hinged on
@@ -913,7 +887,9 @@ theoretical anxieties. Because of this,
 such a critical history program would feed back inevitably into that loop of
 Early Modern to Modernist historiography. This in turn reduced critical
 historians' interest in premodern architecture, and left the field
-open to disciplinary studies. Critical history pries time apart to
+open to disciplinary studies.
+
+Critical history pries time apart to
 recompose its fragments, at the cost of favoring subjects where the
 problem of historical time is explicit. Disciplinary studies in
 architecture, on the other hand, collapse time into a synthetic present, at the cost of
